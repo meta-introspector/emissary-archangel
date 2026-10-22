@@ -1,0 +1,40 @@
+{
+  "FixedPointTheorems/apply_cubical_sperner.lean": {
+    "checkedAt": "2026-10-22T16:06:05.633Z",
+    "collisions": [
+      "unit_cube"
+    ]
+  },
+  "FixedPointTheorems/brouwer.lean": {
+    "checkedAt": "2026-10-22T16:06:09.003Z",
+    "collisions": [
+      "SpernerCube"
+    ]
+  },
+  "FixedPointTheorems/convex_homeos.lean": {
+    "checkedAt": "2026-10-22T16:06:09.583Z",
+    "collisions": [
+      "homeo_unit_ball"
+    ]
+  },
+  "FixedPointTheorems/cubical_sperner.lean": {
+    "checkedAt": "2026-10-22T16:06:11.398Z",
+    "collisions": [
+      "SpernerCube",
+      "handshake_3"
+    ]
+  },
+  "FixedPointTheorems/cubical_sperner_prep.lean": {
+    "checkedAt": "2026-10-22T16:06:12.398Z",
+    "collisions": [
+      "SpernerCube"
+    ]
+  },
+  "FixedPointTheorems/kakutani.lean": {
+    "checkedAt": "2026-10-22T16:06:15.943Z",
+    "collisions": [
+      "closedGraph",
+      "SpernerCube"
+    ]
+  }
+}
