@@ -1,0 +1,20 @@
+{
+  "Genl/Curves/BelyiDescent.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-22T16:04:38.781Z"
+  },
+  "Genl/Curves/Covering.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-22T16:04:40.905Z"
+  },
+  "Genl/Curves/Theory.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-22T16:04:41.257Z"
+  },
+  "Genl/Mathlib/NumberTheory/ArithmeticDivisor.lean": {
+    "checkedAt": "2026-10-22T16:04:41.608Z",
+    "collisions": [
+      "NumberField.ArithmeticDivisor"
+    ]
+  }
+}
