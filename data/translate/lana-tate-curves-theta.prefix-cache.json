@@ -1,0 +1,406 @@
+{
+  "TateCurvesTheta/Analysis/MaxTerm.lean": {
+    "checkedAt": "2026-10-24T21:15:09.954Z",
+    "collisions": [
+      "Summable.exists_max_norm"
+    ]
+  },
+  "TateCurvesTheta/Arithmetic/DivisorConvolution.lean": {
+    "checkedAt": "2026-10-24T21:15:10.533Z",
+    "collisions": [
+      "TateCurvesTheta.sigmaZ"
+    ]
+  },
+  "TateCurvesTheta/QParameter/Basic.lean": {
+    "checkedAt": "2026-10-24T21:16:00.027Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/CoordinateAnnulusLaurent.lean": {
+    "checkedAt": "2026-10-24T21:16:02.221Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/EisensteinSeries.lean": {
+    "checkedAt": "2026-10-24T21:16:11.493Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter",
+      "TateCurvesTheta.hasSum_geometric_succ",
+      "TateCurvesTheta.eisP"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/LargePointParametrization.lean": {
+    "checkedAt": "2026-10-24T21:17:30.487Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/TatePointMem.lean": {
+    "checkedAt": "2026-10-24T21:22:58.354Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/Weierstrass.lean": {
+    "checkedAt": "2026-10-24T21:22:59.404Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/WeierstrassIdentity.lean": {
+    "checkedAt": "2026-10-24T21:23:03.771Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/Divisor.lean": {
+    "checkedAt": "2026-10-24T21:23:06.727Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/FactorSeries.lean": {
+    "checkedAt": "2026-10-24T21:23:11.290Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/LaurentSphere.lean": {
+    "checkedAt": "2026-10-24T21:23:15.096Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/LaurentSphereReduce.lean": {
+    "checkedAt": "2026-10-24T21:23:16.943Z",
+    "collisions": [
+      "TateCurvesTheta.LaurentSphereZerosFinite"
+    ]
+  },
+  "TateCurvesTheta/Theta/Periodicity.lean": {
+    "checkedAt": "2026-10-24T21:23:17.225Z",
+    "collisions": [
+      "TateCurvesTheta.thetaExp",
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/Product.lean": {
+    "checkedAt": "2026-10-24T21:23:18.719Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/PuncturedProduct.lean": {
+    "checkedAt": "2026-10-24T21:23:21.438Z",
+    "collisions": [
+      "TateCurvesTheta.lconv",
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/QBinomial.lean": {
+    "checkedAt": "2026-10-24T21:24:05.816Z",
+    "collisions": [
+      "TateCurvesTheta.qPoch"
+    ]
+  },
+  "TateCurvesTheta/Theta/RatioAnnulus.lean": {
+    "checkedAt": "2026-10-24T21:24:11.860Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/WeightSpace.lean": {
+    "checkedAt": "2026-10-24T21:24:14.444Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Analysis/StrassmannSphere.lean": {
+    "checkedAt": "2026-10-24T21:16:08.270Z",
+    "collisions": [
+      "TateCurvesTheta.StrassmannSphere.tendsto_atTop_norm",
+      "TateCurvesTheta.StrassmannSphere.tendsto_atBot_norm",
+      "TateCurvesTheta.Strassmann.summable_of_norm_le",
+      "TateCurvesTheta.StrassmannSphere.wCoeff",
+      "Summable.exists_max_norm"
+    ]
+  },
+  "TateCurvesTheta/QParameter/Characterization.lean": {
+    "checkedAt": "2026-10-24T21:16:15.538Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/QParameter/NormalizedOrder.lean": {
+    "checkedAt": "2026-10-24T21:16:15.822Z",
+    "collisions": [
+      "TateCurvesTheta.IsUniformizer",
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/QParameter/PrimeToOrder.lean": {
+    "checkedAt": "2026-10-24T21:16:20.574Z",
+    "collisions": [
+      "TateCurvesTheta.PrimeToOrder"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/A6Series.lean": {
+    "checkedAt": "2026-10-24T21:16:22.261Z",
+    "collisions": [
+      "TateCurvesTheta.TameResidueChar",
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/AbelStep.lean": {
+    "checkedAt": "2026-10-24T21:16:30.059Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/AdditionLaw.lean": {
+    "checkedAt": "2026-10-24T21:16:31.951Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter",
+      "TateCurvesTheta.TateParameter.vieta_sum_of_three_roots"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/CoordinateAnnulusLaurentY.lean": {
+    "checkedAt": "2026-10-24T21:16:37.845Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/DefectAnnulusLaurent.lean": {
+    "checkedAt": "2026-10-24T21:16:44.838Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/Discriminant.lean": {
+    "checkedAt": "2026-10-24T21:16:45.212Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/IntegralModel.lean": {
+    "checkedAt": "2026-10-24T21:16:49.655Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter",
+      "TateCurvesTheta.nodalCubic"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/JInvariant.lean": {
+    "checkedAt": "2026-10-24T21:16:53.858Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/Parametrization.lean": {
+    "checkedAt": "2026-10-24T21:16:57.537Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter",
+      "TateCurvesTheta.TateParameter.Xterm"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/PointMap.lean": {
+    "checkedAt": "2026-10-24T21:17:03.045Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter.point_some_congr",
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/SphereBounds.lean": {
+    "checkedAt": "2026-10-24T21:17:09.996Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/SplitReduction.lean": {
+    "checkedAt": "2026-10-24T21:17:26.398Z",
+    "collisions": [
+      "TateCurvesTheta.integerRing",
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/SurjectivitySphere.lean": {
+    "checkedAt": "2026-10-24T21:17:30.428Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter.norm_add_eq_left_of_norm_lt",
+      "TateCurvesTheta.TateParameter.norm_sub_le_max'",
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/TatePointOnCurve.lean": {
+    "checkedAt": "2026-10-24T21:17:38.742Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter",
+      "TateCurvesTheta.eisP"
+    ]
+  },
+  "TateCurvesTheta/Theta/Durfee.lean": {
+    "checkedAt": "2026-10-24T21:18:31.151Z",
+    "collisions": [
+      "TateCurvesTheta.qPoch",
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/SeriesZero.lean": {
+    "checkedAt": "2026-10-24T21:18:34.879Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/Uniqueness.lean": {
+    "checkedAt": "2026-10-24T21:18:35.768Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Analysis/Strassmann.lean": {
+    "checkedAt": "2026-10-24T21:16:46.275Z",
+    "collisions": [
+      "TateCurvesTheta.Strassmann.summable_of_norm_le",
+      "Summable.exists_max_norm",
+      "TateCurvesTheta.Strassmann.wCoeff"
+    ]
+  },
+  "TateCurvesTheta/AnalyticQuotient.lean": {
+    "checkedAt": "2026-10-24T21:16:49.388Z",
+    "collisions": [
+      "TateCurvesTheta.TateDatum"
+    ]
+  },
+  "TateCurvesTheta/QParameter/BaseChange.lean": {
+    "checkedAt": "2026-10-24T21:16:51.593Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/QParameter/JParametrization.lean": {
+    "checkedAt": "2026-10-24T21:16:52.827Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/CoordinateBaseChange.lean": {
+    "checkedAt": "2026-10-24T21:17:19.156Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter.coe_units_map_algebraMap",
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/CoordinateExpansion.lean": {
+    "checkedAt": "2026-10-24T21:17:27.050Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/CoordinateInversion.lean": {
+    "checkedAt": "2026-10-24T21:17:29.379Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/DefectCoeffBaseChange.lean": {
+    "checkedAt": "2026-10-24T21:17:35.317Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/DefectVanishing.lean": {
+    "checkedAt": "2026-10-24T21:17:43.847Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter",
+      "TateCurvesTheta.TateParameter.instNonarchimedeanRingOfUltrametric",
+      "TateCurvesTheta.eisP"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/EisensteinKernels.lean": {
+    "checkedAt": "2026-10-24T21:19:59.869Z",
+    "collisions": [
+      "TateCurvesTheta.eisP"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/GroupLaw.lean": {
+    "checkedAt": "2026-10-24T21:20:04.050Z",
+    "collisions": [
+      "TateCurvesTheta.TameResidueChar",
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/Quotient.lean": {
+    "checkedAt": "2026-10-24T21:20:26.759Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/TateCurve/SurjectivityAnnulus.lean": {
+    "checkedAt": "2026-10-24T21:20:28.318Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/Basic.lean": {
+    "checkedAt": "2026-10-24T21:20:31.616Z",
+    "collisions": [
+      "TateCurvesTheta.thetaExp",
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/FactorReciprocal.lean": {
+    "checkedAt": "2026-10-24T21:20:32.996Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/Inversion.lean": {
+    "checkedAt": "2026-10-24T21:20:35.549Z",
+    "collisions": [
+      "TateCurvesTheta.thetaExp",
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/Normalization.lean": {
+    "checkedAt": "2026-10-24T21:20:37.471Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/StrictDominant.lean": {
+    "checkedAt": "2026-10-24T21:20:37.766Z",
+    "collisions": [
+      "TateCurvesTheta.exists_Ioo_subset_compl_of_finite",
+      "TateCurvesTheta.zpow_le_add_zpow",
+      "TateCurvesTheta.min_zpow_le_zpow",
+      "TateCurvesTheta.LaurentStrictDom"
+    ]
+  },
+  "TateCurvesTheta/Theta/ThetaProdGlobalLaurent.lean": {
+    "checkedAt": "2026-10-24T21:20:38.922Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter",
+      "TateCurvesTheta.TateParameter.instNonarchimedeanRingOfUltrametric"
+    ]
+  },
+  "TateCurvesTheta/Theta/ThetaProdLaurent.lean": {
+    "checkedAt": "2026-10-24T21:20:43.457Z",
+    "collisions": [
+      "TateCurvesTheta.thetaExp",
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Theta/TripleProduct.lean": {
+    "checkedAt": "2026-10-24T21:20:44.922Z",
+    "collisions": [
+      "TateCurvesTheta.TateParameter"
+    ]
+  },
+  "TateCurvesTheta/Uniformization.lean": {
+    "checkedAt": "2026-10-24T21:20:46.025Z",
+    "collisions": [
+      "TateCurvesTheta.TateDatum"
+    ]
+  }
+}
