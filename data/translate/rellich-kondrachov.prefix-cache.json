@@ -1,0 +1,141 @@
+{
+  "RellichKondrachov/Analysis/Calculus/ContDiff/Support.lean": {
+    "checkedAt": "2026-10-24T20:31:32.031Z",
+    "collisions": [
+      "RellichKondrachov.Analysis.Calculus.ContDiff.contDiff_of_contDiffOn_of_tsupport_subset"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/H1.lean": {
+    "checkedAt": "2026-10-24T20:31:32.390Z",
+    "collisions": [
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2ℝ"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/H2.lean": {
+    "checkedAt": "2026-10-24T20:31:44.884Z",
+    "collisions": [
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2ℝ"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Approximation.lean": {
+    "checkedAt": "2026-10-24T20:32:01.290Z",
+    "collisions": [
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.kernelMeasure",
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.extendByZeroFun"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/ArzelaAscoli.lean": {
+    "checkedAt": "2026-10-24T20:32:15.950Z",
+    "collisions": [
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.extendByZeroFun"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Compactness.lean": {
+    "checkedAt": "2026-10-24T20:32:22.758Z",
+    "collisions": [
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.Kψ",
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.extendByZeroFun"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/FrechetKolmogorov.lean": {
+    "checkedAt": "2026-10-24T20:32:30.770Z",
+    "collisions": [
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.translate"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Kernels.lean": {
+    "checkedAt": "2026-10-24T20:32:39.613Z",
+    "collisions": [
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.exists_kernel_tsupport_subset_ball_integral_eq_one"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Smoothing.lean": {
+    "checkedAt": "2026-10-24T20:32:40.262Z",
+    "collisions": [
+      "MeasureTheory.Lp.extendByZeroFun",
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2Compactness.extendByZeroFun"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/Transfer.lean": {
+    "checkedAt": "2026-10-24T20:32:49.822Z",
+    "collisions": [
+      "MeasureTheory.Lp.extendByZeroFun"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/L2Compactness/TranslationIntegral.lean": {
+    "checkedAt": "2026-10-24T20:32:52.032Z",
+    "collisions": [
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.translate"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/SupportedH1.lean": {
+    "checkedAt": "2026-10-24T20:32:54.336Z",
+    "collisions": [
+      "MeasureTheory.Lp.extendByZeroFun"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/Translation.lean": {
+    "checkedAt": "2026-10-24T20:32:54.630Z",
+    "collisions": [
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.translate",
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2ℝ"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/TranslationEstimate.lean": {
+    "checkedAt": "2026-10-24T20:33:03.779Z",
+    "collisions": [
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.line",
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2ℝ"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/TranslationEstimateH1.lean": {
+    "checkedAt": "2026-10-24T20:33:28.432Z",
+    "collisions": [
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2ℝ"
+    ]
+  },
+  "RellichKondrachov/Analysis/FunctionalSpaces/Sobolev/Euclidean/TranslationEstimateL2.lean": {
+    "checkedAt": "2026-10-24T20:33:30.702Z",
+    "collisions": [
+      "RellichKondrachov.Analysis.FunctionalSpaces.Sobolev.Euclidean.L2ℝ"
+    ]
+  },
+  "RellichKondrachov/Geometry/Manifold/Sobolev/ChartData.lean": {
+    "checkedAt": "2026-10-24T20:34:10.021Z",
+    "collisions": [
+      "RellichKondrachov.Geometry.Manifold.Sobolev.FiniteChartData"
+    ]
+  },
+  "RellichKondrachov/Geometry/Manifold/Sobolev/ChartMeasure.lean": {
+    "checkedAt": "2026-10-24T20:34:12.927Z",
+    "collisions": [
+      "RellichKondrachov.Geometry.Manifold.Sobolev.isFiniteMeasureOnCompacts_of_isFiniteMeasure",
+      "RellichKondrachov.Geometry.Manifold.Sobolev.FiniteChartData"
+    ]
+  },
+  "RellichKondrachov/Geometry/Manifold/Sobolev/ChartMeasureLp.lean": {
+    "checkedAt": "2026-10-24T20:34:15.639Z",
+    "collisions": [
+      "RellichKondrachov.Geometry.Manifold.Sobolev.FiniteChartData"
+    ]
+  },
+  "RellichKondrachov/MeasureTheory/Function/LpSpace/ChangeMeasureLeSmul.lean": {
+    "checkedAt": "2026-10-24T20:35:03.275Z",
+    "collisions": [
+      "MeasureTheory.Lp.memLp_changeMeasure",
+      "MeasureTheory.Lp.changeMeasureFun_coe"
+    ]
+  },
+  "RellichKondrachov/MeasureTheory/Function/LpSpace/Restrict.lean": {
+    "checkedAt": "2026-10-24T20:35:24.547Z",
+    "collisions": [
+      "MeasureTheory.Lp.extendByZeroFun"
+    ]
+  },
+  "RellichKondrachov/MeasureTheory/Measure/HausdorffVolume.lean": {
+    "checkedAt": "2026-10-24T20:35:25.608Z",
+    "collisions": [
+      "RellichKondrachov.hausdorffMeasure_eq_smul_volume"
+    ]
+  }
+}
