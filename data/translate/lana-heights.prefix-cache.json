@@ -1,0 +1,135 @@
+{
+  "Heights/Curve/Compactness.lean": {
+    "checkedAt": "2026-10-24T21:01:33.639Z",
+    "collisions": [
+      "Heights.Local.TendstoP1"
+    ]
+  },
+  "Heights/Curve/KummerPoint.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-24T21:01:39.894Z"
+  },
+  "Heights/Different/Bounds.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-24T21:02:20.132Z",
+    "collisions": [
+      "Heights.Different.logDisc",
+      "Heights.repr_mem_of_mem_map"
+    ]
+  },
+  "Heights/Different/Kummer.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-24T21:04:49.060Z",
+    "collisions": [
+      "Heights.Different.logDisc"
+    ]
+  },
+  "Heights/Different/SerreBound.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-24T21:06:33.062Z",
+    "collisions": [
+      "Heights.repr_mem_of_mem_map"
+    ]
+  },
+  "Heights/Different/Unramified.lean": {
+    "checkedAt": "2026-10-24T21:07:11.159Z",
+    "collisions": [
+      "Heights.Different.logDisc"
+    ]
+  },
+  "Heights/Local/Compactness.lean": {
+    "checkedAt": "2026-10-24T21:07:32.530Z",
+    "collisions": [
+      "Heights.Local.exists_strictMono_eq",
+      "Heights.Local.exists_strictMono_forall_of_infinite",
+      "Heights.Local.tendsto_zero_of_pow_le",
+      "Heights.Local.PadicAlgCl.norm_eq_spectralNorm",
+      "Heights.Local.monic_eq_sum",
+      "Heights.Local.natDegree_minpoly_inv",
+      "Heights.Local.exists_mem_roots_norm_sub_pow_le"
+    ]
+  },
+  "Heights/Local/LimitPlace.lean": {
+    "checkedAt": "2026-10-24T21:07:35.837Z",
+    "collisions": [
+      "Heights.Local.TendstoP1"
+    ]
+  },
+  "Heights/Local/PlaceEmbedding.lean": {
+    "checkedAt": "2026-10-24T21:07:43.795Z",
+    "collisions": [
+      "Heights.Local.norm_le_one_of_monic_of_eval_eq_zero",
+      "Heights.Local.ringHomAbv"
+    ]
+  },
+  "Heights/Curve/Integrality.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-24T21:00:03.347Z"
+  },
+  "Heights/Curve/TupleHeight.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-24T21:00:21.630Z"
+  },
+  "Heights/Different/NumberField.lean": {
+    "checkedAt": "2026-10-24T21:00:29.704Z",
+    "collisions": [
+      "Heights.Different.logDisc"
+    ]
+  },
+  "Heights/Different/Places.lean": {
+    "checkedAt": "2026-10-24T21:00:35.411Z",
+    "collisions": [
+      "Heights.Different.logDisc"
+    ]
+  },
+  "Heights/Different/QuotientBasis.lean": {
+    "checkedAt": "2026-10-24T21:00:49.371Z",
+    "collisions": [
+      "Heights.repr_mem_of_mem_map",
+      "Heights.mk_smul_mk",
+      "Heights.basisQuotientMap"
+    ]
+  },
+  "Heights/Different/SerreCore.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-24T21:00:52.392Z"
+  },
+  "Heights/Local/Bounded.lean": {
+    "checkedAt": "2026-10-24T21:00:53.675Z",
+    "collisions": [
+      "Heights.Local.norm_le_one_of_monic_of_eval_eq_zero",
+      "Heights.Local.abs_log_infinitePlace_le"
+    ]
+  },
+  "Heights/Curve/CondDivisor.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-24T21:02:36.111Z"
+  },
+  "Heights/Curve/CondHeight.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-24T21:03:18.297Z"
+  },
+  "Heights/Curve/Conductor.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-24T21:03:26.909Z"
+  },
+  "Heights/Curve/DivisorHeight.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-24T21:03:27.738Z"
+  },
+  "Heights/Curve/LinearEquiv.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-24T21:03:37.474Z"
+  },
+  "Heights/Curve/Pullback.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-24T21:03:39.962Z"
+  },
+  "Heights/Different/Conductor.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-24T21:03:40.960Z",
+    "collisions": [
+      "Heights.Different.logDisc"
+    ]
+  }
+}
