@@ -1,0 +1,39 @@
+{
+  "Zeta3Irrational/Basic.lean": {
+    "checkedAt": "2026-10-24T19:59:52.971Z",
+    "collisions": [
+      "Polynomial.shiftedLegendre",
+      "J",
+      "Nat.Prime.dvd_lcm"
+    ]
+  },
+  "Zeta3Irrational/Equality.lean": {
+    "checkedAt": "2026-10-24T20:09:11.576Z",
+    "collisions": [
+      "J"
+    ]
+  },
+  "Zeta3Irrational/Integral.lean": {
+    "checkedAt": "2026-10-24T20:09:12.178Z",
+    "collisions": [
+      "J"
+    ]
+  },
+  "Zeta3Irrational/LegendrePoly.lean": {
+    "checkedAt": "2026-10-24T20:11:44.874Z",
+    "collisions": [
+      "Polynomial.shiftedLegendre"
+    ]
+  },
+  "Zeta3Irrational/LinearForm.lean": {
+    "checkedAt": "2026-10-24T20:12:11.691Z",
+    "collisions": [
+      "Nat.Prime.dvd_lcm",
+      "J"
+    ]
+  },
+  "Zeta3Irrational/d.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-24T20:14:19.244Z"
+  }
+}
