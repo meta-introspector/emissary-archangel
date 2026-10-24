@@ -1,0 +1,146 @@
+{
+  "TemperedFundamentalGroups/FibreFunctor/Character.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-24T20:44:27.504Z"
+  },
+  "TemperedFundamentalGroups/Orbicurve/Exact.lean": {
+    "checkedAt": "2026-10-24T20:44:27.856Z",
+    "collisions": [
+      "TemperedFundamentalGroups.Orbicurve.IsGaloisStable"
+    ]
+  },
+  "TemperedFundamentalGroups/Orbicurve/GenericPoint.lean": {
+    "checkedAt": "2026-10-24T20:44:28.212Z",
+    "collisions": [
+      "TemperedFundamentalGroups.Orbicurve.xOf"
+    ]
+  },
+  "TemperedFundamentalGroups/Orbicurve/GeomModel.lean": {
+    "checkedAt": "2026-10-24T20:44:48.496Z",
+    "collisions": [
+      "TemperedFundamentalGroups.Orbicurve.injective_algebraMap_polynomial"
+    ]
+  },
+  "TemperedFundamentalGroups/Orbicurve/Model.lean": {
+    "checkedAt": "2026-10-24T20:44:48.985Z",
+    "collisions": [
+      "TemperedFundamentalGroups.Orbicurve.affGroup"
+    ]
+  },
+  "TemperedFundamentalGroups/SemistableReduction/Node.lean": {
+    "checkedAt": "2026-10-24T20:44:49.347Z",
+    "collisions": [
+      "SemistableReduction.Node"
+    ]
+  },
+  "TemperedFundamentalGroups/SemistableReduction/TameLocal.lean": {
+    "checkedAt": "2026-10-24T20:45:12.783Z",
+    "collisions": [
+      "SemistableReduction.Node",
+      "SemistableReduction.smoothKummer"
+    ]
+  },
+  "TemperedFundamentalGroups/Setup/Orbifold.lean": {
+    "checkedAt": "2026-10-24T20:45:21.668Z",
+    "collisions": [
+      "TemperedFundamentalGroups.ValuationSubring.exists_comap_eq"
+    ]
+  },
+  "TemperedFundamentalGroups/Setup/Valuation.lean": {
+    "checkedAt": "2026-10-24T20:45:57.232Z",
+    "collisions": [
+      "TemperedFundamentalGroups.ValuationSubring.exists_comap_eq",
+      "TemperedFundamentalGroups.IsHenselianDVR"
+    ]
+  },
+  "TemperedFundamentalGroups/Tempered/Category.lean": {
+    "checkedAt": "2026-10-24T20:46:14.398Z",
+    "collisions": [
+      "TemperedFundamentalGroups.specialFibre"
+    ]
+  },
+  "TemperedFundamentalGroups/Tempered/Level.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-24T20:47:45.059Z"
+  },
+  "TemperedFundamentalGroups/FibreFunctor/Realization.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-24T20:49:09.104Z"
+  },
+  "TemperedFundamentalGroups/Models/Projective.lean": {
+    "checkedAt": "2026-10-24T20:49:09.446Z",
+    "collisions": [
+      "TemperedFundamentalGroups.projSpace"
+    ]
+  },
+  "TemperedFundamentalGroups/Models/Specialization.lean": {
+    "checkedAt": "2026-10-24T20:49:15.389Z",
+    "collisions": [
+      "TemperedFundamentalGroups.specialFibre"
+    ]
+  },
+  "TemperedFundamentalGroups/Orbicurve/Nullstellensatz.lean": {
+    "checkedAt": "2026-10-24T20:49:26.300Z",
+    "collisions": [
+      "TemperedFundamentalGroups.Orbicurve.isUnit_of_forall_algHom_ne_zero"
+    ]
+  },
+  "TemperedFundamentalGroups/Orbicurve/Ring.lean": {
+    "checkedAt": "2026-10-24T20:49:26.590Z",
+    "collisions": [
+      "TemperedFundamentalGroups.Orbicurve.units_smul_ne_zero"
+    ]
+  },
+  "TemperedFundamentalGroups/Orbicurve/ZeroSet.lean": {
+    "checkedAt": "2026-10-24T20:49:27.164Z",
+    "collisions": [
+      "TemperedFundamentalGroups.Orbicurve.decidableEqAlgebraicClosure"
+    ]
+  },
+  "TemperedFundamentalGroups/SemistableReduction/NodeNormal.lean": {
+    "checkedAt": "2026-10-24T20:49:29.185Z",
+    "collisions": [
+      "SemistableReduction.integralLaurent",
+      "SemistableReduction.Node"
+    ]
+  },
+  "TemperedFundamentalGroups/Setup/Schmidt.lean": {
+    "checkedAt": "2026-10-24T20:49:47.718Z",
+    "collisions": [
+      "TemperedFundamentalGroups.isUnit_add_of_mem_maximalIdeal",
+      "TemperedFundamentalGroups.mem_lifts_iff_coeff_mem",
+      "TemperedFundamentalGroups.coe_eval_valuationSubring",
+      "TemperedFundamentalGroups.mem_of_monic_of_eval_eq_zero",
+      "TemperedFundamentalGroups.exists_mul_mem_lifts",
+      "TemperedFundamentalGroups.exists_valuation_pow_lt",
+      "TemperedFundamentalGroups.ne_top_of_isDiscreteValuationRing",
+      "TemperedFundamentalGroups.C_mem_lifts_of_mem",
+      "TemperedFundamentalGroups.sub_mem_lifts_valuationSubring",
+      "TemperedFundamentalGroups.isCoprime_scaleRoots_derivative",
+      "TemperedFundamentalGroups.ValuationSubring.exists_comap_eq",
+      "TemperedFundamentalGroups.not_isSepClosed_of_isDiscreteValuationRing"
+    ]
+  },
+  "TemperedFundamentalGroups/Tempered/Comparison.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-24T20:50:14.571Z"
+  },
+  "TemperedFundamentalGroups/Tempered/Galois.lean": {
+    "checkedAt": "2026-10-24T20:50:16.786Z",
+    "collisions": [
+      "TemperedFundamentalGroups.specialFibre"
+    ]
+  },
+  "TemperedFundamentalGroups/Topology/CountableFibres.lean": {
+    "checkedAt": "2026-10-24T20:51:38.457Z",
+    "collisions": [
+      "countable_inter_of_isPreconnected"
+    ]
+  },
+  "TemperedFundamentalGroups/Topology/CoveringCode.lean": {
+    "checkedAt": "2026-10-24T20:51:38.764Z",
+    "collisions": [
+      "TemperedFundamentalGroups.CoveringCode"
+    ]
+  }
+}
