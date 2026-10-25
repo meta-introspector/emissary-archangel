@@ -1,0 +1,38 @@
+{
+  "key": "acl-geom",
+  "repo": "https://github.com/adamtopaz/acl_geom",
+  "commit": "293b8c387bf868940b0d16dd9b6b67f1710ba887",
+  "toolchain": "leanprover/lean4:v4.34.1",
+  "roots": [
+    "AclGeom",
+    "GroupConfig",
+    "AclGeomBook"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/acl-geom/repo",
+  "entries": 5868,
+  "modules": 615,
+  "exported": 615,
+  "failed": [],
+  "expansion": {
+    "expanded": 17,
+    "verbatim": 452,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 5868,
+    "kept": 5868,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 70,
+    "lineUnverified": 3,
+    "nameFixed": 5867,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 1212329984,
+  "minutes": 98,
+  "finishedAt": "2026-10-25T19:17:04.778Z"
+}

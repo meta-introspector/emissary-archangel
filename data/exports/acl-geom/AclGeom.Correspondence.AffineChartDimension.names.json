@@ -1,0 +1,1 @@
+{"names":["AclGeom.exists_isAffineOpen_dimension_ge"],"modules":["AclGeom.Correspondence.AffineChartDimension"],"moduleOf":{"AclGeom.exists_isAffineOpen_dimension_ge":"AclGeom.Correspondence.AffineChartDimension"},"deps":{"AclGeom.exists_isAffineOpen_dimension_ge":[]}}
