@@ -1,0 +1,36 @@
+{
+  "key": "derived-alg-geo-lean",
+  "repo": "https://github.com/chris-dare-dev/derived-alg-geo-lean",
+  "commit": "af19c7943a8e9e346a5c26eea7ce41f17b3a7983",
+  "toolchain": "leanprover/lean4:v4.32.1",
+  "roots": [
+    "DerivedAlgGeo"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/derived-alg-geo-lean/repo",
+  "entries": 8564,
+  "modules": 1094,
+  "exported": 1094,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 460,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 8564,
+    "kept": 8564,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 1551,
+    "lineUnverified": 32,
+    "nameFixed": 8541,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 1916817408,
+  "minutes": 120,
+  "finishedAt": "2026-10-26T02:42:41.053Z"
+}
