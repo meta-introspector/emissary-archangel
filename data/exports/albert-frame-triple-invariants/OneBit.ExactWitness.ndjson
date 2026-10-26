@@ -1,0 +1,10 @@
+{"meta":{"exporter":{"name":"lean4export","version":"3.1.0"},"format":{"version":"3.1.0"},"lean":{"githash":"6a10ac8c22beadecabdbb0919c2b50214762f91d","version":"4.34.0-rc2"}}}
+{"in":1,"str":{"pre":0,"str":"OneBit"}}
+{"in":2,"str":{"pre":1,"str":"exactWitness"}}
+{"in":3,"str":{"pre":0,"str":"AlbertLean"}}
+{"in":4,"str":{"pre":3,"str":"CombinedTarget"}}
+{"const":{"name":4,"us":[]},"ie":0}
+{"in":5,"str":{"pre":0,"str":"True"}}
+{"in":6,"str":{"pre":5,"str":"intro"}}
+{"const":{"name":6,"us":[]},"ie":1}
+{"thm":{"all":[2],"levelParams":[],"name":2,"type":0,"value":1}}
