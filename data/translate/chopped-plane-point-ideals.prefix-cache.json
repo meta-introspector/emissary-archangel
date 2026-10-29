@@ -1,0 +1,705 @@
+{
+  "ChoppedPlane/BaseChange.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:44:12.701Z",
+    "collisions": [
+      "ChoppedPlane.polynomialMatrixEval"
+    ]
+  },
+  "ChoppedPlane/ColumnFerrers.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:50:53.736Z"
+  },
+  "ChoppedPlane/ColumnFerrersCounts.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:56:11.814Z"
+  },
+  "ChoppedPlane/CubicRootChoice.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:56:13.382Z"
+  },
+  "ChoppedPlane/EasyRange.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:56:24.417Z"
+  },
+  "ChoppedPlane/EmptyConfiguration.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:56:26.149Z"
+  },
+  "ChoppedPlane/ExpectedSyzygy.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:56:36.982Z"
+  },
+  "ChoppedPlane/FerrersCofactors.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T11:00:44.364Z"
+  },
+  "ChoppedPlane/FerrersCounts.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T11:00:57.467Z"
+  },
+  "ChoppedPlane/FerrersGrid.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T11:15:05.777Z"
+  },
+  "ChoppedPlane/GenericLinearMatrix.lean": {
+    "checkedAt": "2026-10-29T11:15:34.132Z",
+    "collisions": [
+      "ChoppedPlane.universalLinearMatrix",
+      "ChoppedPlane.IsPolynomialFamily",
+      "ChoppedPlane.linearMatrixMap"
+    ]
+  },
+  "ChoppedPlane/GradedBinaryLaurent.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T11:23:45.482Z"
+  },
+  "ChoppedPlane/GridHomogeneous.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T11:23:49.198Z"
+  },
+  "ChoppedPlane/HomogeneousTensorCoordinates.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T11:23:50.294Z"
+  },
+  "ChoppedPlane/KernelRankOpen.lean": {
+    "checkedAt": "2026-10-29T11:24:47.899Z",
+    "collisions": [
+      "ChoppedPlane.IsPolynomialFamily",
+      "ChoppedPlane.kernelProductSpace"
+    ]
+  },
+  "ChoppedPlane/LaurentAuxiliaryAdjoints.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T11:25:19.245Z"
+  },
+  "ChoppedPlane/LaurentResidueOperators.lean": {
+    "checkedAt": "2026-10-29T11:25:26.680Z",
+    "collisions": [
+      "ChoppedPlane.LaurentPairing.BinaryLaurent",
+      "ChoppedPlane.LaurentPairing.residueCoefficient",
+      "ChoppedPlane.LaurentPairing.positiveGrade",
+      "ChoppedPlane.LaurentPairing.freeLaurentEquiv",
+      "ChoppedPlane.LaurentPairing.FreeLaurent",
+      "ChoppedPlane.LaurentPairing.positiveBasis"
+    ]
+  },
+  "ChoppedPlane/MainAssembly.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T11:28:44.947Z"
+  },
+  "ChoppedPlane/PrimitiveOpen.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T11:31:23.880Z"
+  },
+  "ChoppedPlane/ProfileLaurentKernel.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T11:36:50.690Z"
+  },
+  "ChoppedPlane/QWeylActualChartMaps.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T11:46:15.090Z"
+  },
+  "ChoppedPlane/QWeylGradedPullback.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T11:46:30.525Z"
+  },
+  "ChoppedPlane/QWeylLaurentExactness.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T11:59:00.846Z"
+  },
+  "ChoppedPlane/QWeylLaurentGrading.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T11:59:11.238Z"
+  },
+  "ChoppedPlane/QWeylLaurentOperatorGrading.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:04:55.516Z"
+  },
+  "ChoppedPlane/QuarticKernelBinary.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:07:48.045Z"
+  },
+  "ChoppedPlane/QuarticKernelGlobal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:08:23.122Z"
+  },
+  "ChoppedPlane/Quotient.lean": {
+    "checkedAt": "2026-10-29T12:08:34.703Z",
+    "collisions": [
+      "ChoppedPlane.Poly",
+      "ChoppedPlane.generatedProducts",
+      "ChoppedPlane.formToRingQuotient",
+      "ChoppedPlane.generatedHilbertFunction"
+    ]
+  },
+  "ChoppedPlane/QuotientMultiplicationChart.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:17:17.698Z"
+  },
+  "ChoppedPlane/TraceReduced.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:17:18.687Z"
+  },
+  "ChoppedPlane/BinaryChartPolynomialMaps.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:43:29.540Z"
+  },
+  "ChoppedPlane/BinaryChartRings.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:43:29.934Z"
+  },
+  "ChoppedPlane/ChoppedFunctions.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:43:35.366Z"
+  },
+  "ChoppedPlane/Dehomogeneous.lean": {
+    "checkedAt": "2026-10-29T10:44:18.544Z",
+    "collisions": [
+      "ChoppedPlane.Poly"
+    ]
+  },
+  "ChoppedPlane/FerrersGenericOpen.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:44:44.449Z"
+  },
+  "ChoppedPlane/FiniteDirectionalBridge.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:44:58.328Z"
+  },
+  "ChoppedPlane/Grid.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:45:00.630Z"
+  },
+  "ChoppedPlane/LaurentTopDuality.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:45:10.711Z"
+  },
+  "ChoppedPlane/LaurentWeightedPairing.lean": {
+    "checkedAt": "2026-10-29T10:45:11.484Z",
+    "collisions": [
+      "ChoppedPlane.LaurentPairing.coefficientWeightEquiv",
+      "ChoppedPlane.LaurentPairing.negativeGrade",
+      "ChoppedPlane.LaurentPairing.FreeLaurent",
+      "ChoppedPlane.LaurentPairing.weightedNegativeCoordinates",
+      "ChoppedPlane.LaurentPairing.weightedResiduePair",
+      "ChoppedPlane.LaurentPairing.positiveGrade",
+      "ChoppedPlane.LaurentPairing.positiveBasis",
+      "ChoppedPlane.LaurentPairing.negativeShift",
+      "ChoppedPlane.LaurentPairing.positiveShift",
+      "ChoppedPlane.LaurentPairing.BinaryLaurent",
+      "ChoppedPlane.LaurentPairing.freeLaurentEquiv",
+      "ChoppedPlane.LaurentPairing.shift",
+      "ChoppedPlane.LaurentPairing.negativePart",
+      "ChoppedPlane.LaurentPairing.freeNegativePart"
+    ]
+  },
+  "ChoppedPlane/MatrixWitness.lean": {
+    "checkedAt": "2026-10-29T10:45:59.389Z",
+    "collisions": [
+      "ChoppedPlane.linearMatrixMap"
+    ]
+  },
+  "ChoppedPlane/Multiplication.lean": {
+    "checkedAt": "2026-10-29T10:46:32.656Z",
+    "collisions": [
+      "ChoppedPlane.Poly",
+      "ChoppedPlane.generatorSpace",
+      "ChoppedPlane.multiplication",
+      "ChoppedPlane.generatedProducts",
+      "ChoppedPlane.generatedHilbertFunction"
+    ]
+  },
+  "ChoppedPlane/Numerics.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:46:56.126Z"
+  },
+  "ChoppedPlane/PolynomialOperatorDuality.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:47:28.099Z"
+  },
+  "ChoppedPlane/PositiveBlockRank.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:47:31.124Z"
+  },
+  "ChoppedPlane/PrincipalChop.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:47:34.354Z"
+  },
+  "ChoppedPlane/ProfileOperators.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:47:51.150Z"
+  },
+  "ChoppedPlane/ProfileSquareCheck.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:48:01.441Z"
+  },
+  "ChoppedPlane/QWeylChartFiniteMaps.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:48:33.512Z"
+  },
+  "ChoppedPlane/QWeylGrading.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:48:38.687Z"
+  },
+  "ChoppedPlane/QWeylPullback.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:48:39.485Z"
+  },
+  "ChoppedPlane/RankOpen.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:48:50.633Z"
+  },
+  "ChoppedPlane/RegularPair.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:49:03.841Z"
+  },
+  "ChoppedPlane/RowProfiles.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:49:04.623Z"
+  },
+  "ChoppedPlane/Saturation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:51:45.588Z"
+  },
+  "ChoppedPlane/SeedHilbertFunctions.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:51:51.654Z"
+  },
+  "ChoppedPlane/SymmetricBaseChange.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:51:54.844Z"
+  },
+  "ChoppedPlane/ToeplitzBinary.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:51:55.625Z"
+  },
+  "ChoppedPlane/ToeplitzDivision.lean": {
+    "checkedAt": "2026-10-29T10:52:04.964Z",
+    "collisions": [
+      "ChoppedPlane.Poly"
+    ]
+  },
+  "ChoppedPlane/AuxiliaryCoefficientGrading.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:41:43.443Z"
+  },
+  "ChoppedPlane/ColumnGradedPresentation.lean": {
+    "checkedAt": "2026-10-29T10:43:32.667Z",
+    "collisions": [
+      "ChoppedPlane.Poly",
+      "ChoppedPlane.signedForms",
+      "ChoppedPlane.columnMinorIdealPiece",
+      "ChoppedPlane.minorGeneratorSpace",
+      "ChoppedPlane.generatedHilbertFunction"
+    ]
+  },
+  "ChoppedPlane/CoprimeDescent.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T11:04:35.780Z"
+  },
+  "ChoppedPlane/DistinctLeadingDegrees.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T11:04:37.405Z"
+  },
+  "ChoppedPlane/FerrersInfinityCut.lean": {
+    "checkedAt": "2026-10-29T11:04:50.712Z",
+    "collisions": [
+      "ChoppedPlane.Poly"
+    ]
+  },
+  "ChoppedPlane/FiniteCrossAnnihilation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T11:17:23.278Z"
+  },
+  "ChoppedPlane/GenericHilbertBurchOpen.lean": {
+    "checkedAt": "2026-10-29T11:17:48.582Z",
+    "collisions": [
+      "ChoppedPlane.universalRowMatrix",
+      "ChoppedPlane.Poly",
+      "ChoppedPlane.IsPolynomialFamily"
+    ]
+  },
+  "ChoppedPlane/HilbertDifference.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T11:47:02.292Z"
+  },
+  "ChoppedPlane/HomogeneousSaturation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T11:51:43.316Z"
+  },
+  "ChoppedPlane/PointBaseChange.lean": {
+    "checkedAt": "2026-10-29T11:52:09.347Z",
+    "collisions": [
+      "ChoppedPlane.formsMap",
+      "ChoppedPlane.formsBasis"
+    ]
+  },
+  "ChoppedPlane/ProfileResidueOperators.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:01:45.381Z"
+  },
+  "ChoppedPlane/QWeylQuartic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:01:47.468Z"
+  },
+  "ChoppedPlane/Toeplitz.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:07:37.556Z",
+    "collisions": [
+      "ChoppedPlane.Poly"
+    ]
+  },
+  "ChoppedPlane/TwoGeneratorCase.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:34:24.187Z"
+  },
+  "ChoppedPlane/AffineGridCRT.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:44:17.853Z"
+  },
+  "ChoppedPlane/ChopRankOpen.lean": {
+    "checkedAt": "2026-10-29T10:45:02.435Z",
+    "collisions": [
+      "ChoppedPlane.formProductBilinear"
+    ]
+  },
+  "ChoppedPlane/ColumnSeedWitness.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:45:31.026Z"
+  },
+  "ChoppedPlane/ConcreteCechDuality.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:45:39.254Z"
+  },
+  "ChoppedPlane/CyclicScalarTower.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:45:47.009Z"
+  },
+  "ChoppedPlane/FiniteAffineChart.lean": {
+    "checkedAt": "2026-10-29T10:45:55.600Z",
+    "collisions": [
+      "ChoppedPlane.Poly",
+      "ChoppedPlane.formChartMap"
+    ]
+  },
+  "ChoppedPlane/FiniteAuxiliaryMaps.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:47:26.136Z"
+  },
+  "ChoppedPlane/GenericIntermediate.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:47:34.107Z"
+  },
+  "ChoppedPlane/GenericPointMatrix.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:48:32.386Z"
+  },
+  "ChoppedPlane/GenericReducedMatrix.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:49:14.520Z"
+  },
+  "ChoppedPlane/GridSelection.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:49:21.627Z"
+  },
+  "ChoppedPlane/KernelProductRank.lean": {
+    "checkedAt": "2026-10-29T10:49:22.545Z",
+    "collisions": [
+      "ChoppedPlane.kernelProductSpace",
+      "ChoppedPlane.kernelProductMap",
+      "ChoppedPlane.IsPolynomialFamily"
+    ]
+  },
+  "ChoppedPlane/Presentation.lean": {
+    "checkedAt": "2026-10-29T10:49:48.417Z",
+    "collisions": [
+      "ChoppedPlane.residualMap",
+      "ChoppedPlane.choppedSubmodule",
+      "ChoppedPlane.choppedQuotientEquiv"
+    ]
+  },
+  "ChoppedPlane/ProfileLaurentDuality.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:50:02.938Z"
+  },
+  "ChoppedPlane/ProfileMatrix.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:50:12.083Z"
+  },
+  "ChoppedPlane/ProjectiveChartPoints.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:50:17.001Z"
+  },
+  "ChoppedPlane/Propagation.lean": {
+    "checkedAt": "2026-10-29T10:50:22.296Z",
+    "collisions": [
+      "ChoppedPlane.Poly",
+      "ChoppedPlane.idealDegreeSpace"
+    ]
+  },
+  "ChoppedPlane/QWeylLaurentCharts.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:50:56.755Z"
+  },
+  "ChoppedPlane/QWeylLaurentTop.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:52:31.309Z"
+  },
+  "ChoppedPlane/ReducedOpen.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:52:33.119Z"
+  },
+  "ChoppedPlane/SymmetricDerivative.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:52:43.475Z"
+  },
+  "ChoppedPlane/ColumnFerrersAffineQuotient.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:43:02.510Z"
+  },
+  "ChoppedPlane/FerrersAffineQuotient.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:43:03.937Z"
+  },
+  "ChoppedPlane/GeneralPoints.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:43:11.436Z"
+  },
+  "ChoppedPlane/GenericExtensionConclusion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:44:31.360Z"
+  },
+  "ChoppedPlane/GradedPresentation.lean": {
+    "checkedAt": "2026-10-29T10:45:31.504Z",
+    "collisions": [
+      "ChoppedPlane.Poly",
+      "ChoppedPlane.signedForms",
+      "ChoppedPlane.signedComponent",
+      "ChoppedPlane.gradedCofactorMap",
+      "ChoppedPlane.rowForms",
+      "ChoppedPlane.gradedMatrixMap",
+      "ChoppedPlane.gradedMinorIdealPiece"
+    ]
+  },
+  "ChoppedPlane/Homogeneous.lean": {
+    "checkedAt": "2026-10-29T10:48:29.234Z",
+    "collisions": [
+      "ChoppedPlane.basis_transport_val",
+      "ChoppedPlane.formsBasis"
+    ]
+  },
+  "ChoppedPlane/HomogeneousIdeals.lean": {
+    "checkedAt": "2026-10-29T10:49:02.907Z",
+    "collisions": [
+      "ChoppedPlane.Poly"
+    ]
+  },
+  "ChoppedPlane/LaurentAuxiliaryDuality.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:50:03.113Z"
+  },
+  "ChoppedPlane/LaurentChartComplex.lean": {
+    "checkedAt": "2026-10-29T10:50:10.579Z",
+    "collisions": [
+      "ChoppedPlane.LaurentChartComplex.overlapGrade",
+      "ChoppedPlane.LaurentPairing.FreeLaurent",
+      "ChoppedPlane.LaurentChartComplex.uChartGrade",
+      "ChoppedPlane.LaurentChartComplex.vChartGrade",
+      "ChoppedPlane.LaurentPairing.positiveGrade",
+      "ChoppedPlane.LaurentChartComplex.chartDiagonal",
+      "ChoppedPlane.LaurentChartComplex.chartDifference"
+    ]
+  },
+  "ChoppedPlane/LaurentPairing.lean": {
+    "checkedAt": "2026-10-29T10:52:31.855Z",
+    "collisions": [
+      "ChoppedPlane.LaurentPairing.BinaryLaurent",
+      "ChoppedPlane.LaurentPairing.negativePart",
+      "ChoppedPlane.LaurentPairing.negativeSpace",
+      "ChoppedPlane.LaurentPairing.chartU",
+      "ChoppedPlane.LaurentPairing.chartV",
+      "ChoppedPlane.LaurentPairing.negativeProjection",
+      "ChoppedPlane.LaurentPairing.negativeQuotientEquiv"
+    ]
+  },
+  "ChoppedPlane/LaurentProjectedResidueOperators.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:53:09.114Z"
+  },
+  "ChoppedPlane/MaximalMinors.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:53:11.424Z"
+  },
+  "ChoppedPlane/OneGeneratorCase.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:53:30.430Z"
+  },
+  "ChoppedPlane/PointMatrixHilbert.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:53:46.531Z"
+  },
+  "ChoppedPlane/Points.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:53:47.803Z"
+  },
+  "ChoppedPlane/PositiveMatrixWitness.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:55:43.569Z"
+  },
+  "ChoppedPlane/ProfileCrossing.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:55:56.897Z"
+  },
+  "ChoppedPlane/ProfileDirectional.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:56:36.972Z"
+  },
+  "ChoppedPlane/QuarticKernelCoordinates.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:56:45.374Z"
+  },
+  "ChoppedPlane/QuotientBasisChart.lean": {
+    "checkedAt": "2026-10-29T10:56:46.882Z",
+    "collisions": [
+      "ChoppedPlane.finiteCombination",
+      "ChoppedPlane.quotientBasisOfCombined",
+      "ChoppedPlane.quotientBasisOfCombined._proof_2",
+      "ChoppedPlane.IsPolynomialFamily"
+    ]
+  },
+  "ChoppedPlane/RegularSequence.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:57:05.607Z",
+    "collisions": [
+      "ChoppedPlane.Poly"
+    ]
+  },
+  "ChoppedPlane/RowPrimitiveChart.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:57:44.805Z"
+  },
+  "ChoppedPlane/ShiftedDegreeObstruction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:57:53.160Z"
+  },
+  "ChoppedPlane/SplitFiniteAlgebra.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:57:55.148Z"
+  },
+  "ChoppedPlane/TensorCoefficientBaseChange.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:58:01.096Z"
+  },
+  "ChoppedPlane/UniformMatrixAssembly.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:58:04.101Z"
+  },
+  "ChoppedPlane/AffinePoints.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:43:06.533Z"
+  },
+  "ChoppedPlane/DegreeObstruction.lean": {
+    "checkedAt": "2026-10-29T10:43:42.477Z",
+    "collisions": [
+      "ChoppedPlane.Poly"
+    ]
+  },
+  "ChoppedPlane/FiniteCechDuality.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:43:45.110Z"
+  },
+  "ChoppedPlane/GenericAffineChart.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:46:10.416Z"
+  },
+  "ChoppedPlane/GradedBinaryLaurentOperators.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:46:23.313Z"
+  },
+  "ChoppedPlane/GradedLocalExactness.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:46:24.213Z"
+  },
+  "ChoppedPlane/HilbertBurch.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:46:39.217Z"
+  },
+  "ChoppedPlane/LaurentAuxiliaryPerfectPairing.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:46:57.977Z"
+  },
+  "ChoppedPlane/LaurentAuxiliaryProjection.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:47:05.410Z"
+  },
+  "ChoppedPlane/LaurentAuxiliaryScalarOperators.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:47:39.910Z"
+  },
+  "ChoppedPlane/LinearMatrix.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:47:47.279Z",
+    "collisions": [
+      "ChoppedPlane.linearMatrixMap"
+    ]
+  },
+  "ChoppedPlane/NonpositiveCase.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:49:02.474Z"
+  },
+  "ChoppedPlane/OperatorDifferentialNaturality.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:49:10.328Z"
+  },
+  "ChoppedPlane/PolynomialFactorialWeights.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:49:11.074Z"
+  },
+  "ChoppedPlane/PolynomialTensorOperators.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:49:28.103Z"
+  },
+  "ChoppedPlane/ProfileDirectionalKernel.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:51:33.409Z"
+  },
+  "ChoppedPlane/QWeylLaurentOperators.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:51:35.867Z"
+  },
+  "ChoppedPlane/QWeylModule.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:51:37.304Z"
+  },
+  "ChoppedPlane/QuarticKernelGrading.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:51:46.435Z"
+  },
+  "ChoppedPlane/QuarticSubstitution.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:51:52.162Z"
+  },
+  "ChoppedPlane/RowChopPointDegree.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:51:55.075Z"
+  },
+  "ChoppedPlane/RowSeedHilbertFunctions.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:53:46.392Z"
+  },
+  "ChoppedPlane/SignedIdealPieces.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:53:52.126Z"
+  },
+  "ChoppedPlane/StatementComparison.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:53:59.429Z"
+  },
+  "ChoppedPlane/SymmetricCoordinates.lean": {
+    "checkedAt": "2026-10-29T10:54:00.282Z",
+    "collisions": [
+      "ChoppedPlane.SymmetricDerivative.tensorCoefficients"
+    ]
+  }
+}
