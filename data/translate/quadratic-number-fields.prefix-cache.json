@@ -1,0 +1,501 @@
+{
+  "BinaryQuadraticForms/Computable/Reduction.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:43:57.682Z"
+  },
+  "BinaryQuadraticForms/Core/Action.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:44:46.382Z",
+    "collisions": [
+      "QuadraticNumberFields.BinaryQuadraticForm.disc_transform_aux",
+      "QuadraticNumberFields.BinaryQuadraticForm.dvd_coefficients_of_dvd_transform_coefficients"
+    ]
+  },
+  "BinaryQuadraticForms/Core/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:45:56.857Z"
+  },
+  "BinaryQuadraticForms/Core/Class.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:46:09.207Z"
+  },
+  "BinaryQuadraticForms/Gauss/Composition.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:46:40.355Z",
+    "collisions": [
+      "QuadraticNumberFields.BinaryQuadraticForm.exists_primeAvoidingVector",
+      "QuadraticNumberFields.BinaryQuadraticForm.primeFactors_pairwise_coprime",
+      "QuadraticNumberFields.BinaryQuadraticForm.primeAvoiding_not_dvd_eval",
+      "QuadraticNumberFields.BinaryQuadraticForm.crtAvoidingX_modEq",
+      "QuadraticNumberFields.BinaryQuadraticForm.crtAvoidingY_modEq"
+    ]
+  },
+  "Examples/Sqrt17/Splitting.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:48:09.555Z"
+  },
+  "FormClassGroup/Computed.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:48:11.485Z"
+  },
+  "FormClassGroup/Cox/NormFormBasisChange.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:48:12.370Z"
+  },
+  "ImaginaryClassNumberOne/WeberData/FormsProvider.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:48:13.782Z"
+  },
+  "QNFMathlib/Algebra/QuadraticAlgebra/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:48:14.668Z"
+  },
+  "QNFMathlib/Algebra/QuadraticAlgebra/Defs.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:48:19.521Z"
+  },
+  "QNFMathlib/Data/Int/Squarefree.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:48:20.406Z"
+  },
+  "QNFMathlib/NumberTheory/CoxEuler.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:48:22.487Z",
+    "collisions": [
+      "Int.CoxEuler.exists_smaller_euler_counterexample"
+    ]
+  },
+  "QNFMathlib/NumberTheory/LegendreSymbol/KroneckerSymbol.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:51:32.847Z"
+  },
+  "QNFMathlib/NumberTheory/NumberField/ClassNumber.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:51:40.997Z"
+  },
+  "QNFMathlib/NumberTheory/NumberField/Galois.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:51:42.806Z"
+  },
+  "QNFMathlib/NumberTheory/Zsqrtd/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:51:43.687Z"
+  },
+  "QNFMathlib/RingTheory/Ideal/Span.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:51:44.847Z"
+  },
+  "QuadraticNumberFields/ClassGroup/GenusTheory/PrimeDiscriminant/Product.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:51:55.512Z"
+  },
+  "QuadraticNumberFields/ClassGroup/Minkowski.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:51:56.865Z"
+  },
+  "QuadraticNumberFields/Qsqrtd/Automorphism.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:52:01.650Z"
+  },
+  "QuadraticNumberFields/Qsqrtd/Basic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:52:02.646Z"
+  },
+  "QuadraticNumberFields/RingOfIntegers/Discriminant.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:52:03.323Z"
+  },
+  "QuadraticNumberFields/Units/Families.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:52:03.911Z"
+  },
+  "BinaryQuadraticForms/Computable/Composition.lean": {
+    "checkedAt": "2026-10-29T12:46:16.655Z",
+    "collisions": [
+      "QuadraticNumberFields.BinaryQuadraticForm.exists_coprimeEvalPred"
+    ]
+  },
+  "BinaryQuadraticForms/Core/Enumeration.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:56:01.934Z"
+  },
+  "Examples/SqrtNeg5/Ideals.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:56:03.123Z"
+  },
+  "FormClassGroup/ClassGroup/Law.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:56:04.161Z"
+  },
+  "FormClassGroup/Cox/Bridge.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:56:05.017Z"
+  },
+  "ImaginaryClassNumberOne/WeberData/Core.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:57:09.563Z"
+  },
+  "QNFMathlib/Algebra/Squarefree/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:57:11.089Z"
+  },
+  "QNFMathlib/GroupTheory/Index.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:57:15.060Z"
+  },
+  "QNFMathlib/NumberTheory/DirichletCharacter/Kronecker.lean": {
+    "checkedAt": "2026-10-29T12:57:37.129Z",
+    "collisions": [
+      "kroneckerCharacterFun_one",
+      "kroneckerCharacterFun_mul",
+      "kroneckerCharacterFun_nonunit"
+    ]
+  },
+  "QNFMathlib/RingTheory/Coprime.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:58:12.460Z"
+  },
+  "QNFMathlib/RingTheory/DedekindDomain/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:58:14.594Z"
+  },
+  "QNFMathlib/RingTheory/FractionalIdeal/RingEquiv.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:58:16.589Z"
+  },
+  "QNFMathlib/RingTheory/Ideal/Norm/AbsNorm.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:58:19.379Z"
+  },
+  "QuadraticNumberFields/ClassGroup/RamifiedPrimes.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:58:23.820Z"
+  },
+  "QuadraticNumberFields/ClassGroup/SmallNorm.lean": {
+    "checkedAt": "2026-10-29T12:58:24.952Z",
+    "collisions": [
+      "QuadraticNumberFields.irreducible_two_nat"
+    ]
+  },
+  "QuadraticNumberFields/Euclidean/Basic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:58:30.138Z"
+  },
+  "QuadraticNumberFields/QuadraticField/Category.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:58:30.653Z"
+  },
+  "QuadraticNumberFields/QuadraticField/Classification.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:58:38.293Z"
+  },
+  "QuadraticNumberFields/QuadraticField/Conj.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:58:39.373Z"
+  },
+  "QuadraticNumberFields/RingOfIntegers/Classification.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:01:53.629Z"
+  },
+  "QuadraticNumberFields/Splitting/Qsqrtd/SqrtD.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:01:55.764Z"
+  },
+  "QuadraticNumberFields/Zsqrtd/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T13:01:56.930Z"
+  },
+  "BinaryQuadraticForms/Core/ClassReduced.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:43:51.391Z"
+  },
+  "BinaryQuadraticForms/Core/ReducedUniqueness.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:44:36.651Z",
+    "collisions": [
+      "QuadraticNumberFields.BinaryQuadraticForm.transform_neg",
+      "QuadraticNumberFields.BinaryQuadraticForm.transform_neg_one",
+      "QuadraticNumberFields.BinaryQuadraticForm.transform_T_inv_mk",
+      "QuadraticNumberFields.BinaryQuadraticForm.transform_S_mk",
+      "QuadraticNumberFields.BinaryQuadraticForm.transform_ST_self_of_mk_eq"
+    ]
+  },
+  "BinaryQuadraticForms/Cox/IdealRelation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:46:45.302Z"
+  },
+  "Examples/SqrtNeg5/Invariants.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:47:00.065Z"
+  },
+  "QNFMathlib/Data/Int/Parity.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:47:01.026Z"
+  },
+  "QNFMathlib/Data/Int/Square.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:47:04.248Z"
+  },
+  "QNFMathlib/Data/Nat/Squarefree.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:47:11.914Z"
+  },
+  "QNFMathlib/RingTheory/Ideal/RingEquiv.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:47:12.247Z"
+  },
+  "QNFMathlib/RingTheory/Krull.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:47:13.018Z"
+  },
+  "QuadraticNumberFields/ClassGroup/TwoRank.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:47:22.032Z"
+  },
+  "QuadraticNumberFields/Qsqrtd/Equiv.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:47:24.406Z"
+  },
+  "QuadraticNumberFields/QuadraticField/SqfreeParam.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:47:25.741Z"
+  },
+  "QuadraticNumberFields/QuadraticField/Transport.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:47:26.091Z"
+  },
+  "QuadraticNumberFields/Zsqrtd/Gaussian.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:47:27.688Z"
+  },
+  "BinaryQuadraticForms/Core/Reduction.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:45:59.387Z"
+  },
+  "Examples/Counterexamples/QuadraticDedekindNotSeparable.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:46:03.621Z"
+  },
+  "Examples/Sqrt17/ClassNumber.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:46:05.231Z"
+  },
+  "Examples/Sqrt17/Invariants.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:46:05.600Z"
+  },
+  "FormClassGroup/Gauss/CompositionClass.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:15:31.308Z"
+  },
+  "ImaginaryClassNumberOne/ClassNumberOneByForms.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:15:32.221Z"
+  },
+  "ImaginaryClassNumberOne/Diophantine.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T13:15:34.199Z"
+  },
+  "ImaginaryClassNumberOne/StarkHeegner.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:21:48.470Z"
+  },
+  "QuadraticNumberFields/ClassGroup/GenusTheory/PrimeDiscriminant/Basic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:21:56.613Z"
+  },
+  "QuadraticNumberFields/Qsqrtd/Galois.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:21:59.856Z"
+  },
+  "QuadraticNumberFields/Qsqrtd/TraceNorm.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:22:01.572Z"
+  },
+  "QuadraticNumberFields/QuadraticField/Parameters.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:22:04.465Z"
+  },
+  "QuadraticNumberFields/RingOfIntegers/Integrality.lean": {
+    "checkedAt": "2026-10-29T13:22:06.119Z",
+    "collisions": [
+      "QuadraticNumberFields.RingOfIntegers.ringOfIntegers_equiv_of_integralClosure",
+      "QuadraticNumberFields.RingOfIntegers.ringOfIntegers_equiv_of_embedding"
+    ]
+  },
+  "QuadraticNumberFields/RingOfIntegers/ModFour.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T13:23:25.680Z"
+  },
+  "QuadraticNumberFields/Units/Fundamental.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T13:23:27.594Z"
+  },
+  "QuadraticNumberFields/Zsqrtd/Dedekind.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:33:20.301Z"
+  },
+  "QuadraticNumberFields/Zsqrtd/Ideals.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:33:21.996Z"
+  },
+  "QuadraticNumberFields/Zsqrtd/MathlibBridge.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:33:23.210Z"
+  },
+  "ImaginaryClassNumberOne/Framework.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:42:40.123Z"
+  },
+  "QNFMathlib/FieldTheory/Galois/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:43:40.442Z"
+  },
+  "QNFMathlib/GroupTheory/ZModPiPowHom.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:43:41.996Z"
+  },
+  "QNFMathlib/NumberTheory/LegendreSymbol/JacobiSymbol.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:43:45.595Z"
+  },
+  "QNFMathlib/RingTheory/DedekindDomain/Ideal.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:43:46.640Z"
+  },
+  "QuadraticNumberFields/ClassGroup/GenusTheory/Surjectivity/Residues.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:44:25.936Z"
+  },
+  "QuadraticNumberFields/ClassGroup/Torsion.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:44:27.371Z"
+  },
+  "QuadraticNumberFields/QuadraticField/Galois.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:44:39.571Z"
+  },
+  "QuadraticNumberFields/Splitting/Qsqrtd/Monogenic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:44:41.235Z"
+  },
+  "BinaryQuadraticForms/Core/UpperHalfPlane.lean": {
+    "checkedAt": "2026-10-29T12:43:02.285Z",
+    "collisions": [
+      "QuadraticNumberFields.BinaryQuadraticForm.disc_lt_zero_real",
+      "QuadraticNumberFields.BinaryQuadraticForm.denom_ne_zero_sl2z",
+      "QuadraticNumberFields.BinaryQuadraticForm.transform_polynomial_eq_eval",
+      "QuadraticNumberFields.BinaryQuadraticForm.one_le_div_iff_int",
+      "QuadraticNumberFields.BinaryQuadraticForm.one_lt_div_iff_int",
+      "QuadraticNumberFields.BinaryQuadraticForm.abs_re_le_half_iff",
+      "QuadraticNumberFields.BinaryQuadraticForm.abs_re_lt_half_iff",
+      "QuadraticNumberFields.BinaryQuadraticForm.isReduced_transform_T_of_neg_abs_eq_a",
+      "QuadraticNumberFields.BinaryQuadraticForm.isReduced_transform_S_of_neg_a_eq_c"
+    ]
+  },
+  "Examples/SqrtNeg5/Splitting.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:46:15.337Z"
+  },
+  "FormClassGroup/ClassGroup/CoxComposition.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:46:17.586Z"
+  },
+  "FormClassGroup/Computable/Structure.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:46:23.821Z"
+  },
+  "ImaginaryClassNumberOne/ClassNumberOne.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:46:24.615Z"
+  },
+  "ImaginaryClassNumberOne/IdealReductions.lean": {
+    "checkedAt": "2026-10-29T12:46:25.655Z",
+    "collisions": [
+      "QuadraticNumberFields.Heegner.int_sq_ne_nat_prime",
+      "QuadraticNumberFields.Heegner.int_sq_ne_two",
+      "QuadraticNumberFields.Heegner.nat_eq_two_of_sq_eq_four"
+    ]
+  },
+  "QNFMathlib/Data/Int/ModFour.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:46:36.082Z",
+    "collisions": [
+      "div4_iff_mod",
+      "sq_eq_four_mul_div_of_even",
+      "sq_eq_four_mul_div_add_one_of_odd",
+      "odd_eq_two_mul_div_add_one"
+    ]
+  },
+  "QNFMathlib/NumberTheory/LegendreSymbol/KroneckerSymbolPeriodicity.lean": {
+    "checkedAt": "2026-10-29T12:46:47.002Z",
+    "collisions": [
+      "kroneckerSymNat_two_pow_mul_odd",
+      "kroneckerTwo_sq_one_of_natAbs_not_even",
+      "odd_natAbs_of_emod_four_eq_one",
+      "jacobiSym_self_eq_natAbs_right_of_emod_four_eq_one",
+      "gcd_ne_one_of_two_dvd",
+      "jacobiSym_nat_four_mul_sub_one",
+      "kroneckerTwo_eq_chi8",
+      "kroneckerDenominatorSign_mul"
+    ]
+  },
+  "QNFMathlib/NumberTheory/NumberField/NarrowClassGroup.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:47:46.931Z"
+  },
+  "QNFMathlib/RingTheory/ClassGroup.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:47:47.664Z"
+  },
+  "QNFMathlib/RingTheory/ClassGroup/Narrow.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:47:50.432Z"
+  },
+  "QNFMathlib/RingTheory/PrincipalIdealDomain.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:52:14.547Z"
+  },
+  "QuadraticNumberFields/ClassGroup/Ambiguous/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T12:52:16.301Z"
+  },
+  "QuadraticNumberFields/ClassGroup/GenusTheory/Characters/SignVector.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:52:24.193Z"
+  },
+  "QuadraticNumberFields/Qsqrtd/TotallyRealComplex.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:52:26.307Z"
+  },
+  "QuadraticNumberFields/QuadraticField/Basic.lean": {
+    "checkedAt": "2026-10-29T12:52:27.396Z",
+    "collisions": [
+      "QuadraticField"
+    ]
+  },
+  "QuadraticNumberFields/RingOfIntegers/HalfInt.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:52:32.049Z"
+  },
+  "QuadraticNumberFields/RingOfIntegers/Norm.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:52:33.044Z"
+  },
+  "QuadraticNumberFields/Splitting/MinpolyMod.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:52:47.230Z"
+  },
+  "QuadraticNumberFields/Units/Imaginary.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:52:49.027Z"
+  },
+  "QuadraticNumberFields/Units/Pell.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:52:49.751Z"
+  },
+  "QuadraticNumberFields/ZOnePlusSqrtdOverTwo/Basic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T12:52:52.463Z"
+  }
+}
