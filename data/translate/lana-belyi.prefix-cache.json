@@ -1,0 +1,875 @@
+{
+  "Belyi/Converse/DefinableOfBelyi.lean": {
+    "checkedAt": "2026-10-29T09:58:32.397Z",
+    "collisions": [
+      "Belyi.Converse.normalizationIsoOfArrowIso",
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/Converse/IsoDescent.lean": {
+    "checkedAt": "2026-10-29T10:00:13.905Z",
+    "collisions": [
+      "Belyi.Converse.nonempty_algHom_of_fg",
+      "Belyi.Converse.tensorMapAlgebra"
+    ]
+  },
+  "Belyi/Converse/Normalization.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:00:16.929Z",
+    "collisions": [
+      "Belyi.IsCurveOver",
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/Converse/Spread.lean": {
+    "checkedAt": "2026-10-29T10:02:06.360Z",
+    "collisions": [
+      "Belyi.Converse.exists_finite_etale_model",
+      "Belyi.Converse.range_map_val_mono",
+      "Belyi.Converse.injective_map_val",
+      "Belyi.Converse.exists_smooth_localizationAway",
+      "Belyi.Converse.tensorMapAlgebra"
+    ]
+  },
+  "Belyi/Curve/B1.lean": {
+    "checkedAt": "2026-10-29T10:02:10.130Z",
+    "collisions": [
+      "Belyi.P1Grading",
+      "Belyi.instAlgebraFunctionField"
+    ]
+  },
+  "Belyi/Curve/BaseChange.lean": {
+    "checkedAt": "2026-10-29T10:03:48.132Z",
+    "collisions": [
+      "Belyi.IsCurveOver",
+      "Belyi.specAlgebraMap"
+    ]
+  },
+  "Belyi/Curve/SmoothStalk.lean": {
+    "checkedAt": "2026-10-29T10:09:29.725Z",
+    "collisions": [
+      "Belyi.IsCurveOver",
+      "Belyi.instAlgebraFunctionField"
+    ]
+  },
+  "Belyi/CurveField/Basic.lean": {
+    "checkedAt": "2026-10-29T10:09:58.545Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/CurveField/CoordRing.lean": {
+    "checkedAt": "2026-10-29T10:10:02.136Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/CurveField/Hurwitz.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:11:15.797Z",
+    "collisions": [
+      "Belyi.CurveField.primeBelow",
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/CurveField/Noncritical.lean": {
+    "checkedAt": "2026-10-29T10:15:29.808Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField",
+      "Belyi.CurveField.primeBelow"
+    ]
+  },
+  "Belyi/CurveField/Place.lean": {
+    "checkedAt": "2026-10-29T10:15:35.715Z",
+    "collisions": [
+      "Belyi.CurveField.primeBelow",
+      "Belyi.CurveField.chartRing",
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/CurveField/Tripod.lean": {
+    "checkedAt": "2026-10-29T10:16:37.597Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/CurveField/ZerosPoles.lean": {
+    "checkedAt": "2026-10-29T10:18:09.117Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/GaloisCategoryFiniteness.lean": {
+    "checkedAt": "2026-10-29T10:18:15.940Z",
+    "collisions": [
+      "Belyi.PreGaloisCategory.discreteTopologyPerm",
+      "Belyi.TopologicallyFinitelyGenerated"
+    ]
+  },
+  "Belyi/NoncriticalP1/ElemMap.lean": {
+    "checkedAt": "2026-10-29T10:22:16.523Z",
+    "collisions": [
+      "Belyi.NoncriticalP1.Qbar"
+    ]
+  },
+  "Belyi/P1.lean": {
+    "checkedAt": "2026-10-29T10:22:27.824Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/ChartInjective.lean": {
+    "checkedAt": "2026-10-29T10:22:28.100Z",
+    "collisions": [
+      "Belyi.P1.aeval_cons_eq_aeval_dehomogenize",
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/Transcendental.lean": {
+    "checkedAt": "2026-10-29T10:22:30.370Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/Polynomial/DerivativeSmoothLocus.lean": {
+    "checkedAt": "2026-10-29T10:22:32.502Z",
+    "collisions": [
+      "Belyi.smooth_localizationAway_mk_derivative"
+    ]
+  },
+  "Belyi/Polynomial/Lambda.lean": {
+    "checkedAt": "2026-10-29T10:22:33.049Z",
+    "collisions": [
+      "Belyi.lambdaConst",
+      "Belyi.critVal"
+    ]
+  },
+  "Belyi/RamificationBaseChange.lean": {
+    "checkedAt": "2026-10-29T10:22:35.294Z",
+    "collisions": [
+      "Belyi.smoothLocus_preimage_subset",
+      "Belyi.Ram"
+    ]
+  },
+  "Belyi/SmoothLocusCongr.lean": {
+    "checkedAt": "2026-10-29T10:22:37.035Z",
+    "collisions": [
+      "Algebra.FormallySmooth.congr"
+    ]
+  },
+  "Belyi/BelyiCoverEtale.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T09:59:58.532Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/BelyiMap.lean": {
+    "checkedAt": "2026-10-29T10:00:19.287Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/Converse/AnalyticProduct.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:00:22.516Z"
+  },
+  "Belyi/Converse/ConstantFamily.lean": {
+    "checkedAt": "2026-10-29T10:00:22.842Z",
+    "collisions": [
+      "Belyi.Converse.tensorRightAlgebra",
+      "Belyi.Converse.tensorMapAlgebra"
+    ]
+  },
+  "Belyi/Converse/CoveringHomotopy.lean": {
+    "checkedAt": "2026-10-29T10:00:24.312Z",
+    "collisions": [
+      "Belyi.Converse.sliceIncl"
+    ]
+  },
+  "Belyi/Converse/IntegralClosureBaseChange.lean": {
+    "checkedAt": "2026-10-29T10:00:27.736Z",
+    "collisions": [
+      "Belyi.exists_smooth_algHom_injective",
+      "Belyi.tensorMapLeft"
+    ]
+  },
+  "Belyi/Converse/Points.lean": {
+    "checkedAt": "2026-10-29T10:00:30.452Z",
+    "collisions": [
+      "Belyi.Converse.nonempty_algHom_of_isAlgClosed",
+      "Belyi.Converse.nonempty_ringHom_complex",
+      "Belyi.Converse.countable_of_isAlgebraic_rat",
+      "Belyi.Converse.isAlgClosed_of_ringEquiv",
+      "Belyi.Converse.infinite_of_isTranscendenceBasis"
+    ]
+  },
+  "Belyi/Converse/PuncturedLineBelyi.lean": {
+    "checkedAt": "2026-10-29T10:00:38.431Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/Curve/GeomIntegralTensorDomain.lean": {
+    "checkedAt": "2026-10-29T10:02:19.445Z",
+    "collisions": [
+      "Belyi.isIntegral_source_of_geometricallyIntegral",
+      "Belyi.isDomain_of_geometricallyIntegral",
+      "Belyi.isDomain_tensorProduct_of_geometricallyIntegral"
+    ]
+  },
+  "Belyi/Curve/Stalks.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:02:21.610Z",
+    "collisions": [
+      "Belyi.ker_algebraMap_residueField"
+    ]
+  },
+  "Belyi/CurveDeriv/Local.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:02:26.411Z",
+    "collisions": [
+      "Derivation.extendOfFormallyEtale"
+    ]
+  },
+  "Belyi/CurveField/Kummer.lean": {
+    "checkedAt": "2026-10-29T10:02:40.434Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField",
+      "Belyi.CurveField.Place.IsCuspOf"
+    ]
+  },
+  "Belyi/CurveField/NoncriticalBasic.lean": {
+    "checkedAt": "2026-10-29T10:06:00.165Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField",
+      "Belyi.CurveField.primeBelow",
+      "Belyi.NoncriticalP1.Qbar"
+    ]
+  },
+  "Belyi/CurveField/NoncriticalElem.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:07:03.216Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField",
+      "Belyi.NoncriticalP1.Qbar"
+    ]
+  },
+  "Belyi/CurveField/NoncriticalFinite.lean": {
+    "checkedAt": "2026-10-29T10:09:00.293Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/CurveField/Residue.lean": {
+    "checkedAt": "2026-10-29T10:09:07.004Z",
+    "collisions": [
+      "Belyi.CurveField.primeBelow",
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/Dimension.lean": {
+    "checkedAt": "2026-10-29T10:09:16.868Z",
+    "collisions": [
+      "Belyi.eq_of_specializes_of_specializes",
+      "Belyi.finite_of_t1Space",
+      "Belyi.isNoetherian_of_over"
+    ]
+  },
+  "Belyi/NoncriticalP1/Rational.lean": {
+    "checkedAt": "2026-10-29T10:09:18.535Z",
+    "collisions": [
+      "Belyi.NoncriticalP1.Qbar",
+      "Belyi.NoncriticalP1.affineMap"
+    ]
+  },
+  "Belyi/P1/AffineChart.lean": {
+    "checkedAt": "2026-10-29T10:09:23.138Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/ChartTransition.lean": {
+    "checkedAt": "2026-10-29T10:09:24.131Z",
+    "collisions": [
+      "Belyi.P1.aeval_smul_of_isHomogeneous",
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/DefinablePairBranchGlue.lean": {
+    "checkedAt": "2026-10-29T10:09:47.442Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/PointsBaseChange.lean": {
+    "checkedAt": "2026-10-29T10:10:28.278Z",
+    "collisions": [
+      "MvPolynomial.monomial_one_dvd_iff_forall_coeff",
+      "Belyi.P1.shear",
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/PolynomialFinite.lean": {
+    "checkedAt": "2026-10-29T10:10:45.505Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/Polynomial/ChartEtale.lean": {
+    "checkedAt": "2026-10-29T10:10:56.793Z",
+    "collisions": [
+      "Belyi.smooth_localizationAway_mk_derivative"
+    ]
+  },
+  "Belyi/Polynomial/ReductionRational.lean": {
+    "checkedAt": "2026-10-29T10:10:57.694Z",
+    "collisions": [
+      "Belyi.critVal"
+    ]
+  },
+  "Belyi/SmoothLocusBaseChange.lean": {
+    "checkedAt": "2026-10-29T10:11:00.747Z",
+    "collisions": [
+      "Belyi.comap_support_subset_support_baseChange"
+    ]
+  },
+  "Belyi/AffineSmoothLocus.lean": {
+    "checkedAt": "2026-10-29T09:57:59.117Z",
+    "collisions": [
+      "Algebra.FormallySmooth.congr"
+    ]
+  },
+  "Belyi/Converse/BaseChange.lean": {
+    "checkedAt": "2026-10-29T09:57:59.444Z",
+    "collisions": [
+      "Belyi.Converse.tensorMapAlgebra"
+    ]
+  },
+  "Belyi/Converse/HomDescent.lean": {
+    "checkedAt": "2026-10-29T09:58:01.345Z",
+    "collisions": [
+      "Belyi.Converse.HomDescent.map_id_eq_rTensor",
+      "Belyi.Converse.HomDescent.map_inclusion_inclusion",
+      "Belyi.Converse.HomDescent.map_val_inclusion",
+      "Belyi.Converse.HomDescent.exists_fg_forall",
+      "Belyi.Converse.HomDescent.baseChangeHom"
+    ]
+  },
+  "Belyi/Converse/PathConnected.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T09:58:44.948Z"
+  },
+  "Belyi/Converse/PuncturedLine.lean": {
+    "checkedAt": "2026-10-29T09:59:03.360Z",
+    "collisions": [
+      "Belyi.P1Grading",
+      "Belyi.specAlgebraMap"
+    ]
+  },
+  "Belyi/Converse/Rigidity.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:00:22.791Z"
+  },
+  "Belyi/Cotangent.lean": {
+    "checkedAt": "2026-10-29T10:00:23.124Z",
+    "collisions": [
+      "Belyi.ker_algebraMap_residueField",
+      "Belyi.cotangentSpaceToTensor"
+    ]
+  },
+  "Belyi/CurveField/Canonical.lean": {
+    "checkedAt": "2026-10-29T10:00:46.443Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/CurveField/Chart.lean": {
+    "checkedAt": "2026-10-29T10:01:31.005Z",
+    "collisions": [
+      "Belyi.CurveField.chartRing",
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/CurveField/Fundamental.lean": {
+    "checkedAt": "2026-10-29T10:01:33.723Z",
+    "collisions": [
+      "Belyi.CurveField.primeBelow",
+      "Belyi.CurveField.IsCurveField",
+      "Belyi.CurveField.Place.ofHeightOne",
+      "Belyi.CurveField.chartRing"
+    ]
+  },
+  "Belyi/CurveField/KummerStep.lean": {
+    "checkedAt": "2026-10-29T10:07:47.529Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField",
+      "Belyi.CurveField.primeBelow"
+    ]
+  },
+  "Belyi/CurveField/RiemannRochSpace.lean": {
+    "checkedAt": "2026-10-29T10:20:28.867Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/DefinablePairFiniteDescent.lean": {
+    "checkedAt": "2026-10-29T10:22:31.783Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/EtaleLocusBaseChange.lean": {
+    "checkedAt": "2026-10-29T10:22:34.029Z",
+    "collisions": [
+      "Belyi.comap_support_subset_support_baseChange"
+    ]
+  },
+  "Belyi/Main.lean": {
+    "checkedAt": "2026-10-29T10:23:58.452Z",
+    "collisions": [
+      "Belyi.P1Grading",
+      "Belyi.specAlgebraMap"
+    ]
+  },
+  "Belyi/Marked.lean": {
+    "checkedAt": "2026-10-29T10:26:44.491Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/MarkedPair.lean": {
+    "checkedAt": "2026-10-29T10:28:10.163Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/NoncriticalP1/Analytic.lean": {
+    "checkedAt": "2026-10-29T10:28:11.774Z",
+    "collisions": [
+      "Belyi.NoncriticalP1.Qbar",
+      "Belyi.NoncriticalP1.ι"
+    ]
+  },
+  "Belyi/NoncriticalP1/Reduction.lean": {
+    "checkedAt": "2026-10-29T10:28:17.449Z",
+    "collisions": [
+      "Belyi.NoncriticalP1.Qbar",
+      "Belyi.critVal"
+    ]
+  },
+  "Belyi/P1/AffineChartBaseChange.lean": {
+    "checkedAt": "2026-10-29T10:28:27.465Z",
+    "collisions": [
+      "Belyi.P1Grading",
+      "Belyi.P1.awayι_eqToHom_transport",
+      "Belyi.P1.Away_mk_eqToHom"
+    ]
+  },
+  "Belyi/P1/BaseChangeTransport.lean": {
+    "checkedAt": "2026-10-29T10:28:29.871Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/PolynomialBranchLocus.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:28:42.551Z"
+  },
+  "Belyi/P1/PolynomialBranchMarked.lean": {
+    "checkedAt": "2026-10-29T10:29:59.264Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/SmoothLocusChartGlue.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:31:15.068Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/Polynomial/ReductionCombined.lean": {
+    "checkedAt": "2026-10-29T10:33:47.707Z",
+    "collisions": [
+      "Belyi.critVal"
+    ]
+  },
+  "Belyi/RationalMap.lean": {
+    "checkedAt": "2026-10-29T10:33:47.999Z",
+    "collisions": [
+      "AlgebraicGeometry.Scheme.Opens.fromSpecStalkOfMem_specializes"
+    ]
+  },
+  "Belyi/SmoothLocusEtaleLocus.lean": {
+    "checkedAt": "2026-10-29T10:33:51.212Z",
+    "collisions": [
+      "Belyi.subsingleton_localizedModule_of_free_of_isTorsion",
+      "Belyi.isTorsion_kaehlerDifferential_of_finite_charZero"
+    ]
+  },
+  "Belyi/SpecFiniteTypeLimit.lean": {
+    "checkedAt": "2026-10-29T10:33:52.629Z",
+    "collisions": [
+      "Belyi.SpecLimit.FGSub"
+    ]
+  },
+  "Belyi/Converse/FEtDescent.lean": {
+    "checkedAt": "2026-10-29T10:00:10.731Z",
+    "collisions": [
+      "Belyi.Converse.nonempty_algHom_of_isAlgClosed",
+      "Belyi.Converse.tensorMapAlgebra"
+    ]
+  },
+  "Belyi/Curve/Basic.lean": {
+    "checkedAt": "2026-10-29T10:00:39.569Z",
+    "collisions": [
+      "Belyi.IsCurveOver"
+    ]
+  },
+  "Belyi/CurveField/BelyiRelation.lean": {
+    "checkedAt": "2026-10-29T10:00:50.294Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/CurveField/Degree.lean": {
+    "checkedAt": "2026-10-29T10:00:55.844Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField",
+      "Belyi.CurveField.Place.chartResidue"
+    ]
+  },
+  "Belyi/CurveField/Extension.lean": {
+    "checkedAt": "2026-10-29T10:02:29.527Z",
+    "collisions": [
+      "Belyi.CurveField.primeBelow",
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/CurveField/NoncriticalBridge.lean": {
+    "checkedAt": "2026-10-29T10:03:41.042Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/CurveField/Point.lean": {
+    "checkedAt": "2026-10-29T10:03:58.858Z",
+    "collisions": [
+      "Belyi.CurveField.primeBelow",
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/CurveField/Rational.lean": {
+    "checkedAt": "2026-10-29T10:04:34.716Z",
+    "collisions": [
+      "Belyi.CurveField.IsRationalGenerator",
+      "Belyi.CurveField.IsCurveField",
+      "Belyi.CurveField.primeBelow"
+    ]
+  },
+  "Belyi/CurveField/Riemann.lean": {
+    "checkedAt": "2026-10-29T10:06:58.929Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField",
+      "Belyi.CurveField.primeBelow"
+    ]
+  },
+  "Belyi/Definable.lean": {
+    "checkedAt": "2026-10-29T10:08:42.700Z",
+    "collisions": [
+      "Belyi.specAlgebraMap"
+    ]
+  },
+  "Belyi/Forward.lean": {
+    "checkedAt": "2026-10-29T10:09:40.153Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/ForwardDefinable.lean": {
+    "checkedAt": "2026-10-29T10:11:34.447Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/ForwardPair.lean": {
+    "checkedAt": "2026-10-29T10:12:42.391Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/GaloisCoverFiniteness.lean": {
+    "checkedAt": "2026-10-29T10:14:02.557Z",
+    "collisions": [
+      "Belyi.TopologicallyFinitelyGenerated",
+      "Belyi.finite_monoidHom_of_fg"
+    ]
+  },
+  "Belyi/KaehlerRank.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:14:58.254Z"
+  },
+  "Belyi/P1/AffineChart0.lean": {
+    "checkedAt": "2026-10-29T10:14:59.080Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/BaseChange.lean": {
+    "checkedAt": "2026-10-29T10:15:00.073Z",
+    "collisions": [
+      "Belyi.P1Grading",
+      "AlgebraicGeometry.Proj.map_comp_toSpecZero"
+    ]
+  },
+  "Belyi/P1/BaseChangeIso.lean": {
+    "checkedAt": "2026-10-29T10:15:04.253Z",
+    "collisions": [
+      "Belyi.P1Grading",
+      "Belyi.P1.chartMap",
+      "Belyi.specAlgebraMap"
+    ]
+  },
+  "Belyi/P1/BelyiMapBaseChange.lean": {
+    "checkedAt": "2026-10-29T10:15:17.087Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/ChartCoord.lean": {
+    "checkedAt": "2026-10-29T10:15:19.932Z",
+    "collisions": [
+      "Belyi.P1Grading",
+      "Belyi.P1.awayChartEquivOne"
+    ]
+  },
+  "Belyi/P1/ClosedPoints.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:15:28.876Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/Curve.lean": {
+    "checkedAt": "2026-10-29T10:16:01.660Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/MarkedPointMatching.lean": {
+    "checkedAt": "2026-10-29T10:16:04.414Z",
+    "collisions": [
+      "MvPolynomial.finTwo_degree_eq_add",
+      "MvPolynomial.monomial_one_dvd_iff_forall_coeff",
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/PolynomialMapBranch.lean": {
+    "checkedAt": "2026-10-29T10:17:38.663Z",
+    "collisions": [
+      "Belyi.smooth_localizationAway_mk_derivative",
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/PolynomialMapImage.lean": {
+    "checkedAt": "2026-10-29T10:18:20.899Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/PolynomialMarkedBranch.lean": {
+    "checkedAt": "2026-10-29T10:19:14.868Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/Polynomial/CritVal.lean": {
+    "checkedAt": "2026-10-29T10:19:15.184Z",
+    "collisions": [
+      "Belyi.critVal"
+    ]
+  },
+  "Belyi/Polynomial/ReductionZeroOne.lean": {
+    "checkedAt": "2026-10-29T10:19:16.925Z",
+    "collisions": [
+      "Belyi.exists_eq_num_div_num_add_den",
+      "Belyi.affine",
+      "Belyi.critVal"
+    ]
+  },
+  "Belyi/Ramification.lean": {
+    "checkedAt": "2026-10-29T10:19:20.708Z",
+    "collisions": [
+      "Belyi.Ram",
+      "Belyi.eq_of_specializes_of_specializes"
+    ]
+  },
+  "Belyi/Rigidity.lean": {
+    "checkedAt": "2026-10-29T10:19:30.482Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/SmoothLocusSpecBaseChange.lean": {
+    "checkedAt": "2026-10-29T10:19:34.228Z",
+    "collisions": [
+      "Belyi.comap_support_subset_support_baseChange",
+      "Belyi.smoothLocus_preimage_subset"
+    ]
+  },
+  "Belyi/BelyiCoverRestrict.lean": {
+    "checkedAt": "2026-10-29T09:57:16.073Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/Converse/Main.lean": {
+    "checkedAt": "2026-10-29T09:58:41.495Z",
+    "collisions": [
+      "Belyi.Converse.tensorMapAlgebra"
+    ]
+  },
+  "Belyi/Converse/RigidityC.lean": {
+    "checkedAt": "2026-10-29T09:58:42.273Z",
+    "collisions": [
+      "Belyi.Converse.tensorMapAlgebra"
+    ]
+  },
+  "Belyi/Curve/B1Surjective.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T10:01:46.818Z",
+    "collisions": [
+      "Belyi.P1Grading",
+      "Belyi.instAlgebraFunctionField"
+    ]
+  },
+  "Belyi/Curve/Existence.lean": {
+    "checkedAt": "2026-10-29T10:02:30.334Z",
+    "collisions": [
+      "Belyi.IsCurveOver",
+      "Belyi.instAlgebraFunctionField"
+    ]
+  },
+  "Belyi/Curve/GeometricIntegralDescent.lean": {
+    "checkedAt": "2026-10-29T10:02:51.936Z",
+    "collisions": [
+      "AlgebraicGeometry.IsIntegral.of_flat_surjective"
+    ]
+  },
+  "Belyi/Curve/SmoothRelDimDescent.lean": {
+    "checkedAt": "2026-10-29T10:02:53.076Z",
+    "collisions": [
+      "Belyi.specAlgebraMap"
+    ]
+  },
+  "Belyi/Curve/ToP1.lean": {
+    "checkedAt": "2026-10-29T10:03:12.714Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/CurveDeriv/Basic.lean": {
+    "checkedAt": "2026-10-29T10:03:20.440Z",
+    "collisions": [
+      "Derivation.extendOfFormallyEtale"
+    ]
+  },
+  "Belyi/CurveField/Divisor.lean": {
+    "checkedAt": "2026-10-29T10:03:27.695Z",
+    "collisions": [
+      "Belyi.CurveField.primeBelow",
+      "Belyi.CurveField.IsCurveField"
+    ]
+  },
+  "Belyi/CurveField/RamIdx.lean": {
+    "checkedAt": "2026-10-29T10:05:40.022Z",
+    "collisions": [
+      "Belyi.CurveField.IsCurveField",
+      "Belyi.CurveField.primeBelow"
+    ]
+  },
+  "Belyi/DefinablePair.lean": {
+    "checkedAt": "2026-10-29T10:07:05.445Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/DefinablePairBranch.lean": {
+    "checkedAt": "2026-10-29T10:07:10.327Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/DefinablePairFinite.lean": {
+    "checkedAt": "2026-10-29T10:07:15.367Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/DefinablePairTower.lean": {
+    "checkedAt": "2026-10-29T10:07:20.036Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/FunctionField.lean": {
+    "checkedAt": "2026-10-29T10:07:23.938Z",
+    "collisions": [
+      "Belyi.instAlgebraFunctionField"
+    ]
+  },
+  "Belyi/NoncriticalP1/Main.lean": {
+    "checkedAt": "2026-10-29T10:07:29.267Z",
+    "collisions": [
+      "Belyi.NoncriticalP1.Qbar"
+    ]
+  },
+  "Belyi/P1/AffineMarkedPoint.lean": {
+    "checkedAt": "2026-10-29T10:07:44.618Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/BranchExtraction.lean": {
+    "checkedAt": "2026-10-29T10:09:02.354Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/Points.lean": {
+    "checkedAt": "2026-10-29T10:12:20.393Z",
+    "collisions": [
+      "Belyi.P1Grading",
+      "Belyi.P1.mkPoint"
+    ]
+  },
+  "Belyi/P1/PolynomialMap.lean": {
+    "checkedAt": "2026-10-29T10:12:24.254Z",
+    "collisions": [
+      "Belyi.P1Grading"
+    ]
+  },
+  "Belyi/P1/PolynomialMapInfty.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T10:14:36.841Z"
+  },
+  "Belyi/QuasiFiniteDescent.lean": {
+    "checkedAt": "2026-10-29T10:14:37.168Z",
+    "collisions": [
+      "Algebra.QuasiFinite.of_quasiFinite_tensorProduct_of_faithfullyFlat"
+    ]
+  },
+  "Belyi/RigidityGroupTheory.lean": {
+    "checkedAt": "2026-10-29T10:14:38.030Z",
+    "collisions": [
+      "Belyi.finite_monoidHom_of_fg"
+    ]
+  },
+  "Belyi/SmoothLocusBaseChangeAffineBase.lean": {
+    "checkedAt": "2026-10-29T10:14:47.375Z",
+    "collisions": [
+      "Algebra.FormallySmooth.congr"
+    ]
+  }
+}
