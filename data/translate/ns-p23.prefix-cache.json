@@ -1,0 +1,353 @@
+{
+  "P23/Artin/Coefficients.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:42:38.367Z"
+  },
+  "P23/Artin/MonomialAlgebra.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:42:41.510Z"
+  },
+  "P23/Artin/PureTraceObstructions.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:44:59.895Z"
+  },
+  "P23/Artin/ThreeBorderTraceTools.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:45:17.815Z"
+  },
+  "P23/Monomial/PlainCoefficients.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:45:33.440Z"
+  },
+  "P23/Monomial/PlainFourGeneratorShape.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:02:57.742Z"
+  },
+  "P23/Monomial/PlainSevenBox.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:03:26.181Z"
+  },
+  "P23/OneTie/ReorientedPureResidual.lean": {
+    "checkedAt": "2026-10-29T14:05:03.448Z",
+    "collisions": [
+      "P23.Presentation.Q"
+    ]
+  },
+  "P23/OneTie/RhoFourMixedClassification.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:11:22.702Z"
+  },
+  "P23/OneTie/SemanticBorder.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:11:26.013Z"
+  },
+  "P23/OneTie/SocleDownset.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:11:28.515Z"
+  },
+  "P23/Presentation/PolynomialTie.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T14:15:09.664Z"
+  },
+  "P23/Presentation/QuotientLocalSocle.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:22:38.296Z"
+  },
+  "P23/Semigroup/AperyResidues.lean": {
+    "checkedAt": "2026-10-29T14:22:59.636Z",
+    "collisions": [
+      "P23.Semigroup.FourGeneratedNumericalSemigroup.apery_eq_of_le_residue"
+    ]
+  },
+  "P23/Semigroup/ChosenBaseType.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T14:23:50.493Z"
+  },
+  "P23/Semigroup/FourGenerated.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T14:30:05.435Z",
+    "collisions": [
+      "P23.Semigroup.FourGeneratedNumericalSemigroup.weighted_term_le"
+    ]
+  },
+  "P23/Semigroup/OneTieNormalization.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:39:10.095Z"
+  },
+  "P23/Semigroup/PseudoFrobenius.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T14:39:19.190Z",
+    "collisions": [
+      "P23.Semigroup.FourGeneratedNumericalSemigroup.exists_generator_add_of_ne_zero",
+      "P23.Semigroup.FourGeneratedNumericalSemigroup.pfToApery_val",
+      "P23.Semigroup.FourGeneratedNumericalSemigroup.pfToApery_injective"
+    ]
+  },
+  "P23/Monomial/PlainLocalSocle.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:41:53.540Z"
+  },
+  "P23/Monomial/PlainNoFive.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:00:28.910Z"
+  },
+  "P23/Monomial/PlainNoFiveFamilies.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:00:33.547Z"
+  },
+  "P23/OneTie/CoverBorderBound.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:01:07.683Z"
+  },
+  "P23/OneTie/DominantReduction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:04:37.206Z"
+  },
+  "P23/OneTie/GeometryClosure.lean": {
+    "checkedAt": "2026-10-29T14:09:22.612Z",
+    "collisions": [
+      "P23.OneTie.a_pos"
+    ]
+  },
+  "P23/OneTie/PureResidualThreeBorder.lean": {
+    "checkedAt": "2026-10-29T14:19:07.666Z",
+    "collisions": [
+      "P23.Presentation.Q"
+    ]
+  },
+  "P23/OneTie/ThreeBorderSupport.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T14:27:04.496Z"
+  },
+  "P23/Semigroup/AperyQuotient.lean": {
+    "checkedAt": "2026-10-29T14:27:24.963Z",
+    "collisions": [
+      "P23.Semigroup.SemigroupAlgebra",
+      "P23.Semigroup.AperyArtin.A_assoc",
+      "P23.Semigroup.AperyArtin.A_comm",
+      "P23.Semigroup.AperyArtin.one_mul_A",
+      "P23.Semigroup.AperyArtin.A_mul_one"
+    ]
+  },
+  "P23/Semigroup/ChosenBaseCanonicalQuotient.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:30:25.800Z"
+  },
+  "P23/Semigroup/ChosenBasePlainTrace.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T15:20:04.280Z"
+  },
+  "P23/Semigroup/NormalizedMonomialIdeal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T15:31:32.547Z"
+  },
+  "P23/Artin/HL5Direct.lean": {
+    "checkedAt": "2026-10-29T13:55:54.151Z",
+    "collisions": [
+      "P23.OneTie.a_pos"
+    ]
+  },
+  "P23/Monomial/PlainArtin.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T16:27:15.836Z"
+  },
+  "P23/OneTie/Border.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T16:33:03.355Z"
+  },
+  "P23/OneTie/BorderDeterminesDownset.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T16:33:56.472Z"
+  },
+  "P23/OneTie/CoreBorderBounds.lean": {
+    "checkedAt": "2026-10-29T16:35:19.711Z",
+    "collisions": [
+      "P23.OneTie.a_pos"
+    ]
+  },
+  "P23/OneTie/MixedCases.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T16:48:23.738Z"
+  },
+  "P23/OneTie/PrincipalBorder.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:42:54.106Z"
+  },
+  "P23/OneTie/RhoFourMixedGeometry.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:50:21.009Z"
+  },
+  "P23/Presentation/KernelMinimality.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:50:22.968Z"
+  },
+  "P23/Presentation/QuotientDualTrace.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:54:39.312Z"
+  },
+  "P23/Semigroup/BettiLowerDegree.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T18:01:48.620Z"
+  },
+  "P23/Semigroup/ChosenBaseRelationSpace.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T18:21:28.632Z"
+  },
+  "P23/Semigroup/DominantAperyPivot.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T18:43:03.112Z"
+  },
+  "P23/Semigroup/GapReflection.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T18:45:10.505Z"
+  },
+  "P23/Semigroup/NumericalInvariants.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T18:45:16.038Z"
+  },
+  "P23/Algebra/SevenBoxResidueObstruction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:26:02.328Z"
+  },
+  "P23/Artin/CanonicalRelations.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:26:17.024Z"
+  },
+  "P23/Artin/LocalSocle.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:26:38.981Z"
+  },
+  "P23/Artin/Trace.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:26:49.449Z"
+  },
+  "P23/Artin/TraceToCentre.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:26:50.976Z"
+  },
+  "P23/Monomial/PlainSmallPresentation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:26:54.571Z"
+  },
+  "P23/OneTie/CoverShapes.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:30:34.845Z"
+  },
+  "P23/OneTie/NormalForm.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T17:34:11.345Z",
+    "collisions": [
+      "P23.OneTie.Normal.positive",
+      "P23.OneTie.Normal.div_normalize_add"
+    ]
+  },
+  "P23/OneTie/PureCases.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:34:29.348Z"
+  },
+  "P23/OneTie/PureReorientation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:34:32.766Z"
+  },
+  "P23/OneTie/TopDeletion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:35:06.434Z"
+  },
+  "P23/Presentation/MonomialQuotient.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T17:36:50.742Z"
+  },
+  "P23/Semigroup/AperyDualTrace.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T18:27:33.290Z"
+  },
+  "P23/Semigroup/BaseAdaptedPresentation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T18:41:00.202Z",
+    "collisions": [
+      "P23.Semigroup.FourGeneratedNumericalSemigroup.baseSupportComponent",
+      "P23.Semigroup.FourGeneratedNumericalSemigroup.baseUsingFactorization",
+      "P23.Semigroup.FourGeneratedNumericalSemigroup.FactorizationAt"
+    ]
+  },
+  "P23/Artin/CanonicalDual.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:41:17.392Z"
+  },
+  "P23/Artin/ThreeBorderSymmetry.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:41:25.726Z"
+  },
+  "P23/Monomial/PlainCanonicalDual.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T13:41:32.532Z"
+  },
+  "P23/Monomial/PlainGeometry.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T14:02:53.006Z"
+  },
+  "P23/Monomial/PlainSocle.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:40:46.087Z"
+  },
+  "P23/OneTie/H5Cover.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:41:00.457Z"
+  },
+  "P23/OneTie/NonDominantRows.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:41:05.591Z"
+  },
+  "P23/OneTie/RhoFourMixed.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:45:00.846Z"
+  },
+  "P23/OneTie/ThreeBorderGeometry.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:48:19.248Z"
+  },
+  "P23/OneTie/TwoBorderTypeOne.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:54:12.575Z"
+  },
+  "P23/Presentation/FinitePolynomialQuotient.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:54:44.176Z"
+  },
+  "P23/Presentation/HL5Quotient.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:55:26.920Z"
+  },
+  "P23/Presentation/PolynomialBorder.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T14:56:33.655Z"
+  },
+  "P23/Semigroup/AperyGenus.lean": {
+    "status": "clean",
+    "checkedAt": "2026-10-29T14:56:40.196Z"
+  },
+  "P23/Semigroup/BettiFibers.lean": {
+    "checkedAt": "2026-10-29T15:00:22.114Z",
+    "collisions": [
+      "P23.Semigroup.FourGeneratedNumericalSemigroup.FactorizationAt",
+      "P23.Semigroup.FourGeneratedNumericalSemigroup.singleton_degree_lt_impossible"
+    ]
+  },
+  "P23/Semigroup/ChosenBase.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T15:01:25.454Z"
+  },
+  "P23/Semigroup/Rho.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-29T18:45:49.065Z"
+  },
+  "P23/Semigroup/ToricPresentation.lean": {
+    "checkedAt": "2026-10-29T18:50:32.300Z",
+    "collisions": [
+      "P23.Semigroup.FourGeneratedNumericalSemigroup.generator_product",
+      "P23.Semigroup.FourPoly",
+      "P23.Semigroup.SemigroupAlgebra",
+      "P23.Semigroup.FourGeneratedNumericalSemigroup.FactorizationAt"
+    ]
+  }
+}
