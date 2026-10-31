@@ -349,5 +349,21 @@
       "P23.Semigroup.SemigroupAlgebra",
       "P23.Semigroup.FourGeneratedNumericalSemigroup.FactorizationAt"
     ]
+  },
+  "P23/Semigroup/RhoFourResidualSource.lean": {
+    "checkedAt": "2026-10-31T21:53:49.080Z",
+    "collisions": [
+      "P23.Presentation.Q"
+    ]
+  },
+  "P23/Semigroup/RhoFourTaggedDegree.lean": {
+    "status": "broken",
+    "checkedAt": "2026-10-31T22:10:09.881Z"
+  },
+  "P23/Semigroup/TaggedDominantBase.lean": {
+    "checkedAt": "2026-10-31T22:21:51.209Z",
+    "collisions": [
+      "P23.OneTie.a_pos"
+    ]
   }
 }
