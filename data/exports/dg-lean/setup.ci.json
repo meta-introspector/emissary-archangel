@@ -1,0 +1,36 @@
+{
+  "key": "dg-lean",
+  "repo": "https://github.com/apellis/dg-lean",
+  "commit": "161db4ede65f2dd359263a301c33ec39036988eb",
+  "toolchain": "leanprover/lean4:v4.34.1",
+  "roots": [
+    "DG"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/dg-lean/repo",
+  "entries": 6288,
+  "modules": 330,
+  "exported": 330,
+  "failed": [],
+  "expansion": {
+    "expanded": 683,
+    "verbatim": 5808,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 6293,
+    "kept": 6288,
+    "skippedRoot": 5,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 1186,
+    "lineUnverified": 4,
+    "nameFixed": 6288,
+    "sorryOriginals": 0,
+    "emptyProofs": 1
+  },
+  "exportsBytes": 2260525056,
+  "minutes": 72,
+  "finishedAt": "2026-11-02T21:31:48.907Z"
+}
