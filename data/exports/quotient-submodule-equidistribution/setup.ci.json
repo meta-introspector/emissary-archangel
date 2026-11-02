@@ -1,0 +1,37 @@
+{
+  "key": "quotient-submodule-equidistribution",
+  "repo": "https://github.com/haruhisa-enomoto/quotient-submodule-equidistribution",
+  "commit": "20ee4b964a9174b15304ac96485beeb73be113d8",
+  "toolchain": "leanprover/lean4:v4.32.0",
+  "roots": [
+    "MainResults",
+    "QuotientSubmoduleEquidistribution"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/quotient-submodule-equidistribution/repo",
+  "entries": 7286,
+  "modules": 659,
+  "exported": 659,
+  "failed": [],
+  "expansion": {
+    "expanded": 16,
+    "verbatim": 451,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 7292,
+    "kept": 7286,
+    "skippedRoot": 6,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 632,
+    "lineUnverified": 20,
+    "nameFixed": 7286,
+    "sorryOriginals": 0,
+    "emptyProofs": 1
+  },
+  "exportsBytes": 2113912832,
+  "minutes": 66,
+  "finishedAt": "2026-11-02T21:26:05.077Z"
+}
