@@ -1,0 +1,40 @@
+{
+  "key": "hodge-structures-lean4",
+  "repo": "https://github.com/thebookersmith/hodge-structures-lean4",
+  "commit": "34b95abdcf49fbe107884e1f65202107c7a2e52c",
+  "toolchain": "leanprover/lean4:v4.31.0",
+  "roots": [
+    "Challenge",
+    "ChallengeExt",
+    "HodgePilot",
+    "Solution",
+    "SolutionExt"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/hodge-structures-lean4/repo",
+  "entries": 3481,
+  "modules": 146,
+  "exported": 146,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 1107,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 3537,
+    "kept": 3481,
+    "skippedRoot": 56,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 122,
+    "lineUnverified": 0,
+    "nameFixed": 3481,
+    "sorryOriginals": 0,
+    "emptyProofs": 1
+  },
+  "exportsBytes": 294727680,
+  "minutes": 31,
+  "finishedAt": "2026-11-02T20:51:41.168Z"
+}

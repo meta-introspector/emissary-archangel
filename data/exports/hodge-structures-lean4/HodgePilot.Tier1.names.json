@@ -1,0 +1,1 @@
+{"names":["HodgePilot.sigmaR","HodgePilot.sigmaR.eq_1","HodgePilot.sigmaR_tmul"],"modules":["HodgePilot.Tier1"],"moduleOf":{"HodgePilot.sigmaR":"HodgePilot.Tier1","HodgePilot.sigmaR.eq_1":"HodgePilot.Tier1","HodgePilot.sigmaR_tmul":"HodgePilot.Tier1"},"deps":{"HodgePilot.sigmaR":[],"HodgePilot.sigmaR.eq_1":["HodgePilot.sigmaR"],"HodgePilot.sigmaR_tmul":["HodgePilot.sigmaR"]}}
