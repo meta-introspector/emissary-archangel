@@ -1,0 +1,41 @@
+{
+  "key": "theorem-a-fp-groups",
+  "repo": "https://github.com/laurentbartholdi/theorem-a-fp-groups",
+  "commit": "8970db6b7cc8ec2567dae486e48f34cf9226fe58",
+  "toolchain": "leanprover/lean4:v4.35.0-rc2",
+  "roots": [
+    "RequestProject"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/theorem-a-fp-groups/repo",
+  "entries": 1772,
+  "modules": 119,
+  "exported": 119,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": [
+      {
+        "module": "RequestProject.TheoremA.RelPres.Checker",
+        "why": "Command failed: lake env lean -M 12288 --run /home/runner/work/emissary-archangel/emissary-archangel/scripts/expand-notations.lean /home/runner/work/emissary-archangel/emissary-archangel/data/exports/theorem-a-fp-groups RequestProject RequestProject.TheoremA.RelPres.Checker "
+      }
+    ]
+  },
+  "seed": {
+    "records": 1773,
+    "kept": 1772,
+    "skippedRoot": 1,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 1772,
+    "sorryOriginals": 0,
+    "emptyProofs": 6
+  },
+  "exportsBytes": 126607360,
+  "minutes": 11,
+  "finishedAt": "2026-11-02T20:31:04.181Z"
+}
