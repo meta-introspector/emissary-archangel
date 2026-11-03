@@ -1,0 +1,115 @@
+{
+  "HasseMinkowski/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-03T02:37:05.948Z",
+    "collisions": [
+      "QuadraticMap.IsometryEquiv.baseChange"
+    ]
+  },
+  "HasseMinkowski/HasseInvariant.lean": {
+    "checkedAt": "2026-11-03T02:37:21.646Z",
+    "collisions": [
+      "HasseMinkowski.hasseMinkowskiInvAux"
+    ]
+  },
+  "HasseMinkowski/HighRank.lean": {
+    "checkedAt": "2026-11-03T02:37:44.772Z",
+    "collisions": [
+      "QuadraticMap.IsometryEquiv.baseChange"
+    ]
+  },
+  "HasseMinkowski/HilbertSymbol/Local.lean": {
+    "checkedAt": "2026-11-03T02:41:07.337Z",
+    "collisions": [
+      "QuadraticMap.IsometryEquiv.baseChange"
+    ]
+  },
+  "HasseMinkowski/HilbertSymbol/Padic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-03T02:55:15.026Z"
+  },
+  "HasseMinkowski/HilbertSymbol/Reciprocity.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-03T02:59:10.153Z"
+  },
+  "HasseMinkowski/Legendre.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-03T03:02:29.948Z"
+  },
+  "HasseMinkowski/Locally.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-03T03:02:31.785Z",
+    "collisions": [
+      "QuadraticMap.IsometryEquiv.baseChange"
+    ]
+  },
+  "HasseMinkowski/RankFour.lean": {
+    "checkedAt": "2026-11-03T03:04:06.720Z",
+    "collisions": [
+      "QuadraticMap.IsometryEquiv.baseChange"
+    ]
+  },
+  "HasseMinkowski/RankThree.lean": {
+    "checkedAt": "2026-11-03T03:13:33.173Z",
+    "collisions": [
+      "QuadraticMap.IsometryEquiv.baseChange"
+    ]
+  },
+  "HasseMinkowski/RankTwo.lean": {
+    "checkedAt": "2026-11-03T03:13:59.910Z",
+    "collisions": [
+      "QuadraticMap.IsometryEquiv.baseChange"
+    ]
+  },
+  "HasseMinkowski/RatApproximation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-03T03:14:13.108Z"
+  },
+  "HasseMinkowski/HilbertSymbol/Defs.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-03T02:36:50.213Z"
+  },
+  "HasseMinkowski/HilbertSymbol/Existence.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-03T02:38:38.774Z"
+  },
+  "HasseMinkowski/HilbertSymbol/Norm.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-03T02:38:43.438Z"
+  },
+  "HasseMinkowski/HilbertSymbol/Real.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-03T02:38:52.698Z"
+  },
+  "HasseMinkowski/HilbertSymbol/Two.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-03T02:39:18.624Z"
+  },
+  "HasseMinkowski/Main.lean": {
+    "checkedAt": "2026-11-03T02:39:23.350Z",
+    "collisions": [
+      "QuadraticMap.IsometryEquiv.baseChange"
+    ]
+  },
+  "HasseMinkowski/Padics/Squares.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-03T02:51:39.426Z"
+  },
+  "HasseMinkowski/Prod.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-03T02:51:55.800Z",
+    "collisions": [
+      "QuadraticMap.IsometryEquiv.baseChange"
+    ]
+  },
+  "HasseMinkowski/RankCriteria.lean": {
+    "checkedAt": "2026-11-03T02:52:32.614Z",
+    "collisions": [
+      "QuadraticMap.IsometryEquiv.baseChange"
+    ]
+  },
+  "HasseMinkowski/RatSquares.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-03T02:54:21.396Z"
+  }
+}
