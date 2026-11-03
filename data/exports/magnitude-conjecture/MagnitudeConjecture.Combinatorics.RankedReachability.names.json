@@ -1,0 +1,1 @@
+{"names":["MagnitudeConjecture.RankedReachability.source_reaches"],"modules":["MagnitudeConjecture.Combinatorics.RankedReachability"],"moduleOf":{"MagnitudeConjecture.RankedReachability.source_reaches":"MagnitudeConjecture.Combinatorics.RankedReachability"},"deps":{"MagnitudeConjecture.RankedReachability.source_reaches":[]}}

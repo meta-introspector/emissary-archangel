@@ -1,0 +1,47 @@
+{
+  "key": "magnitude-conjecture",
+  "repo": "https://github.com/haruhisa-enomoto/magnitude-conjecture",
+  "commit": "127bbee7284d729d593b67c88fa36e7d9eedc450",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "roots": [
+    "Challenge",
+    "MagnitudeConjecture",
+    "Solution"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/magnitude-conjecture/repo",
+  "entries": 7258,
+  "modules": 1007,
+  "exported": 1005,
+  "failed": [
+    {
+      "module": "MagnitudeConjecture.Algebra.RightModuleIntervalEquality",
+      "why": "closure too large for argv (15302 names)"
+    },
+    {
+      "module": "MagnitudeConjecture.Algebra.RightModuleIntervalProof",
+      "why": "closure too large for argv (15681 names)"
+    }
+  ],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 7263,
+    "kept": 7258,
+    "skippedRoot": 5,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 1046,
+    "lineUnverified": 2,
+    "nameFixed": 7249,
+    "sorryOriginals": 0,
+    "emptyProofs": 1
+  },
+  "exportsBytes": 4259225600,
+  "minutes": 258,
+  "finishedAt": "2026-11-03T00:37:39.179Z"
+}
