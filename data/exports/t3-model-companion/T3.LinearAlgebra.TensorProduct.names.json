@@ -1,0 +1,1 @@
+{"names":["TensorProduct.tmul_ne_zero","TensorProduct.map_ker_eq_map₂"],"modules":["T3.LinearAlgebra.TensorProduct"],"moduleOf":{"TensorProduct.tmul_ne_zero":"T3.LinearAlgebra.TensorProduct","TensorProduct.map_ker_eq_map₂":"T3.LinearAlgebra.TensorProduct"},"deps":{"TensorProduct.tmul_ne_zero":[],"TensorProduct.map_ker_eq_map₂":[]}}
