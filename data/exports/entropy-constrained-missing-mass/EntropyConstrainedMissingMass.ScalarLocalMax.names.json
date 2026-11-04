@@ -1,0 +1,1 @@
+{"names":["EntropyConstrainedMissingMass.second_derivative_nonpos_of_localMax"],"modules":["EntropyConstrainedMissingMass.ScalarLocalMax"],"moduleOf":{"EntropyConstrainedMissingMass.second_derivative_nonpos_of_localMax":"EntropyConstrainedMissingMass.ScalarLocalMax"},"deps":{"EntropyConstrainedMissingMass.second_derivative_nonpos_of_localMax":[]}}

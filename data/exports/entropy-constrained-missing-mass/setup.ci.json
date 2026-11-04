@@ -1,0 +1,36 @@
+{
+  "key": "entropy-constrained-missing-mass",
+  "repo": "https://github.com/long-mathematics/entropy-constrained-missing-mass",
+  "commit": "cfc6f0e70596b36c2309cccbb931a1c84f63ad7f",
+  "toolchain": "leanprover/lean4:v4.34.0",
+  "roots": [
+    "EntropyConstrainedMissingMass"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/entropy-constrained-missing-mass/repo",
+  "entries": 1231,
+  "modules": 111,
+  "exported": 111,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 1231,
+    "kept": 1231,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 1231,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 43032576,
+  "minutes": 7,
+  "finishedAt": "2026-11-04T18:10:42.088Z"
+}
