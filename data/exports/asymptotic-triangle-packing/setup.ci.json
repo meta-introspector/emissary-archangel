@@ -1,0 +1,38 @@
+{
+  "key": "asymptotic-triangle-packing",
+  "repo": "https://github.com/jtraverso/asymptotic-triangle-packing",
+  "commit": "760e503972aad8ca9da7904ce72e5cce405f5991",
+  "toolchain": "leanprover/lean4:v4.35.0-rc3",
+  "roots": [
+    "Challenge",
+    "LeanPool",
+    "Solution"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/asymptotic-triangle-packing/repo",
+  "entries": 987,
+  "modules": 51,
+  "exported": 51,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 997,
+    "kept": 987,
+    "skippedRoot": 10,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 987,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 24092672,
+  "minutes": 8,
+  "finishedAt": "2026-11-04T18:13:33.950Z"
+}
