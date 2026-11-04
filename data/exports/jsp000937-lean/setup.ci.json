@@ -1,0 +1,41 @@
+{
+  "key": "jsp000937-lean",
+  "repo": "https://github.com/randyxian08/jsp000937-lean",
+  "commit": "4d7493e7e730597877c38bd750bf02839863b68a",
+  "toolchain": "leanprover/lean4:v4.33.0",
+  "roots": [
+    "Erdos1153"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/jsp000937-lean/repo",
+  "entries": 1310,
+  "modules": 77,
+  "exported": 76,
+  "failed": [
+    {
+      "module": "Erdos1153.ClassicalBound.Synchronization",
+      "why": "no closure"
+    }
+  ],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 1310,
+    "kept": 1310,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 119,
+    "lineUnverified": 0,
+    "nameFixed": 1310,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 44163072,
+  "minutes": 5,
+  "finishedAt": "2026-11-04T18:04:37.763Z"
+}
