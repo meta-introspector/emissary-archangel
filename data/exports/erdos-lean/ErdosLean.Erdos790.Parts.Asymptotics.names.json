@@ -1,0 +1,1 @@
+{"names":["Erdos790.asymptotics","Erdos790.asymptotics_key"],"modules":["ErdosLean.Erdos790.Parts.Asymptotics"],"moduleOf":{"Erdos790.asymptotics":"ErdosLean.Erdos790.Parts.Asymptotics","Erdos790.asymptotics_key":"ErdosLean.Erdos790.Parts.Asymptotics"},"deps":{"Erdos790.asymptotics":["Erdos790.asymptotics_key"],"Erdos790.asymptotics_key":[]}}
