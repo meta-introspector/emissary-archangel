@@ -1,0 +1,270 @@
+{
+  "Row12/AngularNormalForm.lean": {
+    "checkedAt": "2026-11-07T15:04:27.603Z",
+    "collisions": [
+      "Row12.angularNFWeight"
+    ]
+  },
+  "Row12/BetaMoments.lean": {
+    "checkedAt": "2026-11-07T15:04:30.153Z",
+    "collisions": [
+      "Row12.gammaMoment"
+    ]
+  },
+  "Row12/BetaPoles.lean": {
+    "checkedAt": "2026-11-07T15:04:36.691Z",
+    "collisions": [
+      "Row12.coefficient",
+      "Row12.scalarLambda"
+    ]
+  },
+  "Row12/CircleParametric.lean": {
+    "checkedAt": "2026-11-07T15:04:39.566Z",
+    "collisions": [
+      "Row12.circleParametric_hasDerivAt",
+      "Row12.circleIntegral_exactDerivative"
+    ]
+  },
+  "Row12/EscapeNumerator.lean": {
+    "checkedAt": "2026-11-07T15:04:40.272Z",
+    "collisions": [
+      "Row12.escapePoint"
+    ]
+  },
+  "Row12/NativeSeries.lean": {
+    "checkedAt": "2026-11-07T15:04:41.419Z",
+    "collisions": [
+      "Row12.factorial_three_step"
+    ]
+  },
+  "Row12/Normalization.lean": {
+    "checkedAt": "2026-11-07T15:04:41.783Z",
+    "collisions": [
+      "Row12.betaNormalizer"
+    ]
+  },
+  "Row12/OuterPrimitive.lean": {
+    "checkedAt": "2026-11-07T15:04:43.495Z",
+    "collisions": [
+      "Row12.outerPrimitiveBasis"
+    ]
+  },
+  "Row12/ScalarEvaluation.lean": {
+    "checkedAt": "2026-11-07T15:04:45.513Z",
+    "collisions": [
+      "Row12.coefficient"
+    ]
+  },
+  "Row12EulerSupport/DominatedLimit.lean": {
+    "checkedAt": "2026-11-07T15:04:45.856Z",
+    "collisions": [
+      "Row12EulerSupport.endpointRatio"
+    ]
+  },
+  "Row12GaussGauge/Algebra.lean": {
+    "checkedAt": "2026-11-07T15:04:49.465Z",
+    "collisions": [
+      "Row12GaussGauge.gaugeRatio"
+    ]
+  },
+  "Row12GaussGauge/Pullback.lean": {
+    "checkedAt": "2026-11-07T15:05:01.912Z",
+    "collisions": [
+      "Row12GaussGauge.theta_second_eq"
+    ]
+  },
+  "Row12/BetaContourAnalytic.lean": {
+    "checkedAt": "2026-11-07T15:04:30.882Z",
+    "collisions": [
+      "Row12.betaFluxIntegrand"
+    ]
+  },
+  "Row12/BetaFrame.lean": {
+    "checkedAt": "2026-11-07T15:04:31.221Z",
+    "collisions": [
+      "Row12.betaFrameRho"
+    ]
+  },
+  "Row12/Coefficient.lean": {
+    "checkedAt": "2026-11-07T15:04:35.757Z",
+    "collisions": [
+      "Row12.coefficient",
+      "Row12.successorProduct"
+    ]
+  },
+  "Row12/FixedInnerEndpoint.lean": {
+    "checkedAt": "2026-11-07T15:04:37.960Z",
+    "collisions": [
+      "Row12.fixedCircleIntegral_tendsto_of_continuousOn"
+    ]
+  },
+  "Row12/GaussQuadratic.lean": {
+    "checkedAt": "2026-11-07T15:04:38.317Z",
+    "collisions": [
+      "Row12.gaussP"
+    ]
+  },
+  "Row12/MovingPoleContour.lean": {
+    "checkedAt": "2026-11-07T15:04:41.181Z",
+    "collisions": [
+      "Row12.singlePole_annulus_integral"
+    ]
+  },
+  "Row12/ScalarSeriesIntegral.lean": {
+    "checkedAt": "2026-11-07T15:04:41.503Z",
+    "collisions": [
+      "Row12.coefficient"
+    ]
+  },
+  "Row12/SixthSeries.lean": {
+    "checkedAt": "2026-11-07T15:04:42.076Z",
+    "collisions": [
+      "Row12.sixthPolynomial_expansion"
+    ]
+  },
+  "Row12/SymmetricSquare.lean": {
+    "checkedAt": "2026-11-07T15:04:42.446Z",
+    "collisions": [
+      "Row12.formalTheta"
+    ]
+  },
+  "Row12/UniformMoment.lean": {
+    "checkedAt": "2026-11-07T15:04:45.549Z",
+    "collisions": [
+      "Row12.uniformMoment"
+    ]
+  },
+  "Row12EulerSupport/UpperEndpoint.lean": {
+    "checkedAt": "2026-11-07T15:04:47.200Z",
+    "collisions": [
+      "Row12EulerSupport.betaBalanced"
+    ]
+  },
+  "Row12EulerSupport/UpperMatrixBound.lean": {
+    "checkedAt": "2026-11-07T15:08:41.956Z",
+    "collisions": [
+      "Row12EulerSupport.upperMid_factor",
+      "Row12EulerSupport.upperEllM_factor",
+      "Row12EulerSupport.upperLP_continuous",
+      "Row12EulerSupport.upperRP_continuous",
+      "Row12EulerSupport.upper_polynomial_bounds",
+      "Row12EulerSupport.upperBetaNumerator_bound"
+    ]
+  },
+  "Row12GaussGauge/Factor.lean": {
+    "checkedAt": "2026-11-07T15:08:53.478Z",
+    "collisions": [
+      "Row12GaussGauge.gaugeMuPrime"
+    ]
+  },
+  "Row12GaussGauge/HBridge.lean": {
+    "checkedAt": "2026-11-07T15:08:54.129Z",
+    "collisions": [
+      "Row12GaussGauge.hV1"
+    ]
+  },
+  "Row12/AngularContour.lean": {
+    "checkedAt": "2026-11-07T15:08:27.311Z",
+    "collisions": [
+      "Row12.angularNFParameterValue"
+    ]
+  },
+  "Row12/BetaPoleResidue.lean": {
+    "checkedAt": "2026-11-07T15:08:28.100Z",
+    "collisions": [
+      "Row12.twoPole_partialFraction"
+    ]
+  },
+  "Row12/Convergence.lean": {
+    "checkedAt": "2026-11-07T15:08:28.811Z",
+    "collisions": [
+      "Row12.coefficient"
+    ]
+  },
+  "Row12/DualFrame.lean": {
+    "checkedAt": "2026-11-07T15:08:31.329Z",
+    "collisions": [
+      "Row12.nativeEulerConnection"
+    ]
+  },
+  "Row12/EscapeRemovable.lean": {
+    "checkedAt": "2026-11-07T15:08:32.590Z",
+    "collisions": [
+      "Row12.negativePole_derivative_leading"
+    ]
+  },
+  "Row12/GaussSeries.lean": {
+    "checkedAt": "2026-11-07T15:08:33.577Z",
+    "collisions": [
+      "Row12.gaussCoefficient"
+    ]
+  },
+  "Row12/Kernel.lean": {
+    "checkedAt": "2026-11-07T15:08:34.935Z",
+    "collisions": [
+      "Row12.coefficient"
+    ]
+  },
+  "Row12/OuterEndpoint.lean": {
+    "checkedAt": "2026-11-07T15:08:35.808Z",
+    "collisions": [
+      "Row12.OuterEndpointVector"
+    ]
+  },
+  "Row12/OuterEndpointApplication.lean": {
+    "checkedAt": "2026-11-07T15:08:40.523Z",
+    "collisions": [
+      "Row12.outerEndpointTail"
+    ]
+  },
+  "Row12/Residue.lean": {
+    "checkedAt": "2026-11-07T15:08:42.046Z",
+    "collisions": [
+      "Row12.contactStateMatrix"
+    ]
+  },
+  "Row12/ScalarLoaded.lean": {
+    "checkedAt": "2026-11-07T15:08:43.470Z",
+    "collisions": [
+      "Row12.coefficient"
+    ]
+  },
+  "Row12EulerSupport/FunctionBound.lean": {
+    "checkedAt": "2026-11-07T15:14:48.911Z",
+    "collisions": [
+      "Row12EulerSupport.functionIntegralBase_lower",
+      "Row12EulerSupport.eulerFunctionIntegrand_integrable",
+      "Row12EulerSupport.eulerFunctionIntegral_nonneg"
+    ]
+  },
+  "Row12EulerSupport/Substitution.lean": {
+    "checkedAt": "2026-11-07T15:14:50.797Z",
+    "collisions": [
+      "Row12EulerSupport.endpointMap"
+    ]
+  },
+  "Row12EulerSupport/UpperNativeBound.lean": {
+    "checkedAt": "2026-11-07T15:14:53.335Z",
+    "collisions": [
+      "Row12EulerSupport.upperNativeCoefficient_one",
+      "Row12EulerSupport.upperNativeEuler_zero",
+      "Row12EulerSupport.upperNativeEuler_analyticAt_zero"
+    ]
+  },
+  "Row12EulerSupport/UpperPoleBound.lean": {
+    "checkedAt": "2026-11-07T15:14:56.994Z",
+    "collisions": [
+      "Row12EulerSupport.upper_scalarMid_lower",
+      "Row12EulerSupport.upper_radius_le_quarter",
+      "Row12EulerSupport.upper_scalarDenom_lower",
+      "Row12EulerSupport.upper_lambda_norm",
+      "Row12EulerSupport.upper_circle_nonzero"
+    ]
+  },
+  "Row12EulerSupport/Wronskian.lean": {
+    "checkedAt": "2026-11-07T15:15:00.347Z",
+    "collisions": [
+      "Row12EulerSupport.gaussScaledWronskian"
+    ]
+  }
+}
