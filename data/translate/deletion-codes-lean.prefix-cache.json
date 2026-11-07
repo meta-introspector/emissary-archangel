@@ -1,0 +1,241 @@
+{
+  "DeletionCode/ClosedWalk.lean": {
+    "checkedAt": "2026-11-07T15:30:42.376Z",
+    "collisions": [
+      "DeletionCode.ClosedWalk.sum_displacements"
+    ]
+  },
+  "DeletionCode/DescriptionCount.lean": {
+    "checkedAt": "2026-11-07T15:30:42.991Z",
+    "collisions": [
+      "DeletionCode.DescriptionCount.fieldBound"
+    ]
+  },
+  "DeletionCode/FiniteDiscard.lean": {
+    "checkedAt": "2026-11-07T15:30:43.586Z",
+    "collisions": [
+      "DeletionCode.FiniteDiscard.exists_half_retained_of_measurable"
+    ]
+  },
+  "DeletionCode/IntegerTorusMap.lean": {
+    "checkedAt": "2026-11-07T15:30:44.336Z",
+    "collisions": [
+      "DeletionCode.IntegerTorusMap.jointHash"
+    ]
+  },
+  "DeletionCode/MaximalRuns.lean": {
+    "checkedAt": "2026-11-07T15:30:45.358Z",
+    "collisions": [
+      "DeletionCode.MaximalRuns.exists_head_run",
+      "DeletionCode.MaximalRuns.eraseIdx_in_run"
+    ]
+  },
+  "DeletionCode/RecordSerialization.lean": {
+    "checkedAt": "2026-11-07T15:30:46.761Z",
+    "collisions": [
+      "DeletionCode.RecordSerialization.RecoveredData"
+    ]
+  },
+  "DeletionCode/SingleEditOrigins.lean": {
+    "checkedAt": "2026-11-07T15:30:47.297Z",
+    "collisions": [
+      "DeletionCode.SingleEditOrigins.Edit"
+    ]
+  },
+  "DeletionCode/WitnessAlgebra.lean": {
+    "checkedAt": "2026-11-07T15:30:48.438Z",
+    "collisions": [
+      "DeletionCode.WitnessAlgebra.BooleanVector"
+    ]
+  },
+  "DeletionCode/AlignmentTrace.lean": {
+    "checkedAt": "2026-11-07T15:29:01.686Z",
+    "collisions": [
+      "DeletionCode.AlignmentTrace.Column"
+    ]
+  },
+  "DeletionCode/BipartiteSelection.lean": {
+    "checkedAt": "2026-11-07T15:29:04.262Z",
+    "collisions": [
+      "DeletionCode.BipartiteSelection.exists_large_label_fiber",
+      "DeletionCode.BipartiteSelection.Good"
+    ]
+  },
+  "DeletionCode/CanonicalIndex.lean": {
+    "checkedAt": "2026-11-07T15:29:06.522Z",
+    "collisions": [
+      "DeletionCode.CanonicalIndex.indexEquiv"
+    ]
+  },
+  "DeletionCode/CircleUniform.lean": {
+    "checkedAt": "2026-11-07T15:29:08.763Z",
+    "collisions": [
+      "DeletionCode.CircleUniform.smallArc"
+    ]
+  },
+  "DeletionCode/ComponentFibers.lean": {
+    "checkedAt": "2026-11-07T15:29:11.322Z",
+    "collisions": [
+      "DeletionCode.ComponentFibers.SingletonFiber"
+    ]
+  },
+  "DeletionCode/CountExponent.lean": {
+    "checkedAt": "2026-11-07T15:29:12.776Z",
+    "collisions": [
+      "DeletionCode.CountExponent.exponent"
+    ]
+  },
+  "DeletionCode/HeaderRecovery.lean": {
+    "checkedAt": "2026-11-07T15:29:13.153Z",
+    "collisions": [
+      "DeletionCode.HeaderRecovery.Orientation"
+    ]
+  },
+  "DeletionCode/ObstructionBound.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T15:29:14.431Z"
+  },
+  "DeletionCode/OddGraphWalk.lean": {
+    "checkedAt": "2026-11-07T15:29:14.812Z",
+    "collisions": [
+      "DeletionCode.OddGraphWalk.exists_odd_loop",
+      "DeletionCode.OddGraphWalk.indexed_of_odd_loop"
+    ]
+  },
+  "DeletionCode/PartialWords.lean": {
+    "checkedAt": "2026-11-07T15:29:16.515Z",
+    "collisions": [
+      "DeletionCode.PartialWords.Memory"
+    ]
+  },
+  "DeletionCode/RecordPacking.lean": {
+    "checkedAt": "2026-11-07T15:29:18.018Z",
+    "collisions": [
+      "DeletionCode.RecordPacking.pack"
+    ]
+  },
+  "DeletionCode/RedundancyBounds.lean": {
+    "checkedAt": "2026-11-07T15:29:18.589Z",
+    "collisions": [
+      "DeletionCode.RedundancyBounds.redundancy"
+    ]
+  },
+  "DeletionCode/SingleEditScripts.lean": {
+    "checkedAt": "2026-11-07T15:29:19.150Z",
+    "collisions": [
+      "DeletionCode.SingleEditScripts.eraseIdx_at_split"
+    ]
+  },
+  "DeletionCode/TaggedAnchorCount.lean": {
+    "checkedAt": "2026-11-07T15:29:19.549Z",
+    "collisions": [
+      "DeletionCode.TaggedAnchorCount.Record"
+    ]
+  },
+  "DeletionCode/AnchorRecords.lean": {
+    "checkedAt": "2026-11-07T15:31:49.485Z",
+    "collisions": [
+      "DeletionCode.AnchorRecords.Packet"
+    ]
+  },
+  "DeletionCode/EditAlignment.lean": {
+    "checkedAt": "2026-11-07T15:31:50.706Z",
+    "collisions": [
+      "DeletionCode.EditAlignment.Word"
+    ]
+  },
+  "DeletionCode/ExceptionalCountArithmetic.lean": {
+    "checkedAt": "2026-11-07T15:31:53.106Z",
+    "collisions": [
+      "DeletionCode.ExceptionalCountArithmetic.exceptionalConstant"
+    ]
+  },
+  "DeletionCode/FiniteConnectedGrowth.lean": {
+    "checkedAt": "2026-11-07T15:31:54.078Z",
+    "collisions": [
+      "DeletionCode.FiniteConnectedGrowth.Induced"
+    ]
+  },
+  "DeletionCode/RecordCodec.lean": {
+    "checkedAt": "2026-11-07T15:36:26.936Z",
+    "collisions": [
+      "DeletionCode.RecordCodec.InstructionBounded"
+    ]
+  },
+  "DeletionCode/Recovery.lean": {
+    "checkedAt": "2026-11-07T15:36:27.273Z",
+    "collisions": [
+      "DeletionCode.Recovery.Slot"
+    ]
+  },
+  "DeletionCode/TorusHaar.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T15:36:35.489Z"
+  },
+  "DeletionCode/TraceSeparation.lean": {
+    "checkedAt": "2026-11-07T15:36:38.701Z",
+    "collisions": [
+      "DeletionCode.TraceSeparation.neighborhoodLeft"
+    ]
+  },
+  "DeletionCode/TwoEditWindows.lean": {
+    "checkedAt": "2026-11-07T15:36:39.871Z",
+    "collisions": [
+      "DeletionCode.TwoEditWindows.Avoids"
+    ]
+  },
+  "DeletionCode/UniqueWordParameters.lean": {
+    "checkedAt": "2026-11-07T15:36:40.963Z",
+    "collisions": [
+      "DeletionCode.UniqueWordParameters.uniquenessLength"
+    ]
+  },
+  "DeletionCode/WalkSelection.lean": {
+    "checkedAt": "2026-11-07T15:36:44.833Z",
+    "collisions": [
+      "DeletionCode.WalkSelection.walkStep"
+    ]
+  },
+  "DeletionCode/Windows.lean": {
+    "checkedAt": "2026-11-07T15:36:46.905Z",
+    "collisions": [
+      "DeletionCode.Windows.Letters"
+    ]
+  },
+  "DeletionCode/CircleHash.lean": {
+    "checkedAt": "2026-11-07T15:29:27.822Z",
+    "collisions": [
+      "DeletionCode.CircleHash.representative"
+    ]
+  },
+  "DeletionCode/CloseAnchorCount.lean": {
+    "checkedAt": "2026-11-07T15:29:31.973Z",
+    "collisions": [
+      "DeletionCode.CloseAnchorCount.Bad"
+    ]
+  },
+  "DeletionCode/FinitePairUnion.lean": {
+    "checkedAt": "2026-11-07T15:29:34.850Z",
+    "collisions": [
+      "DeletionCode.FinitePairUnion.OrderedPair"
+    ]
+  },
+  "DeletionCode/PaperParameters.lean": {
+    "checkedAt": "2026-11-07T15:29:35.602Z",
+    "collisions": [
+      "DeletionCode.PaperParameters.k"
+    ]
+  },
+  "DeletionCode/RelationBlockSupport.lean": {
+    "checkedAt": "2026-11-07T15:29:37.111Z",
+    "collisions": [
+      "DeletionCode.RelationBlockSupport.partial_sum_nonzero"
+    ]
+  },
+  "DeletionCode/WitnessCost.lean": {
+    "checkedAt": "2026-11-07T15:29:38.402Z",
+    "collisions": [
+      "DeletionCode.WitnessCost.exponent"
+    ]
+  }
+}
