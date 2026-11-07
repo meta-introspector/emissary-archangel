@@ -1,0 +1,733 @@
+{
+  "EntropyConstrainedMissingMass/AsymptoticHeavy.lean": {
+    "checkedAt": "2026-11-07T22:16:11.612Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CertificateLogData.lean": {
+    "checkedAt": "2026-11-07T22:16:30.545Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.logSeries"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CertifiedExamples.lean": {
+    "checkedAt": "2026-11-07T22:17:25.107Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CoefficientComparison.lean": {
+    "checkedAt": "2026-11-07T22:26:20.166Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.homogeneous2",
+      "EntropyConstrainedMissingMass.previousWeightedCoefficient"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CoefficientPartialFractions.lean": {
+    "checkedAt": "2026-11-07T22:26:25.190Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.homogeneous2"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CurvatureComparison.lean": {
+    "checkedAt": "2026-11-07T22:26:26.668Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.comparison_constant_le_entropy_recip",
+      "EntropyConstrainedMissingMass.homogeneous2"
+    ]
+  },
+  "EntropyConstrainedMissingMass/EntropySeries.lean": {
+    "checkedAt": "2026-11-07T22:26:28.272Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/FiniteAlphabetCandidates.lean": {
+    "checkedAt": "2026-11-07T22:26:32.030Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/FinitePerturbation.lean": {
+    "checkedAt": "2026-11-07T22:26:35.265Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector.hasSum_finite_replacement",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/FiniteSlackStationarity.lean": {
+    "checkedAt": "2026-11-07T22:26:38.072Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/FiniteStationarityPolynomial.lean": {
+    "checkedAt": "2026-11-07T22:26:41.329Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.finiteStationarityPolynomial",
+      "EntropyConstrainedMissingMass.ProbabilityVector",
+      "EntropyConstrainedMissingMass.branchEntropy"
+    ]
+  },
+  "EntropyConstrainedMissingMass/HomogeneousRatios.lean": {
+    "checkedAt": "2026-11-07T22:26:50.042Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.homogeneous2"
+    ]
+  },
+  "EntropyConstrainedMissingMass/LightCrossingParameters.lean": {
+    "checkedAt": "2026-11-07T22:26:54.945Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy"
+    ]
+  },
+  "EntropyConstrainedMissingMass/LogCertificates.lean": {
+    "checkedAt": "2026-11-07T22:27:21.135Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.logSeries"
+    ]
+  },
+  "EntropyConstrainedMissingMass/LogarithmicAverage.lean": {
+    "checkedAt": "2026-11-07T22:27:21.974Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.weighted_second_derivative_integral"
+    ]
+  },
+  "EntropyConstrainedMissingMass/MixtureCurvature.lean": {
+    "checkedAt": "2026-11-07T22:27:25.574Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.Curvature.kernel",
+      "EntropyConstrainedMissingMass.Curvature.D",
+      "EntropyConstrainedMissingMass.Curvature.mixtureMean"
+    ]
+  },
+  "EntropyConstrainedMissingMass/MixtureMoments.lean": {
+    "checkedAt": "2026-11-07T22:28:08.319Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.Curvature.mixed_kernel_scaling",
+      "EntropyConstrainedMissingMass.Curvature.mixtureMoment"
+    ]
+  },
+  "EntropyConstrainedMissingMass/ObjectiveCoefficientCurvature.lean": {
+    "checkedAt": "2026-11-07T22:28:17.377Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.homogeneous2"
+    ]
+  },
+  "EntropyConstrainedMissingMass/ObjectiveContinuity.lean": {
+    "checkedAt": "2026-11-07T22:28:26.571Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.abs_pow_sub_pow_le_on_unit",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/OccupancySampling.lean": {
+    "checkedAt": "2026-11-07T22:28:28.182Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/OneSidedVariation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T22:34:05.802Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.Curvature.D",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/PowerSeriesCalculus.lean": {
+    "checkedAt": "2026-11-07T22:34:48.293Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.HasCoeffDerivAt",
+      "EntropyConstrainedMissingMass.homogeneous2"
+    ]
+  },
+  "EntropyConstrainedMissingMass/RepeatedSize.lean": {
+    "checkedAt": "2026-11-07T22:34:52.139Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.negMulLog_symmetric_pair_le",
+      "EntropyConstrainedMissingMass.exists_weighted_second_derivative_eq_log_secant",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/RootGeneratingDerivative.lean": {
+    "checkedAt": "2026-11-07T22:35:00.882Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.linearFactor",
+      "EntropyConstrainedMissingMass.homogeneous2",
+      "EntropyConstrainedMissingMass.HasCoeffDerivAt"
+    ]
+  },
+  "EntropyConstrainedMissingMass/SampleComplexity.lean": {
+    "checkedAt": "2026-11-07T22:36:56.895Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/ScalarGapCoercivity.lean": {
+    "checkedAt": "2026-11-07T22:38:40.899Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.scalarGap"
+    ]
+  },
+  "EntropyConstrainedMissingMass/SimplexLaw.lean": {
+    "checkedAt": "2026-11-07T22:38:42.617Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.Curvature.SimplexSquare",
+      "EntropyConstrainedMissingMass.Curvature.D",
+      "EntropyConstrainedMissingMass.Curvature.simplexValue",
+      "EntropyConstrainedMissingMass.Curvature.mixed_kernel_scaling"
+    ]
+  },
+  "EntropyConstrainedMissingMass/SmallSampleVariation.lean": {
+    "checkedAt": "2026-11-07T22:39:18.680Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector",
+      "EntropyConstrainedMissingMass.logRatioGap"
+    ]
+  },
+  "EntropyConstrainedMissingMass/Support.lean": {
+    "checkedAt": "2026-11-07T22:39:28.545Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/AsymptoticRounded.lean": {
+    "checkedAt": "2026-11-07T22:15:30.523Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy",
+      "EntropyConstrainedMissingMass.entropyTailCorrection"
+    ]
+  },
+  "EntropyConstrainedMissingMass/AsymptoticThresholds.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T22:20:26.938Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/ComparisonSeries.lean": {
+    "checkedAt": "2026-11-07T22:20:42.523Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.homogeneous2"
+    ]
+  },
+  "EntropyConstrainedMissingMass/FiniteRealization.lean": {
+    "checkedAt": "2026-11-07T22:25:50.548Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/FiniteSorting.lean": {
+    "checkedAt": "2026-11-07T22:36:10.105Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/HeavyCrossing.lean": {
+    "checkedAt": "2026-11-07T22:36:18.173Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy",
+      "EntropyConstrainedMissingMass.ZeroMultiplicityBound",
+      "EntropyConstrainedMissingMass.exists_negative_integer_of_zero_series",
+      "EntropyConstrainedMissingMass.branchObjective",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/HomogeneousCoefficients.lean": {
+    "checkedAt": "2026-11-07T22:36:53.112Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.homogeneous2"
+    ]
+  },
+  "EntropyConstrainedMissingMass/LogCertificateData.lean": {
+    "checkedAt": "2026-11-07T22:36:58.186Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.logSeries"
+    ]
+  },
+  "EntropyConstrainedMissingMass/MainTheorem.lean": {
+    "checkedAt": "2026-11-07T22:37:46.488Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/ObjectivePathDerivatives.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T22:37:51.818Z"
+  },
+  "EntropyConstrainedMissingMass/ObjectiveStationarity.lean": {
+    "checkedAt": "2026-11-07T22:37:52.779Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector",
+      "EntropyConstrainedMissingMass.homogeneous2"
+    ]
+  },
+  "EntropyConstrainedMissingMass/PhaseIntervals.lean": {
+    "checkedAt": "2026-11-07T22:55:11.376Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/SimplexIntegrals.lean": {
+    "checkedAt": "2026-11-07T23:04:02.749Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.Curvature.D",
+      "EntropyConstrainedMissingMass.Curvature.simplexValue"
+    ]
+  },
+  "EntropyConstrainedMissingMass/SortedTail.lean": {
+    "checkedAt": "2026-11-07T23:04:28.601Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector",
+      "EntropyConstrainedMissingMass.ProbabilityVector.mul_log_le_negMulLog",
+      "EntropyConstrainedMissingMass.ProbabilityVector.tendsto_entropy_tail_bound"
+    ]
+  },
+  "EntropyConstrainedMissingMass/TripleLocalMax.lean": {
+    "checkedAt": "2026-11-07T23:04:30.539Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector",
+      "EntropyConstrainedMissingMass.homogeneous2"
+    ]
+  },
+  "EntropyConstrainedMissingMass/UniformForm.lean": {
+    "checkedAt": "2026-11-07T23:05:08.136Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/ZeroCrossing.lean": {
+    "checkedAt": "2026-11-07T23:05:14.050Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ZeroMultiplicityBound",
+      "EntropyConstrainedMissingMass.deriv_ne_zero_of_analyticOrderAt_eq_one",
+      "EntropyConstrainedMissingMass.negative_on_interval_of_no_zeros"
+    ]
+  },
+  "EntropyConstrainedMissingMass/AsymptoticOptimizerUniform.lean": {
+    "checkedAt": "2026-11-07T22:15:52.979Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchObjective",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CandidateCompleteness.lean": {
+    "checkedAt": "2026-11-07T22:19:49.856Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CertificateRoots.lean": {
+    "checkedAt": "2026-11-07T22:20:04.042Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CrossingCalculus.lean": {
+    "checkedAt": "2026-11-07T22:20:13.933Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.exists_negative_integer_of_zero_series",
+      "EntropyConstrainedMissingMass.eventually_pos_four_term"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CrossingEndpoints.lean": {
+    "checkedAt": "2026-11-07T22:20:21.267Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ZeroMultiplicityBound",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/DerivativeLipschitz.lean": {
+    "checkedAt": "2026-11-07T22:22:08.067Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/DividedDifferences.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T22:22:21.498Z"
+  },
+  "EntropyConstrainedMissingMass/EntropyCurvature.lean": {
+    "checkedAt": "2026-11-07T22:22:36.191Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.Curvature.D"
+    ]
+  },
+  "EntropyConstrainedMissingMass/EntropyCurveHessian.lean": {
+    "checkedAt": "2026-11-07T22:25:36.527Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.Curvature.D",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/FiniteAlphabetClassification.lean": {
+    "checkedAt": "2026-11-07T22:30:31.471Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/FiniteAttainment.lean": {
+    "checkedAt": "2026-11-07T22:33:33.063Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector",
+      "EntropyConstrainedMissingMass.ProbabilityVector.pointMass"
+    ]
+  },
+  "EntropyConstrainedMissingMass/FiniteClassification.lean": {
+    "checkedAt": "2026-11-07T22:33:36.961Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/GenericFiniteLocalMax.lean": {
+    "checkedAt": "2026-11-07T22:37:05.824Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/OptimizationEndpoints.lean": {
+    "checkedAt": "2026-11-07T22:37:06.226Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/QuasiconvexRoots.lean": {
+    "checkedAt": "2026-11-07T22:37:42.224Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.curvatureRootMinus",
+      "EntropyConstrainedMissingMass.weightedCurvature"
+    ]
+  },
+  "EntropyConstrainedMissingMass/Quasiconvexity.lean": {
+    "checkedAt": "2026-11-07T22:37:46.016Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector",
+      "EntropyConstrainedMissingMass.weightedCurvature"
+    ]
+  },
+  "EntropyConstrainedMissingMass/Reindex.lean": {
+    "checkedAt": "2026-11-07T22:37:57.604Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/SimplexTilt.lean": {
+    "checkedAt": "2026-11-07T22:38:12.211Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.Curvature.D",
+      "EntropyConstrainedMissingMass.Curvature.mixed_kernel_scaling"
+    ]
+  },
+  "EntropyConstrainedMissingMass/SmallSampleScalar.lean": {
+    "checkedAt": "2026-11-07T22:39:36.562Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.logRatioGap"
+    ]
+  },
+  "EntropyConstrainedMissingMass/Truncation.lean": {
+    "checkedAt": "2026-11-07T22:39:41.113Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector",
+      "EntropyConstrainedMissingMass.ProbabilityVector.truncationMap"
+    ]
+  },
+  "EntropyConstrainedMissingMass/AsymptoticEntropy.lean": {
+    "checkedAt": "2026-11-07T22:20:47.313Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy",
+      "EntropyConstrainedMissingMass.branchObjective",
+      "EntropyConstrainedMissingMass.entropyTailCorrection"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CandidateVectors.lean": {
+    "checkedAt": "2026-11-07T22:20:52.462Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.candidateCoord",
+      "EntropyConstrainedMissingMass.ProbabilityVector",
+      "EntropyConstrainedMissingMass.branchEntropy"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CertificateBounds.lean": {
+    "checkedAt": "2026-11-07T22:21:03.934Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchObjective"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CertificateRootData.lean": {
+    "checkedAt": "2026-11-07T22:21:06.670Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy",
+      "EntropyConstrainedMissingMass.branchObjective"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CertificateWinners.lean": {
+    "checkedAt": "2026-11-07T22:27:22.427Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector",
+      "EntropyConstrainedMissingMass.branchEntropy"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CoefficientGeneratingFunctions.lean": {
+    "checkedAt": "2026-11-07T22:27:33.147Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.homogeneous2",
+      "EntropyConstrainedMissingMass.linearFactor"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CurvatureAlgebra.lean": {
+    "checkedAt": "2026-11-07T22:27:35.982Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.curvature_square_identity",
+      "EntropyConstrainedMissingMass.curvature_strict_remainder_identity",
+      "EntropyConstrainedMissingMass.entropy_curvature_uniform_endpoint"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CurvatureIntegrals.lean": {
+    "checkedAt": "2026-11-07T22:27:37.348Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.Curvature.D"
+    ]
+  },
+  "EntropyConstrainedMissingMass/EntropyComparison.lean": {
+    "checkedAt": "2026-11-07T22:27:44.640Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/EntropyHessian.lean": {
+    "checkedAt": "2026-11-07T22:27:50.719Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.Curvature.D",
+      "EntropyConstrainedMissingMass.Curvature.kernel"
+    ]
+  },
+  "EntropyConstrainedMissingMass/EntropyLevelCurve.lean": {
+    "checkedAt": "2026-11-07T22:30:20.334Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.Curvature.D"
+    ]
+  },
+  "EntropyConstrainedMissingMass/ExponentialZeros.lean": {
+    "checkedAt": "2026-11-07T22:36:02.022Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ZeroMultiplicityBound"
+    ]
+  },
+  "EntropyConstrainedMissingMass/HeavyCutoff.lean": {
+    "checkedAt": "2026-11-07T22:36:09.358Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy"
+    ]
+  },
+  "EntropyConstrainedMissingMass/QuadraticPathCalculus.lean": {
+    "checkedAt": "2026-11-07T22:36:31.161Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.quadraticPath"
+    ]
+  },
+  "EntropyConstrainedMissingMass/RepeatedPairVariation.lean": {
+    "checkedAt": "2026-11-07T22:36:34.827Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.quadraticPath",
+      "EntropyConstrainedMissingMass.repeatedPairBase"
+    ]
+  },
+  "EntropyConstrainedMissingMass/SampleMonotonicity.lean": {
+    "checkedAt": "2026-11-07T22:37:15.550Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/ScalarLocalMax.lean": {
+    "checkedAt": "2026-11-07T22:37:15.961Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.second_derivative_nonpos_of_localMax"
+    ]
+  },
+  "EntropyConstrainedMissingMass/SmallSampleOptimality.lean": {
+    "checkedAt": "2026-11-07T22:38:15.493Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/AsymptoticInversion.lean": {
+    "checkedAt": "2026-11-07T22:24:12.583Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.log_increment_le"
+    ]
+  },
+  "EntropyConstrainedMissingMass/AsymptoticOptimizerBounds.lean": {
+    "checkedAt": "2026-11-07T22:24:16.666Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy",
+      "EntropyConstrainedMissingMass.entropyTailCorrection"
+    ]
+  },
+  "EntropyConstrainedMissingMass/AsymptoticOptimizerEntropy.lean": {
+    "checkedAt": "2026-11-07T22:24:51.772Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy"
+    ]
+  },
+  "EntropyConstrainedMissingMass/AsymptoticOptimizerScales.lean": {
+    "checkedAt": "2026-11-07T22:25:35.246Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/AsymptoticReciprocalUpper.lean": {
+    "checkedAt": "2026-11-07T22:31:30.875Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchObjective",
+      "EntropyConstrainedMissingMass.ProbabilityVector",
+      "EntropyConstrainedMissingMass.branchEntropy"
+    ]
+  },
+  "EntropyConstrainedMissingMass/AtomSplitting.lean": {
+    "checkedAt": "2026-11-07T22:31:57.595Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.splitEntropyIncrement",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/BranchEntropy.lean": {
+    "checkedAt": "2026-11-07T22:32:13.562Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CandidateShapes.lean": {
+    "checkedAt": "2026-11-07T22:32:28.660Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/Coarsening.lean": {
+    "checkedAt": "2026-11-07T22:32:34.559Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CoefficientAudit.lean": {
+    "checkedAt": "2026-11-07T22:32:37.730Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.homogeneous2"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CoefficientExtremum.lean": {
+    "checkedAt": "2026-11-07T22:32:39.017Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.homogeneous2"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CountableAttainment.lean": {
+    "checkedAt": "2026-11-07T22:32:43.684Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/CurvatureMeanBound.lean": {
+    "checkedAt": "2026-11-07T22:32:44.456Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.Curvature.D",
+      "EntropyConstrainedMissingMass.Curvature.triple_amgm"
+    ]
+  },
+  "EntropyConstrainedMissingMass/EmbeddedPerturbation.lean": {
+    "checkedAt": "2026-11-07T22:32:47.436Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/EntropyTopology.lean": {
+    "checkedAt": "2026-11-07T22:32:50.230Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector",
+      "EntropyConstrainedMissingMass.ProbabilityVector.lowerSemicontinuous_entropy_function"
+    ]
+  },
+  "EntropyConstrainedMissingMass/ExceptionalForm.lean": {
+    "checkedAt": "2026-11-07T22:32:51.514Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/HeavyInterpolation.lean": {
+    "checkedAt": "2026-11-07T22:32:55.900Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy",
+      "EntropyConstrainedMissingMass.heavyRoot"
+    ]
+  },
+  "EntropyConstrainedMissingMass/KernelEstimate.lean": {
+    "checkedAt": "2026-11-07T22:33:26.326Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.Curvature.D",
+      "EntropyConstrainedMissingMass.Curvature.kernel"
+    ]
+  },
+  "EntropyConstrainedMissingMass/LightCrossing.lean": {
+    "checkedAt": "2026-11-07T22:33:58.882Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.branchEntropy",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/ObjectiveCalculus.lean": {
+    "checkedAt": "2026-11-07T22:35:24.222Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/OccupancyExtrema.lean": {
+    "checkedAt": "2026-11-07T22:35:31.330Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/Probability.lean": {
+    "checkedAt": "2026-11-07T22:35:44.650Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/RepeatedFourVariation.lean": {
+    "checkedAt": "2026-11-07T22:35:50.112Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.repeatedFourBase",
+      "EntropyConstrainedMissingMass.quadraticPath",
+      "EntropyConstrainedMissingMass.second_derivative_nonpos_of_localMax",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/SingletonEstimator.lean": {
+    "checkedAt": "2026-11-07T22:44:08.849Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/SortedCompactness.lean": {
+    "checkedAt": "2026-11-07T22:44:11.737Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector.isClosed_probability_lp",
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  },
+  "EntropyConstrainedMissingMass/TripleGeometry.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T22:52:49.431Z"
+  },
+  "EntropyConstrainedMissingMass/TwoSizeReduction.lean": {
+    "checkedAt": "2026-11-07T22:53:33.627Z",
+    "collisions": [
+      "EntropyConstrainedMissingMass.ProbabilityVector"
+    ]
+  }
+}
