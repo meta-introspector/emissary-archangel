@@ -1,0 +1,387 @@
+{
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapPackingEdges.lean": {
+    "checkedAt": "2026-11-07T15:55:49.478Z",
+    "collisions": [
+      "Nibble.YusterE.triangleHypergraphE"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapRectPack.lean": {
+    "checkedAt": "2026-11-07T15:55:50.259Z",
+    "collisions": [
+      "Nibble.AX1.card_filter_product",
+      "Nibble.AX1.tripleRect"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapRegularCover.lean": {
+    "checkedAt": "2026-11-07T15:55:59.491Z",
+    "collisions": [
+      "Nibble.AX1.card_clique2_sdiff_le",
+      "Nibble.YusterE.triangleHypergraphE",
+      "Nibble.AX1.triangleSupport",
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapTripleDegrees.lean": {
+    "checkedAt": "2026-11-07T15:56:53.767Z",
+    "collisions": [
+      "Nibble.AX1.card_filter_product",
+      "Nibble.AX1.edgeDensity_real",
+      "Nibble.AX1.codegreeIn",
+      "Nibble.AX1.card_clique2_sdiff_le"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapTripleShape.lean": {
+    "checkedAt": "2026-11-07T15:57:23.764Z",
+    "collisions": [
+      "Nibble.AX1.card_filter_product",
+      "Nibble.AX1.rectIdxA",
+      "Nibble.AX1.gridShift",
+      "Nibble.YusterE.triangleHypergraphE"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/GridDesign.lean": {
+    "checkedAt": "2026-11-07T15:57:34.354Z",
+    "collisions": [
+      "Nibble.AX1.gridShift",
+      "Nibble.AX1.card_filter_product"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/TripleEdgesThree.lean": {
+    "checkedAt": "2026-11-07T15:57:46.188Z",
+    "collisions": [
+      "Nibble.AX1.card_clique2_sdiff_le"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/YusterFracUpper.lean": {
+    "checkedAt": "2026-11-07T15:58:16.477Z",
+    "collisions": [
+      "Nibble.YusterE.triangleHypergraphE",
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Tight/Selection.lean": {
+    "checkedAt": "2026-11-07T15:58:17.920Z",
+    "collisions": [
+      "LeanPool.AsymptoticTrianglePacking.Internal.exists_notMem_of_measureReal_add_lt_one",
+      "LeanPool.AsymptoticTrianglePacking.Internal.measureReal_ge_le_integral_div",
+      "LeanPool.AsymptoticTrianglePacking.Internal.card_filter_mul_le_sum"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/TightSchedule.lean": {
+    "checkedAt": "2026-11-07T15:58:18.829Z",
+    "collisions": [
+      "LeanPool.AsymptoticTrianglePacking.Internal.geometric_decay",
+      "LeanPool.AsymptoticTrianglePacking.Internal.uncovered_step",
+      "LeanPool.AsymptoticTrianglePacking.Internal.geometric_decay_lt",
+      "LeanPool.AsymptoticTrianglePacking.Internal.uncovered_step_lt",
+      "LeanPool.AsymptoticTrianglePacking.Internal.geometric_decay_prod_lt",
+      "Hypergraph.degree",
+      "Hypergraph.support",
+      "LeanPool.AsymptoticTrianglePacking.Internal.lostDegree",
+      "LeanPool.AsymptoticTrianglePacking.Internal.uncoveredCount"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapBlockCover.lean": {
+    "checkedAt": "2026-11-07T15:53:02.285Z",
+    "collisions": [
+      "Hypergraph.degree",
+      "Nibble.YusterE.triangleHypergraphE"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapClusterCapacity.lean": {
+    "checkedAt": "2026-11-07T16:02:56.501Z",
+    "collisions": [
+      "Nibble.AX1.crossEdges",
+      "Nibble.YusterE.triangleHypergraphE"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapClusterLP.lean": {
+    "checkedAt": "2026-11-07T16:02:58.054Z",
+    "collisions": [
+      "Nibble.AX1.tripleRect",
+      "Nibble.AX1.pairArea",
+      "Nibble.YusterE.triangleHypergraphE"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Assemble.lean": {
+    "checkedAt": "2026-11-07T16:03:04.508Z",
+    "collisions": [
+      "Hypergraph.support",
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Assembly.lean": {
+    "checkedAt": "2026-11-07T16:03:06.790Z",
+    "collisions": [
+      "Hypergraph.support",
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Basic.lean": {
+    "checkedAt": "2026-11-07T16:03:08.052Z",
+    "collisions": [
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Covered.lean": {
+    "checkedAt": "2026-11-07T16:03:08.677Z",
+    "collisions": [
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/CoveredExpectation.lean": {
+    "checkedAt": "2026-11-07T16:03:09.669Z",
+    "collisions": [
+      "Hypergraph.roundMatching",
+      "Hypergraph.degree",
+      "Hypergraph.conflicts"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Greedy.lean": {
+    "checkedAt": "2026-11-07T16:03:12.967Z",
+    "collisions": [
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Tight/SafeDegree.lean": {
+    "checkedAt": "2026-11-07T16:03:14.203Z",
+    "collisions": [
+      "Hypergraph.degree",
+      "LeanPool.AsymptoticTrianglePacking.Internal.BernoulliRetention"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/WeightedBoundedEdges.lean": {
+    "checkedAt": "2026-11-07T16:03:18.945Z",
+    "collisions": [
+      "Nibble.BeckFiala.floating",
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/BoxAllocationSpec.lean": {
+    "checkedAt": "2026-11-07T15:50:36.986Z",
+    "collisions": [
+      "Nibble.AX1.BoxCompat"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/GridLineDesign.lean": {
+    "checkedAt": "2026-11-07T15:50:37.555Z",
+    "collisions": [
+      "Nibble.AX1.lineTriple"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Measurable.lean": {
+    "checkedAt": "2026-11-07T15:50:40.359Z",
+    "collisions": [
+      "LeanPool.AsymptoticTrianglePacking.Internal.BernoulliRetention"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/RegularMost.lean": {
+    "checkedAt": "2026-11-07T15:50:40.663Z",
+    "collisions": [
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Tight/CoverProb.lean": {
+    "checkedAt": "2026-11-07T15:50:41.582Z",
+    "collisions": [
+      "Hypergraph.conflicts",
+      "Hypergraph.degree",
+      "LeanPool.AsymptoticTrianglePacking.Internal.BernoulliRetention",
+      "LeanPool.AsymptoticTrianglePacking.Internal.coverRate"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Tight/CoverVariance.lean": {
+    "checkedAt": "2026-11-07T15:50:43.992Z",
+    "collisions": [
+      "LeanPool.AsymptoticTrianglePacking.Internal.BernoulliRetention",
+      "Hypergraph.degree",
+      "Hypergraph.conflicts"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Tight/CoverWeightMoments.lean": {
+    "checkedAt": "2026-11-07T15:50:59.281Z",
+    "collisions": [
+      "LeanPool.AsymptoticTrianglePacking.Internal.BernoulliRetention",
+      "Hypergraph.degree",
+      "Hypergraph.conflicts"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Tight/LossVariance.lean": {
+    "checkedAt": "2026-11-07T15:51:05.522Z",
+    "collisions": [
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Tight/SharpRound.lean": {
+    "checkedAt": "2026-11-07T15:51:07.849Z",
+    "collisions": [
+      "Hypergraph.degree",
+      "LeanPool.AsymptoticTrianglePacking.Internal.BernoulliRetention"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Tight/SharpRoundAssembly.lean": {
+    "checkedAt": "2026-11-07T15:52:00.082Z",
+    "collisions": [
+      "LeanPool.AsymptoticTrianglePacking.Internal.Cube.wt",
+      "Hypergraph.roundMatching",
+      "Hypergraph.support",
+      "Hypergraph.degree",
+      "LeanPool.AsymptoticTrianglePacking.Internal.safeDegree",
+      "LeanPool.AsymptoticTrianglePacking.Internal.BernoulliRetention"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Tight/TightRound.lean": {
+    "checkedAt": "2026-11-07T15:53:10.607Z",
+    "collisions": [
+      "LeanPool.AsymptoticTrianglePacking.Internal.sum_pair_ind_nat",
+      "Hypergraph.support",
+      "LeanPool.AsymptoticTrianglePacking.Internal.BernoulliRetention",
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Main.lean": {
+    "checkedAt": "2026-11-07T15:53:23.283Z",
+    "collisions": [
+      "Nibble.AX1.BoxCount.subs",
+      "Nibble.AX1.BoxCompat",
+      "Hypergraph.degree",
+      "Nibble.BeckFiala.floating"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/BlockSplit.lean": {
+    "checkedAt": "2026-11-07T15:51:16.798Z",
+    "collisions": [
+      "Nibble.AX1.enumIdx"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoarseCellCoupled.lean": {
+    "checkedAt": "2026-11-07T15:51:27.953Z",
+    "collisions": [
+      "Nibble.YusterE.triangleHypergraphE",
+      "Hypergraph.degree",
+      "Nibble.AX1.BlockCoverResidualCoupled",
+      "Nibble.AX1.triangleSupport",
+      "Nibble.AX1.card_filter_product",
+      "Nibble.AX1.vtxSet",
+      "Nibble.AX1.enumIdx",
+      "Nibble.AX1.lineTriple"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapAX1.lean": {
+    "checkedAt": "2026-11-07T16:05:28.434Z",
+    "collisions": [
+      "Hypergraph.degree",
+      "Nibble.AX1.edgesIn",
+      "Nibble.YusterE.triangleHypergraphE",
+      "Nibble.YusterE.EdgeV"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapBlockShape.lean": {
+    "checkedAt": "2026-11-07T16:10:03.696Z",
+    "collisions": [
+      "Nibble.AX1.regularityReduced_adj_iff_of_goodPair",
+      "Nibble.AX1.triangleSupport"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapClusterHost.lean": {
+    "checkedAt": "2026-11-07T16:10:07.187Z",
+    "collisions": [
+      "Nibble.AX1.vtxSet",
+      "Nibble.YusterE.triangleHypergraphE",
+      "Nibble.AX1.triangleSupport"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapDesign.lean": {
+    "checkedAt": "2026-11-07T16:10:25.675Z",
+    "collisions": [
+      "Nibble.YusterE.triangleHypergraphE"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapGridLocalResidual.lean": {
+    "checkedAt": "2026-11-07T16:10:33.987Z",
+    "collisions": [
+      "Nibble.AX1.card_clique2_sdiff_le",
+      "Nibble.AX1.card_filter_product",
+      "Nibble.YusterE.triangleHypergraphE",
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapPrune.lean": {
+    "checkedAt": "2026-11-07T16:11:23.929Z",
+    "collisions": [
+      "Nibble.AX1.card_clique2_sdiff_le",
+      "Nibble.AX1.card_filter_product"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/CoreGapRegularFamily.lean": {
+    "checkedAt": "2026-11-07T16:11:43.799Z",
+    "collisions": [
+      "Nibble.AX1.card_clique2_sdiff_le",
+      "Hypergraph.degree",
+      "Nibble.AX1.CoreGapAtRich",
+      "Nibble.YusterE.triangleHypergraphE",
+      "Nibble.YusterE.nibble_gives_triangleSub_matching",
+      "Nibble.YusterE.EdgeV"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/YusterEdge.lean": {
+    "checkedAt": "2026-11-07T16:14:08.140Z",
+    "collisions": [
+      "Hypergraph.degree",
+      "Nibble.YusterE.triangleHypergraphE"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/AX1/YusterEdgeType.lean": {
+    "checkedAt": "2026-11-07T16:14:10.187Z",
+    "collisions": [
+      "Nibble.YusterE.EdgeV",
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Conflict.lean": {
+    "checkedAt": "2026-11-07T16:14:11.358Z",
+    "collisions": [
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/IterationSeq.lean": {
+    "checkedAt": "2026-11-07T16:14:11.929Z",
+    "collisions": [
+      "Hypergraph.support",
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/NearRegularNibble.lean": {
+    "checkedAt": "2026-11-07T16:14:18.320Z",
+    "collisions": [
+      "Hypergraph.degree"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Round.lean": {
+    "checkedAt": "2026-11-07T16:14:28.196Z",
+    "collisions": [
+      "Hypergraph.roundMatching",
+      "Hypergraph.degree",
+      "Hypergraph.support"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Survival.lean": {
+    "checkedAt": "2026-11-07T16:14:29.650Z",
+    "collisions": [
+      "Hypergraph.conflicts"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Tight/CoverWeight.lean": {
+    "checkedAt": "2026-11-07T16:14:29.934Z",
+    "collisions": [
+      "Hypergraph.degree",
+      "LeanPool.AsymptoticTrianglePacking.Internal.coverWeight"
+    ]
+  },
+  "LeanPool/AsymptoticTrianglePacking/Internal/Tight/Pruning.lean": {
+    "checkedAt": "2026-11-07T16:14:31.826Z",
+    "collisions": [
+      "Hypergraph.degree"
+    ]
+  }
+}
