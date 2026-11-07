@@ -1,0 +1,752 @@
+{
+  "DuistermaatVanDerKallen/AnalyticTransport.lean": {
+    "checkedAt": "2026-11-07T13:46:44.656Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/AsymptoticExample.lean": {
+    "checkedAt": "2026-11-07T13:47:02.919Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/AsymptoticExampleNewton.lean": {
+    "checkedAt": "2026-11-07T13:47:10.405Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent",
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/BivariatePolynomials.lean": {
+    "checkedAt": "2026-11-07T13:47:57.973Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.scalarTargetPolynomialEquiv"
+    ]
+  },
+  "DuistermaatVanDerKallen/C1FiberTransport.lean": {
+    "checkedAt": "2026-11-07T13:48:01.224Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/CommonRadiusSemialgebraic.lean": {
+    "checkedAt": "2026-11-07T13:50:22.089Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.complexCoordinates",
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/ContinuousCurveRectifiability.lean": {
+    "checkedAt": "2026-11-07T13:50:23.062Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/CriticalFiniteness.lean": {
+    "checkedAt": "2026-11-07T13:50:30.484Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/DrivenPicard.lean": {
+    "checkedAt": "2026-11-07T13:50:59.998Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent",
+      "DuistermaatVanDerKallen.CurveTime"
+    ]
+  },
+  "DuistermaatVanDerKallen/FiberAtlas.lean": {
+    "checkedAt": "2026-11-07T13:51:11.753Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent",
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/FiberContinuity.lean": {
+    "checkedAt": "2026-11-07T13:51:53.856Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/FiniteMultiplicity.lean": {
+    "checkedAt": "2026-11-07T13:52:53.001Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.IsSemialgebraic",
+      "DuistermaatVanDerKallen.ncard_le_product_coordinate_images"
+    ]
+  },
+  "DuistermaatVanDerKallen/HomologySheaf.lean": {
+    "checkedAt": "2026-11-07T13:53:00.739Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent",
+      "DuistermaatVanDerKallen.ConstantTransitionAtlas"
+    ]
+  },
+  "DuistermaatVanDerKallen/LaurentEvaluation.lean": {
+    "checkedAt": "2026-11-07T13:57:01.537Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent",
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/LaurentGeometry.lean": {
+    "checkedAt": "2026-11-07T13:57:03.709Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/LaurentPicard.lean": {
+    "checkedAt": "2026-11-07T13:57:31.376Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.CurveTime",
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/LaurentTransport.lean": {
+    "checkedAt": "2026-11-07T13:57:49.223Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent",
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/MultiplicityIntegral.lean": {
+    "checkedAt": "2026-11-07T13:58:09.318Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.tsum_indicator_one_eq_ncard",
+      "DuistermaatVanDerKallen.image_membership_count_le_fiber",
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/NewtonPowers.lean": {
+    "checkedAt": "2026-11-07T13:58:11.495Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent",
+      "DuistermaatVanDerKallen.finite_extremePoint_exposed"
+    ]
+  },
+  "DuistermaatVanDerKallen/PolynomialRealParts.lean": {
+    "checkedAt": "2026-11-07T13:58:14.475Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.complexCoordinates"
+    ]
+  },
+  "DuistermaatVanDerKallen/PolynomialSignFamilies.lean": {
+    "checkedAt": "2026-11-07T13:58:15.577Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.eval_real_substitution",
+      "DuistermaatVanDerKallen.complexCoordinates",
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/RadiusProjection.lean": {
+    "checkedAt": "2026-11-07T13:58:17.080Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/RegularFiberCharts.lean": {
+    "checkedAt": "2026-11-07T13:58:19.893Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/RepresentativeInvariance.lean": {
+    "checkedAt": "2026-11-07T13:58:37.410Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/ResidueCovering.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T14:04:26.755Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.CompactRootSpace",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/ResidueDeformation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T14:04:47.226Z"
+  },
+  "DuistermaatVanDerKallen/ResiduePolydisc.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T14:04:49.421Z"
+  },
+  "DuistermaatVanDerKallen/ResidueRootBranches.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T14:04:59.752Z"
+  },
+  "DuistermaatVanDerKallen/ScalarLift.lean": {
+    "checkedAt": "2026-11-07T14:05:00.050Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.differentialNormSq"
+    ]
+  },
+  "DuistermaatVanDerKallen/SemialgebraicLineFamilies.lean": {
+    "checkedAt": "2026-11-07T14:05:01.194Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.polynomial_curve_uniform_degree_bound",
+      "DuistermaatVanDerKallen.polynomial_nonneg_frontier_ncard_le",
+      "DuistermaatVanDerKallen.IsSemialgebraic",
+      "DuistermaatVanDerKallen.real_finite_frontier_eq"
+    ]
+  },
+  "DuistermaatVanDerKallen/SemialgebraicMeasurable.lean": {
+    "checkedAt": "2026-11-07T14:05:03.891Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/SemialgebraicSets.lean": {
+    "checkedAt": "2026-11-07T14:05:04.459Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/SeparableRelation.lean": {
+    "checkedAt": "2026-11-07T14:05:06.922Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.fraction_polynomial_dvd_clear_denominator",
+      "DuistermaatVanDerKallen.fraction_separable_resultant_ne_zero"
+    ]
+  },
+  "DuistermaatVanDerKallen/SpherePathChain.lean": {
+    "checkedAt": "2026-11-07T14:05:08.025Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.C1ArcChain",
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/TorusCoefficients.lean": {
+    "checkedAt": "2026-11-07T14:05:12.931Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.PhaseTorus",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/AffineSemialgebraic.lean": {
+    "checkedAt": "2026-11-07T13:45:25.842Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.complexCoordinates",
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/CoefficientSeries.lean": {
+    "checkedAt": "2026-11-07T13:45:27.103Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/CompactRootCovering.lean": {
+    "checkedAt": "2026-11-07T13:45:28.757Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.CompactRootSpace"
+    ]
+  },
+  "DuistermaatVanDerKallen/ComplexSemialgebraic.lean": {
+    "checkedAt": "2026-11-07T13:45:30.351Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.complexCoordinates",
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/CurveField.lean": {
+    "checkedAt": "2026-11-07T13:45:33.220Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.curveInverse_contDiffAt",
+      "DuistermaatVanDerKallen.curveInverse_apply",
+      "DuistermaatVanDerKallen.curveNormSq",
+      "DuistermaatVanDerKallen.torusTangentMap",
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.AmbientPolynomial",
+      "DuistermaatVanDerKallen.differentialNormSq",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/CurveVariation.lean": {
+    "checkedAt": "2026-11-07T13:45:45.255Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.euclidean_norm_le_sum_abs",
+      "DuistermaatVanDerKallen.exists_measurable_injective_partition",
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/DrivenAnalytic.lean": {
+    "checkedAt": "2026-11-07T13:45:49.474Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent",
+      "DuistermaatVanDerKallen.CurveTime"
+    ]
+  },
+  "DuistermaatVanDerKallen/DrivenContinuity.lean": {
+    "checkedAt": "2026-11-07T13:46:06.395Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent",
+      "DuistermaatVanDerKallen.CurveTime"
+    ]
+  },
+  "DuistermaatVanDerKallen/DrivenLocalODE.lean": {
+    "checkedAt": "2026-11-07T13:46:12.479Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/DrivenTransport.lean": {
+    "checkedAt": "2026-11-07T13:46:18.943Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent",
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/FaceReduction.lean": {
+    "checkedAt": "2026-11-07T13:46:46.720Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/FaceRestriction.lean": {
+    "checkedAt": "2026-11-07T13:47:12.306Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.facePart",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/FiberDiffeomorph.lean": {
+    "checkedAt": "2026-11-07T13:47:21.456Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/FiberTransport.lean": {
+    "checkedAt": "2026-11-07T13:48:00.922Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/FiniteCoverPaths.lean": {
+    "checkedAt": "2026-11-07T13:48:27.463Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.finite_closed_cover_component_chain",
+      "DuistermaatVanDerKallen.exists_finite_relation_chain",
+      "DuistermaatVanDerKallen.convex_cover_segment_chain"
+    ]
+  },
+  "DuistermaatVanDerKallen/IntegerSupportShear.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T13:53:28.718Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.firstCoordinateShear"
+    ]
+  },
+  "DuistermaatVanDerKallen/LocalInjectivePartition.lean": {
+    "checkedAt": "2026-11-07T13:53:41.625Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.exists_measurable_injective_partition",
+      "DuistermaatVanDerKallen.countable_fiber_of_local_injectivity",
+      "DuistermaatVanDerKallen.exists_open_injective_of_contDiffAt_det_ne_zero"
+    ]
+  },
+  "DuistermaatVanDerKallen/LocalTransportHomotopy.lean": {
+    "checkedAt": "2026-11-07T13:54:04.123Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/NormalizedGradient.lean": {
+    "checkedAt": "2026-11-07T13:54:16.865Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.differentialNormSq",
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/ODEContinuation.lean": {
+    "checkedAt": "2026-11-07T13:54:26.589Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.smooth_lipschitz_on_compact"
+    ]
+  },
+  "DuistermaatVanDerKallen/PicardImplicit.lean": {
+    "checkedAt": "2026-11-07T13:54:34.658Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.picardResidual"
+    ]
+  },
+  "DuistermaatVanDerKallen/PiecewiseTransport.lean": {
+    "checkedAt": "2026-11-07T14:01:27.323Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/PolygonalChain.lean": {
+    "checkedAt": "2026-11-07T14:02:03.944Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.C1ArcChain"
+    ]
+  },
+  "DuistermaatVanDerKallen/PolynomialCalculus.lean": {
+    "checkedAt": "2026-11-07T14:02:04.941Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/PolynomialFactorization.lean": {
+    "checkedAt": "2026-11-07T14:02:09.350Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.natExponent",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/PolynomialGradient.lean": {
+    "checkedAt": "2026-11-07T14:02:11.499Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.torusTangentMap",
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.differentialNormSq"
+    ]
+  },
+  "DuistermaatVanDerKallen/PolynomialRootCharts.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T14:02:20.430Z"
+  },
+  "DuistermaatVanDerKallen/PolynomialTail.lean": {
+    "checkedAt": "2026-11-07T14:02:26.718Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.EventuallyConstant"
+    ]
+  },
+  "DuistermaatVanDerKallen/RelativeFaceReduction.lean": {
+    "checkedAt": "2026-11-07T14:02:27.537Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.OriginInSpanInterior",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/ResidueDeformationCovering.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T14:02:30.693Z"
+  },
+  "DuistermaatVanDerKallen/ResidueRootLocus.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T14:02:32.381Z"
+  },
+  "DuistermaatVanDerKallen/ResidueSemialgebraic.lean": {
+    "checkedAt": "2026-11-07T14:02:33.387Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.IsSemialgebraic",
+      "DuistermaatVanDerKallen.CompactRootSpace"
+    ]
+  },
+  "DuistermaatVanDerKallen/SemialgebraicBoundary.lean": {
+    "checkedAt": "2026-11-07T14:06:42.432Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.IsSemialgebraic",
+      "DuistermaatVanDerKallen.scalar_graph_empty_interior"
+    ]
+  },
+  "DuistermaatVanDerKallen/SemialgebraicJacobian.lean": {
+    "checkedAt": "2026-11-07T14:06:43.568Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/SemialgebraicRational.lean": {
+    "checkedAt": "2026-11-07T14:06:45.413Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.sum_div_mul_prod",
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/SemialgebraicTail.lean": {
+    "checkedAt": "2026-11-07T14:06:45.972Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.polynomial_curve_eval",
+      "DuistermaatVanDerKallen.IsSemialgebraic",
+      "DuistermaatVanDerKallen.EventuallyConstant"
+    ]
+  },
+  "DuistermaatVanDerKallen/SphereFamily.lean": {
+    "checkedAt": "2026-11-07T14:06:46.825Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/TorusMathieu.lean": {
+    "checkedAt": "2026-11-07T14:13:54.143Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/TransportControl.lean": {
+    "checkedAt": "2026-11-07T14:13:55.536Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.ordinaryCriticalValues",
+      "DuistermaatVanDerKallen.trajectory_radius_bound"
+    ]
+  },
+  "DuistermaatVanDerKallen/VertexChart.lean": {
+    "checkedAt": "2026-11-07T14:14:12.953Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/VertexChartEvaluation.lean": {
+    "checkedAt": "2026-11-07T14:14:45.666Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/AffineTorus.lean": {
+    "checkedAt": "2026-11-07T13:43:52.019Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/AlgebraicCurveRegularity.lean": {
+    "checkedAt": "2026-11-07T13:43:55.123Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.bivariateEval",
+      "DuistermaatVanDerKallen.fraction_polynomial_dvd_clear_denominator"
+    ]
+  },
+  "DuistermaatVanDerKallen/C1Sweeps.lean": {
+    "checkedAt": "2026-11-07T13:44:13.040Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/ChainHomologyHomotopy.lean": {
+    "checkedAt": "2026-11-07T13:46:26.356Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/CommonRadius.lean": {
+    "checkedAt": "2026-11-07T13:47:26.914Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.distinct_component_of_separation",
+      "DuistermaatVanDerKallen.common_radius_contradiction",
+      "DuistermaatVanDerKallen.finite_uniform_separation"
+    ]
+  },
+  "DuistermaatVanDerKallen/ConstantTransitionModuleSheaf.lean": {
+    "checkedAt": "2026-11-07T13:47:28.155Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.ConstantTransitionAtlas"
+    ]
+  },
+  "DuistermaatVanDerKallen/ConstantTransitionSheaf.lean": {
+    "checkedAt": "2026-11-07T13:47:32.194Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.ConstantTransitionAtlas"
+    ]
+  },
+  "DuistermaatVanDerKallen/CountableSemialgebraic.lean": {
+    "checkedAt": "2026-11-07T13:47:35.907Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/CriticalLocus.lean": {
+    "checkedAt": "2026-11-07T13:47:36.970Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/CriticalNeighborhood.lean": {
+    "checkedAt": "2026-11-07T13:47:51.852Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.ordinaryCriticalValues"
+    ]
+  },
+  "DuistermaatVanDerKallen/CurveIntegral.lean": {
+    "checkedAt": "2026-11-07T13:47:52.717Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.CurveTime"
+    ]
+  },
+  "DuistermaatVanDerKallen/CurveRectifiability.lean": {
+    "checkedAt": "2026-11-07T13:47:54.259Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.integral_eq_sub_of_hasDerivAt_off_finset",
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/DrivenContinuation.lean": {
+    "checkedAt": "2026-11-07T13:47:57.089Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/DummyCoordinate.lean": {
+    "checkedAt": "2026-11-07T13:48:12.412Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.ambientSucc",
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.AmbientPolynomial"
+    ]
+  },
+  "DuistermaatVanDerKallen/FiniteExceptionFTC.lean": {
+    "checkedAt": "2026-11-07T13:48:17.319Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.integral_eq_sub_of_hasDerivAt_off_finset"
+    ]
+  },
+  "DuistermaatVanDerKallen/HomologyLift.lean": {
+    "checkedAt": "2026-11-07T13:49:46.971Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.ConstantTransitionAtlas",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/HomologyTransitions.lean": {
+    "checkedAt": "2026-11-07T13:56:03.203Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/LatticeCoordinates.lean": {
+    "checkedAt": "2026-11-07T13:56:56.465Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/Laurent.lean": {
+    "checkedAt": "2026-11-07T13:57:28.569Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/LocalTrivialization.lean": {
+    "checkedAt": "2026-11-07T13:57:32.510Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/RealExponentChange.lean": {
+    "checkedAt": "2026-11-07T14:01:55.034Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/RegularJacobian.lean": {
+    "checkedAt": "2026-11-07T14:02:41.389Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.exists_measurable_injective_partition",
+      "DuistermaatVanDerKallen.measurableSet_regular_of_contDiffAt",
+      "DuistermaatVanDerKallen.tsum_indicator_one_eq_ncard"
+    ]
+  },
+  "DuistermaatVanDerKallen/ResidueCoveringDegree.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T14:07:32.880Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.CompactRootSpace"
+    ]
+  },
+  "DuistermaatVanDerKallen/ResidueDeformationBounds.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T14:19:21.058Z"
+  },
+  "DuistermaatVanDerKallen/RootCounting.lean": {
+    "checkedAt": "2026-11-07T14:19:21.394Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.complex_nth_root_card",
+      "DuistermaatVanDerKallen.covering_fiber_card_eq_along_path"
+    ]
+  },
+  "DuistermaatVanDerKallen/ScalarFinitenessReduction.lean": {
+    "checkedAt": "2026-11-07T14:19:22.248Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/ScalarVariation.lean": {
+    "checkedAt": "2026-11-07T14:19:36.805Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/SegmentAnalytic.lean": {
+    "checkedAt": "2026-11-07T14:19:46.830Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/SemialgebraicCurveRegularity.lean": {
+    "checkedAt": "2026-11-07T14:20:40.835Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.bivariateEval",
+      "DuistermaatVanDerKallen.fraction_polynomial_dvd_clear_denominator",
+      "DuistermaatVanDerKallen.IsSemialgebraic"
+    ]
+  },
+  "DuistermaatVanDerKallen/SemialgebraicLine.lean": {
+    "checkedAt": "2026-11-07T14:20:44.262Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.polynomial_nonneg_finite_frontier",
+      "DuistermaatVanDerKallen.IsSemialgebraic",
+      "DuistermaatVanDerKallen.subset_of_preconnected_disjoint_frontier",
+      "DuistermaatVanDerKallen.realOrderSide"
+    ]
+  },
+  "DuistermaatVanDerKallen/SimplicialPaths.lean": {
+    "checkedAt": "2026-11-07T14:20:48.519Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.finite_closed_cover_component_chain",
+      "DuistermaatVanDerKallen.finite_simplicial_complex_isCompact",
+      "DuistermaatVanDerKallen.polynomial_nonneg_finite_frontier",
+      "DuistermaatVanDerKallen.C1ArcChain"
+    ]
+  },
+  "DuistermaatVanDerKallen/SpherePathEstimate.lean": {
+    "checkedAt": "2026-11-07T14:20:50.103Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient"
+    ]
+  },
+  "DuistermaatVanDerKallen/Targets.lean": {
+    "checkedAt": "2026-11-07T14:21:07.474Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/TorusCauchySeries.lean": {
+    "checkedAt": "2026-11-07T14:21:10.627Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/TorusDifferential.lean": {
+    "checkedAt": "2026-11-07T14:21:12.351Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.TorusAmbient",
+      "DuistermaatVanDerKallen.torusTangentMap",
+      "DuistermaatVanDerKallen.differentialNormSq"
+    ]
+  },
+  "DuistermaatVanDerKallen/TransportHomology.lean": {
+    "checkedAt": "2026-11-07T14:40:39.748Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.MultiLaurent"
+    ]
+  },
+  "DuistermaatVanDerKallen/UniformGradient.lean": {
+    "checkedAt": "2026-11-07T14:49:04.819Z",
+    "collisions": [
+      "DuistermaatVanDerKallen.ordinaryCriticalValues"
+    ]
+  }
+}
