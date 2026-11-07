@@ -1,0 +1,497 @@
+{
+  "CriticalGK2/ActualBlockPowerCutBudget.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:29:36.361Z"
+  },
+  "CriticalGK2/ActualBlockPowers.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:29:37.111Z"
+  },
+  "CriticalGK2/ActualSuffixContraction.lean": {
+    "checkedAt": "2026-11-07T16:29:40.181Z",
+    "collisions": [
+      "CriticalGK2.extendedPair"
+    ]
+  },
+  "CriticalGK2/AllCutEndpoints.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:29:40.852Z"
+  },
+  "CriticalGK2/AutomatonScalarReadback.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:29:43.694Z"
+  },
+  "CriticalGK2/BlockTensorSupport.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:29:53.401Z"
+  },
+  "CriticalGK2/CompletionSteps.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:29:54.090Z"
+  },
+  "CriticalGK2/DualDegreeBridge.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:29:57.021Z"
+  },
+  "CriticalGK2/DualFamilyBridge.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:30:08.335Z"
+  },
+  "CriticalGK2/DualStageSteps.lean": {
+    "checkedAt": "2026-11-07T16:30:43.988Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct",
+      "CriticalGK2.stemPolynomial"
+    ]
+  },
+  "CriticalGK2/DualWordBridge.lean": {
+    "checkedAt": "2026-11-07T16:31:24.782Z",
+    "collisions": [
+      "CriticalGK2.StemWord",
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/FactorComplexity.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T16:35:45.828Z"
+  },
+  "CriticalGK2/FreeTailCutSupport.lean": {
+    "checkedAt": "2026-11-07T16:35:52.661Z",
+    "collisions": [
+      "CriticalGK2.contractRight",
+      "CriticalGK2.extendedPair"
+    ]
+  },
+  "CriticalGK2/GenericNormalLower.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:35:56.530Z"
+  },
+  "CriticalGK2/GenericResidualFinite.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:35:57.289Z"
+  },
+  "CriticalGK2/GradedSurvival.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:36:01.928Z"
+  },
+  "CriticalGK2/HomogeneousIdealQuotient.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:36:02.642Z"
+  },
+  "CriticalGK2/InfiniteSpaces.lean": {
+    "checkedAt": "2026-11-07T16:43:07.689Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/InfiniteWordPath.lean": {
+    "checkedAt": "2026-11-07T16:43:27.551Z",
+    "collisions": [
+      "CriticalGK2.Language.PrefixClosed"
+    ]
+  },
+  "CriticalGK2/PositiveComponents.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:43:35.270Z"
+  },
+  "CriticalGK2/PositiveGradedSum.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:43:35.638Z"
+  },
+  "CriticalGK2/PositiveWordIdealQuotient.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:43:37.200Z"
+  },
+  "CriticalGK2/PositiveWordIdealScalarNil.lean": {
+    "checkedAt": "2026-11-07T16:43:39.161Z",
+    "collisions": [
+      "CriticalGK2.Actual.scalarTensorNonUnitalMapLinear",
+      "CriticalGK2.Actual.scalarTensorNonUnitalMap",
+      "CriticalGK2.positivePower"
+    ]
+  },
+  "CriticalGK2/PrefixStages.lean": {
+    "checkedAt": "2026-11-07T16:50:59.232Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/PrimalCompletion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:23:28.059Z"
+  },
+  "CriticalGK2/SameFieldReadback.lean": {
+    "checkedAt": "2026-11-07T17:23:30.003Z",
+    "collisions": [
+      "CriticalGK2.extendedPair"
+    ]
+  },
+  "CriticalGK2/ScalarReadback.lean": {
+    "checkedAt": "2026-11-07T17:23:34.184Z",
+    "collisions": [
+      "CriticalGK2.extendedPair"
+    ]
+  },
+  "CriticalGK2/StemPolynomial.lean": {
+    "checkedAt": "2026-11-07T17:51:09.132Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/SuffixAutomaton.lean": {
+    "checkedAt": "2026-11-07T17:51:12.101Z",
+    "collisions": [
+      "CriticalGK2.Automaton.Residual",
+      "CriticalGK2.Automaton.consumePrefix"
+    ]
+  },
+  "CriticalGK2/TensorCutDuality.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T17:51:16.402Z"
+  },
+  "CriticalGK2/TensorCutRank.lean": {
+    "checkedAt": "2026-11-07T17:51:20.316Z",
+    "collisions": [
+      "CriticalGK2.contractRight",
+      "CriticalGK2.extendedPair",
+      "CriticalGK2.ContractionBudget.leftFlattening"
+    ]
+  },
+  "CriticalGK2/WaitingCutRank.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:51:30.218Z"
+  },
+  "CriticalGK2/WordSingleCoefficient.lean": {
+    "checkedAt": "2026-11-07T17:51:30.554Z",
+    "collisions": [
+      "CriticalGK2.Automaton.consumePrefix"
+    ]
+  },
+  "CriticalGK2/ActualGrowthFromCutBudget.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:30:04.932Z"
+  },
+  "CriticalGK2/ActualLocalPI.lean": {
+    "checkedAt": "2026-11-07T16:30:57.052Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/AllCutClosure.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:32:28.395Z"
+  },
+  "CriticalGK2/AllCutIdeal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:32:32.878Z"
+  },
+  "CriticalGK2/CutEvaluation.lean": {
+    "checkedAt": "2026-11-07T16:32:38.945Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/GenericMatrixCoefficients.lean": {
+    "checkedAt": "2026-11-07T16:33:39.747Z",
+    "collisions": [
+      "CriticalGK2.Automaton.consumePrefix"
+    ]
+  },
+  "CriticalGK2/GenericMatrixCoverage.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T16:39:16.322Z"
+  },
+  "CriticalGK2/GrowthExponent.lean": {
+    "checkedAt": "2026-11-07T16:39:17.730Z",
+    "collisions": [
+      "CriticalGK2.Growth.UpperExponentSet"
+    ]
+  },
+  "CriticalGK2/LeadingDegree.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:39:21.901Z"
+  },
+  "CriticalGK2/LocalOperation.lean": {
+    "checkedAt": "2026-11-07T16:39:22.289Z",
+    "collisions": [
+      "CriticalGK2.StemWord",
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/LongCut.lean": {
+    "checkedAt": "2026-11-07T17:23:51.462Z",
+    "collisions": [
+      "CriticalGK2.contractRight",
+      "CriticalGK2.extendedPair"
+    ]
+  },
+  "CriticalGK2/MatrixQuotientDescent.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:24:16.983Z"
+  },
+  "CriticalGK2/NormalWordFactorial.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T17:24:21.525Z"
+  },
+  "CriticalGK2/TensorFrontProductCutSupport.lean": {
+    "checkedAt": "2026-11-07T17:34:51.228Z",
+    "collisions": [
+      "CriticalGK2.contractRight",
+      "CriticalGK2.extendedPair",
+      "CriticalGK2.ContractionBudget.specializeLeft"
+    ]
+  },
+  "CriticalGK2/Unitization.lean": {
+    "checkedAt": "2026-11-07T17:34:56.511Z",
+    "collisions": [
+      "CriticalGK2.positivePower"
+    ]
+  },
+  "CriticalGK2/VersionOne.lean": {
+    "checkedAt": "2026-11-07T17:34:59.796Z",
+    "collisions": [
+      "CriticalGK2.positivePower"
+    ]
+  },
+  "CriticalGK2/WordCoherence.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:35:23.968Z"
+  },
+  "CriticalGK2/WordProducts.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:35:25.037Z"
+  },
+  "CriticalGK2/WordTensorSuffix.lean": {
+    "checkedAt": "2026-11-07T17:35:30.588Z",
+    "collisions": [
+      "CriticalGK2.extendedPair"
+    ]
+  },
+  "CriticalGK2/ActualBlockMatrixKernel.lean": {
+    "checkedAt": "2026-11-07T16:31:24.123Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct",
+      "CriticalGK2.extendedPair"
+    ]
+  },
+  "CriticalGK2/ActualSpaceCutBudget.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:31:49.574Z"
+  },
+  "CriticalGK2/ActualWordSpaces.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T16:36:30.294Z"
+  },
+  "CriticalGK2/AutomatonFiniteEvaluation.lean": {
+    "checkedAt": "2026-11-07T16:37:07.902Z",
+    "collisions": [
+      "CriticalGK2.Automaton.Residual",
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/BlockPropagation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:37:15.602Z"
+  },
+  "CriticalGK2/DyadicDegreeCast.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:37:19.557Z"
+  },
+  "CriticalGK2/DyadicRoots.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:37:20.590Z"
+  },
+  "CriticalGK2/FamilyEventReadback.lean": {
+    "checkedAt": "2026-11-07T16:37:27.222Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/GenericPositivePrime.lean": {
+    "checkedAt": "2026-11-07T16:40:57.851Z",
+    "collisions": [
+      "CriticalGK2.PrimeInheritance.ordinaryIdealLinearSpan",
+      "CriticalGK2.PrimeInheritance.ordinaryIdealLift"
+    ]
+  },
+  "CriticalGK2/HomogeneousIdealZorn.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:56:34.101Z"
+  },
+  "CriticalGK2/LocalContainment.lean": {
+    "checkedAt": "2026-11-07T17:05:46.194Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/NormalWordGreedyBasis.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T17:05:48.390Z",
+    "collisions": [
+      "CriticalGK2.Greedy.Index"
+    ]
+  },
+  "CriticalGK2/PolynomialStages.lean": {
+    "checkedAt": "2026-11-07T17:15:21.983Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/PositiveGeneration.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:15:59.313Z"
+  },
+  "CriticalGK2/PositiveWordFiltration.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:16:00.522Z"
+  },
+  "CriticalGK2/ScalarExtensionPowerReadback.lean": {
+    "checkedAt": "2026-11-07T17:31:38.675Z",
+    "collisions": [
+      "CriticalGK2.extendedPair"
+    ]
+  },
+  "CriticalGK2/ScalarExtensionUnitization.lean": {
+    "checkedAt": "2026-11-07T17:31:39.063Z",
+    "collisions": [
+      "CriticalGK2.Actual.scalarTensorComm_map_mul",
+      "CriticalGK2.positivePower"
+    ]
+  },
+  "CriticalGK2/ScalarWordTensor.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:31:43.726Z"
+  },
+  "CriticalGK2/SparseSchedule.lean": {
+    "checkedAt": "2026-11-07T17:31:44.424Z",
+    "collisions": [
+      "CriticalGK2.EnvelopeDiverges"
+    ]
+  },
+  "CriticalGK2/StagedSpaces.lean": {
+    "checkedAt": "2026-11-07T17:40:51.443Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/UnitizationScalarBaseChange.lean": {
+    "checkedAt": "2026-11-07T17:41:41.709Z",
+    "collisions": [
+      "CriticalGK2.Actual.unitizationScalarLinearEquiv"
+    ]
+  },
+  "CriticalGK2/WordConsumption.lean": {
+    "checkedAt": "2026-11-07T17:41:43.146Z",
+    "collisions": [
+      "CriticalGK2.Automaton.consumePrefix"
+    ]
+  },
+  "CriticalGK2/WordTensor.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:41:47.234Z"
+  },
+  "CriticalGK2/ActualCutDimension.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T16:34:01.093Z"
+  },
+  "CriticalGK2/ActualResidualFinite.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:50:12.044Z"
+  },
+  "CriticalGK2/ActualStemBudget.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:50:12.627Z"
+  },
+  "CriticalGK2/ActualWordCutRank.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T16:50:17.510Z"
+  },
+  "CriticalGK2/ConcreteConstruction.lean": {
+    "checkedAt": "2026-11-07T17:06:06.139Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/CutDuality.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:12:01.947Z"
+  },
+  "CriticalGK2/DyadicCoherence.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:12:15.456Z"
+  },
+  "CriticalGK2/HomogeneousCutTensor.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T17:12:16.342Z"
+  },
+  "CriticalGK2/HomogeneousProjection.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:22:54.154Z"
+  },
+  "CriticalGK2/LongCompletionEvaluation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:23:02.045Z"
+  },
+  "CriticalGK2/MatrixPI.lean": {
+    "checkedAt": "2026-11-07T17:23:02.539Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/NormalLanguagePath.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-07T17:23:09.570Z",
+    "collisions": [
+      "CriticalGK2.positivePower"
+    ]
+  },
+  "CriticalGK2/PISegment.lean": {
+    "checkedAt": "2026-11-07T17:37:41.588Z",
+    "collisions": [
+      "CriticalGK2.alternatingProduct"
+    ]
+  },
+  "CriticalGK2/PositiveGrowthFiltration.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:48:32.712Z"
+  },
+  "CriticalGK2/PositiveQuotient.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:48:33.478Z"
+  },
+  "CriticalGK2/RootContractionDuality.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:48:34.904Z"
+  },
+  "CriticalGK2/RootContractionTensorBridge.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:48:38.336Z"
+  },
+  "CriticalGK2/SparseGlobalCutBudget.lean": {
+    "checkedAt": "2026-11-07T17:48:38.959Z",
+    "collisions": [
+      "CriticalGK2.EnvelopeDiverges"
+    ]
+  },
+  "CriticalGK2/SparseMatrixNil.lean": {
+    "checkedAt": "2026-11-07T17:48:39.427Z",
+    "collisions": [
+      "CriticalGK2.EnvelopeDiverges"
+    ]
+  },
+  "CriticalGK2/StemCutSupport.lean": {
+    "checkedAt": "2026-11-07T17:48:40.516Z",
+    "collisions": [
+      "CriticalGK2.contractRight",
+      "CriticalGK2.extendedPair"
+    ]
+  },
+  "CriticalGK2/TargetEnumeration.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:56:25.266Z"
+  },
+  "CriticalGK2/WordSurvival.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-07T17:56:29.058Z"
+  }
+}
