@@ -1,0 +1,570 @@
+{
+  "KummerCriterion/BernoulliFast/ValuesUpTo100.lean": {
+    "checkedAt": "2026-11-10T14:12:38.597Z",
+    "collisions": [
+      "KummerCriterion.BernoulliFast.binomSum.loop"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/DworkParameter/Part13.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T14:17:17.401Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.KummerArtinHasse.lambdaRationalPrimeIdeal"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/DworkParameter/Part15.lean": {
+    "checkedAt": "2026-11-10T14:18:12.219Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.KummerArtinHasse.lambdaRationalPrimeIdeal"
+    ]
+  },
+  "KummerCriterion/HMinus/HMinusCriterion.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T14:24:17.189Z"
+  },
+  "KummerCriterion/HMinus/LValueReduction/LValues.lean": {
+    "checkedAt": "2026-11-10T14:24:20.732Z",
+    "collisions": [
+      "KummerCriterion.zmod_val_div_prime_mem_Ioo",
+      "KummerCriterion.instFintypeSym",
+      "KummerCriterion.gaussSum_mul_gaussSum_inv_stdAddChar"
+    ]
+  },
+  "KummerCriterion/IrregularPrimes/RatNumerator.lean": {
+    "checkedAt": "2026-11-10T14:24:25.451Z",
+    "collisions": [
+      "KummerCriterion.exists_prime_dvd_num_of_one_lt_abs",
+      "KummerCriterion.padic_eq_p_mul_of_prime_dvd_num",
+      "KummerCriterion.prime_dvd_num_of_padic_eq_p_mul",
+      "KummerCriterion.dvd_num_of_dvd_div_nat_num"
+    ]
+  },
+  "KummerCriterion/IrregularPrimes/VonStaudtConsequences.lean": {
+    "checkedAt": "2026-11-10T14:24:26.816Z",
+    "collisions": [
+      "KummerCriterion.vonStaudtPrimesFor",
+      "KummerCriterion.exists_prime_dvd_num_of_one_lt_abs"
+    ]
+  },
+  "KummerCriterion/LValueAtOne/Cosine.lean": {
+    "checkedAt": "2026-11-10T14:24:30.423Z",
+    "collisions": [
+      "KummerCriterion.zmod_val_div_prime_mem_Ioo",
+      "KummerCriterion.continuous_shiftedCosTerm",
+      "KummerCriterion.hasSum_shifted_cosZeta",
+      "KummerCriterion.norm_sum_range_smul_le_of_antitone_of_nonneg_of_bounded"
+    ]
+  },
+  "KummerCriterion/LValueAtOne/DirichletBounds.lean": {
+    "checkedAt": "2026-11-10T14:24:33.922Z",
+    "collisions": [
+      "KummerCriterion.norm_sum_range_smul_le_of_antitone_of_nonneg_of_bounded",
+      "KummerCriterion.norm_sum_range_shift_le_of_bounded"
+    ]
+  },
+  "KummerCriterion/LValueAtOne/Odd.lean": {
+    "checkedAt": "2026-11-10T14:24:36.981Z",
+    "collisions": [
+      "KummerCriterion.BernoulliGen",
+      "KummerCriterion.oddLValueRhs"
+    ]
+  },
+  "KummerCriterion/LehmerVandiver/PlusCoprime/CharacterIdentification.lean": {
+    "checkedAt": "2026-11-10T14:24:42.599Z",
+    "collisions": [
+      "IsPrimitiveRoot.unit'"
+    ]
+  },
+  "KummerCriterion/Reflection/Local/DeltaAction.lean": {
+    "checkedAt": "2026-11-10T14:24:43.471Z",
+    "collisions": [
+      "KummerCriterion.Ideal.oneUnitsSubgroup"
+    ]
+  },
+  "KummerCriterion/Reflection/ResidueSymbol/ArtinHasse/Part2.lean": {
+    "checkedAt": "2026-11-10T14:24:52.804Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.DieudonneDwork.IsRIntegralRat"
+    ]
+  },
+  "KummerCriterion/ZetaFactorisation/NumberFieldEulerProduct.lean": {
+    "checkedAt": "2026-11-10T14:24:59.551Z",
+    "collisions": [
+      "KummerCriterion.NonzeroIdeal",
+      "KummerCriterion.instFintypeSym"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/DworkParameter/Part3.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-10T14:14:14.504Z"
+  },
+  "KummerCriterion/CyclotomicUnits/KummerLogFormalEvaluator/Coefficient.lean": {
+    "checkedAt": "2026-11-10T14:14:54.910Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.artinHasseLogSeries",
+      "KummerCriterion.Furtwaengler.DieudonneDwork.IsRIntegralRat"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/Vandermonde.lean": {
+    "checkedAt": "2026-11-10T14:15:37.881Z",
+    "collisions": [
+      "KummerCriterion.CyclotomicUnits.kummerLogRank"
+    ]
+  },
+  "KummerCriterion/GaussSum/SignInvariant/BlockDeterminant.lean": {
+    "checkedAt": "2026-11-10T14:15:39.128Z",
+    "collisions": [
+      "KummerCriterion.deltaZeroFunction",
+      "KummerCriterion.dft_basisFun_apply",
+      "KummerCriterion.gaussSum_mul_gaussSum_inv_stdAddChar"
+    ]
+  },
+  "KummerCriterion/GaussSum/SignInvariant/Operator.lean": {
+    "checkedAt": "2026-11-10T14:15:55.169Z",
+    "collisions": [
+      "KummerCriterion.normalizedDft",
+      "KummerCriterion.dft_basisFun_apply"
+    ]
+  },
+  "KummerCriterion/HMinus/PadicCorollaries.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T14:21:31.685Z"
+  },
+  "KummerCriterion/IrregularPrimes/BernoulliGrowth.lean": {
+    "checkedAt": "2026-11-10T14:21:34.027Z",
+    "collisions": [
+      "KummerCriterion.zetaEvenSeries"
+    ]
+  },
+  "KummerCriterion/KummerCongruence/Voronoi.lean": {
+    "checkedAt": "2026-11-10T14:21:36.199Z",
+    "collisions": [
+      "KummerCriterion.voronoi_sub_pow_linear_approx",
+      "KummerCriterion.voronoi_permutation",
+      "KummerCriterion.faulhaber_term_mem_p_sq"
+    ]
+  },
+  "KummerCriterion/LehmerVandiver/PlusCoprime/Sinnott/LDerivative/Part3.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-10T14:21:40.901Z"
+  },
+  "KummerCriterion/Reflection/ResidueSymbol/DieudonneDwork/Part1.lean": {
+    "checkedAt": "2026-11-10T14:21:41.327Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.DieudonneDwork.IsRIntegralRat"
+    ]
+  },
+  "KummerCriterion/Reflection/ResidueSymbol/DworkFactorization/FiniteLogBounds.lean": {
+    "checkedAt": "2026-11-10T14:21:55.091Z",
+    "collisions": [
+      "Nat.mul_pred_le_pow_sub_one",
+      "Nat.pred_mul_factorization_add_div_le",
+      "Nat.div_le_div_add_sub"
+    ]
+  },
+  "KummerCriterion/Reflection/ResidueSymbol/KummerArtinHasseCompletionMap.lean": {
+    "checkedAt": "2026-11-10T14:21:56.031Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.KummerArtinHasse.lambdaRationalPrimeIdeal"
+    ]
+  },
+  "KummerCriterion/BernoulliFast/Cbv.lean": {
+    "checkedAt": "2026-11-10T14:10:49.996Z",
+    "collisions": [
+      "KummerCriterion.BernoulliFast.binomSum.loop"
+    ]
+  },
+  "KummerCriterion/BernoulliFast/PrimesUpTo100.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T14:16:51.521Z"
+  },
+  "KummerCriterion/CyclotomicUnits/DworkParameter/Part11.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-10T14:17:00.134Z"
+  },
+  "KummerCriterion/CyclotomicUnits/DworkParameter/Part8.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T14:26:52.225Z"
+  },
+  "KummerCriterion/CyclotomicUnits/KummerLogDeterminant.lean": {
+    "checkedAt": "2026-11-10T14:27:00.913Z",
+    "collisions": [
+      "KummerCriterion.CyclotomicUnits.kummerLogRank",
+      "KummerCriterion.BernoulliGen"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/KummerLogFormal.lean": {
+    "checkedAt": "2026-11-10T14:27:10.805Z",
+    "collisions": [
+      "KummerCriterion.CyclotomicUnits.formalExpNormalizedMinusOne",
+      "KummerCriterion.Furtwaengler.FiniteArtinHasseFormal.coeff_pow_eq_zero_of_lt_of_constantCoeff_eq_zero",
+      "KummerCriterion.BernoulliGen"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/LogDomain.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T14:27:28.422Z"
+  },
+  "KummerCriterion/HMinus/ClassNumberFormula.lean": {
+    "checkedAt": "2026-11-10T14:27:32.064Z",
+    "collisions": [
+      "KummerCriterion.nrComplexPlaces_maximalRealSubfield_eq_zero"
+    ]
+  },
+  "KummerCriterion/HMinus/LValueReduction/Factors.lean": {
+    "checkedAt": "2026-11-10T14:27:33.109Z",
+    "collisions": [
+      "KummerCriterion.cyclotomicClassNumberFactor"
+    ]
+  },
+  "KummerCriterion/HMinus/LValueReduction/Teichmuller.lean": {
+    "checkedAt": "2026-11-10T14:27:35.324Z",
+    "collisions": [
+      "KummerCriterion.instFintypeSym",
+      "KummerCriterion.BernoulliGen",
+      "KummerCriterion.maximalIdealQuotientEquivZMod"
+    ]
+  },
+  "KummerCriterion/KummerCongruence/VonStaudtClausen.lean": {
+    "checkedAt": "2026-11-10T14:30:16.211Z",
+    "collisions": [
+      "KummerCriterion.faulhaber_term_mem_p_sq"
+    ]
+  },
+  "KummerCriterion/LValueAtOne/Sine.lean": {
+    "checkedAt": "2026-11-10T14:30:17.409Z",
+    "collisions": [
+      "KummerCriterion.zmod_val_div_prime_mem_Ioo",
+      "KummerCriterion.continuous_shiftedSinTerm",
+      "KummerCriterion.hasSum_shifted_sinZeta"
+    ]
+  },
+  "KummerCriterion/LehmerVandiver/PlusCoprime/Sinnott/LDerivative/Part2.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T14:30:21.695Z",
+    "collisions": [
+      "KummerCriterion.instFintypeSym"
+    ]
+  },
+  "KummerCriterion/LehmerVandiver/PlusCoprime/Sinnott/LDerivative/Part4.lean": {
+    "checkedAt": "2026-11-10T14:30:37.960Z",
+    "collisions": [
+      "KummerCriterion.instFintypeSym"
+    ]
+  },
+  "KummerCriterion/LehmerVandiver/PrimaryUnits/Part2.lean": {
+    "checkedAt": "2026-11-10T14:33:41.094Z",
+    "collisions": [
+      "IsPrimitiveRoot.unit'"
+    ]
+  },
+  "KummerCriterion/PrimitiveRootUnits.lean": {
+    "checkedAt": "2026-11-10T14:33:42.108Z",
+    "collisions": [
+      "IsPrimitiveRoot.unit'"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/DeletedFourier.lean": {
+    "checkedAt": "2026-11-10T14:12:18.364Z",
+    "collisions": [
+      "KummerCriterion.CyclotomicUnits.Nonidentity"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/DworkParameter/Part16.lean": {
+    "checkedAt": "2026-11-10T14:12:34.587Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.KummerArtinHasse.lambdaRationalPrimeIdeal",
+      "Nat.mul_pred_le_pow_sub_one"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/DworkParameter/Part7.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-10T14:13:51.517Z"
+  },
+  "KummerCriterion/CyclotomicUnits/DworkParameter/Part9.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T14:18:08.830Z",
+    "collisions": [
+      "KummerCriterion.Reflection.SingularKummer.SingularPair.cyclotomicLambdaHeightOne"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/KummerLogCoefficient/Basic.lean": {
+    "checkedAt": "2026-11-10T14:18:20.858Z",
+    "collisions": [
+      "KummerCriterion.CyclotomicUnits.kummerLogRank",
+      "KummerCriterion.CyclotomicUnits.formalExpNormalizedMinusOne",
+      "KummerCriterion.CyclotomicUnits.kummerLogRowIndex"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/KummerLogNormalization/Part1.lean": {
+    "checkedAt": "2026-11-10T14:18:31.350Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.artinHasseLogSeries",
+      "KummerCriterion.Furtwaengler.DieudonneDwork.IsRIntegralRat"
+    ]
+  },
+  "KummerCriterion/GaussSum/SignInvariant/VandermondeEndpoint.lean": {
+    "checkedAt": "2026-11-10T14:22:12.807Z",
+    "collisions": [
+      "KummerCriterion.fourierBaseRoot",
+      "KummerCriterion.dft_basisFun_apply"
+    ]
+  },
+  "KummerCriterion/IrregularPrimes/DivisorClosedBase.lean": {
+    "checkedAt": "2026-11-10T14:22:15.760Z",
+    "collisions": [
+      "KummerCriterion.irregularBaseBound"
+    ]
+  },
+  "KummerCriterion/IrregularPrimes/Infinitude.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T14:22:18.370Z",
+    "collisions": [
+      "KummerCriterion.irregularBaseBound",
+      "KummerCriterion.exists_prime_dvd_num_of_one_lt_abs"
+    ]
+  },
+  "KummerCriterion/IrregularPrimes/KummerCongruenceFull.lean": {
+    "checkedAt": "2026-11-10T14:22:22.955Z",
+    "collisions": [
+      "KummerCriterion.padicInt_natCast_isUnit_of_not_dvd",
+      "KummerCriterion.nat_eq_primePow_factorization_mul_unitPart",
+      "KummerCriterion.prime_not_dvd_factorization_unitPart",
+      "KummerCriterion.five_le_of_odd_prime_and_even_nonboundary",
+      "Nat.mul_pred_le_pow_sub_one",
+      "KummerCriterion.vonStaudtPrimesFor",
+      "KummerCriterion.choose_succ_div_eq_choose_div",
+      "KummerCriterion.primitiveRoot_unit_pow_eq_of_modEq",
+      "KummerCriterion.voronoi_floor_sum_sModEq_of_pred_modEq"
+    ]
+  },
+  "KummerCriterion/LehmerVandiver/PlusCoprime/Sinnott/CyclotomicUnitFamily.lean": {
+    "checkedAt": "2026-11-10T14:22:26.827Z",
+    "collisions": [
+      "KummerCriterion.LehmerVandiver.Sinnott.cyclotomicRealUnit",
+      "IsPrimitiveRoot.unit'"
+    ]
+  },
+  "KummerCriterion/LehmerVandiver/PrimaryUnits/Part1.lean": {
+    "checkedAt": "2026-11-10T14:22:27.718Z",
+    "collisions": [
+      "IsPrimitiveRoot.unit'"
+    ]
+  },
+  "KummerCriterion/Reflection/ResidueSymbol/DworkFactorization/Basic.lean": {
+    "checkedAt": "2026-11-10T14:22:30.279Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.powerSeries_subst_C_eq_C_sum_range_of_pow_succ_eq_zero"
+    ]
+  },
+  "KummerCriterion/Reflection/ResidueSymbol/DworkFactorization/FiniteArtinHasseFormal.lean": {
+    "checkedAt": "2026-11-10T14:22:31.082Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.FiniteArtinHasseFormal.coeff_pow_eq_zero_of_lt_of_constantCoeff_eq_zero",
+      "KummerCriterion.Furtwaengler.artinHasseLogSeries",
+      "KummerCriterion.Furtwaengler.DieudonneDwork.IsRIntegralRat"
+    ]
+  },
+  "KummerCriterion/TotallyRealSubfield/Conjugation.lean": {
+    "checkedAt": "2026-11-10T14:23:08.511Z",
+    "collisions": [
+      "KummerCriterion.conj_map_span_singleton"
+    ]
+  },
+  "KummerCriterion/ZetaFactorisation/Basic.lean": {
+    "checkedAt": "2026-11-10T14:23:08.832Z",
+    "collisions": [
+      "KummerCriterion.instFintypeSym"
+    ]
+  },
+  "KummerCriterion/BernoulliFast/Correctness.lean": {
+    "checkedAt": "2026-11-10T14:12:20.978Z",
+    "collisions": [
+      "KummerCriterion.BernoulliFast.binomSum.loop"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/NormalizedSubgroup.lean": {
+    "checkedAt": "2026-11-10T14:12:26.080Z",
+    "collisions": [
+      "KummerCriterion.prime_not_dvd_of_dvd_two_pow",
+      "KummerCriterion.subgroup_index_prime_dvd_iff_of_not_dvd_relIndex"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/PadicLogSetup.lean": {
+    "checkedAt": "2026-11-10T14:12:27.016Z",
+    "collisions": [
+      "KummerCriterion.Reflection.SingularKummer.SingularPair.cyclotomicLambdaHeightOne",
+      "KummerCriterion.Furtwaengler.artinHasseLogSeries",
+      "KummerCriterion.Furtwaengler.DieudonneDwork.IsRIntegralRat"
+    ]
+  },
+  "KummerCriterion/GaussSum/SignInvariant/BranchChoice.lean": {
+    "checkedAt": "2026-11-10T14:13:46.919Z",
+    "collisions": [
+      "KummerCriterion.card_even_characters",
+      "KummerCriterion.inv_eval_neg_one_eq",
+      "KummerCriterion.gaussSum_mul_gaussSum_inv_stdAddChar"
+    ]
+  },
+  "KummerCriterion/GaussSum/SignInvariant/Trace.lean": {
+    "checkedAt": "2026-11-10T14:13:54.873Z",
+    "collisions": [
+      "KummerCriterion.dft_basisFun_apply",
+      "KummerCriterion.dft_constOne",
+      "KummerCriterion.gaussSum_mul_gaussSum_inv_stdAddChar",
+      "KummerCriterion.complexCharacterMulEquivUnits"
+    ]
+  },
+  "KummerCriterion/GaussSum/SignInvariant/Vandermonde.lean": {
+    "checkedAt": "2026-11-10T14:13:58.584Z",
+    "collisions": [
+      "KummerCriterion.normalizedDft",
+      "KummerCriterion.fourierBaseRoot",
+      "KummerCriterion.dft_basisFun_apply"
+    ]
+  },
+  "KummerCriterion/GaussSum/SignInvariant/VandermondeScalar.lean": {
+    "checkedAt": "2026-11-10T14:14:04.850Z",
+    "collisions": [
+      "KummerCriterion.fourierBaseRoot",
+      "KummerCriterion.doubleSin_complement",
+      "KummerCriterion.doubleSin_pos",
+      "KummerCriterion.negI_pow_orderHalfMul_eq_I_pow_half"
+    ]
+  },
+  "KummerCriterion/HMinus/LValueReduction/GaussProduct.lean": {
+    "checkedAt": "2026-11-10T14:14:10.136Z",
+    "collisions": [
+      "KummerCriterion.rawGaussProduct_rhs_of_mod_four_eq_one",
+      "KummerCriterion.rawGaussProduct_rhs_of_mod_four_eq_three",
+      "KummerCriterion.instFintypeSym"
+    ]
+  },
+  "KummerCriterion/IrregularPrimes/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T14:17:49.580Z"
+  },
+  "KummerCriterion/KummerCongruence/Bridge.lean": {
+    "checkedAt": "2026-11-10T14:17:57.253Z",
+    "collisions": [
+      "KummerCriterion.maximalIdealQuotientEquivZMod"
+    ]
+  },
+  "KummerCriterion/KummerCongruence/Kummer.lean": {
+    "checkedAt": "2026-11-10T14:17:58.891Z",
+    "collisions": [
+      "KummerCriterion.faulhaber_term_mem_p_sq"
+    ]
+  },
+  "KummerCriterion/LValueAtOne/ComplexBounds.lean": {
+    "checkedAt": "2026-11-10T14:17:59.166Z",
+    "collisions": [
+      "KummerCriterion.zmod_val_div_prime_mem_Ioo",
+      "KummerCriterion.sinZeta_toAddCircle_eq_val_div_prime",
+      "KummerCriterion.exp_two_pi_mul_I_ne_one",
+      "KummerCriterion.norm_real_mul_exp_two_pi_mul_I",
+      "KummerCriterion.norm_geom_sum_le_two_div_norm_sub_one",
+      "KummerCriterion.one_sub_exp_ofReal_mul_I",
+      "KummerCriterion.norm_one_sub_exp_ofReal_mul_I"
+    ]
+  },
+  "KummerCriterion/LehmerVandiver/PlusCoprime/Sinnott/SigmaPreservation.lean": {
+    "checkedAt": "2026-11-10T14:18:02.656Z",
+    "collisions": [
+      "IsPrimitiveRoot.unit'"
+    ]
+  },
+  "KummerCriterion/Reflection/ResidueSymbol/DieudonneDwork/Part2.lean": {
+    "checkedAt": "2026-11-10T14:18:02.980Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.DieudonneDwork.IsRIntegralRat"
+    ]
+  },
+  "KummerCriterion/TotallyRealSubfield/FixedAssociate.lean": {
+    "checkedAt": "2026-11-10T14:18:17.511Z",
+    "collisions": [
+      "IsPrimitiveRoot.unit'"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/DworkParameter/Part1.lean": {
+    "checkedAt": "2026-11-10T14:09:46.855Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.DieudonneDwork.IsRIntegralRat",
+      "KummerCriterion.Furtwaengler.artinHasseLogSeries",
+      "Nat.mul_pred_le_pow_sub_one"
+    ]
+  },
+  "KummerCriterion/CyclotomicUnits/DworkParameter/Part14.lean": {
+    "checkedAt": "2026-11-10T14:10:50.833Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.KummerArtinHasse.lambdaRationalPrimeIdeal"
+    ]
+  },
+  "KummerCriterion/GaussSum/Basic.lean": {
+    "checkedAt": "2026-11-10T14:14:07.500Z",
+    "collisions": [
+      "KummerCriterion.gaussSum_mul_gaussSum_inv_stdAddChar",
+      "KummerCriterion.DirichletCharacter.isPrimitive_of_ne_one",
+      "KummerCriterion.quadraticCharComplex"
+    ]
+  },
+  "KummerCriterion/HMinus/KplusLocalCharacters.lean": {
+    "checkedAt": "2026-11-10T14:14:11.566Z",
+    "collisions": [
+      "KummerCriterion.instFintypeSym",
+      "KummerCriterion.card_even_characters"
+    ]
+  },
+  "KummerCriterion/HMinus/LValueReduction/GaussPairing.lean": {
+    "checkedAt": "2026-11-10T14:14:20.213Z",
+    "collisions": [
+      "KummerCriterion.gaussSum_mul_gaussSum_inv_stdAddChar",
+      "KummerCriterion.instFintypeSym"
+    ]
+  },
+  "KummerCriterion/KummerCongruence/BernoulliGeneralized.lean": {
+    "checkedAt": "2026-11-10T14:14:36.110Z",
+    "collisions": [
+      "KummerCriterion.BernoulliGen",
+      "KummerCriterion.maximalIdealQuotientEquivZMod"
+    ]
+  },
+  "KummerCriterion/KummerCongruence/Characters.lean": {
+    "checkedAt": "2026-11-10T14:14:45.036Z",
+    "collisions": [
+      "KummerCriterion.maximalIdealQuotientEquivZMod"
+    ]
+  },
+  "KummerCriterion/LValueAtOne/Even.lean": {
+    "checkedAt": "2026-11-10T14:14:50.220Z",
+    "collisions": [
+      "KummerCriterion.zmod_val_div_prime_mem_Ioo"
+    ]
+  },
+  "KummerCriterion/Reflection/ResidueSymbol/ArtinHasse/Part1.lean": {
+    "checkedAt": "2026-11-10T14:14:51.331Z",
+    "collisions": [
+      "KummerCriterion.Furtwaengler.artinHasseLogSeries",
+      "KummerCriterion.Furtwaengler.DieudonneDwork.IsRIntegralRat"
+    ]
+  },
+  "KummerCriterion/Reflection/ResidueSymbol/DworkFactorization/FiniteLogFormal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-10T14:16:12.832Z"
+  },
+  "KummerCriterion/TotallyRealSubfield/ZetaPrime.lean": {
+    "checkedAt": "2026-11-10T14:16:13.139Z",
+    "collisions": [
+      "KummerCriterion.zeta_toInteger_pow_eq_one",
+      "KummerCriterion.zetaPrime"
+    ]
+  },
+  "KummerCriterion/ZetaFactorisation/EulerProduct.lean": {
+    "checkedAt": "2026-11-10T14:16:15.109Z",
+    "collisions": [
+      "KummerCriterion.instFintypeSym",
+      "KummerCriterion.LFunction_eq_prime_tprod_of_localFactors",
+      "KummerCriterion.finite_character_product_tprod_swap"
+    ]
+  }
+}
