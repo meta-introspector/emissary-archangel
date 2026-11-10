@@ -1,0 +1,304 @@
+{
+  "SurfaceBlowup/Blowup/CurveOrders.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-10T14:45:32.019Z"
+  },
+  "SurfaceBlowup/Blowup/ExceptionalLayers.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-10T14:45:32.703Z"
+  },
+  "SurfaceBlowup/Cluster/Main.lean": {
+    "checkedAt": "2026-11-10T14:45:43.880Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Formula/FiniteFieldCounts.lean": {
+    "checkedAt": "2026-11-10T14:47:03.910Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.finite_length_module_card"
+    ]
+  },
+  "SurfaceBlowup/Reciprocity/Defs.lean": {
+    "checkedAt": "2026-11-10T14:47:04.886Z",
+    "collisions": [
+      "SurfaceBlowup.Expr.wf",
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Recursion/Events.lean": {
+    "checkedAt": "2026-11-10T14:47:57.824Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Surfaces/Lengths.lean": {
+    "checkedAt": "2026-11-10T14:48:02.945Z",
+    "collisions": [
+      "SurfaceBlowup.towerDelta",
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.hensel_pair_exists"
+    ]
+  },
+  "SurfaceBlowup/Unramified/FrobeniusDescent.lean": {
+    "checkedAt": "2026-11-10T14:53:02.637Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.formPoly",
+      "SurfaceBlowup.unramified_free_module",
+      "SurfaceBlowup.hensel_pair_exists"
+    ]
+  },
+  "SurfaceBlowup/Unramified/LocalDescent.lean": {
+    "checkedAt": "2026-11-10T15:05:15.260Z",
+    "collisions": [
+      "SurfaceBlowup.towerDelta"
+    ]
+  },
+  "SurfaceBlowup/Unramified/PolynomialTypes.lean": {
+    "checkedAt": "2026-11-10T15:05:58.113Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.formPoly",
+      "SurfaceBlowup.monic_coeff_sub_mem_iff"
+    ]
+  },
+  "SurfaceBlowup/Blowup/CurveSections.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-10T14:44:32.400Z"
+  },
+  "SurfaceBlowup/Blowup/H0Comparison.lean": {
+    "checkedAt": "2026-11-10T14:44:35.155Z",
+    "collisions": [
+      "SurfaceBlowup.towerDelta",
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Blowup/NilpotentGluing.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T14:48:53.118Z"
+  },
+  "SurfaceBlowup/Formula/LawAlgebra.lean": {
+    "checkedAt": "2026-11-10T14:54:14.163Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.State.firstContact"
+    ]
+  },
+  "SurfaceBlowup/Formula/PatternCounts.lean": {
+    "checkedAt": "2026-11-10T15:00:40.580Z",
+    "collisions": [
+      "SurfaceBlowup.AffineDirection",
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.adicCongr"
+    ]
+  },
+  "SurfaceBlowup/Recursion/Termination.lean": {
+    "checkedAt": "2026-11-10T15:42:32.953Z",
+    "collisions": [
+      "SurfaceBlowup.AffineDirection",
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Unramified/FactorCells.lean": {
+    "checkedAt": "2026-11-10T15:46:11.737Z",
+    "collisions": [
+      "SurfaceBlowup.formPoly",
+      "SurfaceBlowup.monic_congruent_difference_factor",
+      "SurfaceBlowup.monic_squarefree_factors_of_reduced",
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.pi_fields_algEquiv_index_bijection",
+      "SurfaceBlowup.polynomial_congruence_and_product"
+    ]
+  },
+  "SurfaceBlowup/Unramified/HomogeneousCells.lean": {
+    "checkedAt": "2026-11-10T16:18:46.797Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Assembly/MonicCells.lean": {
+    "checkedAt": "2026-11-10T14:50:32.814Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Blowup/Directions.lean": {
+    "checkedAt": "2026-11-10T14:54:56.157Z",
+    "collisions": [
+      "SurfaceBlowup.AffineDirection"
+    ]
+  },
+  "SurfaceBlowup/Blowup/StrictNormalizer.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-10T14:54:58.067Z"
+  },
+  "SurfaceBlowup/Etale/Algebra.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T15:02:31.423Z"
+  },
+  "SurfaceBlowup/Measure/PrimitiveLocus.lean": {
+    "checkedAt": "2026-11-10T15:05:45.654Z",
+    "collisions": [
+      "SurfaceBlowup.adicCongr",
+      "SurfaceBlowup.units_lift_from_local_quotient",
+      "SurfaceBlowup.formPoly",
+      "SurfaceBlowup.fieldInvariant",
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.quotient_ring_length_intrinsic"
+    ]
+  },
+  "SurfaceBlowup/Recursion/OrderDefect.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T15:57:08.598Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Surfaces/TruncatedSeries.lean": {
+    "checkedAt": "2026-11-10T16:05:04.376Z",
+    "collisions": [
+      "SurfaceBlowup.towerDelta",
+      "SurfaceBlowup.axisQuotientLength",
+      "SurfaceBlowup.adicCongr"
+    ]
+  },
+  "SurfaceBlowup/Algebra/AlgebraType.lean": {
+    "checkedAt": "2026-11-10T14:46:14.185Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.fieldInvariant",
+      "SurfaceBlowup.State.firstContact"
+    ]
+  },
+  "SurfaceBlowup/Blowup/PointTransport.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-10T14:51:31.791Z",
+    "collisions": [
+      "SurfaceBlowup.formPoly"
+    ]
+  },
+  "SurfaceBlowup/Formula/RationalEval.lean": {
+    "checkedAt": "2026-11-10T14:51:48.724Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Formula/StateCombinatorics.lean": {
+    "checkedAt": "2026-11-10T14:51:52.152Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Reciprocity/Main.lean": {
+    "checkedAt": "2026-11-10T15:02:54.703Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Surfaces/Completeness.lean": {
+    "checkedAt": "2026-11-10T15:07:14.370Z",
+    "collisions": [
+      "SurfaceBlowup.towerDelta",
+      "SurfaceBlowup.transverse_of_reduction_ne_zero",
+      "SurfaceBlowup.formPoly"
+    ]
+  },
+  "SurfaceBlowup/Surfaces/ConcreteAtlas.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-10T15:10:27.363Z"
+  },
+  "Tests/NonVacuity.lean": {
+    "checkedAt": "2026-11-10T15:10:30.796Z",
+    "collisions": [
+      "SurfaceBlowup.Tests.mem_span_X_pow_iff"
+    ]
+  },
+  "SurfaceBlowup/Algebra/FactorInvariant.lean": {
+    "checkedAt": "2026-11-10T14:55:54.950Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Assembly/NullBridges.lean": {
+    "checkedAt": "2026-11-10T14:57:25.476Z",
+    "collisions": [
+      "SurfaceBlowup.adicCongr"
+    ]
+  },
+  "SurfaceBlowup/Assembly/TypeEvents.lean": {
+    "checkedAt": "2026-11-10T14:58:04.861Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.AffineDirection",
+      "SurfaceBlowup.formPoly",
+      "SurfaceBlowup.State.firstContact"
+    ]
+  },
+  "SurfaceBlowup/Formula/TypeTransport.lean": {
+    "checkedAt": "2026-11-10T15:01:03.475Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.formPoly"
+    ]
+  },
+  "SurfaceBlowup/Measure/HenselProducts.lean": {
+    "checkedAt": "2026-11-10T15:02:25.767Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.hensel_pair_exists",
+      "SurfaceBlowup.isCoprime_of_isCoprime_map_residue",
+      "SurfaceBlowup.isAdicComplete_pi",
+      "SurfaceBlowup.adicCongr",
+      "SurfaceBlowup.maximal_ideal_power_kills",
+      "SurfaceBlowup.measurableEmbedding_pi",
+      "SurfaceBlowup.monic_residue_polynomial_count",
+      "SurfaceBlowup.normalizing_factor_is_unit",
+      "SurfaceBlowup.pi_ideal_mem_iff_map_eval",
+      "SurfaceBlowup.pi_quotient_span_linearEquiv",
+      "SurfaceBlowup.principal_generator_orbit_count",
+      "SurfaceBlowup.quotient_mul_range_equiv",
+      "SurfaceBlowup.regular_principal_generators_associated",
+      "SurfaceBlowup.residue_quotient_card"
+    ]
+  },
+  "SurfaceBlowup/Measure/MemberCharts.lean": {
+    "checkedAt": "2026-11-10T15:07:18.407Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Measure/Normalizer.lean": {
+    "checkedAt": "2026-11-10T15:15:44.901Z",
+    "collisions": [
+      "SurfaceBlowup.adicCongr",
+      "SurfaceBlowup.finite_field_irreducible_count"
+    ]
+  },
+  "SurfaceBlowup/Reciprocity/Plethysm.lean": {
+    "checkedAt": "2026-11-10T15:45:32.095Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Recursion/Members.lean": {
+    "checkedAt": "2026-11-10T15:51:29.162Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Unramified/DescentTypes.lean": {
+    "checkedAt": "2026-11-10T16:21:52.519Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Unramified/Extension.lean": {
+    "checkedAt": "2026-11-10T16:27:37.719Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.formPoly"
+    ]
+  }
+}
