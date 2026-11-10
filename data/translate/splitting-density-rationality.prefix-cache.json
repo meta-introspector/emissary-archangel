@@ -300,5 +300,58 @@
       "SurfaceBlowup.FactorType",
       "SurfaceBlowup.formPoly"
     ]
+  },
+  "SurfaceBlowup/Etale/Main.lean": {
+    "checkedAt": "2026-11-10T17:45:23.680Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Measure/AdicCylinders.lean": {
+    "checkedAt": "2026-11-10T17:45:29.830Z",
+    "collisions": [
+      "SurfaceBlowup.adicCongr",
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Measure/AdicTransport.lean": {
+    "checkedAt": "2026-11-10T17:46:31.885Z",
+    "collisions": [
+      "SurfaceBlowup.adicCongr",
+      "SurfaceBlowup.finite_quotient_fiber_mass"
+    ]
+  },
+  "SurfaceBlowup/Measure/StateVolumes.lean": {
+    "checkedAt": "2026-11-10T17:49:08.751Z",
+    "collisions": [
+      "SurfaceBlowup.adicCongr",
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.adic_congruence_rules"
+    ]
+  },
+  "SurfaceBlowup/Reciprocity/Patterns.lean": {
+    "checkedAt": "2026-11-10T17:53:50.909Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType"
+    ]
+  },
+  "SurfaceBlowup/Reciprocity/Quantum.lean": {
+    "checkedAt": "2026-11-10T18:10:40.434Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.Expr.wf",
+      "SurfaceBlowup.sum_divisors_sum_divisors_div",
+      "SurfaceBlowup.sum_divisors_moebius"
+    ]
+  },
+  "SurfaceBlowup/Surfaces/PowerSeries.lean": {
+    "checkedAt": "2026-11-10T18:16:50.048Z",
+    "collisions": [
+      "SurfaceBlowup.FactorType",
+      "SurfaceBlowup.towerDelta",
+      "SurfaceBlowup.mvPowerSeries_quotient_var_regular",
+      "SurfaceBlowup.polynomial_root_unique_of_derivative_isUnit",
+      "SurfaceBlowup.powerSeries_quotient_length_eq_order"
+    ]
   }
 }
