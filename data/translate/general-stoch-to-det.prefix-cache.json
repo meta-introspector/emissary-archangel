@@ -1,0 +1,406 @@
+{
+  "stoch_to_det/AssemblyBounds.lean": {
+    "checkedAt": "2026-11-10T08:26:52.015Z",
+    "collisions": [
+      "stoch_to_det.sqrt_tangent",
+      "stoch_to_det.qrt_tangent"
+    ]
+  },
+  "stoch_to_det/Connected.lean": {
+    "checkedAt": "2026-11-10T08:27:32.262Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.mass"
+    ]
+  },
+  "stoch_to_det/Constants.lean": {
+    "checkedAt": "2026-11-10T08:48:29.789Z",
+    "collisions": [
+      "stoch_to_det.N"
+    ]
+  },
+  "stoch_to_det/Mismatch96.lean": {
+    "checkedAt": "2026-11-10T08:50:42.636Z",
+    "collisions": [
+      "stoch_to_det.phi"
+    ]
+  },
+  "stoch_to_det/NVarHardening.lean": {
+    "checkedAt": "2026-11-10T08:53:00.481Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/NVarReplicaOptimal.lean": {
+    "checkedAt": "2026-11-10T08:54:32.693Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/QuarticMoment.lean": {
+    "checkedAt": "2026-11-10T08:55:49.860Z",
+    "collisions": [
+      "stoch_to_det.mass"
+    ]
+  },
+  "stoch_to_det/Quotient.lean": {
+    "checkedAt": "2026-11-10T08:56:48.807Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/Race.lean": {
+    "checkedAt": "2026-11-10T09:22:31.920Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/CoContact.lean": {
+    "checkedAt": "2026-11-10T08:29:03.501Z",
+    "collisions": [
+      "stoch_to_det.mass"
+    ]
+  },
+  "stoch_to_det/Envelope.lean": {
+    "checkedAt": "2026-11-10T08:30:04.109Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.mass",
+      "stoch_to_det.concaveEnvelopePhi"
+    ]
+  },
+  "stoch_to_det/Floor.lean": {
+    "checkedAt": "2026-11-10T08:36:58.120Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.mass",
+      "stoch_to_det.TV"
+    ]
+  },
+  "stoch_to_det/Functionals.lean": {
+    "checkedAt": "2026-11-10T09:43:40.341Z",
+    "collisions": [
+      "stoch_to_det.mass",
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/NVarApproxCommon.lean": {
+    "checkedAt": "2026-11-10T09:44:08.264Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/NVarNonneg.lean": {
+    "checkedAt": "2026-11-10T09:44:35.860Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/PhiBounds2.lean": {
+    "checkedAt": "2026-11-10T09:44:37.971Z",
+    "collisions": [
+      "stoch_to_det.phi"
+    ]
+  },
+  "stoch_to_det/Scalar.lean": {
+    "checkedAt": "2026-11-10T09:47:19.613Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.eta1771Q",
+      "stoch_to_det.log_pos_part_le_div_exp_one",
+      "stoch_to_det.KL",
+      "stoch_to_det.abs_log_exp_integral_le",
+      "stoch_to_det.N",
+      "stoch_to_det.diag_context_arith",
+      "stoch_to_det.klDiv_expMeasure"
+    ]
+  },
+  "stoch_to_det/Toolkit.lean": {
+    "checkedAt": "2026-11-10T10:03:06.252Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.mass",
+      "stoch_to_det.KL"
+    ]
+  },
+  "stoch_to_det/Assembly96.lean": {
+    "checkedAt": "2026-11-10T08:26:23.394Z",
+    "collisions": [
+      "stoch_to_det.sqrt_tangent",
+      "stoch_to_det.eta96Q"
+    ]
+  },
+  "stoch_to_det/DomFloor96.lean": {
+    "checkedAt": "2026-11-10T08:27:11.963Z",
+    "collisions": [
+      "stoch_to_det.mass",
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/NVar.lean": {
+    "checkedAt": "2026-11-10T08:33:08.588Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.mass"
+    ]
+  },
+  "stoch_to_det/NVarEnvelope.lean": {
+    "checkedAt": "2026-11-10T08:33:19.509Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.nTau",
+      "stoch_to_det.mass"
+    ]
+  },
+  "stoch_to_det/NVarReplica.lean": {
+    "checkedAt": "2026-11-10T08:35:54.946Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.mass"
+    ]
+  },
+  "stoch_to_det/Prelude.lean": {
+    "checkedAt": "2026-11-10T08:37:12.217Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/Seed.lean": {
+    "checkedAt": "2026-11-10T08:37:53.234Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.SeedSetup",
+      "stoch_to_det.mass"
+    ]
+  },
+  "stoch_to_det/SeedConstant.lean": {
+    "checkedAt": "2026-11-10T11:41:07.332Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/SeedConstant1771.lean": {
+    "checkedAt": "2026-11-10T12:06:43.768Z",
+    "collisions": [
+      "stoch_to_det.eta1771Q",
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/SharedRace/ClockLaw.lean": {
+    "checkedAt": "2026-11-10T12:15:03.433Z",
+    "collisions": [
+      "stoch_to_det.SharedRace.clockTotal",
+      "stoch_to_det.SeedSetup",
+      "stoch_to_det.SharedRace.gammaOneCall"
+    ]
+  },
+  "stoch_to_det/SharedRace/ReferenceLoss.lean": {
+    "checkedAt": "2026-11-10T12:33:34.230Z",
+    "collisions": [
+      "stoch_to_det.mass",
+      "stoch_to_det.SeedSetup"
+    ]
+  },
+  "stoch_to_det/SharedRace/Scalar.lean": {
+    "checkedAt": "2026-11-10T12:34:31.259Z",
+    "collisions": [
+      "stoch_to_det.SharedRace.logTwo"
+    ]
+  },
+  "stoch_to_det/Duality.lean": {
+    "checkedAt": "2026-11-10T08:26:24.141Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.mass"
+    ]
+  },
+  "stoch_to_det/NVarAlphabetFree.lean": {
+    "checkedAt": "2026-11-10T09:06:29.745Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/NVarBounds.lean": {
+    "checkedAt": "2026-11-10T09:22:30.199Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/PhiBounds.lean": {
+    "checkedAt": "2026-11-10T09:24:14.794Z",
+    "collisions": [
+      "stoch_to_det.phi"
+    ]
+  },
+  "stoch_to_det/SharedRace.lean": {
+    "checkedAt": "2026-11-10T09:29:15.923Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.mass"
+    ]
+  },
+  "stoch_to_det/SharedRace/BetaGamma.lean": {
+    "checkedAt": "2026-11-10T09:50:43.075Z",
+    "collisions": [
+      "stoch_to_det.SharedRace.gammaOneCall"
+    ]
+  },
+  "stoch_to_det/SharedRace/EntropyAssembly.lean": {
+    "checkedAt": "2026-11-10T09:55:38.683Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/Cone.lean": {
+    "checkedAt": "2026-11-10T08:30:58.105Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.shifted_exp_klDiv",
+      "stoch_to_det.exp_integral_sq"
+    ]
+  },
+  "stoch_to_det/Constants1771.lean": {
+    "checkedAt": "2026-11-10T08:35:11.231Z",
+    "collisions": [
+      "stoch_to_det.eta1771Q",
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/DomFloorCore.lean": {
+    "checkedAt": "2026-11-10T08:35:40.937Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.mass"
+    ]
+  },
+  "stoch_to_det/Entropy.lean": {
+    "checkedAt": "2026-11-10T08:36:34.325Z",
+    "collisions": [
+      "stoch_to_det.mass",
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/Floor96.lean": {
+    "checkedAt": "2026-11-10T08:38:27.070Z",
+    "collisions": [
+      "stoch_to_det.mass"
+    ]
+  },
+  "stoch_to_det/Main.lean": {
+    "checkedAt": "2026-11-10T08:46:49.017Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/Main1771.lean": {
+    "checkedAt": "2026-11-10T09:24:07.315Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/NVarReplicaBound.lean": {
+    "checkedAt": "2026-11-10T09:33:01.842Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/NVarReplicaCoordinate.lean": {
+    "checkedAt": "2026-11-10T09:36:19.968Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/NVarTwoVariableInput.lean": {
+    "checkedAt": "2026-11-10T09:43:42.190Z",
+    "collisions": [
+      "stoch_to_det.NVarTwoVariableInput.certifiedFactor"
+    ]
+  },
+  "stoch_to_det/SharedRace/CoordinateBound.lean": {
+    "checkedAt": "2026-11-10T09:43:55.758Z",
+    "collisions": [
+      "stoch_to_det.SharedRace.gammaOneCall"
+    ]
+  },
+  "stoch_to_det/SharedRace/Information.lean": {
+    "checkedAt": "2026-11-10T09:44:07.228Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/SharedRace/PairClockLaw.lean": {
+    "checkedAt": "2026-11-10T09:44:59.374Z",
+    "collisions": [
+      "stoch_to_det.SharedRace.pairPolar",
+      "stoch_to_det.SeedSetup",
+      "stoch_to_det.SharedRace.gammaOneCall",
+      "stoch_to_det.SharedRace.logTwo"
+    ]
+  },
+  "stoch_to_det/ConstantBound1771.lean": {
+    "checkedAt": "2026-11-10T08:30:28.065Z",
+    "collisions": [
+      "stoch_to_det.integral_neg_log_mul_pow",
+      "stoch_to_det.eta1771Q",
+      "stoch_to_det.lowLogMoment1771",
+      "stoch_to_det.log_pos_part_le_div_exp_one",
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/Constants96.lean": {
+    "checkedAt": "2026-11-10T08:35:49.078Z",
+    "collisions": [
+      "stoch_to_det.eta96Q"
+    ]
+  },
+  "stoch_to_det/Ledger96.lean": {
+    "checkedAt": "2026-11-10T08:42:12.049Z",
+    "collisions": [
+      "stoch_to_det.eta96Q",
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/Mismatch.lean": {
+    "checkedAt": "2026-11-10T09:05:36.722Z",
+    "collisions": [
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/NVarAllDeletion.lean": {
+    "checkedAt": "2026-11-10T10:37:37.968Z",
+    "collisions": [
+      "stoch_to_det.DeletionSet",
+      "stoch_to_det.lg",
+      "stoch_to_det.NVarTwoVariableInput.certifiedFactor"
+    ]
+  },
+  "stoch_to_det/NVarCoordinates.lean": {
+    "checkedAt": "2026-11-10T11:29:01.164Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.maskDelete",
+      "stoch_to_det.tupleView"
+    ]
+  },
+  "stoch_to_det/NVarPosteriorCompression.lean": {
+    "checkedAt": "2026-11-10T11:31:31.894Z",
+    "collisions": [
+      "stoch_to_det.lg",
+      "stoch_to_det.mass",
+      "stoch_to_det.FiniteInfo.sum_fin_table_prod"
+    ]
+  },
+  "stoch_to_det/SharedRace/LoserIntegral.lean": {
+    "checkedAt": "2026-11-10T12:04:11.846Z",
+    "collisions": [
+      "stoch_to_det.SharedRace.logTwo"
+    ]
+  },
+  "stoch_to_det/SharedRace/Mobius.lean": {
+    "checkedAt": "2026-11-10T12:04:22.067Z",
+    "collisions": [
+      "stoch_to_det.SharedRace.logTwo",
+      "stoch_to_det.SharedRace.mobius"
+    ]
+  }
+}
