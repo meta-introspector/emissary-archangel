@@ -1,0 +1,803 @@
+{
+  "T3/GroupTheory/AssociatedGraded.lean": {
+    "checkedAt": "2026-11-10T02:57:01.040Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.AssociatedGraded.term",
+      "Subgroup.commutator_commutator_le_of_rotate"
+    ]
+  },
+  "T3/GroupTheory/AssociatedGraded/Generation.lean": {
+    "checkedAt": "2026-11-10T02:57:20.835Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/AssociatedGraded/Product.lean": {
+    "checkedAt": "2026-11-10T02:57:26.699Z",
+    "collisions": [
+      "T3.AssociatedGraded.term",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/AssociatedGraded/Truncation.lean": {
+    "checkedAt": "2026-11-10T02:57:28.091Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/BlockBracket.lean": {
+    "checkedAt": "2026-11-10T02:57:42.631Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/CentralSeries.lean": {
+    "checkedAt": "2026-11-10T03:00:58.749Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/FreeTwo.lean": {
+    "checkedAt": "2026-11-10T03:01:32.098Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/Generation.lean": {
+    "checkedAt": "2026-11-10T03:03:28.013Z",
+    "collisions": [
+      "T3.powerSubgroup"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/Graded.lean": {
+    "checkedAt": "2026-11-10T03:03:31.442Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/QuotientMaps.lean": {
+    "checkedAt": "2026-11-10T03:04:04.864Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/Support.lean": {
+    "checkedAt": "2026-11-10T03:04:52.198Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Roots/DefectBasis.lean": {
+    "checkedAt": "2026-11-10T03:04:52.821Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Roots/DerivedStrictification.lean": {
+    "checkedAt": "2026-11-10T03:05:07.007Z",
+    "collisions": [
+      "T3.powerSubgroup",
+      "T3.HasExponentThree",
+      "T3.AssociatedGraded.term"
+    ]
+  },
+  "T3/GroupTheory/Roots/LowerCentralStrictification.lean": {
+    "checkedAt": "2026-11-10T03:09:52.307Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.powerSubgroup"
+    ]
+  },
+  "T3/GroupTheory/Roots/SharedDerivedStrictification.lean": {
+    "checkedAt": "2026-11-10T03:11:21.891Z",
+    "collisions": [
+      "T3.powerSubgroup",
+      "T3.HasExponentThree",
+      "T3.AssociatedGraded.term"
+    ]
+  },
+  "T3/GroupTheory/Roots/SharedTriple.lean": {
+    "checkedAt": "2026-11-10T03:20:56.298Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.powerSubgroup"
+    ]
+  },
+  "T3/GroupTheory/Support.lean": {
+    "checkedAt": "2026-11-10T03:21:36.324Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Support/Collection.lean": {
+    "checkedAt": "2026-11-10T03:21:46.677Z",
+    "collisions": [
+      "T3.Support.commutator_mem_center_of_le",
+      "T3.Support.crossList"
+    ]
+  },
+  "T3/GroupTheory/Support/Conjugator.lean": {
+    "checkedAt": "2026-11-10T03:21:50.773Z",
+    "collisions": [
+      "T3.Support.commutator_mem_lowerCentralSeries_two",
+      "T3.Support.exists_list_lift",
+      "T3.Support.commutator_mem_center_of_le"
+    ]
+  },
+  "T3/LinearAlgebra/ExteriorSum.lean": {
+    "checkedAt": "2026-11-10T03:21:52.428Z",
+    "collisions": [
+      "T3.ExteriorSum.leftCount"
+    ]
+  },
+  "T3/Main/ModelCompanion.lean": {
+    "checkedAt": "2026-11-10T03:23:28.219Z",
+    "collisions": [
+      "FirstOrder.GroupFunc"
+    ]
+  },
+  "T3/ModelTheory/BoundedAmalgamationCriterion.lean": {
+    "checkedAt": "2026-11-10T03:26:38.148Z",
+    "collisions": [
+      "FirstOrder.Language.BoundedFormula.IsExistential.exs",
+      "FirstOrder.Language.Theory.ModelsEmbedInto"
+    ]
+  },
+  "T3/ModelTheory/ElementaryReflection.lean": {
+    "checkedAt": "2026-11-10T03:26:48.205Z",
+    "collisions": [
+      "FirstOrder.Language.Theory.ModelsEmbedInto"
+    ]
+  },
+  "T3/ModelTheory/ExistentialWitness.lean": {
+    "checkedAt": "2026-11-10T03:26:49.013Z",
+    "collisions": [
+      "FirstOrder.Language.BoundedFormula.IsExistential.exists_bounded_finite_witnesses"
+    ]
+  },
+  "T3/ModelTheory/GroupLanguage.lean": {
+    "checkedAt": "2026-11-10T03:26:49.573Z",
+    "collisions": [
+      "FirstOrder.GroupFunc"
+    ]
+  },
+  "T3/ModelTheory/ModelCompanionCriterion.lean": {
+    "checkedAt": "2026-11-10T03:26:55.921Z",
+    "collisions": [
+      "FirstOrder.Language.Theory.ModelsEmbedInto"
+    ]
+  },
+  "T3/ModelTheory/PiTwoDirectLimit.lean": {
+    "checkedAt": "2026-11-10T03:26:57.508Z",
+    "collisions": [
+      "FirstOrder.Language.BoundedFormula.IsUniversalExistential"
+    ]
+  },
+  "T3/ModelTheory/RobinsonTest.lean": {
+    "checkedAt": "2026-11-10T03:26:59.252Z",
+    "collisions": [
+      "FirstOrder.Language.BoundedFormula.IsExistential.exs",
+      "FirstOrder.Language.Theory.ModelsEmbedInto"
+    ]
+  },
+  "T3/GroupTheory/AssociatedGraded/Bracket.lean": {
+    "checkedAt": "2026-11-10T03:01:10.125Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "Subgroup.commutator_commutator_le_of_rotate"
+    ]
+  },
+  "T3/GroupTheory/Basic.lean": {
+    "checkedAt": "2026-11-10T03:01:35.641Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/FreeGraded.lean": {
+    "checkedAt": "2026-11-10T03:01:37.647Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.gradedMul"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/Strict.lean": {
+    "checkedAt": "2026-11-10T03:06:59.048Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Free/Burnside.lean": {
+    "checkedAt": "2026-11-10T03:08:28.004Z",
+    "collisions": [
+      "T3.powerSubgroup"
+    ]
+  },
+  "T3/GroupTheory/Free/ExteriorLie.lean": {
+    "checkedAt": "2026-11-10T03:08:40.725Z",
+    "collisions": [
+      "T3.TruncatedExterior",
+      "T3.gradedMul"
+    ]
+  },
+  "T3/GroupTheory/Free/FiniteSupport.lean": {
+    "checkedAt": "2026-11-10T03:10:32.770Z",
+    "collisions": [
+      "T3.powerSubgroup",
+      "T3.LvdW",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Free/UnboundedWitnessRank.lean": {
+    "checkedAt": "2026-11-10T03:11:15.139Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "Group.cardinalRank"
+    ]
+  },
+  "T3/GroupTheory/GradedNormalClosure.lean": {
+    "checkedAt": "2026-11-10T03:12:51.468Z",
+    "collisions": [
+      "T3.AssociatedGraded.term",
+      "T3.HasExponentThree",
+      "T3.normalClosure_le_commutator",
+      "Subgroup.commutator_commutator_le_of_rotate"
+    ]
+  },
+  "T3/GroupTheory/Roots/CentralRelations.lean": {
+    "checkedAt": "2026-11-10T03:13:07.197Z",
+    "collisions": [
+      "T3.CentralRootRelations.relator",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Roots/CommutatorRelations.lean": {
+    "checkedAt": "2026-11-10T03:13:09.849Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Roots/SharedLowerCentralStrictification.lean": {
+    "checkedAt": "2026-11-10T03:13:22.634Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.powerSubgroup"
+    ]
+  },
+  "T3/LinearAlgebra/LinearMapQuotient.lean": {
+    "checkedAt": "2026-11-10T03:14:37.812Z",
+    "collisions": [
+      "LinearMap.bijective_of_bijective_of_ker_map"
+    ]
+  },
+  "T3/ModelTheory/Burnside.lean": {
+    "checkedAt": "2026-11-10T03:14:38.342Z",
+    "collisions": [
+      "T3.powerSubgroup",
+      "FirstOrder.GroupFunc"
+    ]
+  },
+  "T3/ModelTheory/ExistentialClosedness.lean": {
+    "checkedAt": "2026-11-10T03:15:31.893Z",
+    "collisions": [
+      "FirstOrder.Language.Theory.ModelsEmbedInto",
+      "FirstOrder.Language.Theory.IsExistentiallyClosedAt",
+      "FirstOrder.Language.BoundedFormula.IsQF.subst",
+      "FirstOrder.Language.BoundedFormula.IsExistential.exs"
+    ]
+  },
+  "T3/ModelTheory/FiniteObstructions.lean": {
+    "checkedAt": "2026-11-10T03:15:37.811Z",
+    "collisions": [
+      "FirstOrder.Language.finiteStructure",
+      "FirstOrder.Language.extensionFormula",
+      "FirstOrder.Language.BoundedFormula.IsExistential.exs"
+    ]
+  },
+  "T3/GroupTheory/Amalgamation.lean": {
+    "checkedAt": "2026-11-10T02:56:29.455Z",
+    "collisions": [
+      "T3.powerSubgroup",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/AssociatedGradedExamples.lean": {
+    "checkedAt": "2026-11-10T02:56:42.071Z",
+    "collisions": [
+      "T3.AssociatedGraded.term",
+      "Subgroup.commutator_commutator_le_of_rotate",
+      "T3.HasExponentThree",
+      "T3.Free.closure_range_of"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/Presentation.lean": {
+    "checkedAt": "2026-11-10T03:03:31.333Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.powerSubgroup"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/Relations.lean": {
+    "checkedAt": "2026-11-10T03:04:06.187Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Free/Basic.lean": {
+    "checkedAt": "2026-11-10T03:04:43.980Z",
+    "collisions": [
+      "T3.powerSubgroup"
+    ]
+  },
+  "T3/GroupTheory/Free/CommutatorRank.lean": {
+    "checkedAt": "2026-11-10T03:04:49.212Z",
+    "collisions": [
+      "T3.powerSubgroup",
+      "T3.HasExponentThree",
+      "Group.cardinalRank"
+    ]
+  },
+  "T3/GroupTheory/Free/Examples.lean": {
+    "checkedAt": "2026-11-10T03:07:02.969Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Free/ExteriorNaturality.lean": {
+    "checkedAt": "2026-11-10T03:07:32.836Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.gradedMul"
+    ]
+  },
+  "T3/GroupTheory/Free/Graded.lean": {
+    "checkedAt": "2026-11-10T03:10:50.986Z",
+    "collisions": [
+      "T3.LvdW",
+      "T3.powerSubgroup",
+      "T3.HasExponentThree",
+      "T3.AssociatedGraded.term"
+    ]
+  },
+  "T3/GroupTheory/Free/InfiniteNormalForm.lean": {
+    "checkedAt": "2026-11-10T03:12:19.095Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.LvdW",
+      "T3.powerSubgroup"
+    ]
+  },
+  "T3/GroupTheory/GeneratorRank.lean": {
+    "checkedAt": "2026-11-10T03:12:43.224Z",
+    "collisions": [
+      "Group.fg_of_generating_family",
+      "T3.HasExponentThree",
+      "T3.powerSubgroup"
+    ]
+  },
+  "T3/GroupTheory/GeneratorRank/Cardinal.lean": {
+    "checkedAt": "2026-11-10T03:13:27.714Z",
+    "collisions": [
+      "Group.cardinalRank"
+    ]
+  },
+  "T3/GroupTheory/GeneratorRank/Cardinality.lean": {
+    "checkedAt": "2026-11-10T03:13:35.140Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Identities.lean": {
+    "checkedAt": "2026-11-10T03:14:06.545Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.commutator_mem_normalClosure",
+      "T3.mul_commutator_inv_of_commute",
+      "T3.mul_cancel_of_commute"
+    ]
+  },
+  "T3/GroupTheory/Roots/Commutator.lean": {
+    "checkedAt": "2026-11-10T03:15:08.944Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.AssociatedGraded.term",
+      "T3.powerSubgroup"
+    ]
+  },
+  "T3/GroupTheory/Roots/SharedTripleCoordinates.lean": {
+    "checkedAt": "2026-11-10T03:24:19.267Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.Free.closure_range_of"
+    ]
+  },
+  "T3/GroupTheory/Roots/Triple.lean": {
+    "checkedAt": "2026-11-10T03:24:22.252Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.powerSubgroup"
+    ]
+  },
+  "T3/LinearAlgebra/GradedLie.lean": {
+    "checkedAt": "2026-11-10T03:24:45.219Z",
+    "collisions": [
+      "LieSubalgebra.lieSpan_le_of_lie_mem_right",
+      "LieRing.ofCyclicJacobi"
+    ]
+  },
+  "T3/ModelTheory/Amalgamation.lean": {
+    "checkedAt": "2026-11-10T03:24:50.044Z",
+    "collisions": [
+      "FirstOrder.Language.BoundedFormula.IsExistential.exs",
+      "FirstOrder.Language.BoundedFormula.IsQF.subst",
+      "FirstOrder.Language.extensionFormula",
+      "FirstOrder.Language.Theory.ModelsEmbedInto"
+    ]
+  },
+  "T3/ModelTheory/BoundedAmalgamation/Universes.lean": {
+    "checkedAt": "2026-11-10T03:24:57.564Z",
+    "collisions": [
+      "FirstOrder.Language.Theory.ModelsEmbedInto"
+    ]
+  },
+  "T3/ModelTheory/ElementaryChain.lean": {
+    "checkedAt": "2026-11-10T03:25:14.134Z",
+    "collisions": [
+      "FirstOrder.Language.DirectLimit.CofinallyElementary"
+    ]
+  },
+  "T3/ModelTheory/ExponentThree.lean": {
+    "checkedAt": "2026-11-10T03:25:15.739Z",
+    "collisions": [
+      "FirstOrder.GroupFunc",
+      "FirstOrder.Language.BoundedFormula.IsUniversalExistential",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/ModelTheory/Inductive.lean": {
+    "checkedAt": "2026-11-10T03:26:01.694Z",
+    "collisions": [
+      "FirstOrder.Language.BoundedFormula.IsUniversalExistential",
+      "FirstOrder.Language.Theory.ModelsEmbedInto"
+    ]
+  },
+  "T3/ModelTheory/UniformLocalFiniteness/Universes.lean": {
+    "checkedAt": "2026-11-10T03:26:06.314Z",
+    "collisions": [
+      "FirstOrder.Language.BoundedFormula.IsExistential.exs"
+    ]
+  },
+  "T3/GroupTheory/Amalgamation/Cyclic.lean": {
+    "checkedAt": "2026-11-10T02:56:53.788Z",
+    "collisions": [
+      "T3.Amalgamation.cyclicGenerator",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/AssociatedGraded/Lie.lean": {
+    "checkedAt": "2026-11-10T02:57:05.469Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/AssociatedGraded/Subgroup.lean": {
+    "checkedAt": "2026-11-10T02:58:02.078Z",
+    "collisions": [
+      "T3.AssociatedGraded.term",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/ConjugateWidth.lean": {
+    "checkedAt": "2026-11-10T02:58:05.895Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.principalNormalForm"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/Basic.lean": {
+    "checkedAt": "2026-11-10T02:58:10.344Z",
+    "collisions": [
+      "T3.powerSubgroup",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Free/Collection.lean": {
+    "checkedAt": "2026-11-10T02:58:20.356Z",
+    "collisions": [
+      "T3.powerSubgroup",
+      "T3.mem_closure_range_of_closure_range_eq_top",
+      "T3.commutatorTripleRightHom",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Free/NormalForm.lean": {
+    "checkedAt": "2026-11-10T02:58:43.057Z",
+    "collisions": [
+      "T3.LvdW",
+      "T3.Free.closure_range_of",
+      "T3.powerSubgroup",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Roots/SharedCommutator.lean": {
+    "checkedAt": "2026-11-10T03:00:31.325Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.AssociatedGraded.term",
+      "T3.powerSubgroup"
+    ]
+  },
+  "T3/LinearAlgebra/BlockDecomposition.lean": {
+    "checkedAt": "2026-11-10T03:19:17.175Z",
+    "collisions": [
+      "T3.IsBlockHomogeneous"
+    ]
+  },
+  "T3/LinearAlgebra/ExteriorContraction.lean": {
+    "checkedAt": "2026-11-10T03:19:23.581Z",
+    "collisions": [
+      "T3.gradedMul"
+    ]
+  },
+  "T3/LinearAlgebra/TensorProduct.lean": {
+    "checkedAt": "2026-11-10T03:19:23.922Z",
+    "collisions": [
+      "TensorProduct.map_ker_eq_map₂",
+      "TensorProduct.tmul_ne_zero"
+    ]
+  },
+  "T3/LinearAlgebra/TruncatedExterior.lean": {
+    "checkedAt": "2026-11-10T03:19:24.708Z",
+    "collisions": [
+      "T3.TruncatedExterior",
+      "T3.gradedMul"
+    ]
+  },
+  "T3/LinearAlgebra/Wedge.lean": {
+    "checkedAt": "2026-11-10T03:20:15.680Z",
+    "collisions": [
+      "T3.gradedMul"
+    ]
+  },
+  "T3/Main/BoundedWitness.lean": {
+    "checkedAt": "2026-11-10T03:22:01.592Z",
+    "collisions": [
+      "FirstOrder.GroupFunc",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/ModelTheory/ExistentiallyClosedExtension.lean": {
+    "checkedAt": "2026-11-10T03:26:19.926Z",
+    "collisions": [
+      "FirstOrder.Language.BoundedFormula.IsQF.realize_formula_embedding",
+      "FirstOrder.Language.BoundedFormula.IsExistential.realize_formula_embedding",
+      "FirstOrder.Language.BoundedFormula.IsExistential.exs",
+      "FirstOrder.Language.ExCondition",
+      "FirstOrder.Language.Theory.ModelsEmbedInto"
+    ]
+  },
+  "T3/ModelTheory/FiniteDiagram.lean": {
+    "checkedAt": "2026-11-10T03:26:24.648Z",
+    "collisions": [
+      "FirstOrder.Language.BoundedFormula.IsQF.subst",
+      "FirstOrder.Language.BoundedFormula.IsExistential.relabel",
+      "FirstOrder.Language.Theory.ModelsEmbedInto",
+      "FirstOrder.Language.finiteFunctions",
+      "FirstOrder.Language.BoundedFormula.IsExistential.exs"
+    ]
+  },
+  "T3/ModelTheory/ModelCompanion.lean": {
+    "checkedAt": "2026-11-10T03:26:38.133Z",
+    "collisions": [
+      "FirstOrder.Language.Theory.ModelsEmbedInto"
+    ]
+  },
+  "T3/ModelTheory/ModelEmbeddings.lean": {
+    "checkedAt": "2026-11-10T03:26:42.654Z",
+    "collisions": [
+      "FirstOrder.Language.exists_small_elementarySubstructure_containing_finset",
+      "FirstOrder.Language.Theory.ModelsEmbedInto"
+    ]
+  },
+  "T3/ModelTheory/StrictEnvelope.lean": {
+    "checkedAt": "2026-11-10T03:26:43.928Z",
+    "collisions": [
+      "T3.strictEnvelopeBound",
+      "T3.HasExponentThree",
+      "FirstOrder.GroupFunc"
+    ]
+  },
+  "T3/GroupTheory/CentralSeries.lean": {
+    "checkedAt": "2026-11-10T02:56:08.316Z",
+    "collisions": [
+      "Subgroup.commutator_commutator_le_of_rotate",
+      "Subgroup.lowerCentralSeries_le_upperCentralSeries_of_eq_bot",
+      "Subgroup.comap_upperCentralSeries_le_of_injective",
+      "Subgroup.isMulCommutative_lowerCentralSeries_quotient",
+      "T3.iteratedCommutator",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/CentralSeriesCriterion.lean": {
+    "checkedAt": "2026-11-10T02:56:14.834Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/FreeTwoSeparation.lean": {
+    "checkedAt": "2026-11-10T02:57:12.111Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Coproduct/GradedEquiv.lean": {
+    "checkedAt": "2026-11-10T03:01:27.697Z",
+    "collisions": [
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Free/Exterior.lean": {
+    "checkedAt": "2026-11-10T03:07:07.643Z",
+    "collisions": [
+      "T3.gradedMul",
+      "T3.Free.closure_range_of",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Free/ExteriorBracket.lean": {
+    "checkedAt": "2026-11-10T03:07:39.639Z",
+    "collisions": [
+      "T3.gradedMul",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Free/Model.lean": {
+    "checkedAt": "2026-11-10T03:10:37.616Z",
+    "collisions": [
+      "T3.LvdW"
+    ]
+  },
+  "T3/GroupTheory/Free/ModelComparison.lean": {
+    "checkedAt": "2026-11-10T03:10:46.236Z",
+    "collisions": [
+      "T3.powerSubgroup",
+      "T3.LvdW"
+    ]
+  },
+  "T3/GroupTheory/Free/NonStrictExamples.lean": {
+    "checkedAt": "2026-11-10T03:12:03.557Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.LvdW",
+      "T3.powerSubgroup"
+    ]
+  },
+  "T3/GroupTheory/Generation.lean": {
+    "checkedAt": "2026-11-10T03:18:44.267Z",
+    "collisions": [
+      "T3.exists_mem_mul_mem_commutator",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/GradedQuotient.lean": {
+    "checkedAt": "2026-11-10T03:18:47.724Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "T3.AssociatedGraded.term"
+    ]
+  },
+  "T3/GroupTheory/Notation.lean": {
+    "checkedAt": "2026-11-10T03:18:54.168Z",
+    "collisions": [
+      "T3.commutator_eq",
+      "T3.right_conjugation_eq",
+      "Monoid.Coprod.existsUnique_lift",
+      "Subgroup.isLeast_normalClosure"
+    ]
+  },
+  "T3/GroupTheory/Presentation.lean": {
+    "checkedAt": "2026-11-10T03:18:55.560Z",
+    "collisions": [
+      "T3.AssociatedGraded.term",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/GroupTheory/Subgroup.lean": {
+    "checkedAt": "2026-11-10T03:19:13.410Z",
+    "collisions": [
+      "Subgroup.exists_mul_mul_commutator_of_mem_sup",
+      "Subgroup.map_inf_of_ker_le"
+    ]
+  },
+  "T3/GroupTheory/Support/Transport.lean": {
+    "checkedAt": "2026-11-10T03:19:14.636Z",
+    "collisions": [
+      "T3.Support.normalClosureIn"
+    ]
+  },
+  "T3/LinearAlgebra/DirectSum.lean": {
+    "checkedAt": "2026-11-10T03:19:15.525Z",
+    "collisions": [
+      "DirectSum.rangeLofDecomposition"
+    ]
+  },
+  "T3/LinearAlgebra/ExteriorLowDegree.lean": {
+    "checkedAt": "2026-11-10T03:19:19.219Z",
+    "collisions": [
+      "T3.gradedMul"
+    ]
+  },
+  "T3/LinearAlgebra/ExteriorTensor.lean": {
+    "checkedAt": "2026-11-10T03:19:57.341Z",
+    "collisions": [
+      "Set.powersetCard.sumEquiv",
+      "T3.ExteriorSum.leftCount"
+    ]
+  },
+  "T3/ModelTheory/Amalgamation/Universes.lean": {
+    "checkedAt": "2026-11-10T03:20:05.418Z",
+    "collisions": [
+      "FirstOrder.Language.Theory.AmalgamableOverAt",
+      "FirstOrder.Language.extensionFormula",
+      "FirstOrder.Language.BoundedFormula.IsExistential.exs"
+    ]
+  },
+  "T3/ModelTheory/BoundedAmalgamation.lean": {
+    "checkedAt": "2026-11-10T03:20:09.485Z",
+    "collisions": [
+      "FirstOrder.Language.Theory.IsLocallyFinite",
+      "FirstOrder.Language.Theory.ModelsEmbedInto"
+    ]
+  },
+  "T3/ModelTheory/ExistentiallyClosedGroups.lean": {
+    "checkedAt": "2026-11-10T03:20:45.688Z",
+    "collisions": [
+      "FirstOrder.GroupFunc",
+      "T3.HasExponentThree"
+    ]
+  },
+  "T3/ModelTheory/ExtensionAxioms.lean": {
+    "checkedAt": "2026-11-10T03:28:09.947Z",
+    "collisions": [
+      "FirstOrder.Language.BoundedFormula.IsQF.subst"
+    ]
+  },
+  "T3/ModelTheory/GroupAmalgamation.lean": {
+    "checkedAt": "2026-11-10T03:28:11.592Z",
+    "collisions": [
+      "T3.HasExponentThree",
+      "FirstOrder.GroupFunc"
+    ]
+  },
+  "T3/ModelTheory/LocallyFinite.lean": {
+    "checkedAt": "2026-11-10T03:28:15.689Z",
+    "collisions": [
+      "FirstOrder.Language.Theory.IsLocallyFinite",
+      "FirstOrder.Language.BoundedFormula.IsExistential.exs"
+    ]
+  },
+  "T3/ModelTheory/LocallyFinite/Universes.lean": {
+    "checkedAt": "2026-11-10T03:28:17.449Z",
+    "collisions": [
+      "FirstOrder.Language.exists_small_elementarySubstructure_containing_finset",
+      "FirstOrder.Language.BoundedFormula.IsExistential.exs"
+    ]
+  },
+  "T3/ModelTheory/ModelCompleteness.lean": {
+    "checkedAt": "2026-11-10T03:28:19.265Z",
+    "collisions": [
+      "FirstOrder.Language.BoundedFormula.IsExistential.exs",
+      "FirstOrder.Language.Theory.ModelsEmbedInto",
+      "FirstOrder.Language.BoundedFormula.isQF_iInf",
+      "FirstOrder.Language.BoundedFormula.isQF_iSup",
+      "FirstOrder.Language.Formula.existentialDisjunction"
+    ]
+  },
+  "T3/ModelTheory/UniformLocalFiniteness.lean": {
+    "checkedAt": "2026-11-10T03:28:25.399Z",
+    "collisions": [
+      "FirstOrder.Language.Substructure.card_closure_range_le_of_embedding",
+      "FirstOrder.Language.BoundedFormula.IsExistential.exs"
+    ]
+  }
+}
