@@ -1,0 +1,520 @@
+{
+  "Erdos1153/ClassicalBound/EnergyLowerAsymptotic.lean": {
+    "checkedAt": "2026-11-10T03:39:45.305Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.cubicChebyshevFloor",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/ClassicalBound/EnergyParameters.lean": {
+    "checkedAt": "2026-11-10T03:39:53.375Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.exists_energy_parameters"
+    ]
+  },
+  "Erdos1153/ClassicalBound/EnergyPartition.lean": {
+    "checkedAt": "2026-11-10T03:39:58.498Z",
+    "collisions": [
+      "Erdos1153.NodeFamily",
+      "Erdos1153.ClassicalBound.cubicChebyshevFloor"
+    ]
+  },
+  "Erdos1153/ClassicalBound/EnergyToLebesgue.lean": {
+    "checkedAt": "2026-11-10T03:41:16.879Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.sum_riesz_midpoint_weights",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/ClassicalBound/RieszWeights.lean": {
+    "checkedAt": "2026-11-10T03:45:34.544Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.chebyshevT_splits_real",
+      "Erdos1153.ClassicalBound.chebyshevT_root_sum_one",
+      "Erdos1153.ClassicalBound.chebyshevT_even_root_sum_neg_one",
+      "Erdos1153.ClassicalBound.chebyshevT_even_root_cosecant_sum",
+      "Erdos1153.ClassicalBound.sum_riesz_midpoint_weights"
+    ]
+  },
+  "Erdos1153/Collapse/BlockAdapter.lean": {
+    "checkedAt": "2026-11-10T04:55:55.682Z",
+    "collisions": [
+      "Erdos1153.Collapse.ConsecutiveBlock"
+    ]
+  },
+  "Erdos1153/Collapse/ClusterLimit.lean": {
+    "checkedAt": "2026-11-10T05:04:38.447Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/Boundary.lean": {
+    "checkedAt": "2026-11-10T05:05:15.982Z",
+    "collisions": [
+      "Erdos1153.NodeFamily",
+      "Erdos1153.gapLeftIndex",
+      "Erdos1153.DeBoorPinkus.AdjacentCardinalAmplification"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/LocalHomeomorph.lean": {
+    "checkedAt": "2026-11-10T05:06:39.042Z",
+    "collisions": [
+      "Erdos1153.NodeFamily",
+      "Erdos1153.gapLeftIndex"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/Minors.lean": {
+    "checkedAt": "2026-11-10T05:20:24.585Z",
+    "collisions": [
+      "Erdos1153.NodeFamily",
+      "Erdos1153.DeBoorPinkus.heightMinorFactorParity"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/NodeSpace.lean": {
+    "checkedAt": "2026-11-10T06:28:46.560Z",
+    "collisions": [
+      "Erdos1153.DeBoorPinkus.AdmissibleInterval",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/JSPInterpolation/FreeNodes.lean": {
+    "checkedAt": "2026-11-10T07:01:35.392Z",
+    "collisions": [
+      "Erdos1153.NodeFamily",
+      "JSPFreeNodes.left"
+    ]
+  },
+  "Erdos1153/ClassicalBound/ArcsineBinCount.lean": {
+    "checkedAt": "2026-11-10T03:40:15.324Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.cubicChebyshevFloor"
+    ]
+  },
+  "Erdos1153/ClassicalBound/BinCombinatorics.lean": {
+    "checkedAt": "2026-11-10T03:40:27.194Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.card_finset_fin_le",
+      "Erdos1153.ClassicalBound.sum_count_cast_eq",
+      "Erdos1153.ClassicalBound.sq_sum_div_sum_div_le_sum_mul_sq_div"
+    ]
+  },
+  "Erdos1153/ClassicalBound/EnergyAsymptoticTools.lean": {
+    "checkedAt": "2026-11-10T03:40:32.585Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.cubicChebyshevFloor",
+      "Erdos1153.ClassicalBound.arcsineTotalBinCount",
+      "Erdos1153.ClassicalBound.interpolationSign"
+    ]
+  },
+  "Erdos1153/ClassicalBound/EnergyGeometry.lean": {
+    "checkedAt": "2026-11-10T03:40:46.523Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.stepLeftIndex"
+    ]
+  },
+  "Erdos1153/ClassicalBound/Mesoscopic.lean": {
+    "checkedAt": "2026-11-10T03:40:51.240Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.interpolationSign",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/ClassicalBound/PairEnergy.lean": {
+    "checkedAt": "2026-11-10T03:40:54.776Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.cubicChebyshevFloor",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/ClassicalBound/PolynomialControl.lean": {
+    "checkedAt": "2026-11-10T03:41:19.236Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.sum_riesz_midpoint_weights",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/Collapse/ExteriorGrowth.lean": {
+    "checkedAt": "2026-11-10T03:41:45.623Z",
+    "collisions": [
+      "Erdos1153.NodeFamily",
+      "Erdos1153.Collapse.Spec.clusterDenominator"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/CrossInterlacing.lean": {
+    "checkedAt": "2026-11-10T03:43:03.725Z",
+    "collisions": [
+      "Erdos1153.DeBoorPinkus.gapPairParity",
+      "Erdos1153.gapLeftIndex",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/Orientation.lean": {
+    "checkedAt": "2026-11-10T03:46:55.324Z",
+    "collisions": [
+      "Erdos1153.NodeFamily",
+      "Erdos1153.DeBoorPinkus.heightZeroCramerCoefficient"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/Package.lean": {
+    "checkedAt": "2026-11-10T03:48:08.889Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/Density/DenseAsymptoticTools.lean": {
+    "checkedAt": "2026-11-10T03:49:50.276Z",
+    "collisions": [
+      "Erdos1153.Density.densityDenominator",
+      "Erdos1153.Density.eventually_const_lt_pos_mul_log_nat"
+    ]
+  },
+  "Erdos1153/Interpolation.lean": {
+    "checkedAt": "2026-11-10T03:49:52.011Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/JSPInterpolation/Logarithmic/CardinalIdentity.lean": {
+    "checkedAt": "2026-11-10T03:49:54.405Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/JSPInterpolation/Logarithmic/Chebyshev.lean": {
+    "checkedAt": "2026-11-10T03:49:54.682Z",
+    "collisions": [
+      "JSPFreeNodes.Logarithmic.rootAngle",
+      "Erdos1153.NodeFamily",
+      "JSPFreeNodes.Logarithmic.harmonicReal"
+    ]
+  },
+  "Erdos1153/JSPInterpolation/Logarithmic/TrigonometricBounds.lean": {
+    "checkedAt": "2026-11-10T03:50:01.604Z",
+    "collisions": [
+      "JSPFreeNodes.Logarithmic.angle_distance_le_sine"
+    ]
+  },
+  "Erdos1153/OrderedStatement.lean": {
+    "checkedAt": "2026-11-10T03:50:02.207Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/Basic.lean": {
+    "checkedAt": "2026-11-10T03:41:08.239Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/ClassicalBound/ArcsineBins.lean": {
+    "checkedAt": "2026-11-10T03:41:12.200Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.cubicChebyshevFloor",
+      "Erdos1153.ClassicalBound.cos_sub_cos_le_sin_mul_sub",
+      "Erdos1153.ClassicalBound.angleBinLeft"
+    ]
+  },
+  "Erdos1153/ClassicalBound/ChebyshevDCT.lean": {
+    "checkedAt": "2026-11-10T03:41:25.475Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.BoundedChebyshevExpansion"
+    ]
+  },
+  "Erdos1153/ClassicalBound/ChebyshevDerivative.lean": {
+    "checkedAt": "2026-11-10T03:41:40.967Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.abs_sin_nat_mul_le"
+    ]
+  },
+  "Erdos1153/ClassicalBound/EnergyEmbedding.lean": {
+    "checkedAt": "2026-11-10T03:41:41.780Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.strictIndexPairs",
+      "Erdos1153.NodeFamily",
+      "Erdos1153.ClassicalBound.stepLeftIndex"
+    ]
+  },
+  "Erdos1153/ClassicalBound/EnergyLowerFinite.lean": {
+    "checkedAt": "2026-11-10T03:41:53.200Z",
+    "collisions": [
+      "Erdos1153.NodeFamily",
+      "Erdos1153.ClassicalBound.denseArcsineLabels",
+      "Erdos1153.ClassicalBound.interpolationSign",
+      "Erdos1153.ClassicalBound.cubicChebyshevFloor"
+    ]
+  },
+  "Erdos1153/ClassicalBound/Final.lean": {
+    "checkedAt": "2026-11-10T03:42:10.067Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.tendsto_log_nat_atTop",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/ClassicalBound/FullIntervalEnergy.lean": {
+    "checkedAt": "2026-11-10T03:42:24.705Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.exists_energy_parameters",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/ClassicalBound/RieszInterpolation.lean": {
+    "checkedAt": "2026-11-10T03:42:38.365Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.sum_riesz_midpoint_weights",
+      "Erdos1153.ClassicalBound.rieszAngle"
+    ]
+  },
+  "Erdos1153/ClassicalBound/Sharp.lean": {
+    "checkedAt": "2026-11-10T03:44:01.735Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/Jacobian.lean": {
+    "checkedAt": "2026-11-10T03:44:08.331Z",
+    "collisions": [
+      "Erdos1153.NodeFamily",
+      "Erdos1153.DeBoorPinkus.AdmissibleInterval",
+      "Erdos1153.gapLeftIndex",
+      "Erdos1153.DeBoorPinkus.coordinateLagrangePolynomial"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/TopologyPackage.lean": {
+    "checkedAt": "2026-11-10T03:46:41.712Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/Density/ConsecutiveBlock.lean": {
+    "checkedAt": "2026-11-10T03:47:25.018Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/Density/DenseBlockWitness.lean": {
+    "checkedAt": "2026-11-10T03:47:35.654Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/JSPInterpolation/AllGaps.lean": {
+    "checkedAt": "2026-11-10T03:48:08.658Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/JSPInterpolation/Canonical.lean": {
+    "checkedAt": "2026-11-10T03:50:55.281Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/JSPInterpolation/JSP958.lean": {
+    "checkedAt": "2026-11-10T03:52:38.558Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/NodeOrder.lean": {
+    "checkedAt": "2026-11-10T03:52:39.124Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/ClassicalBound/ArcsinePartition.lean": {
+    "checkedAt": "2026-11-10T03:40:41.254Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.cubicChebyshevFloor",
+      "Erdos1153.ClassicalBound.geometricScaleLevel",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/ClassicalBound/EnergyBins.lean": {
+    "checkedAt": "2026-11-10T03:41:13.788Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.interpolationSign",
+      "Erdos1153.ClassicalBound.truncatedSpacingKernel",
+      "Erdos1153.ClassicalBound.stepLeftIndex"
+    ]
+  },
+  "Erdos1153/ClassicalBound/Statement.lean": {
+    "checkedAt": "2026-11-10T03:41:17.754Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/Collapse/Block.lean": {
+    "checkedAt": "2026-11-10T03:41:21.361Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/Collapse/Definition.lean": {
+    "checkedAt": "2026-11-10T03:41:54.870Z",
+    "collisions": [
+      "Erdos1153.Collapse.ConsecutiveBlock",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/CompactMax.lean": {
+    "checkedAt": "2026-11-10T03:42:11.717Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/Comparison.lean": {
+    "checkedAt": "2026-11-10T03:42:14.540Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/DerivativeInterlacing.lean": {
+    "checkedAt": "2026-11-10T03:42:19.359Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/GapCritical.lean": {
+    "checkedAt": "2026-11-10T03:47:32.880Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/Interlacing.lean": {
+    "checkedAt": "2026-11-10T03:48:06.803Z",
+    "collisions": [
+      "Erdos1153.NodeFamily",
+      "Erdos1153.DeBoorPinkus.OtherGapIndex"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/Simplex.lean": {
+    "checkedAt": "2026-11-10T03:48:22.224Z",
+    "collisions": [
+      "Erdos1153.DeBoorPinkus.AdmissibleInterval",
+      "Erdos1153.NodeFamily",
+      "Erdos1153.DeBoorPinkus.endpointPoint"
+    ]
+  },
+  "Erdos1153/Density/DenseBlockAsymptotic.lean": {
+    "checkedAt": "2026-11-10T03:49:11.932Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/Density/FixedInterval.lean": {
+    "checkedAt": "2026-11-10T03:49:12.348Z",
+    "collisions": [
+      "Erdos1153.Density.equiNode"
+    ]
+  },
+  "Erdos1153/GapPolynomial.lean": {
+    "checkedAt": "2026-11-10T03:49:19.236Z",
+    "collisions": [
+      "Erdos1153.gapLeftIndex",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/JSPInterpolation/Logarithmic.lean": {
+    "checkedAt": "2026-11-10T03:50:05.103Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/JSPInterpolation/Logarithmic/HarmonicPacking.lean": {
+    "checkedAt": "2026-11-10T03:50:56.491Z",
+    "collisions": [
+      "JSPFreeNodes.Logarithmic.harmonicReal"
+    ]
+  },
+  "Erdos1153/JSPInterpolation/Regression.lean": {
+    "checkedAt": "2026-11-10T03:50:58.470Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/ClassicalBound/ChebyshevExpansion.lean": {
+    "checkedAt": "2026-11-10T03:39:49.316Z",
+    "collisions": [
+      "Erdos1153.ClassicalBound.BoundedChebyshevExpansion",
+      "Erdos1153.ClassicalBound.abs_sin_nat_mul_le",
+      "Erdos1153.ClassicalBound.cubicChebyshevFloor"
+    ]
+  },
+  "Erdos1153/ClassicalBound/Clock.lean": {
+    "checkedAt": "2026-11-10T03:39:58.731Z",
+    "collisions": [
+      "Erdos1153.NodeFamily",
+      "Erdos1153.ClassicalBound.clockLeftIndex"
+    ]
+  },
+  "Erdos1153/ClassicalBound/EquioscillatingHeight.lean": {
+    "checkedAt": "2026-11-10T03:40:07.515Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/GlobalHomeomorph.lean": {
+    "checkedAt": "2026-11-10T03:40:15.989Z",
+    "collisions": [
+      "Erdos1153.DeBoorPinkus.isCoveringMap_of_isLocalHomeomorph_of_isProperMap",
+      "Erdos1153.DeBoorPinkus.IsCoveringMap.isHomeomorph_of_surjective",
+      "Erdos1153.DeBoorPinkus.fin_zero_isHomeomorph_of_isLocalHomeomorph",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/OrientedCharts.lean": {
+    "checkedAt": "2026-11-10T03:40:33.674Z",
+    "collisions": [
+      "Erdos1153.NodeFamily",
+      "Erdos1153.DeBoorPinkus.coordinateLagrangePolynomial"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/Properness.lean": {
+    "checkedAt": "2026-11-10T03:44:06.944Z",
+    "collisions": [
+      "Erdos1153.DeBoorPinkus.exists_norm_bound_of_isCompact",
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/DeBoorPinkus/SignBridge.lean": {
+    "checkedAt": "2026-11-10T03:44:22.555Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/Density/Asymptotic.lean": {
+    "checkedAt": "2026-11-10T03:47:01.289Z",
+    "collisions": [
+      "Erdos1153.Density.densityDenominator",
+      "Erdos1153.NodeFamily",
+      "Erdos1153.Density.j0Left"
+    ]
+  },
+  "Erdos1153/Density/Damping.lean": {
+    "checkedAt": "2026-11-10T03:47:05.830Z",
+    "collisions": [
+      "Erdos1153.Density.j0Left",
+      "Erdos1153.NodeFamily",
+      "Erdos1153.Density.equiNode"
+    ]
+  },
+  "Erdos1153/Density/Dichotomy.lean": {
+    "checkedAt": "2026-11-10T03:47:17.832Z",
+    "collisions": [
+      "Erdos1153.NodeFamily",
+      "Erdos1153.Density.equiNode"
+    ]
+  },
+  "Erdos1153/Main.lean": {
+    "checkedAt": "2026-11-10T03:49:44.320Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  },
+  "Erdos1153/Statement.lean": {
+    "checkedAt": "2026-11-10T03:51:06.063Z",
+    "collisions": [
+      "Erdos1153.NodeFamily"
+    ]
+  }
+}
