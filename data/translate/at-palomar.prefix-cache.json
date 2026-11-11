@@ -667,5 +667,156 @@
     "collisions": [
       "Paper.gaussianExpectation"
     ]
+  },
+  "Paper/ParisiStateStability.lean": {
+    "checkedAt": "2026-11-10T23:59:59.193Z",
+    "collisions": [
+      "Paper.IsBoundedMeasurableDrift"
+    ]
+  },
+  "Paper/PhysicalSKBridge.lean": {
+    "checkedAt": "2026-11-11T01:08:22.128Z",
+    "collisions": [
+      "Paper.SKConfiguration"
+    ]
+  },
+  "Paper/ReplicaSymmetry.lean": {
+    "checkedAt": "2026-11-11T01:09:02.991Z",
+    "collisions": [
+      "Paper.sech"
+    ]
+  },
+  "Paper/StateDiffusion.lean": {
+    "checkedAt": "2026-11-11T01:09:32.439Z",
+    "collisions": [
+      "Paper.gaussianStateKernel",
+      "Paper.integrable_cosh_gaussianReal"
+    ]
+  },
+  "Paper/VolterraFubini.lean": {
+    "checkedAt": "2026-11-11T01:09:37.662Z",
+    "collisions": [
+      "Paper.parisiTimeMeasure"
+    ]
+  },
+  "Paper/WeakHeatMollification.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T01:09:40.001Z"
+  },
+  "Paper/WeightedDrift.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T01:11:15.388Z"
+  },
+  "Paper/ParisiMixDifferentiation.lean": {
+    "checkedAt": "2026-11-10T23:57:49.194Z",
+    "collisions": [
+      "Paper.gaussianExpectation"
+    ]
+  },
+  "Paper/ParisiMixTerminalDifferentiation.lean": {
+    "checkedAt": "2026-11-11T00:00:39.210Z",
+    "collisions": [
+      "Paper.gaussianExpectation"
+    ]
+  },
+  "Paper/ParisiPDE.lean": {
+    "checkedAt": "2026-11-11T00:03:23.402Z",
+    "collisions": [
+      "Paper.Overlap",
+      "Paper.gaussianExpectation"
+    ]
+  },
+  "Paper/ParisiState.lean": {
+    "checkedAt": "2026-11-11T03:16:51.787Z",
+    "collisions": [
+      "Paper.IsBoundedMeasurableDrift",
+      "Paper.Overlap"
+    ]
+  },
+  "Paper/ParisiTimeRegularity.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:41:54.880Z"
+  },
+  "Paper/ParisiTimeShiftTest.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:41:57.280Z"
+  },
+  "Paper/ParisiWeakRegularRecovery.lean": {
+    "checkedAt": "2026-11-11T03:42:10.290Z",
+    "collisions": [
+      "Paper.sech"
+    ]
+  },
+  "Paper/QuadraticImplicit.lean": {
+    "checkedAt": "2026-11-11T04:10:54.371Z",
+    "collisions": [
+      "Paper.bilinearOperatorNorm"
+    ]
+  },
+  "Paper/StrictRSMoments.lean": {
+    "checkedAt": "2026-11-11T04:25:30.943Z",
+    "collisions": [
+      "Paper.sech",
+      "Paper.parisiG"
+    ]
+  },
+  "Paper/ParisiHJB.lean": {
+    "checkedAt": "2026-11-11T00:03:28.152Z",
+    "collisions": [
+      "Paper.sech"
+    ]
+  },
+  "Paper/ParisiMixGlobalDifferentiation.lean": {
+    "checkedAt": "2026-11-11T00:08:35.907Z",
+    "collisions": [
+      "Paper.sech"
+    ]
+  },
+  "Paper/ParisiPDEWellPosed.lean": {
+    "checkedAt": "2026-11-11T00:18:01.286Z",
+    "collisions": [
+      "Paper.sech"
+    ]
+  },
+  "Paper/ParisiSolutionSlabs.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T00:18:06.622Z"
+  },
+  "Paper/ParisiSpatialSmooth.lean": {
+    "checkedAt": "2026-11-11T00:19:03.994Z",
+    "collisions": [
+      "Paper.sech"
+    ]
+  },
+  "Paper/ParisiTestRegularity.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T00:45:53.863Z"
+  },
+  "Paper/ParisiWeakLipschitz.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T00:53:24.470Z",
+    "collisions": [
+      "Paper.Overlap"
+    ]
+  },
+  "Paper/ParisiWeakUniqueness.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T00:55:26.290Z"
+  },
+  "Paper/ParisiWeightedVolterra.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T00:55:28.091Z"
+  },
+  "Paper/RSFunctional.lean": {
+    "checkedAt": "2026-11-11T03:43:41.714Z",
+    "collisions": [
+      "Paper.gaussianExpectation"
+    ]
+  },
+  "Paper/Variational.lean": {
+    "checkedAt": "2026-11-11T04:58:58.085Z",
+    "collisions": [
+      "Paper.parisiG"
+    ]
   }
 }
