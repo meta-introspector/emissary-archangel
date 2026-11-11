@@ -818,5 +818,55 @@
     "collisions": [
       "Paper.parisiG"
     ]
+  },
+  "Paper/ParisiSolutionUniqueness.lean": {
+    "checkedAt": "2026-11-11T06:58:10.797Z",
+    "collisions": [
+      "Paper.sech"
+    ]
+  },
+  "Paper/ParisiTranslation.lean": {
+    "checkedAt": "2026-11-11T06:58:47.677Z",
+    "collisions": [
+      "Paper.sech",
+      "Paper.bilinearOperatorNorm",
+      "Paper.gaussianExpectation"
+    ]
+  },
+  "Paper/ParisiWeakRepresentative.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T07:48:39.018Z"
+  },
+  "Paper/PhysicalParisiFormula.lean": {
+    "checkedAt": "2026-11-11T07:48:45.557Z",
+    "collisions": [
+      "Paper.SKConfiguration"
+    ]
+  },
+  "Paper/PhysicalSKDisorder.lean": {
+    "checkedAt": "2026-11-11T07:49:38.906Z",
+    "collisions": [
+      "Paper.SKConfiguration"
+    ]
+  },
+  "Paper/RSContinuity.lean": {
+    "checkedAt": "2026-11-11T07:50:37.664Z",
+    "collisions": [
+      "Paper.Overlap",
+      "Paper.gaussianExpectation"
+    ]
+  },
+  "Paper/Semigroup.lean": {
+    "checkedAt": "2026-11-11T09:19:35.546Z",
+    "collisions": [
+      "Paper.kernelAverage"
+    ]
+  },
+  "Paper/SymmetrizedWeight.lean": {
+    "checkedAt": "2026-11-11T09:19:54.588Z",
+    "collisions": [
+      "Paper.sech",
+      "Paper.symmetrizedWeight"
+    ]
   }
 }
