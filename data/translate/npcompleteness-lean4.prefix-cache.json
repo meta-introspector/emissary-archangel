@@ -1,0 +1,677 @@
+{
+  "Complexity/Binary/ReductionLoops.lean": {
+    "checkedAt": "2026-11-11T03:18:42.926Z",
+    "collisions": [
+      "Complexity.SAT.Assignment",
+      "Complexity.Language"
+    ]
+  },
+  "Complexity/Binary/VerifierCheck.lean": {
+    "checkedAt": "2026-11-11T03:24:03.252Z",
+    "collisions": [
+      "Complexity.SAT.Assignment",
+      "Complexity.Language"
+    ]
+  },
+  "Complexity/BinarySATComplete.lean": {
+    "checkedAt": "2026-11-11T03:29:23.299Z",
+    "collisions": [
+      "Complexity.Tape",
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/CSPSAT.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:33:40.098Z"
+  },
+  "Complexity/CookLevin.lean": {
+    "checkedAt": "2026-11-11T03:33:53.198Z",
+    "collisions": [
+      "Complexity.Tape",
+      "Complexity.SAT.Assignment",
+      "Complexity.Language"
+    ]
+  },
+  "Complexity/CookLevinEmitter.lean": {
+    "checkedAt": "2026-11-11T03:37:31.223Z",
+    "collisions": [
+      "Complexity.SAT.Assignment",
+      "Complexity.Language"
+    ]
+  },
+  "Complexity/Execution.lean": {
+    "checkedAt": "2026-11-11T03:38:47.128Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/InitialEmitter.lean": {
+    "checkedAt": "2026-11-11T03:39:19.417Z",
+    "collisions": [
+      "Complexity.SAT.Assignment",
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/Membership.lean": {
+    "checkedAt": "2026-11-11T03:42:52.432Z",
+    "collisions": [
+      "Complexity.Tape",
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Planar/ParseCert.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:49:16.874Z"
+  },
+  "Complexity/Planar/VerifierMain.lean": {
+    "checkedAt": "2026-11-11T03:49:18.062Z",
+    "collisions": [
+      "Complexity.Planar.EmbedTables",
+      "Complexity.Language"
+    ]
+  },
+  "Complexity/Reductions.lean": {
+    "checkedAt": "2026-11-11T03:52:22.850Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/Restricted/Transform.lean": {
+    "checkedAt": "2026-11-11T03:55:05.355Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/SATVerifier.lean": {
+    "checkedAt": "2026-11-11T03:56:04.470Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackProgram.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:56:43.064Z"
+  },
+  "Complexity/StackTableauBodyBoundedSpec.lean": {
+    "checkedAt": "2026-11-11T03:56:48.578Z",
+    "collisions": [
+      "Complexity.Language"
+    ]
+  },
+  "Complexity/StackTableauNumCorrect.lean": {
+    "checkedAt": "2026-11-11T03:56:56.613Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackTableauProgram.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:57:26.139Z"
+  },
+  "Complexity/TapeEquiv.lean": {
+    "checkedAt": "2026-11-11T03:57:27.544Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/Binary/Increment.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:15:26.602Z"
+  },
+  "Complexity/Binary/Spec.lean": {
+    "checkedAt": "2026-11-11T03:15:28.472Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/BoundedExecution.lean": {
+    "checkedAt": "2026-11-11T03:15:48.971Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/CookLevinBounds.lean": {
+    "checkedAt": "2026-11-11T03:16:19.815Z",
+    "collisions": [
+      "Complexity.SAT.Assignment",
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/EmitterTools.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:19:12.146Z"
+  },
+  "Complexity/NTM/Core.lean": {
+    "checkedAt": "2026-11-11T03:19:27.675Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/OneHotEmitter.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:20:28.633Z"
+  },
+  "Complexity/Restricted/ExactMembership.lean": {
+    "checkedAt": "2026-11-11T03:20:43.826Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Restricted/LeMembership.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:22:56.549Z"
+  },
+  "Complexity/Restricted/Occurrence.lean": {
+    "checkedAt": "2026-11-11T03:23:06.475Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackMachine.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:23:34.802Z"
+  },
+  "Complexity/StackParse.lean": {
+    "checkedAt": "2026-11-11T03:23:35.856Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackTableauLoopBounds.lean": {
+    "checkedAt": "2026-11-11T03:25:26.447Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackTableauNumBounds.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:26:07.311Z"
+  },
+  "Complexity/StackThreeSATSemantics.lean": {
+    "checkedAt": "2026-11-11T03:26:08.380Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/WordShape.lean": {
+    "checkedAt": "2026-11-11T03:29:24.924Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/Binary/Basic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:19:24.417Z"
+  },
+  "Complexity/Clock.lean": {
+    "checkedAt": "2026-11-11T03:19:49.598Z",
+    "collisions": [
+      "Complexity.Language",
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/Composition.lean": {
+    "checkedAt": "2026-11-11T03:19:59.792Z",
+    "collisions": [
+      "Complexity.Language",
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/FinalEmitter.lean": {
+    "checkedAt": "2026-11-11T03:23:07.980Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/LocalConstraint.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:23:11.618Z"
+  },
+  "Complexity/NPCompleteness.lean": {
+    "checkedAt": "2026-11-11T03:25:30.136Z",
+    "collisions": [
+      "Complexity.SAT.Assignment",
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/Planar/CombBasic.lean": {
+    "checkedAt": "2026-11-11T03:48:15.923Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Planar/EmitTable.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:49:20.735Z"
+  },
+  "Complexity/Planar/GridComb.lean": {
+    "checkedAt": "2026-11-11T03:49:23.352Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Planar/GridDef.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:52:15.505Z"
+  },
+  "Complexity/Planar/GridTarget.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:52:31.403Z"
+  },
+  "Complexity/Planar/Subdivide.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T04:06:05.852Z",
+    "collisions": [
+      "Complexity.iterate"
+    ]
+  },
+  "Complexity/Planar/VerifierSpec.lean": {
+    "checkedAt": "2026-11-11T04:41:21.806Z",
+    "collisions": [
+      "Complexity.Planar.EmbedTables",
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackInit.lean": {
+    "checkedAt": "2026-11-11T05:11:39.288Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/StackTableauEmitter.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T06:00:57.253Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Binary/VerifierMachine.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:19:17.824Z"
+  },
+  "Complexity/Binary/VerifierParse.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:19:41.788Z"
+  },
+  "Complexity/EmitterTableauTools.lean": {
+    "checkedAt": "2026-11-11T03:19:50.447Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/MachineEmitter.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:20:42.282Z"
+  },
+  "Complexity/NTM/Checker.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:20:42.752Z"
+  },
+  "Complexity/NTM/CompileTape.lean": {
+    "checkedAt": "2026-11-11T03:22:17.060Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/NondeterministicEquiv.lean": {
+    "checkedAt": "2026-11-11T03:24:57.822Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/Planar/Incidence.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T03:27:49.699Z",
+    "collisions": [
+      "Complexity.SAT.Assignment",
+      "Complexity.iterate"
+    ]
+  },
+  "Complexity/Planar/Perm.lean": {
+    "checkedAt": "2026-11-11T03:28:16.009Z",
+    "collisions": [
+      "Complexity.Planar.exists_least",
+      "Complexity.Planar.nodup_map_of_injOn'",
+      "Complexity.iterate"
+    ]
+  },
+  "Complexity/Restricted/Copies.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T03:46:47.272Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/SATBounds.lean": {
+    "checkedAt": "2026-11-11T04:46:33.043Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackEncoding.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T06:45:17.318Z"
+  },
+  "Complexity/Binary/ReductionMachine.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:20:05.561Z"
+  },
+  "Complexity/Binary/ReductionSemantics.lean": {
+    "checkedAt": "2026-11-11T03:20:08.668Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Classes.lean": {
+    "checkedAt": "2026-11-11T03:27:06.826Z",
+    "collisions": [
+      "Complexity.Language",
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/Constraints.lean": {
+    "checkedAt": "2026-11-11T03:27:13.076Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/FiniteRows.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:27:27.668Z"
+  },
+  "Complexity/InitialWord.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:27:32.628Z"
+  },
+  "Complexity/NTM/Basic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:27:34.520Z"
+  },
+  "Complexity/NTM/ClockProgram.lean": {
+    "checkedAt": "2026-11-11T03:27:44.536Z",
+    "collisions": [
+      "Complexity.SAT.Assignment",
+      "Complexity.Language"
+    ]
+  },
+  "Complexity/NTM/Guesser.lean": {
+    "checkedAt": "2026-11-11T03:28:36.952Z",
+    "collisions": [
+      "Complexity.Language",
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/NTM/Verifier.lean": {
+    "checkedAt": "2026-11-11T03:40:59.636Z",
+    "collisions": [
+      "Complexity.Tape",
+      "Complexity.Language"
+    ]
+  },
+  "Complexity/Planar/CombIface.lean": {
+    "checkedAt": "2026-11-11T03:45:32.283Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Planar/EmbedCert.lean": {
+    "checkedAt": "2026-11-11T03:46:02.302Z",
+    "collisions": [
+      "Complexity.Planar.EmbedTables",
+      "Complexity.iterate_succ'",
+      "Complexity.iterate"
+    ]
+  },
+  "Complexity/Planar/EmitDecide.lean": {
+    "checkedAt": "2026-11-11T03:46:12.101Z",
+    "collisions": [
+      "Complexity.SAT.Assignment",
+      "Complexity.Language",
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/Planar/EmitGrid.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:54:35.253Z"
+  },
+  "Complexity/Planar/Fields.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:54:35.770Z"
+  },
+  "Complexity/Planar/Reduction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:54:37.288Z"
+  },
+  "Complexity/Planar/Rot.lean": {
+    "checkedAt": "2026-11-11T03:54:38.470Z",
+    "collisions": [
+      "Complexity.Planar.rnext",
+      "Complexity.iterate"
+    ]
+  },
+  "Complexity/PolynomialBound.lean": {
+    "checkedAt": "2026-11-11T03:54:42.877Z",
+    "collisions": [
+      "Complexity.Language"
+    ]
+  },
+  "Complexity/Restricted/Annotate.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:54:46.303Z"
+  },
+  "Complexity/Restricted/Commands.lean": {
+    "checkedAt": "2026-11-11T03:54:56.091Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Restricted/LeExtract.lean": {
+    "checkedAt": "2026-11-11T03:55:29.859Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Restricted/LeReduction.lean": {
+    "checkedAt": "2026-11-11T04:02:21.414Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Restricted/LeScan.lean": {
+    "checkedAt": "2026-11-11T04:05:34.525Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/RestrictedSATComplete.lean": {
+    "checkedAt": "2026-11-11T04:10:46.446Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/SAT.lean": {
+    "checkedAt": "2026-11-11T04:22:59.638Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackTableauArithmetic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T04:23:34.507Z"
+  },
+  "Complexity/StackTableauBranchCorrect.lean": {
+    "checkedAt": "2026-11-11T04:23:44.687Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackTableauEmitterCorrect.lean": {
+    "checkedAt": "2026-11-11T04:24:07.223Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackTableauLiteralBounds.lean": {
+    "checkedAt": "2026-11-11T04:25:06.393Z",
+    "collisions": [
+      "Complexity.Language",
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackTableauLoopCorrect.lean": {
+    "checkedAt": "2026-11-11T04:25:56.677Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackTableauMachineBounds.lean": {
+    "checkedAt": "2026-11-11T04:26:35.870Z",
+    "collisions": [
+      "Complexity.Language",
+      "Complexity.SAT.Assignment",
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/Tableau.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T04:29:37.386Z"
+  },
+  "Complexity/TapeToStacks.lean": {
+    "checkedAt": "2026-11-11T04:29:38.618Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/ThreeSAT.lean": {
+    "checkedAt": "2026-11-11T04:33:06.727Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Binary/StackTools.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:15:51.913Z"
+  },
+  "Complexity/Binary/VerifierPrograms.lean": {
+    "checkedAt": "2026-11-11T03:15:52.995Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Binary/VerifierSemantics.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:16:57.684Z"
+  },
+  "Complexity/ChainThreeSAT.lean": {
+    "checkedAt": "2026-11-11T03:17:01.067Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/ConstraintEmitter.lean": {
+    "checkedAt": "2026-11-11T03:17:30.444Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Machine.lean": {
+    "checkedAt": "2026-11-11T03:17:35.794Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/NTM/Guess.lean": {
+    "checkedAt": "2026-11-11T03:17:42.138Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/Planar/Chk.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:17:48.527Z"
+  },
+  "Complexity/Planar/EmbedComplete.lean": {
+    "checkedAt": "2026-11-11T03:17:48.928Z",
+    "collisions": [
+      "Complexity.Planar.natOf",
+      "Complexity.iterate"
+    ]
+  },
+  "Complexity/Planar/EmitBounds.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:17:54.691Z"
+  },
+  "Complexity/Planar/GridSat.lean": {
+    "checkedAt": "2026-11-11T03:17:56.586Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Planar/Hypermap.lean": {
+    "checkedAt": "2026-11-11T03:19:50.636Z",
+    "collisions": [
+      "Complexity.iterate",
+      "Complexity.Planar.length_le_countP",
+      "Complexity.Planar.exists_least_label",
+      "Complexity.Planar.nodup_of_map",
+      "Complexity.Planar.CycleMin"
+    ]
+  },
+  "Complexity/Restricted/Chain.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T03:24:10.588Z"
+  },
+  "Complexity/Restricted/CheckedVerifier.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T03:24:13.995Z"
+  },
+  "Complexity/Restricted/Counting.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T03:24:14.854Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/Restricted/ExactCheck.lean": {
+    "checkedAt": "2026-11-11T03:56:25.414Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackCompiler.lean": {
+    "checkedAt": "2026-11-11T04:40:56.465Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/StackLiteral.lean": {
+    "checkedAt": "2026-11-11T05:09:34.286Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackPop.lean": {
+    "checkedAt": "2026-11-11T06:36:19.334Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/StackTableauBodySpec.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T07:29:15.551Z"
+  },
+  "Complexity/StackTableauEmitterCompile.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T07:48:43.501Z"
+  },
+  "Complexity/StackTableauLiteralCorrect.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T07:48:45.546Z"
+  },
+  "Complexity/StackThreeCNFVerifier.lean": {
+    "checkedAt": "2026-11-11T07:48:47.894Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  }
+}
