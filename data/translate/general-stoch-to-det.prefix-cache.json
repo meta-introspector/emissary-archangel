@@ -402,5 +402,22 @@
       "stoch_to_det.SharedRace.logTwo",
       "stoch_to_det.SharedRace.mobius"
     ]
+  },
+  "stoch_to_det/SharedRace/Clock.lean": {
+    "checkedAt": "2026-11-11T06:06:12.341Z",
+    "collisions": [
+      "stoch_to_det.SharedRace.clockTotal",
+      "stoch_to_det.SeedSetup",
+      "stoch_to_det.SharedRace.logTwo",
+      "stoch_to_det.mass",
+      "stoch_to_det.lg"
+    ]
+  },
+  "stoch_to_det/SharedRace/Definitions.lean": {
+    "checkedAt": "2026-11-11T06:11:49.965Z",
+    "collisions": [
+      "stoch_to_det.mass",
+      "stoch_to_det.lg"
+    ]
   }
 }
