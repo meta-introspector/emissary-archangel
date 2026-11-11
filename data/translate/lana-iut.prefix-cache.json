@@ -1,0 +1,670 @@
+{
+  "Iut/Abc/Target.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T10:12:05.517Z"
+  },
+  "Iut/Anabelian/Genuine/Pi1.lean": {
+    "checkedAt": "2026-11-11T10:12:15.890Z",
+    "collisions": [
+      "Iut.Anabelian.Genuine.Ω",
+      "Iut.Torsion.Ident.four_ne_zero'",
+      "Iut.Anabelian.pointMap"
+    ]
+  },
+  "Iut/Anabelian/Genuine/Punctured.lean": {
+    "checkedAt": "2026-11-11T10:14:26.172Z",
+    "collisions": [
+      "Iut.Anabelian.Genuine.Ω",
+      "Iut.Anabelian.pointMap"
+    ]
+  },
+  "Iut/Anabelian/Torsion.lean": {
+    "checkedAt": "2026-11-11T11:15:05.570Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/Admissible.lean": {
+    "checkedAt": "2026-11-11T11:29:41.908Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/Hull.lean": {
+    "checkedAt": "2026-11-11T11:44:08.065Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/MaximalOrder.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T11:52:42.907Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/PadicLog.lean": {
+    "checkedAt": "2026-11-11T12:10:20.798Z",
+    "collisions": [
+      "Iut.norm_natCast_eq_one_of_not_dvd",
+      "Iut.factorization_lt_self",
+      "Iut.norm_two_le_one",
+      "Iut.logTerm"
+    ]
+  },
+  "Iut/Concrete/SL2Image.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T12:11:11.547Z"
+  },
+  "Iut/Concrete/TateInputsConstruct.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T12:30:10.519Z"
+  },
+  "Iut/Cor312/RationalPlace.lean": {
+    "checkedAt": "2026-11-11T12:30:10.871Z",
+    "collisions": [
+      "Iut.RationalPlace"
+    ]
+  },
+  "Iut/Cor312/Statement.lean": {
+    "checkedAt": "2026-11-11T12:30:29.422Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/ThetaData/Places.lean": {
+    "checkedAt": "2026-11-11T12:30:29.752Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/ThetaData/PointMap.lean": {
+    "checkedAt": "2026-11-11T12:30:30.045Z",
+    "collisions": [
+      "Iut.Anabelian.pointMap"
+    ]
+  },
+  "Iut/Cor312/ThetaData/TateIsomorphism.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T12:30:33.157Z",
+    "collisions": [
+      "Iut.babylonianSqrt"
+    ]
+  },
+  "Iut/Cor312/ThetaData/TateStructureTransport.lean": {
+    "checkedAt": "2026-11-11T12:31:06.138Z",
+    "collisions": [
+      "Iut.Anabelian.pointMap"
+    ]
+  },
+  "Iut/Cor312/ThetaData/TateStructureUnique.lean": {
+    "checkedAt": "2026-11-11T12:47:09.499Z",
+    "collisions": [
+      "Iut.Anabelian.vcX"
+    ]
+  },
+  "Iut/Torsion/Divisible.lean": {
+    "checkedAt": "2026-11-11T12:48:10.251Z",
+    "collisions": [
+      "Iut.Torsion.Ident.four_ne_zero'",
+      "Iut.Anabelian.vcX"
+    ]
+  },
+  "Iut/Tower/Inertia.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T12:48:16.341Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Tower/IntegralTorsion.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T12:48:28.918Z",
+    "collisions": [
+      "Iut.Anabelian.vcX"
+    ]
+  },
+  "Iut/Tower/ReductionKernel.lean": {
+    "checkedAt": "2026-11-11T12:59:54.981Z",
+    "collisions": [
+      "Iut.ReductionKernel.valuation_natCast_le_one",
+      "Iut.ReductionKernel.valuation_eval_eq_pow",
+      "Iut.ReductionKernel.DivPolyHyp"
+    ]
+  },
+  "Iut/Tripod/CyclicArch.lean": {
+    "checkedAt": "2026-11-11T13:00:00.907Z",
+    "collisions": [
+      "Iut.Tripod.legendre"
+    ]
+  },
+  "Iut/Anabelian/Genuine/Orbifold.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T10:14:48.848Z",
+    "collisions": [
+      "Iut.Anabelian.Genuine.Ω",
+      "Iut.Anabelian.pointMap"
+    ]
+  },
+  "Iut/Anabelian/Genuine/Theory.lean": {
+    "checkedAt": "2026-11-11T10:15:52.491Z",
+    "collisions": [
+      "Iut.Anabelian.pointMap"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/ArchLogShell.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T10:18:56.223Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/Indeterminacy.lean": {
+    "checkedAt": "2026-11-11T10:56:57.962Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/Integral.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T10:57:37.906Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/ThetaLocalConstruct/Data.lean": {
+    "checkedAt": "2026-11-11T11:01:39.847Z",
+    "collisions": [
+      "Iut.Place",
+      "Iut.Anabelian.pointMap"
+    ]
+  },
+  "Iut/Cor312/ThetaData/LocalAut.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T11:39:39.250Z",
+    "collisions": [
+      "Iut.algebraMap_ringOfIntegers_injective"
+    ]
+  },
+  "Iut/Cor312/ThetaData/SqrtAtBadPlace.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T12:08:55.283Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/ThetaData/TateFamilyGalois.lean": {
+    "checkedAt": "2026-11-11T12:43:12.554Z",
+    "collisions": [
+      "Iut.Anabelian.vcX",
+      "Iut.algebraMap_ringOfIntegers_injective",
+      "Iut.Anabelian.pointMap",
+      "Iut.Place"
+    ]
+  },
+  "Iut/Tower/InertiaInvolution.lean": {
+    "checkedAt": "2026-11-11T13:16:01.363Z",
+    "collisions": [
+      "Iut.Anabelian.vcX"
+    ]
+  },
+  "Iut/Tower/LogDK.lean": {
+    "checkedAt": "2026-11-11T13:22:39.356Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Tower/QuotientBasis.lean": {
+    "checkedAt": "2026-11-11T13:35:32.310Z",
+    "collisions": [
+      "Iut.repr_mem_of_mem_map",
+      "Iut.mk_smul_mk",
+      "Iut.basisQuotientMap"
+    ]
+  },
+  "Iut/Tripod/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T13:35:39.021Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Tripod/InertiaUnipotent.lean": {
+    "checkedAt": "2026-11-11T13:36:32.579Z",
+    "collisions": [
+      "Iut.Tripod.legendre"
+    ]
+  },
+  "Iut/Tripod/Unramified.lean": {
+    "checkedAt": "2026-11-11T13:41:29.969Z",
+    "collisions": [
+      "Iut.Place",
+      "Iut.ReductionKernel.valuation_natCast_le_one"
+    ]
+  },
+  "Iut4Sec1/Combinatorics/RangeAverages.lean": {
+    "checkedAt": "2026-11-11T14:23:44.812Z",
+    "collisions": [
+      "Iut4Sec1.range_succ_sum",
+      "Iut4Sec1.range_succ_sq_sum",
+      "Iut4Sec1.average_range_sum",
+      "Iut4Sec1.average_range_sq_sum"
+    ]
+  },
+  "Iut4Sec1/Real/LogError.lean": {
+    "checkedAt": "2026-11-11T14:23:47.123Z",
+    "collisions": [
+      "Iut4Sec1.nonarchimedeanLogError"
+    ]
+  },
+  "Iut/Abc/Classical.lean": {
+    "checkedAt": "2026-11-11T10:06:36.640Z",
+    "collisions": [
+      "Iut.ClassicalABC"
+    ]
+  },
+  "Iut/Anabelian/Genuine/Inertia.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T10:11:13.877Z",
+    "collisions": [
+      "Iut.Torsion.Ident.four_ne_zero'",
+      "Iut.Anabelian.vcX",
+      "Iut.Anabelian.Genuine.Ω",
+      "Iut.ReductionKernel.valuation_natCast_le_one"
+    ]
+  },
+  "Iut/Anabelian/LocalInputs.lean": {
+    "checkedAt": "2026-11-11T10:30:32.355Z",
+    "collisions": [
+      "Iut.Anabelian.pointMap",
+      "Iut.Place"
+    ]
+  },
+  "Iut/Anabelian/TateTorsion.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T10:32:07.473Z"
+  },
+  "Iut/Concrete/LocalConstruct/Archimedean.lean": {
+    "checkedAt": "2026-11-11T11:08:33.315Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/Theory.lean": {
+    "checkedAt": "2026-11-11T11:17:27.754Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/ThetaLocalConstruct/EmbedCompletion.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T11:17:29.130Z",
+    "collisions": [
+      "Iut.completionMapPow",
+      "Iut.adicCompletionMapPow",
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/ThetaData/GalCompletion.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T11:18:11.988Z",
+    "collisions": [
+      "Iut.completionMap",
+      "Iut.algebraMap_ringOfIntegers_injective"
+    ]
+  },
+  "Iut/Cor312/ThetaData/TateFamily.lean": {
+    "checkedAt": "2026-11-11T12:24:55.558Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/ThetaData/UltrametricSqrt.lean": {
+    "checkedAt": "2026-11-11T12:24:55.844Z",
+    "collisions": [
+      "Iut.babylonianSqrt"
+    ]
+  },
+  "Iut/Torsion/Count.lean": {
+    "checkedAt": "2026-11-11T12:24:59.706Z",
+    "collisions": [
+      "Iut.Torsion.Ψ₂Sq_eval",
+      "Iut.Torsion.eds",
+      "Iut.Torsion.Ident.four_ne_zero'",
+      "Iut.Torsion.fibrePoly"
+    ]
+  },
+  "Iut/Tower/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T12:25:31.963Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Tower/InertiaBound.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T12:46:44.054Z",
+    "collisions": [
+      "Iut.algebraMap_ringOfIntegers_injective",
+      "Iut.Anabelian.vcX",
+      "Iut.Tripod.legendre"
+    ]
+  },
+  "Iut/Tower/WildBound.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T12:50:37.706Z"
+  },
+  "Iut/Tripod/CyclicBound.lean": {
+    "checkedAt": "2026-11-11T13:03:37.182Z",
+    "collisions": [
+      "Iut.ChebyshevBound"
+    ]
+  },
+  "Iut/Tripod/Galois.lean": {
+    "checkedAt": "2026-11-11T13:36:45.840Z",
+    "collisions": [
+      "Iut.Tripod.legendre"
+    ]
+  },
+  "Iut/Tripod/Height.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T14:34:14.326Z",
+    "collisions": [
+      "Iut.Place",
+      "Iut.Tripod.legendre"
+    ]
+  },
+  "Iut/Anabelian/Linear.lean": {
+    "checkedAt": "2026-11-11T10:07:11.285Z",
+    "collisions": [
+      "Iut.Anabelian.mulVecHom"
+    ]
+  },
+  "Iut/Concrete/CurveArithmeticProved.lean": {
+    "checkedAt": "2026-11-11T10:07:17.241Z",
+    "collisions": [
+      "Iut.Place",
+      "Iut.HasGoodReductionAt"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/Arithmetic.lean": {
+    "checkedAt": "2026-11-11T10:11:11.422Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/Haar.lean": {
+    "checkedAt": "2026-11-11T10:11:44.205Z",
+    "collisions": [
+      "Iut.LocalConstruct.padic_natCast_ne_zero",
+      "Iut.LocalConstruct.mulPadic"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/LogShell.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T10:17:20.590Z",
+    "collisions": [
+      "Iut.norm_natCast_eq_one_of_not_dvd",
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/Packet.lean": {
+    "checkedAt": "2026-11-11T11:02:06.947Z",
+    "collisions": [
+      "Iut.Place",
+      "Iut.RationalPlace"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/Prop14.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T11:23:11.870Z"
+  },
+  "Iut/Concrete/ModEllRepConstruct.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T11:23:16.211Z"
+  },
+  "Iut/Concrete/ThetaLocalConstruct/TateCompat.lean": {
+    "checkedAt": "2026-11-11T12:27:31.566Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/ContainerHull.lean": {
+    "checkedAt": "2026-11-11T12:28:23.761Z",
+    "collisions": [
+      "Iut.DirectSumPresentation"
+    ]
+  },
+  "Iut/Cor312/LogVolume.lean": {
+    "checkedAt": "2026-11-11T12:28:27.112Z",
+    "collisions": [
+      "Iut.DirectSumPresentation",
+      "Iut.procLabels"
+    ]
+  },
+  "Iut/Cor312/ThetaData/QuadraticExtension.lean": {
+    "checkedAt": "2026-11-11T12:28:32.038Z",
+    "collisions": [
+      "Iut.sqrtPoly"
+    ]
+  },
+  "Iut/Cor312/ThetaData/ReductionNorm.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T12:30:20.611Z"
+  },
+  "Iut/Cor312/ThetaData/TateSign.lean": {
+    "checkedAt": "2026-11-11T12:38:28.915Z",
+    "collisions": [
+      "Iut.Anabelian.vcX",
+      "Iut.Anabelian.pointMap",
+      "Iut.babylonianSqrt"
+    ]
+  },
+  "Iut/Implication/ChebyshevExplicit.lean": {
+    "checkedAt": "2026-11-11T12:54:26.544Z",
+    "collisions": [
+      "Iut.ChebyshevBound"
+    ]
+  },
+  "Iut/Implication/Corollary22.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T13:03:12.574Z"
+  },
+  "Iut/Implication/PrimeSelection.lean": {
+    "checkedAt": "2026-11-11T13:07:55.929Z",
+    "collisions": [
+      "Iut.ChebyshevBound"
+    ]
+  },
+  "Iut/Torsion/EDS.lean": {
+    "checkedAt": "2026-11-11T13:07:59.179Z",
+    "collisions": [
+      "Iut.Torsion.eds",
+      "Iut.Torsion.Ident.four_ne_zero'"
+    ]
+  },
+  "Iut/Tower/MultiplicativeKernel.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T13:12:02.879Z",
+    "collisions": [
+      "Iut.ReductionKernel.valuation_natCast_le_one"
+    ]
+  },
+  "Iut/Tower/RamIdx.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T13:32:16.018Z"
+  },
+  "Iut/Tower/Residual.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T13:32:17.690Z"
+  },
+  "Iut/Tower/SerreBound.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T13:59:55.856Z",
+    "collisions": [
+      "Iut.repr_mem_of_mem_map"
+    ]
+  },
+  "Iut/Tower/TorsionRigid.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T14:01:18.654Z",
+    "collisions": [
+      "Iut.ReductionKernel.valuation_natCast_le_one",
+      "Iut.Place"
+    ]
+  },
+  "Iut/Anabelian/Genuine/Cover.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T10:05:58.226Z",
+    "collisions": [
+      "Iut.Anabelian.Genuine.Ω",
+      "Iut.Anabelian.pointMap"
+    ]
+  },
+  "Iut/Anabelian/Genuine/Homs.lean": {
+    "checkedAt": "2026-11-11T10:09:07.392Z",
+    "collisions": [
+      "Iut.Anabelian.pointMap",
+      "Iut.Anabelian.Genuine.Ω"
+    ]
+  },
+  "Iut/Anabelian/Model.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T10:32:12.289Z",
+    "collisions": [
+      "Iut.Anabelian.pointMap"
+    ]
+  },
+  "Iut/Concrete/Container.lean": {
+    "checkedAt": "2026-11-11T10:32:20.542Z",
+    "collisions": [
+      "Iut.Place",
+      "Iut.RationalPlace",
+      "Iut.DirectSumPresentation"
+    ]
+  },
+  "Iut/Concrete/Invariants.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T10:35:41.866Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/Volume.lean": {
+    "checkedAt": "2026-11-11T11:04:00.824Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/LocalEstimate.lean": {
+    "checkedAt": "2026-11-11T11:37:31.509Z",
+    "collisions": [
+      "Iut.procLabels",
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/PacketPresentation.lean": {
+    "checkedAt": "2026-11-11T12:14:00.016Z",
+    "collisions": [
+      "Iut.DirectSumPresentation"
+    ]
+  },
+  "Iut/Cor312/ThetaData/LocalConditions.lean": {
+    "checkedAt": "2026-11-11T12:14:06.985Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/ThetaData/Orbicurve.lean": {
+    "checkedAt": "2026-11-11T12:14:11.975Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/ThetaData/PlaceUnder.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T12:14:13.353Z",
+    "collisions": [
+      "Iut.Place",
+      "Iut.HasGoodReductionAt"
+    ]
+  },
+  "Iut/Cor312/ThetaData/TateFamilyOfTorsion.lean": {
+    "checkedAt": "2026-11-11T12:24:21.011Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/ThetaData/TateStructure.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T12:24:43.256Z"
+  },
+  "Iut/Cor312/ThetaData/TateStructureOfIso.lean": {
+    "checkedAt": "2026-11-11T12:24:52.803Z",
+    "collisions": [
+      "Iut.Anabelian.vcX"
+    ]
+  },
+  "Iut/Implication/Invariants.lean": {
+    "checkedAt": "2026-11-11T12:25:14.811Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Torsion/Identities.lean": {
+    "checkedAt": "2026-11-11T12:28:31.254Z",
+    "collisions": [
+      "Iut.Torsion.Ident.four_ne_zero'",
+      "Iut.Torsion.Ident.eight_ne_zero'",
+      "Iut.Torsion.Ident.c32_ne_zero'",
+      "Iut.Torsion.Ident.c128_ne_zero'",
+      "Iut.Torsion.Ident.Ψ₃v"
+    ]
+  },
+  "Iut/Tower/Different.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T12:40:34.060Z"
+  },
+  "Iut/Tower/DifferentBound.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T12:40:37.713Z"
+  },
+  "Iut/Tower/StepIII.lean": {
+    "checkedAt": "2026-11-11T12:40:43.613Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Tripod/CurveOf.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T13:16:36.256Z"
+  },
+  "Iut/Tripod/CyclicGain.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T13:16:39.534Z"
+  },
+  "Iut/Tripod/CyclicPoints.lean": {
+    "checkedAt": "2026-11-11T13:16:58.069Z",
+    "collisions": [
+      "Iut.Tripod.legendre"
+    ]
+  },
+  "Iut/Tripod/TorsionDegree.lean": {
+    "checkedAt": "2026-11-11T13:17:09.361Z",
+    "collisions": [
+      "Iut.Tripod.legendre"
+    ]
+  },
+  "Iut/Tripod/TpdInertia.lean": {
+    "checkedAt": "2026-11-11T13:48:01.236Z",
+    "collisions": [
+      "Iut.signHom"
+    ]
+  },
+  "Iut/Tripod/TwoTorsion.lean": {
+    "checkedAt": "2026-11-11T13:48:02.768Z",
+    "collisions": [
+      "Iut.Tripod.legendre"
+    ]
+  }
+}
