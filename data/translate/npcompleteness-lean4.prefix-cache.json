@@ -673,5 +673,56 @@
     "collisions": [
       "Complexity.SAT.Assignment"
     ]
+  },
+  "Complexity/StackThreeSAT.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T09:03:03.912Z"
+  },
+  "Complexity/StackSimulation.lean": {
+    "checkedAt": "2026-11-11T09:03:09.015Z",
+    "collisions": [
+      "Complexity.Tape"
+    ]
+  },
+  "Complexity/StackTableauBodyBounds.lean": {
+    "checkedAt": "2026-11-11T09:07:19.522Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackTableauBounds.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T09:09:59.060Z"
+  },
+  "Complexity/StackThreeSATMachine.lean": {
+    "checkedAt": "2026-11-11T09:10:08.500Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Examples/Sanity.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T09:12:03.559Z"
+  },
+  "Complexity/StackThreeSATReduction.lean": {
+    "checkedAt": "2026-11-11T09:04:53.766Z",
+    "collisions": [
+      "Complexity.Tape",
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Complexity/StackWords.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T09:07:53.154Z"
+  },
+  "Complexity/TransitionEmitter.lean": {
+    "checkedAt": "2026-11-11T09:08:18.219Z",
+    "collisions": [
+      "Complexity.SAT.Assignment"
+    ]
+  },
+  "Examples/Downstream.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T09:08:26.969Z"
   }
 }
