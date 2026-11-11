@@ -666,5 +666,270 @@
     "collisions": [
       "Iut.Tripod.legendre"
     ]
+  },
+  "Iut/Tripod/CyclicIsogeny.lean": {
+    "checkedAt": "2026-11-11T15:49:03.637Z",
+    "collisions": [
+      "Iut.Place",
+      "Iut.algebraMap_ringOfIntegers_injective",
+      "Iut.Tripod.legendre"
+    ]
+  },
+  "Iut/Tripod/CyclicTate.lean": {
+    "checkedAt": "2026-11-11T16:10:48.963Z",
+    "collisions": [
+      "Iut.Anabelian.pointMap"
+    ]
+  },
+  "Iut/Tripod/CyclicTorsion.lean": {
+    "checkedAt": "2026-11-11T16:11:52.754Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Tripod/GeneralPosition.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T16:14:15.917Z"
+  },
+  "Iut/Tripod/StableTwo.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T16:20:14.302Z"
+  },
+  "Iut/Tripod/WildRamIdx.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T17:19:40.627Z"
+  },
+  "Iut4Sec1/Combinatorics/WeightedAverage.lean": {
+    "checkedAt": "2026-11-11T17:19:46.738Z",
+    "collisions": [
+      "Iut4Sec1.tupleWeight"
+    ]
+  },
+  "Iut4Sec1/Global/ArithmeticDivisor.lean": {
+    "checkedAt": "2026-11-11T17:19:55.741Z",
+    "collisions": [
+      "Iut4Sec1.ArithmeticPlace"
+    ]
+  },
+  "Iut4Sec1/Global/Pullback.lean": {
+    "checkedAt": "2026-11-11T17:20:01.323Z",
+    "collisions": [
+      "Iut4Sec1.ArithmeticPlace"
+    ]
+  },
+  "Iut/Tripod/SL2Generation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T15:59:12.147Z"
+  },
+  "Iut/Tripod/TpdGalois.lean": {
+    "checkedAt": "2026-11-11T15:59:27.483Z",
+    "collisions": [
+      "Iut.HasGoodReductionAt",
+      "Iut.Tripod.legendre"
+    ]
+  },
+  "Iut/Tripod/TwoAdic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T16:12:32.104Z",
+    "collisions": [
+      "Iut.Place",
+      "Iut.Tripod.legendre"
+    ]
+  },
+  "Iut/Tripod/CurveFacts.lean": {
+    "checkedAt": "2026-11-11T15:47:55.244Z",
+    "collisions": [
+      "Iut.algebraMap_ringOfIntegers_injective",
+      "Iut.Tripod.legendre",
+      "Iut.Place"
+    ]
+  },
+  "Iut/Tripod/CyclicLocal.lean": {
+    "checkedAt": "2026-11-11T15:52:21.198Z",
+    "collisions": [
+      "Iut.Anabelian.pointMap",
+      "Iut.Place",
+      "Iut.algebraMap_ringOfIntegers_injective"
+    ]
+  },
+  "Iut/Tripod/Legendre.lean": {
+    "checkedAt": "2026-11-11T16:04:15.230Z",
+    "collisions": [
+      "Iut.Tripod.legendre"
+    ]
+  },
+  "Iut/Tripod/LogCond.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T16:04:37.364Z"
+  },
+  "Iut/Tripod/StableOdd.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T16:09:54.114Z",
+    "collisions": [
+      "Iut.HasGoodReductionAt",
+      "Iut.Place",
+      "Iut.Tripod.legendre"
+    ]
+  },
+  "Iut/Tripod/TorsionBasis.lean": {
+    "checkedAt": "2026-11-11T16:18:02.145Z",
+    "collisions": [
+      "Iut.Torsion.Ident.four_ne_zero'"
+    ]
+  },
+  "Iut/Anabelian/Existence.lean": {
+    "checkedAt": "2026-11-11T15:50:12.327Z",
+    "collisions": [
+      "Iut.Place",
+      "Iut.Anabelian.pointMap"
+    ]
+  },
+  "Iut/Anabelian/Genuine/Basic.lean": {
+    "checkedAt": "2026-11-11T15:59:02.846Z",
+    "collisions": [
+      "Iut.Anabelian.Genuine.Ω",
+      "Iut.Anabelian.pointMap"
+    ]
+  },
+  "Iut/Anabelian/Genuine/Realize.lean": {
+    "checkedAt": "2026-11-11T15:59:52.563Z",
+    "collisions": [
+      "Iut.Anabelian.Genuine.Ω",
+      "Iut.Anabelian.pointMap"
+    ]
+  },
+  "Iut/Concrete/Existence.lean": {
+    "checkedAt": "2026-11-11T16:00:56.932Z",
+    "collisions": [
+      "Iut.Place",
+      "Iut.HasGoodReductionAt",
+      "Iut.ChebyshevBound"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/ResidueField.lean": {
+    "checkedAt": "2026-11-11T16:05:56.686Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/LocalConstruct/ThetaAdmissible.lean": {
+    "checkedAt": "2026-11-11T16:09:05.232Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/ThetaLocalConstruct/Ordp.lean": {
+    "checkedAt": "2026-11-11T16:10:42.912Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Concrete/ThetaLocalConstruct/Roots.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T16:17:23.308Z"
+  },
+  "Iut/Concrete/ThetaRegion.lean": {
+    "checkedAt": "2026-11-11T16:17:39.510Z",
+    "collisions": [
+      "Iut.RationalPlace",
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/Container.lean": {
+    "checkedAt": "2026-11-11T16:18:24.894Z",
+    "collisions": [
+      "Iut.DirectSumPresentation"
+    ]
+  },
+  "Iut/Cor312/HolomorphicHull.lean": {
+    "checkedAt": "2026-11-11T16:18:25.932Z",
+    "collisions": [
+      "Iut.DirectSumPresentation"
+    ]
+  },
+  "Iut/Cor312/LeftHandSide.lean": {
+    "checkedAt": "2026-11-11T16:18:40.787Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/Procession.lean": {
+    "checkedAt": "2026-11-11T16:18:41.064Z",
+    "collisions": [
+      "Iut.procLabels"
+    ]
+  },
+  "Iut/Cor312/ThetaData/AdmissiblePrime.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T16:18:44.127Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/ThetaData/BadPlaceNorm.lean": {
+    "checkedAt": "2026-11-11T16:18:45.991Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut/Cor312/ThetaData/PlacesOver.lean": {
+    "checkedAt": "2026-11-11T16:27:38.530Z",
+    "collisions": [
+      "Iut.algebraMap_ringOfIntegers_injective",
+      "Iut.Place",
+      "Iut.numberField_isAlgebraic"
+    ]
+  },
+  "Iut/Cor312/ThetaData/ValuationTransfer.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T16:27:51.517Z"
+  },
+  "Iut/Cor312/ThetaData/VariableChangePoint.lean": {
+    "checkedAt": "2026-11-11T16:27:52.228Z",
+    "collisions": [
+      "Iut.Anabelian.vcX"
+    ]
+  },
+  "Iut/Implication/Theorem110.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T17:14:17.821Z"
+  },
+  "Iut/Tower/SerreCore.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T17:14:20.046Z"
+  },
+  "Iut/Tripod/ClassicalAbc.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T17:14:25.640Z"
+  },
+  "Iut/Tripod/Core.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T17:14:31.293Z"
+  },
+  "Iut/Tripod/Northcott.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T17:14:34.362Z"
+  },
+  "Iut/Tripod/TorsionNewton.lean": {
+    "checkedAt": "2026-11-11T17:31:08.987Z",
+    "collisions": [
+      "Iut.TorsionNewton.apply_sum_le",
+      "Iut.TorsionNewton.integers",
+      "Iut.Torsion.Ident.four_ne_zero'"
+    ]
+  },
+  "Iut/Tripod/TpdRamIdx.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T17:31:24.016Z",
+    "collisions": [
+      "Iut.Place"
+    ]
+  },
+  "Iut4Sec1/LocalField/Basic.lean": {
+    "checkedAt": "2026-11-11T18:12:25.427Z",
+    "collisions": [
+      "Iut4Sec1.nonarchimedeanLogError",
+      "Iut4Sec1.spectralValuation"
+    ]
   }
 }
