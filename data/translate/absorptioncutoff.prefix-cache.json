@@ -1,0 +1,516 @@
+{
+  "AbsorptionCutoff/AbsorptionTime.lean": {
+    "checkedAt": "2026-11-11T11:06:50.870Z",
+    "collisions": [
+      "AbsorptionCutoff.absorptionTime"
+    ]
+  },
+  "AbsorptionCutoff/FixedPrecision.lean": {
+    "checkedAt": "2026-11-11T11:06:54.016Z",
+    "collisions": [
+      "AbsorptionCutoff.gaussianUpperTail",
+      "AbsorptionCutoff.Q₁",
+      "AbsorptionCutoff.latticeProfile"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthAbsorptionEntranceTransfer.lean": {
+    "checkedAt": "2026-11-11T11:09:22.208Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.Q₁",
+      "AbsorptionCutoff.gaussianSquaredNorm",
+      "AbsorptionCutoff.gaussianVec"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthCouplingRadial.lean": {
+    "checkedAt": "2026-11-11T11:16:15.545Z",
+    "collisions": [
+      "AbsorptionCutoff.map_finsetSum_gaussianReal"
+    ]
+  },
+  "AbsorptionCutoff/GaussianSum.lean": {
+    "checkedAt": "2026-11-11T11:16:27.871Z",
+    "collisions": [
+      "AbsorptionCutoff.map_finsetSum_gaussianReal"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/CutoffAssembly.lean": {
+    "checkedAt": "2026-11-11T11:16:28.557Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.supercriticalCutoffTime"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/RenewalSinc.lean": {
+    "checkedAt": "2026-11-11T11:16:58.710Z",
+    "collisions": [
+      "AbsorptionCutoff.Renewal.fourier_comp_mul_left"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/ScalarCutoff.lean": {
+    "checkedAt": "2026-11-11T11:21:06.875Z",
+    "collisions": [
+      "AbsorptionCutoff.tvDist",
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.exists_eventually_shifted_eval_terminalBlockLength_not_mem_terminalInterval_le_of_tendsto",
+      "AbsorptionCutoff.supercriticalCutoffTime"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/ScalarCutoffAssembly.lean": {
+    "checkedAt": "2026-11-11T11:21:30.620Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.tvDist"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/TerminalCutoff.lean": {
+    "checkedAt": "2026-11-11T11:22:59.811Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/AffineEntrance.lean": {
+    "checkedAt": "2026-11-11T11:03:46.480Z",
+    "collisions": [
+      "AbsorptionCutoff.affineRecursion"
+    ]
+  },
+  "AbsorptionCutoff/Estimates.lean": {
+    "checkedAt": "2026-11-11T11:03:56.411Z",
+    "collisions": [
+      "AbsorptionCutoff.integrableOn_rpow_and_setIntegral_rpow_le",
+      "AbsorptionCutoff.exists_eps_delta_of_one_lt_mul",
+      "AbsorptionCutoff.geom_recursion_bound",
+      "AbsorptionCutoff.geom_recursion_bound_contraction",
+      "AbsorptionCutoff.geom_recursion_bound_contraction_of_lt",
+      "AbsorptionCutoff.geom_recursion_bound_contraction_pow_of_lt",
+      "AbsorptionCutoff.eventually_nat_mul_exp_neg_le_inv_nat",
+      "AbsorptionCutoff.backWeight"
+    ]
+  },
+  "AbsorptionCutoff/FirstPassageCLT.lean": {
+    "checkedAt": "2026-11-11T11:04:02.927Z",
+    "collisions": [
+      "AbsorptionCutoff.partialSum"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthAbsorptionEntranceAssembly.lean": {
+    "checkedAt": "2026-11-11T11:05:22.835Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.Q₁",
+      "AbsorptionCutoff.affineRecursion"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthCouplingSubproducts.lean": {
+    "checkedAt": "2026-11-11T11:09:08.996Z",
+    "collisions": [
+      "AbsorptionCutoff.map_finsetSum_gaussianReal",
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/CutoffProfileAssembly.lean": {
+    "checkedAt": "2026-11-11T11:09:43.122Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/InvariantLaw.lean": {
+    "checkedAt": "2026-11-11T11:10:25.428Z",
+    "collisions": [
+      "AbsorptionCutoff.gaussianOneCoordinateDensityFormula",
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.gaussianVec",
+      "AbsorptionCutoff.invariant_pow"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/InvariantSelection.lean": {
+    "checkedAt": "2026-11-11T11:11:07.309Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.inverseMomentTruncation",
+      "AbsorptionCutoff.truncatedGaussianSquare",
+      "AbsorptionCutoff.invariant_pow"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/PowerSingularity.lean": {
+    "checkedAt": "2026-11-11T11:12:53.723Z",
+    "collisions": [
+      "AbsorptionCutoff.gaussianSquaredNorm"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/RenewalEquation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T11:14:11.723Z"
+  },
+  "AbsorptionCutoff/Supercritical/StationaryEquation.lean": {
+    "checkedAt": "2026-11-11T11:14:20.592Z",
+    "collisions": [
+      "AbsorptionCutoff.gaussianVec",
+      "AbsorptionCutoff.gaussianSquaredNorm",
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/TerminalEntrance.lean": {
+    "checkedAt": "2026-11-11T11:35:48.785Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.integrableOn_rpow_and_setIntegral_rpow_le"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/TerminalEntranceAssembly.lean": {
+    "checkedAt": "2026-11-11T11:36:07.466Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/Chains.lean": {
+    "checkedAt": "2026-11-11T11:06:12.840Z",
+    "collisions": [
+      "AbsorptionCutoff.gaussianVec",
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.Q₁",
+      "AbsorptionCutoff.tvDist"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidth.lean": {
+    "checkedAt": "2026-11-11T11:06:49.264Z",
+    "collisions": [
+      "AbsorptionCutoff.gaussianVec",
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.gaussianSquaredNorm"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthAbsorptionEntranceBounds.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T11:29:09.484Z",
+    "collisions": [
+      "AbsorptionCutoff.gaussianVec",
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthAbsorptionRegenerationAssembly.lean": {
+    "checkedAt": "2026-11-11T11:35:07.529Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthAbsorptionRegenerationFinal.lean": {
+    "checkedAt": "2026-11-11T12:44:14.322Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/Cutoff.lean": {
+    "checkedAt": "2026-11-11T11:08:16.209Z",
+    "collisions": [
+      "AbsorptionCutoff.tvDist"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthCouplingIID.lean": {
+    "checkedAt": "2026-11-11T11:09:05.707Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.Q₁"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthCouplingProductBounds.lean": {
+    "checkedAt": "2026-11-11T11:10:49.998Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.Q₁"
+    ]
+  },
+  "AbsorptionCutoff/MarkovTrajectory.lean": {
+    "checkedAt": "2026-11-11T11:21:12.927Z",
+    "collisions": [
+      "AbsorptionCutoff.markovHistoryKernel"
+    ]
+  },
+  "AbsorptionCutoff/MeanMap/Derivative.lean": {
+    "checkedAt": "2026-11-11T11:21:15.820Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/RadiusConcentration.lean": {
+    "checkedAt": "2026-11-11T11:21:19.727Z",
+    "collisions": [
+      "AbsorptionCutoff.Q₁",
+      "AbsorptionCutoff.fixedPrecisionScale",
+      "AbsorptionCutoff.roundedCoordinateObservable",
+      "AbsorptionCutoff.killed_step_pointwise",
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.markovHistoryKernel",
+      "AbsorptionCutoff.gaussianUpperTail",
+      "AbsorptionCutoff.integrableOn_rpow_and_setIntegral_rpow_le"
+    ]
+  },
+  "AbsorptionCutoff/StoppedMoment.lean": {
+    "checkedAt": "2026-11-11T11:24:06.273Z",
+    "collisions": [
+      "AbsorptionCutoff.killed_step_pointwise",
+      "AbsorptionCutoff.condExp_add_sq_le",
+      "AbsorptionCutoff.killedMoment",
+      "AbsorptionCutoff.integrableOn_rpow_and_setIntegral_rpow_le"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/CutoffLimitAssembly.lean": {
+    "checkedAt": "2026-11-11T11:24:14.584Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.radiusSq"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/LogPolar.lean": {
+    "checkedAt": "2026-11-11T11:27:26.234Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.gaussianSquaredNorm",
+      "AbsorptionCutoff.radiusSq",
+      "AbsorptionCutoff.map_finsetSum_gaussianReal"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/PowerSingularityRenewal.lean": {
+    "checkedAt": "2026-11-11T11:34:09.168Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.gaussianSquaredNorm",
+      "AbsorptionCutoff.gaussianVec"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/RenewalApprox.lean": {
+    "checkedAt": "2026-11-11T12:24:27.183Z",
+    "collisions": [
+      "AbsorptionCutoff.Renewal.fourier_comp_mul_left"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/StationaryRenewal.lean": {
+    "checkedAt": "2026-11-11T12:33:44.739Z",
+    "collisions": [
+      "AbsorptionCutoff.gaussianVec",
+      "AbsorptionCutoff.Renewal.fourier_comp_mul_left"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/SynchronousCutoff.lean": {
+    "checkedAt": "2026-11-11T12:37:21.283Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.markovHistoryKernel",
+      "AbsorptionCutoff.integrableOn_rpow_and_setIntegral_rpow_le",
+      "AbsorptionCutoff.markovPathMeasure_measureReal_eval_not_mem_stableInterval_prod_le_add_of_measure"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/TerminalContraction.lean": {
+    "checkedAt": "2026-11-11T12:38:23.876Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.markovPathMeasure_measureReal_eval_not_mem_stableInterval_prod_le_add",
+      "AbsorptionCutoff.markovHistoryKernel",
+      "AbsorptionCutoff.supercriticalCutoffTime"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthAbsorptionRegeneration.lean": {
+    "checkedAt": "2026-11-11T11:06:03.008Z",
+    "collisions": [
+      "AbsorptionCutoff.Q₁",
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.radiusSq"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthCorrection.lean": {
+    "checkedAt": "2026-11-11T11:13:56.475Z",
+    "collisions": [
+      "AbsorptionCutoff.partialSum",
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthCouplingAccumulation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T11:24:25.011Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthCouplingBounds.lean": {
+    "checkedAt": "2026-11-11T11:25:41.584Z",
+    "collisions": [
+      "AbsorptionCutoff.gaussianVec",
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthCouplingMoments.lean": {
+    "checkedAt": "2026-11-11T11:28:44.694Z",
+    "collisions": [
+      "AbsorptionCutoff.gaussianVec",
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/InvariantSelection.lean": {
+    "checkedAt": "2026-11-11T11:29:37.932Z",
+    "collisions": [
+      "AbsorptionCutoff.tvDist",
+      "AbsorptionCutoff.cesaroMeasure",
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/MeanMap/Dynamics.lean": {
+    "checkedAt": "2026-11-11T11:29:57.565Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.integral_sq_gaussian"
+    ]
+  },
+  "AbsorptionCutoff/Metastability.lean": {
+    "checkedAt": "2026-11-11T11:30:06.349Z",
+    "collisions": [
+      "AbsorptionCutoff.Q₁",
+      "AbsorptionCutoff.roundedProfile",
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.markovHistoryKernel"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/CutoffDynamics.lean": {
+    "checkedAt": "2026-11-11T11:35:09.635Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.markovHistoryKernel",
+      "AbsorptionCutoff.synchronousFmap",
+      "AbsorptionCutoff.integrableOn_rpow_and_setIntegral_rpow_le"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/NonlinearForcingAdmissibility.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T11:42:13.035Z"
+  },
+  "AbsorptionCutoff/Supercritical/NonlinearForcingAdmissibilityAssembly.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-11T11:42:23.458Z"
+  },
+  "AbsorptionCutoff/Supercritical/PolarPerturbationIntegral.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T11:42:25.901Z",
+    "collisions": [
+      "AbsorptionCutoff.latticeProfile",
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.tvDist"
+    ]
+  },
+  "AbsorptionCutoff/DimensionCutoff.lean": {
+    "checkedAt": "2026-11-11T11:05:15.490Z",
+    "collisions": [
+      "AbsorptionCutoff.Q₁",
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.fixedPrecisionScale",
+      "AbsorptionCutoff.gaussianUpperTail"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthAbsorption.lean": {
+    "checkedAt": "2026-11-11T11:06:50.186Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.Q₁",
+      "AbsorptionCutoff.radiusSq"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthAbsorptionEntrance.lean": {
+    "checkedAt": "2026-11-11T11:13:21.365Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthCoupling.lean": {
+    "checkedAt": "2026-11-11T11:17:11.679Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.Q₁",
+      "AbsorptionCutoff.gaussianSquaredNorm"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthCouplingDecay.lean": {
+    "checkedAt": "2026-11-11T11:22:59.392Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/FixedWidthCouplingLaw.lean": {
+    "checkedAt": "2026-11-11T11:23:51.171Z",
+    "collisions": [
+      "AbsorptionCutoff.radiusSq",
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/KernelIrreducible.lean": {
+    "checkedAt": "2026-11-11T11:24:13.543Z",
+    "collisions": [
+      "AbsorptionCutoff.invariant_pow"
+    ]
+  },
+  "AbsorptionCutoff/LaplaceMoments.lean": {
+    "checkedAt": "2026-11-11T11:24:14.383Z",
+    "collisions": [
+      "AbsorptionCutoff.integrable_neg_rpow_and_integral_le_of_laplace_le",
+      "AbsorptionCutoff.exp_neg_add_one_mul_self_rpow_le_Gamma_add_one"
+    ]
+  },
+  "AbsorptionCutoff/RoundedVectorReduction.lean": {
+    "checkedAt": "2026-11-11T11:24:15.234Z",
+    "collisions": [
+      "AbsorptionCutoff.Q₁",
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.roundedStateSpace",
+      "AbsorptionCutoff.radiusSq"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/Deterministic.lean": {
+    "checkedAt": "2026-11-11T11:25:01.050Z",
+    "collisions": [
+      "AbsorptionCutoff.tanh_div_self_nonneg",
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.d2V"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/GaussianRadial.lean": {
+    "checkedAt": "2026-11-11T11:25:14.702Z",
+    "collisions": [
+      "AbsorptionCutoff.gaussianSquaredNorm",
+      "AbsorptionCutoff.gaussianVec",
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/NonlinearForcing.lean": {
+    "checkedAt": "2026-11-11T11:27:11.156Z",
+    "collisions": [
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.gaussianSquaredNorm",
+      "AbsorptionCutoff.radiusSq",
+      "AbsorptionCutoff.tvDist",
+      "AbsorptionCutoff.map_finsetSum_gaussianReal"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/Renewal.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T11:45:39.958Z"
+  },
+  "AbsorptionCutoff/Supercritical/RenewalAbel.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-11T12:29:23.260Z"
+  },
+  "AbsorptionCutoff/Supercritical/ScoreSmoothing.lean": {
+    "checkedAt": "2026-11-11T13:16:09.431Z",
+    "collisions": [
+      "AbsorptionCutoff.gaussianOneCoordinateDensityFormula",
+      "AbsorptionCutoff.no_two_fixed"
+    ]
+  },
+  "AbsorptionCutoff/Supercritical/TruncatedCramer.lean": {
+    "checkedAt": "2026-11-11T13:16:12.263Z",
+    "collisions": [
+      "AbsorptionCutoff.truncatedGaussianSquare",
+      "AbsorptionCutoff.gaussianVec",
+      "AbsorptionCutoff.no_two_fixed",
+      "AbsorptionCutoff.integrableOn_rpow_and_setIntegral_rpow_le",
+      "AbsorptionCutoff.gaussianSquaredNorm"
+    ]
+  }
+}
