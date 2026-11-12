@@ -1,0 +1,580 @@
+{
+  "HodgePilot/AbelianInstance.lean": {
+    "checkedAt": "2026-11-12T04:57:34.376Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/AcyclicClassC.lean": {
+    "checkedAt": "2026-11-12T05:02:32.032Z",
+    "collisions": [
+      "HodgePilot.AcyclicClassC.subsingleton_ext_one_of_liftable",
+      "HodgePilot.AcyclicClassC.subsingleton_ext_succ_of_shortExact",
+      "HodgePilot.AcyclicClassC.IsSectionsSurjectiveKernel",
+      "HodgePilot.AcyclicDescent.Decomp",
+      "HodgePilot.Betti.bettiSheafQ"
+    ]
+  },
+  "HodgePilot/BettiQModule.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T05:09:19.668Z",
+    "collisions": [
+      "HodgePilot.Betti.bettiSheafQ"
+    ]
+  },
+  "HodgePilot/CochainAcyclic.lean": {
+    "checkedAt": "2026-11-12T05:18:04.921Z",
+    "collisions": [
+      "HodgePilot.AcyclicClassC.subsingleton_ext_one_of_liftable",
+      "HodgePilot.SingularCohomology.QMod",
+      "HodgePilot.FlasqueEmbed.godementPresheaf",
+      "HodgePilot.CochainAcyclic.FlasqueOrCochain",
+      "HodgePilot.Analytic.CPoints"
+    ]
+  },
+  "HodgePilot/CoeffAnchors.lean": {
+    "checkedAt": "2026-11-12T05:35:18.034Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/CoeffGroupScheme.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T06:37:05.401Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/DeRhamExterior.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T07:16:21.582Z"
+  },
+  "HodgePilot/FullNonvanishing.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T07:16:40.643Z"
+  },
+  "HodgePilot/Betti.lean": {
+    "checkedAt": "2026-11-12T04:55:46.128Z",
+    "collisions": [
+      "HodgePilot.Betti.bettiSheafQ"
+    ]
+  },
+  "HodgePilot/Coherence.lean": {
+    "checkedAt": "2026-11-12T05:03:08.421Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/ComodEquiv.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T05:10:07.981Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/CycleClassOne.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T09:44:08.870Z"
+  },
+  "HodgePilot/DLog.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T09:44:49.067Z"
+  },
+  "HodgePilot/DeRhamLocalize.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T09:44:57.365Z"
+  },
+  "HodgePilot/ExclusionDegree.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T09:45:02.683Z"
+  },
+  "HodgePilot/FlasqueEmbed.lean": {
+    "checkedAt": "2026-11-12T09:49:31.035Z",
+    "collisions": [
+      "HodgePilot.FlasqueEmbed.godementPresheaf"
+    ]
+  },
+  "HodgePilot/GradedEdgeProof.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T09:49:35.071Z"
+  },
+  "HodgePilot/GradedFin.lean": {
+    "checkedAt": "2026-11-12T09:49:37.721Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/Analytic.lean": {
+    "checkedAt": "2026-11-12T04:55:25.296Z",
+    "collisions": [
+      "HodgePilot.Analytic.CPoints"
+    ]
+  },
+  "HodgePilot/AnalyticFormsCharts.lean": {
+    "checkedAt": "2026-11-12T04:56:42.028Z",
+    "collisions": [
+      "HodgePilot.Analytic.CPoints",
+      "HodgePilot.holomorphicSheaf"
+    ]
+  },
+  "HodgePilot/CPointsMetrizable.lean": {
+    "checkedAt": "2026-11-12T05:08:58.929Z",
+    "collisions": [
+      "HodgePilot.Analytic.CPoints"
+    ]
+  },
+  "HodgePilot/CycSpliceIterate.lean": {
+    "checkedAt": "2026-11-12T05:08:59.363Z",
+    "collisions": [
+      "HodgePilot.ExtSplice.pbSES",
+      "HodgePilot.CycSplitEngine.monoidalPreadditive_functorCategory"
+    ]
+  },
+  "HodgePilot/CycSplitEngine.lean": {
+    "checkedAt": "2026-11-12T06:20:09.387Z",
+    "collisions": [
+      "HodgePilot.CycSplitEngine.monoidalPreadditive_functorCategory",
+      "HodgePilot.ExtSplice.pbSES"
+    ]
+  },
+  "HodgePilot/DeRhamSpaceAgree.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T06:20:14.826Z"
+  },
+  "HodgePilot/DeRhamWedge.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T06:20:32.258Z"
+  },
+  "HodgePilot/DiscResolution.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T06:20:48.367Z"
+  },
+  "HodgePilot/ExclusionStaircase.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T06:22:16.850Z"
+  },
+  "HodgePilot/ExtSplice.lean": {
+    "checkedAt": "2026-11-12T06:22:17.943Z",
+    "collisions": [
+      "HodgePilot.ExtSplice.pbSES"
+    ]
+  },
+  "HodgePilot/HodgeFlagProper.lean": {
+    "checkedAt": "2026-11-12T06:24:11.277Z",
+    "collisions": [
+      "HodgePilot.Analytic.CPoints",
+      "HodgePilot.holomorphicSheaf"
+    ]
+  },
+  "HodgePilot/HodgePredicateAn.lean": {
+    "checkedAt": "2026-11-12T06:38:52.651Z",
+    "collisions": [
+      "HodgePilot.holomorphicSheaf"
+    ]
+  },
+  "HodgePilot/Monoidal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T06:42:02.275Z"
+  },
+  "HodgePilot/PolydiscResolution.lean": {
+    "checkedAt": "2026-11-12T06:42:13.211Z",
+    "collisions": [
+      "HodgePilot.Betti.bettiSheafQ",
+      "HodgePilot.holomorphicSheaf"
+    ]
+  },
+  "HodgePilot/Rigidity.lean": {
+    "checkedAt": "2026-11-12T06:45:46.743Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/SemisimplePack.lean": {
+    "checkedAt": "2026-11-12T06:50:32.836Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/SingularGammaRel.lean": {
+    "checkedAt": "2026-11-12T08:10:52.631Z",
+    "collisions": [
+      "HodgePilot.SingularGamma.res_res'",
+      "HodgePilot.SingularCohomology.QMod"
+    ]
+  },
+  "HodgePilot/SingularResolution.lean": {
+    "checkedAt": "2026-11-12T08:11:17.467Z",
+    "collisions": [
+      "HodgePilot.ContractibleSingular.Qcoef",
+      "HodgePilot.SingularCohomology.QMod"
+    ]
+  },
+  "HodgePilot/Symmetric.lean": {
+    "checkedAt": "2026-11-12T08:18:59.524Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/Tier1.lean": {
+    "checkedAt": "2026-11-12T08:29:48.860Z",
+    "collisions": [
+      "HodgePilot.sigmaR"
+    ]
+  },
+  "HodgePilot/Abelian.lean": {
+    "checkedAt": "2026-11-12T04:55:30.248Z",
+    "collisions": [
+      "HodgePilot.conjQ",
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/AcceptanceReceipts.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T04:58:16.519Z"
+  },
+  "HodgePilot/AnalyticGlue.lean": {
+    "checkedAt": "2026-11-12T04:58:17.811Z",
+    "collisions": [
+      "HodgePilot.Analytic.CPoints",
+      "HodgePilot.Analytic.awayRes"
+    ]
+  },
+  "HodgePilot/Braiding.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T04:58:49.190Z"
+  },
+  "HodgePilot/ChartsSmoothAffine.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T04:58:49.574Z"
+  },
+  "HodgePilot/CochainGlobal.lean": {
+    "checkedAt": "2026-11-12T04:58:52.094Z",
+    "collisions": [
+      "HodgePilot.SingularCohomology.QMod",
+      "HodgePilot.CochainGlobal.gammaSingularComplex",
+      "HodgePilot.SingularFineness.keep",
+      "HodgePilot.Analytic.CPoints"
+    ]
+  },
+  "HodgePilot/CoeffHopf.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T05:03:43.566Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/Comodule.lean": {
+    "checkedAt": "2026-11-12T06:24:16.016Z",
+    "collisions": [
+      "HodgePilot.ComoduleStruct"
+    ]
+  },
+  "HodgePilot/ComparisonAffine.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T06:24:37.684Z",
+    "collisions": [
+      "HodgePilot.JacobianBridge.polyGrad",
+      "HodgePilot.holomorphicSheaf"
+    ]
+  },
+  "HodgePilot/ContentAnchor.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T07:03:51.182Z"
+  },
+  "HodgePilot/Cycle.lean": {
+    "checkedAt": "2026-11-12T07:03:53.148Z",
+    "collisions": [
+      "HodgePilot.Scheme.Cycle"
+    ]
+  },
+  "HodgePilot/DeRhamWedgeChain.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T07:05:29.182Z"
+  },
+  "HodgePilot/Hyper.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T07:35:40.632Z"
+  },
+  "HodgePilot/InternalPi.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T07:35:46.303Z",
+    "collisions": [
+      "HodgePilot.isInternal_of_eq_bot",
+      "HodgePilot.conjQ",
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/JacobianBridge.lean": {
+    "checkedAt": "2026-11-12T07:37:27.016Z",
+    "collisions": [
+      "HodgePilot.JacobianBridge.polyGrad",
+      "HodgePilot.Analytic.CPoints"
+    ]
+  },
+  "HodgePilot/Junction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T07:37:57.522Z"
+  },
+  "HodgePilot/Morphisms.lean": {
+    "checkedAt": "2026-11-12T07:37:58.367Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/Opposed.lean": {
+    "checkedAt": "2026-11-12T07:38:00.614Z",
+    "collisions": [
+      "HodgePilot.conjQ",
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/PolydiscPoincare.lean": {
+    "checkedAt": "2026-11-12T07:38:13.878Z",
+    "collisions": [
+      "HodgePilot.PolydiscCauchy.polydisc",
+      "HodgePilot.PolydiscPoincare.DiscStar"
+    ]
+  },
+  "HodgePilot/PullbackCohomology.lean": {
+    "checkedAt": "2026-11-12T07:51:25.767Z",
+    "collisions": [
+      "HodgePilot.Betti.bettiSheafQ"
+    ]
+  },
+  "HodgePilot/SingularGamma.lean": {
+    "checkedAt": "2026-11-12T09:37:35.692Z",
+    "collisions": [
+      "HodgePilot.SingularGamma.res_sum'",
+      "HodgePilot.SingularGamma.hom_sum_apply",
+      "HodgePilot.SingularGamma.exists_stalk_toSheafify_preimage",
+      "HodgePilot.SingularGamma.stalk_presheafToSheaf_map_toSheafify",
+      "HodgePilot.SingularCohomology.QMod",
+      "HodgePilot.SingularGamma.res_res'",
+      "HodgePilot.SingularGamma.pairOpens"
+    ]
+  },
+  "HodgePilot/StalkDetect.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T09:38:55.143Z"
+  },
+  "HodgePilot/TateHodgeParallel.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T09:38:57.031Z"
+  },
+  "HodgePilot/CategoryInstance.lean": {
+    "checkedAt": "2026-11-12T04:58:28.525Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/CertificateSoundness.lean": {
+    "checkedAt": "2026-11-12T04:58:30.511Z",
+    "collisions": [
+      "HodgePilot.CertificateSoundness.IsSolution"
+    ]
+  },
+  "HodgePilot/ChartsResolution.lean": {
+    "checkedAt": "2026-11-12T04:59:54.092Z",
+    "collisions": [
+      "HodgePilot.Analytic.CPoints",
+      "HodgePilot.holomorphicSheaf"
+    ]
+  },
+  "HodgePilot/CoeffAntipode.lean": {
+    "checkedAt": "2026-11-12T05:24:30.673Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/CoeffCoalgebra.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T05:45:43.468Z",
+    "collisions": [
+      "HodgePilot.ComoduleStruct",
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/ComodFull.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T06:23:11.548Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure",
+      "HodgePilot.ComoduleStruct"
+    ]
+  },
+  "HodgePilot/ContractibleSingular.lean": {
+    "checkedAt": "2026-11-12T07:46:06.348Z",
+    "collisions": [
+      "HodgePilot.SingularCohomology.QMod"
+    ]
+  },
+  "HodgePilot/CycCarrier.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T07:46:13.201Z",
+    "collisions": [
+      "HodgePilot.ExtSplice.pbSES"
+    ]
+  },
+  "HodgePilot/DeRham.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T08:28:32.469Z"
+  },
+  "HodgePilot/DeRhamPresheaf.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T08:33:41.858Z"
+  },
+  "HodgePilot/Div.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T08:33:44.090Z",
+    "collisions": [
+      "HodgePilot.Scheme.Cycle"
+    ]
+  },
+  "HodgePilot/Forget.lean": {
+    "checkedAt": "2026-11-12T10:06:07.176Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/Graded.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T10:06:13.513Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/AcyclicDescent.lean": {
+    "checkedAt": "2026-11-12T04:53:59.127Z",
+    "collisions": [
+      "HodgePilot.AcyclicDescent.Decomp"
+    ]
+  },
+  "HodgePilot/Additive.lean": {
+    "checkedAt": "2026-11-12T04:54:12.593Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure",
+      "HodgePilot.conjQ"
+    ]
+  },
+  "HodgePilot/CalibrationDegreeFour.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T05:03:19.374Z"
+  },
+  "HodgePilot/CartierClass.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T05:06:21.111Z"
+  },
+  "HodgePilot/CechGoursat.lean": {
+    "checkedAt": "2026-11-12T05:06:22.003Z",
+    "collisions": [
+      "HodgePilot.CechGoursat.Coc"
+    ]
+  },
+  "HodgePilot/ChartsGlue.lean": {
+    "checkedAt": "2026-11-12T05:06:49.628Z",
+    "collisions": [
+      "HodgePilot.Analytic.CPoints"
+    ]
+  },
+  "HodgePilot/ChartsStandardSmooth.lean": {
+    "checkedAt": "2026-11-12T05:10:41.001Z",
+    "collisions": [
+      "HodgePilot.JacobianBridge.polyGrad",
+      "HodgePilot.Analytic.CPoints"
+    ]
+  },
+  "HodgePilot/ComodCat.lean": {
+    "checkedAt": "2026-11-12T05:11:34.331Z",
+    "collisions": [
+      "HodgePilot.ComoduleStruct"
+    ]
+  },
+  "HodgePilot/ComodSurj.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T05:14:15.259Z"
+  },
+  "HodgePilot/CyclePairing.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T05:14:16.779Z"
+  },
+  "HodgePilot/DeRhamSheaf.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T05:14:31.516Z"
+  },
+  "HodgePilot/Dual.lean": {
+    "checkedAt": "2026-11-12T05:14:32.513Z",
+    "collisions": [
+      "HodgePilot.conjQ",
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/ExclusionEngine.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T05:15:20.350Z"
+  },
+  "HodgePilot/Filtration.lean": {
+    "checkedAt": "2026-11-12T05:15:23.261Z",
+    "collisions": [
+      "HodgePilot.HodgeStructure"
+    ]
+  },
+  "HodgePilot/HodgeFlagAffine.lean": {
+    "checkedAt": "2026-11-12T05:15:48.263Z",
+    "collisions": [
+      "HodgePilot.Analytic.awayRes",
+      "HodgePilot.Analytic.CPoints",
+      "HodgePilot.holomorphicSheaf"
+    ]
+  },
+  "HodgePilot/HyperPullback.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T06:46:37.332Z"
+  },
+  "HodgePilot/JunctionEvaluation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T06:46:37.719Z"
+  },
+  "HodgePilot/PlaneCarrierProbe.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T06:46:41.118Z"
+  },
+  "HodgePilot/PointEvalOpen.lean": {
+    "checkedAt": "2026-11-12T06:46:44.536Z",
+    "collisions": [
+      "HodgePilot.Analytic.awayRes"
+    ]
+  },
+  "HodgePilot/Polarization.lean": {
+    "checkedAt": "2026-11-12T06:49:09.033Z",
+    "collisions": [
+      "HodgePilot.Iexp",
+      "HodgePilot.HodgeStructure",
+      "HodgePilot.conjQ",
+      "HodgePilot.V2"
+    ]
+  },
+  "HodgePilot/PolydiscCauchy.lean": {
+    "checkedAt": "2026-11-12T06:49:26.368Z",
+    "collisions": [
+      "HodgePilot.PolydiscCauchy.polydisc"
+    ]
+  },
+  "HodgePilot/ProjectiveLineDetection.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T06:50:16.428Z"
+  },
+  "HodgePilot/SliceChart.lean": {
+    "checkedAt": "2026-11-12T06:50:21.346Z",
+    "collisions": [
+      "HodgePilot.Analytic.CPoints"
+    ]
+  },
+  "HodgePilot/Tier8.lean": {
+    "checkedAt": "2026-11-12T06:52:43.696Z",
+    "collisions": [
+      "HodgePilot.conjQ",
+      "HodgePilot.HodgeStructure",
+      "HodgePilot.V2"
+    ]
+  }
+}
