@@ -1,0 +1,1595 @@
+{
+  "LeanCert/ANT/Step.lean": {
+    "checkedAt": "2026-11-12T01:13:07.459Z",
+    "collisions": [
+      "LeanCert.ANT.StepFn",
+      "LeanCert.Cert.checkRatInterval"
+    ]
+  },
+  "LeanCert/Analysis/ContourShift/Decay.lean": {
+    "checkedAt": "2026-11-12T01:13:09.478Z",
+    "collisions": [
+      "LeanCert.Analysis.ContourShift.bottomIntegral"
+    ]
+  },
+  "LeanCert/Analysis/DBN/BadTime.lean": {
+    "checkedAt": "2026-11-12T01:13:10.838Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.kernelTerm",
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/DobnerContourShift.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T01:17:22.706Z"
+  },
+  "LeanCert/Analysis/DBN/DobnerGammaBounds.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T01:24:37.390Z"
+  },
+  "LeanCert/Analysis/DBN/DobnerGammaRatio.lean": {
+    "checkedAt": "2026-11-12T01:24:52.792Z",
+    "collisions": [
+      "LeanCert.Analysis.GammaRatio.sum_inv_norm_sq_le",
+      "LeanCert.Analysis.DBN.heatCoordinate"
+    ]
+  },
+  "LeanCert/Analysis/DBN/DobnerLinearBounds.lean": {
+    "checkedAt": "2026-11-12T01:25:38.650Z",
+    "collisions": [
+      "LeanCert.Analysis.GammaRatio.sum_inv_norm_sq_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/FourPoint.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T01:26:02.938Z",
+    "collisions": [
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/DBN/HeatShift.lean": {
+    "checkedAt": "2026-11-12T01:28:44.297Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.shiftAverage",
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.kernelTerm",
+      "LeanCert.Analysis.DBN.shiftIter"
+    ]
+  },
+  "LeanCert/Analysis/DBN/Theta.lean": {
+    "checkedAt": "2026-11-12T01:28:53.335Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.thetaTerm"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/CartanBound.lean": {
+    "checkedAt": "2026-11-12T01:28:58.982Z",
+    "collisions": [
+      "Real.log_one_add_exp_le_add_log_two",
+      "Complex.CartanBound.posLog_log_one_div_abs_one_sub_le_sqrt",
+      "Complex.CartanBound.φ"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/CartanMajorantBound.lean": {
+    "checkedAt": "2026-11-12T01:30:23.647Z",
+    "collisions": [
+      "Complex.Hadamard.divisorZeroIndex",
+      "Complex.CartanBound.posLog_log_one_div_abs_one_sub_le_sqrt",
+      "Complex.Hadamard.cartanProductConstant"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/DivisorConvergence.lean": {
+    "checkedAt": "2026-11-12T01:31:13.227Z",
+    "collisions": [
+      "MeromorphicOn.divisor_support_discrete",
+      "Complex.Hadamard.norm_div_le_half_of_norm_le_of_two_mul_lt",
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/DivisorPartialProductFactor.lean": {
+    "checkedAt": "2026-11-12T01:31:16.262Z",
+    "collisions": [
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/DivisorUnits.lean": {
+    "checkedAt": "2026-11-12T01:36:05.750Z",
+    "collisions": [
+      "Complex.Hadamard.divisorZeroIndex",
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/ValueDistribution/LogCounting/Growth.lean": {
+    "checkedAt": "2026-11-12T01:36:08.755Z",
+    "collisions": [
+      "Function.locallyFinsuppWithin.norm_le_abs_of_mem_toClosedBall_support"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/SpecialFunctions/Log/Dyadic.lean": {
+    "checkedAt": "2026-11-12T01:36:09.732Z",
+    "collisions": [
+      "Real.two_pow_floor_logb_le",
+      "Real.lt_two_pow_floor_logb_add_one",
+      "Real.exists_nat_le_two_pow",
+      "Real.one_le_dyadicRadius_succ_of_inv_le_two_pow",
+      "Real.one_add_abs_two_mul_dyadicRadius_rpow_le",
+      "Real.tsum_inv_rpow_le_card_mul_of_lower_bound",
+      "Real.inv_dyadicRadius_rpow_eq",
+      "Real.two_rpow_sub_eq_mul_neg",
+      "Real.two_geometric_shift_add"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/SpecialFunctions/Log/PosLog.lean": {
+    "checkedAt": "2026-11-12T01:36:13.406Z",
+    "collisions": [
+      "Real.log_one_add_exp_le_add_log_two",
+      "Real.le_exp_of_log_one_add_le",
+      "Real.neg_posLog_inv_le_log"
+    ]
+  },
+  "LeanCert/CertifiedBounds/Li2.lean": {
+    "checkedAt": "2026-11-12T01:36:14.701Z",
+    "collisions": [
+      "LeanCert.Engine.TaylorModel.log1pTaylorCoeffs"
+    ]
+  },
+  "LeanCert/Core/IntervalRat/LogReduction.lean": {
+    "checkedAt": "2026-11-12T01:36:15.567Z",
+    "collisions": [
+      "LeanCert.Core.LogReduction.reductionExponent",
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Core/RationalCellDomain.lean": {
+    "checkedAt": "2026-11-12T01:36:23.041Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Core.CertifiedCellDomain"
+    ]
+  },
+  "LeanCert/Engine/Extended.lean": {
+    "checkedAt": "2026-11-12T01:36:33.693Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Engine.ExtendedInterval"
+    ]
+  },
+  "LeanCert/Engine/IntervalEvalDyadic.lean": {
+    "checkedAt": "2026-11-12T01:37:07.398Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Core.Dyadic"
+    ]
+  },
+  "LeanCert/Engine/Optimization/Box.lean": {
+    "checkedAt": "2026-11-12T01:39:08.924Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/RootFinding/Newton.lean": {
+    "checkedAt": "2026-11-12T01:39:23.539Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/TaylorModel/Integral.lean": {
+    "checkedAt": "2026-11-12T01:39:41.310Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Examples/Numerics.lean": {
+    "checkedAt": "2026-11-12T01:39:46.481Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Meta/ToExpr.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T01:40:04.216Z"
+  },
+  "LeanCert/QProduct/Certificate.lean": {
+    "checkedAt": "2026-11-12T01:40:04.538Z",
+    "collisions": [
+      "LeanCert.QProduct.qProd"
+    ]
+  },
+  "LeanCert/Test/DownstreamPatterns/Li2.lean": {
+    "checkedAt": "2026-11-12T01:40:05.734Z",
+    "collisions": [
+      "LeanCert.Engine.TaylorModel.log1pTaylorCoeffs"
+    ]
+  },
+  "LeanCert/Validity/Bounds/Bridge.lean": {
+    "checkedAt": "2026-11-12T01:49:55.569Z",
+    "collisions": [
+      "LeanCert.Validity.mem_split_general",
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Validity/CertificateIntegration.lean": {
+    "checkedAt": "2026-11-12T01:50:09.100Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/ANT/Asymp/Pointwise.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T01:17:00.459Z"
+  },
+  "LeanCert/API/Eval.lean": {
+    "checkedAt": "2026-11-12T01:17:06.386Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Analysis/ContourShift.lean": {
+    "checkedAt": "2026-11-12T01:17:08.112Z",
+    "collisions": [
+      "LeanCert.Analysis.ContourShift.bottomIntegral"
+    ]
+  },
+  "LeanCert/Analysis/DBN/DobnerLimit.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T01:17:11.435Z",
+    "collisions": [
+      "LeanCert.Analysis.GammaRatio.sum_inv_norm_sq_le",
+      "LeanCert.Analysis.DBN.heatCoordinate",
+      "LeanCert.Analysis.DBN.gaussian_average_H_zero",
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/DobnerNormalization.lean": {
+    "checkedAt": "2026-11-12T01:34:51.701Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.heatCoordinate",
+      "LeanCert.Analysis.DBN.kernelTerm",
+      "LeanCert.Analysis.DBN.riemannXi"
+    ]
+  },
+  "LeanCert/Analysis/DBN/ForwardPreservation.lean": {
+    "checkedAt": "2026-11-12T01:37:47.105Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/HeatLimit.lean": {
+    "checkedAt": "2026-11-12T01:41:00.914Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.one_add_half_sq_le_cosh",
+      "LeanCert.Analysis.DBN.shiftIter",
+      "LeanCert.Analysis.DBN.unitShift",
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/HeatMoments.lean": {
+    "checkedAt": "2026-11-12T01:41:06.425Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.kernelTerm",
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.heatIntegrand"
+    ]
+  },
+  "LeanCert/Analysis/DBN/ShiftLimit.lean": {
+    "checkedAt": "2026-11-12T01:41:14.635Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/StripIteration.lean": {
+    "checkedAt": "2026-11-12T01:42:13.926Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.shiftAverage",
+      "LeanCert.Analysis.DBN.shiftPolynomial"
+    ]
+  },
+  "LeanCert/Analysis/DBN/Threshold.lean": {
+    "checkedAt": "2026-11-12T01:43:37.792Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/Xi.lean": {
+    "checkedAt": "2026-11-12T01:45:59.920Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.riemannXi"
+    ]
+  },
+  "LeanCert/Analysis/DBN/ZeroTransfer.lean": {
+    "checkedAt": "2026-11-12T01:46:05.253Z",
+    "collisions": [
+      "Complex.Hadamard.analyticOrderAt_ne_top_of_exists_ne_zero"
+    ]
+  },
+  "LeanCert/Analysis/DirichletGaussian/Recurrence.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T01:46:07.536Z",
+    "collisions": [
+      "Complex.borelCaratheodory_zero_closedBall"
+    ]
+  },
+  "LeanCert/Analysis/GammaRatio.lean": {
+    "checkedAt": "2026-11-12T01:47:10.439Z",
+    "collisions": [
+      "LeanCert.Analysis.GammaRatio.add_nat_ne_zero",
+      "LeanCert.Analysis.GammaRatio.im_le_norm_add_nat",
+      "LeanCert.Analysis.GammaRatio.sum_inv_norm_sq_le",
+      "LeanCert.Analysis.GammaRatio.log_step",
+      "LeanCert.Analysis.GammaRatio.logEulerRatio"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/CartanInverseFactorBound.lean": {
+    "checkedAt": "2026-11-12T01:47:26.690Z",
+    "collisions": [
+      "Complex.Hadamard.max_one_norm_div_pow_le_one_add_rpow",
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/Divisor.lean": {
+    "checkedAt": "2026-11-12T01:47:36.687Z",
+    "collisions": [
+      "Complex.Hadamard.analyticOrderAt_ne_top_of_exists_ne_zero",
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/HadamardFactorization/Order.lean": {
+    "checkedAt": "2026-11-12T01:54:43.948Z",
+    "collisions": [
+      "Complex.Hadamard.analyticOrderNatAt_comp_add_const",
+      "Real.pow_div_one_sub_le_two_mul",
+      "Complex.Hadamard.EntireOfOrderAtMost",
+      "Real.log_norm_le_log_one_add_norm",
+      "Real.log_one_add_exp_le_add_log_two"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/HadamardFactorization/Summability.lean": {
+    "checkedAt": "2026-11-12T01:57:56.888Z",
+    "collisions": [
+      "Function.locallyFinsuppWithin.norm_le_abs_of_mem_toClosedBall_support",
+      "Complex.Hadamard.divisorZeroIndex",
+      "Real.two_pow_floor_logb_le",
+      "MeromorphicOn.divisor_support_discrete"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Meromorphic/DivisorSupport.lean": {
+    "checkedAt": "2026-11-12T02:12:04.424Z",
+    "collisions": [
+      "MeromorphicOn.divisor_support_discrete",
+      "MeromorphicOn.divisor_support_inter_compact_finite"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/SpecialFunctions/Complex/LogBounds.lean": {
+    "checkedAt": "2026-11-12T02:12:05.892Z",
+    "collisions": [
+      "Real.pow_div_one_sub_le_two_mul",
+      "Complex.neg_log_one_sub_eq_tsum",
+      "Complex.partialLogSum"
+    ]
+  },
+  "LeanCert/Analysis/IntegralTail.lean": {
+    "checkedAt": "2026-11-12T02:12:09.809Z",
+    "collisions": [
+      "LeanCert.Analysis.IntegralTail.of_exponential",
+      "LeanCert.Analysis.IntegralTail.remainder_eq"
+    ]
+  },
+  "LeanCert/Analysis/PolynomialDecay.lean": {
+    "checkedAt": "2026-11-12T02:12:10.662Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Core/Expr.lean": {
+    "checkedAt": "2026-11-12T02:12:11.488Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Engine/AD/PartialCorrectness.lean": {
+    "checkedAt": "2026-11-12T02:12:37.705Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Engine/AD/Transcendental.lean": {
+    "checkedAt": "2026-11-12T02:12:42.065Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Engine.DualInterval.sin"
+    ]
+  },
+  "LeanCert/Engine/Algebra/Discriminant.lean": {
+    "checkedAt": "2026-11-12T02:12:43.948Z",
+    "collisions": [
+      "LeanCert.Engine.Algebra.quadraticZeroSet"
+    ]
+  },
+  "LeanCert/Engine/Algebra/QPoly.lean": {
+    "checkedAt": "2026-11-12T02:12:52.620Z",
+    "collisions": [
+      "LeanCert.Engine.QPoly",
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Engine/Chebyshev/Psi.lean": {
+    "checkedAt": "2026-11-12T02:13:16.907Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/IntervalEvalRefined.lean": {
+    "checkedAt": "2026-11-12T02:14:08.701Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Examples/HeatKernel.lean": {
+    "checkedAt": "2026-11-12T02:14:30.922Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.norm_cos_le_exp_abs_im"
+    ]
+  },
+  "LeanCert/Examples/Showcase.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T02:14:34.024Z"
+  },
+  "LeanCert/Examples/Tactics.lean": {
+    "checkedAt": "2026-11-12T02:14:35.302Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/ML/Optimized/Matrix.lean": {
+    "checkedAt": "2026-11-12T02:14:37.164Z",
+    "collisions": [
+      "LeanCert.ML.Optimized.IntMatrix"
+    ]
+  },
+  "LeanCert/ML/Symbolic/Sigmoid.lean": {
+    "checkedAt": "2026-11-12T02:14:47.781Z",
+    "collisions": [
+      "LeanCert.ML.Symbolic.RealLinearBound"
+    ]
+  },
+  "LeanCert/QProduct/Sparse.lean": {
+    "checkedAt": "2026-11-12T02:14:54.830Z",
+    "collisions": [
+      "LeanCert.Engine.QPoly",
+      "LeanCert.QProduct.qProd",
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Test/DBNRouteAudit.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T02:15:48.345Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.shiftIter"
+    ]
+  },
+  "LeanCert/Test/WitnessSum.lean": {
+    "checkedAt": "2026-11-12T02:15:59.591Z",
+    "collisions": [
+      "LeanCert.Core.Dyadic"
+    ]
+  },
+  "LeanCert/Validity/Bernstein.lean": {
+    "checkedAt": "2026-11-12T02:16:17.549Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/ANT/Asymp/Env.lean": {
+    "checkedAt": "2026-11-12T01:14:01.030Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/ANT/Asymp/Stieltjes.lean": {
+    "checkedAt": "2026-11-12T01:14:05.266Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/ANT/Dirichlet.lean": {
+    "checkedAt": "2026-11-12T01:14:48.101Z",
+    "collisions": [
+      "LeanCert.Cert.checkRatInterval",
+      "LeanCert.ANT.finiteDirichletSum",
+      "LeanCert.ANT.primesLE"
+    ]
+  },
+  "LeanCert/ANT/EulerProduct.lean": {
+    "checkedAt": "2026-11-12T01:15:39.486Z",
+    "collisions": [
+      "LeanCert.ANT.primesLE",
+      "LeanCert.Cert.checkRatInterval"
+    ]
+  },
+  "LeanCert/ANT/Mertens.lean": {
+    "checkedAt": "2026-11-12T01:15:50.171Z",
+    "collisions": [
+      "LeanCert.ANT.primesLE",
+      "LeanCert.Cert.checkRatInterval"
+    ]
+  },
+  "LeanCert/ANT/PNTCompilers.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T01:22:40.437Z"
+  },
+  "LeanCert/Analysis/DBN/BackwardGaussian.lean": {
+    "checkedAt": "2026-11-12T01:22:45.394Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.kernelTerm"
+    ]
+  },
+  "LeanCert/Analysis/DBN/DobnerGeometry.lean": {
+    "checkedAt": "2026-11-12T01:22:49.740Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.heatCoordinate",
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.kernelTerm"
+    ]
+  },
+  "LeanCert/Analysis/DBN/Hadamard.lean": {
+    "checkedAt": "2026-11-12T01:26:17.698Z",
+    "collisions": [
+      "Real.log_norm_le_log_one_add_norm"
+    ]
+  },
+  "LeanCert/Analysis/DBN/HeatFlow.lean": {
+    "checkedAt": "2026-11-12T01:49:43.645Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.heatIntegrand",
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.kernelTerm"
+    ]
+  },
+  "LeanCert/Analysis/DBN/StripShift.lean": {
+    "checkedAt": "2026-11-12T01:49:50.851Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.shiftAverage"
+    ]
+  },
+  "LeanCert/Analysis/DirichletGaussian.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T01:49:57.686Z",
+    "collisions": [
+      "LeanCert.Analysis.SeriesTail.of_majorant",
+      "Complex.borelCaratheodory_zero_closedBall"
+    ]
+  },
+  "LeanCert/Analysis/GaussianTail.lean": {
+    "checkedAt": "2026-11-12T01:50:30.811Z",
+    "collisions": [
+      "LeanCert.Analysis.SeriesTail.gaussian_le_geometric",
+      "LeanCert.Analysis.SeriesTail.of_majorant"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/CanonicalProduct.lean": {
+    "checkedAt": "2026-11-12T01:50:31.946Z",
+    "collisions": [
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/ExpPoly.lean": {
+    "checkedAt": "2026-11-12T01:50:34.138Z",
+    "collisions": [
+      "Complex.borelCaratheodory_zero_closedBall"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/WeierstrassFactor.lean": {
+    "checkedAt": "2026-11-12T02:09:39.031Z",
+    "collisions": [
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/SpecialFunctions/Exp.lean": {
+    "checkedAt": "2026-11-12T02:09:48.842Z",
+    "collisions": [
+      "Real.le_exp_self",
+      "Real.mul_four_le_exp_add"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/SpecialFunctions/Log/ExpGrowth.lean": {
+    "checkedAt": "2026-11-12T02:09:49.656Z",
+    "collisions": [
+      "Real.log_norm_le_log_one_add_norm",
+      "Real.log_nonneg_mul_inv_norm_of_norm_le",
+      "Real.log_two_le_log_two_mul_mul_inv_norm_of_norm_le",
+      "Real.norm_le_exp_mul_rpow_of_exponent_le",
+      "Real.log_one_add_exp_le_add_log_two",
+      "Real.le_exp_self",
+      "Real.one_add_le_three_mul_one_add_of_le_two_mul_max",
+      "Real.exp_mul_rpow_le_exp_mul_rpow_of_le_mul",
+      "Real.exists_between_self_and_floor_add_one_same_floor"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Topology/MetricSpace/Annulus.lean": {
+    "checkedAt": "2026-11-12T02:09:53.103Z",
+    "collisions": [
+      "Metric.annulusIoo"
+    ]
+  },
+  "LeanCert/Analysis/WallQuotient.lean": {
+    "checkedAt": "2026-11-12T02:10:10.820Z",
+    "collisions": [
+      "LeanCert.Analysis.WallQuotient.quotient_mem_of_deriv_ratio_bounds",
+      "LeanCert.Analysis.WallQuotient.quotient_mem_of_deriv_ratio_bounds_left",
+      "LeanCert.Analysis.WallQuotient.DerivLadder"
+    ]
+  },
+  "LeanCert/Cert/Interval.lean": {
+    "checkedAt": "2026-11-12T02:10:13.960Z",
+    "collisions": [
+      "LeanCert.Cert.checkRatInterval"
+    ]
+  },
+  "LeanCert/Core/Dyadic.lean": {
+    "checkedAt": "2026-11-12T02:10:14.823Z",
+    "collisions": [
+      "LeanCert.Core.Dyadic"
+    ]
+  },
+  "LeanCert/Core/DyadicCell.lean": {
+    "checkedAt": "2026-11-12T02:11:36.599Z",
+    "collisions": [
+      "LeanCert.Core.Dyadic",
+      "LeanCert.Core.IntervalDyadic.ValueEq"
+    ]
+  },
+  "LeanCert/Core/DyadicCellDomain.lean": {
+    "checkedAt": "2026-11-12T02:13:14.009Z",
+    "collisions": [
+      "LeanCert.Core.Dyadic",
+      "LeanCert.Core.CertifiedCellDomain"
+    ]
+  },
+  "LeanCert/Core/IntervalRat/Taylor.lean": {
+    "checkedAt": "2026-11-12T02:13:28.579Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Core.IntervalRat.ratFactorial",
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Engine/Affine/Environment.lean": {
+    "checkedAt": "2026-11-12T02:16:29.855Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/Affine/Vector.lean": {
+    "checkedAt": "2026-11-12T02:16:52.313Z",
+    "collisions": [
+      "LeanCert.Engine.Affine.AffineForm",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/Algebra/CubicRadius.lean": {
+    "checkedAt": "2026-11-12T02:17:09.637Z",
+    "collisions": [
+      "LeanCert.Engine.QCubic",
+      "LeanCert.Engine.Algebra.quadraticZeroSet"
+    ]
+  },
+  "LeanCert/Engine/TaylorModel/TrigReduced.lean": {
+    "checkedAt": "2026-11-12T02:26:01.470Z",
+    "collisions": [
+      "LeanCert.Core.TrigReduction.piRatLo"
+    ]
+  },
+  "LeanCert/Examples/EdgeCases.lean": {
+    "checkedAt": "2026-11-12T02:26:03.704Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Examples/Li2Base.lean": {
+    "checkedAt": "2026-11-12T02:26:09.521Z",
+    "collisions": [
+      "LeanCert.Engine.TaylorModel.log1pTaylorCoeffs"
+    ]
+  },
+  "LeanCert/Examples/ParametricIntegral.lean": {
+    "checkedAt": "2026-11-12T02:26:14.200Z",
+    "collisions": [
+      "LeanCert.Analysis.integrableOn_gaussian_moment"
+    ]
+  },
+  "LeanCert/ML/Attention.lean": {
+    "checkedAt": "2026-11-12T02:26:29.846Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Core.Dyadic"
+    ]
+  },
+  "LeanCert/ML/Distillation.lean": {
+    "checkedAt": "2026-11-12T02:26:50.623Z",
+    "collisions": [
+      "LeanCert.Core.Dyadic",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/ML/Network.lean": {
+    "checkedAt": "2026-11-12T02:27:44.183Z",
+    "collisions": [
+      "LeanCert.Engine.IntervalVector",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/ML/Optimized/IntervalArray.lean": {
+    "checkedAt": "2026-11-12T02:27:57.343Z",
+    "collisions": [
+      "LeanCert.Core.Dyadic"
+    ]
+  },
+  "LeanCert/QProduct/Finite.lean": {
+    "checkedAt": "2026-11-12T02:28:02.820Z",
+    "collisions": [
+      "LeanCert.QProduct.qProd"
+    ]
+  },
+  "LeanCert/QProduct/InfiniteProduct.lean": {
+    "checkedAt": "2026-11-12T02:28:05.707Z",
+    "collisions": [
+      "LeanCert.QProduct.qProd"
+    ]
+  },
+  "LeanCert/QProduct/LimitCert.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T02:29:03.823Z",
+    "collisions": [
+      "LeanCert.QProduct.qProd"
+    ]
+  },
+  "LeanCert/QProduct/Stability.lean": {
+    "checkedAt": "2026-11-12T02:29:15.050Z",
+    "collisions": [
+      "LeanCert.QProduct.pow_mem_unit_interval",
+      "LeanCert.QProduct.qProd",
+      "LeanCert.QProduct.odd_tail_telescope_bound",
+      "LeanCert.QProduct.odd_tail_sum_le_geom"
+    ]
+  },
+  "LeanCert/Test/DownstreamPatterns/Extension.lean": {
+    "checkedAt": "2026-11-12T02:29:23.089Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/ANT/PrimePowerExt.lean": {
+    "checkedAt": "2026-11-12T01:09:59.218Z",
+    "collisions": [
+      "LeanCert.ANT.PrimePowerExt.ext_prime_powers",
+      "LeanCert.ANT.PrimePowerExt.eq_iff_eq_on_prime_powers"
+    ]
+  },
+  "LeanCert/Analysis/DBN/BackwardContour.lean": {
+    "checkedAt": "2026-11-12T01:10:06.824Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.gaussianShift"
+    ]
+  },
+  "LeanCert/Analysis/DBN/DobnerCenteredKernel.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T01:11:21.420Z"
+  },
+  "LeanCert/Analysis/DBN/DobnerGammaReciprocal.lean": {
+    "checkedAt": "2026-11-12T01:11:25.819Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.heatCoordinate"
+    ]
+  },
+  "LeanCert/Analysis/DBN/DobnerReduction.lean": {
+    "checkedAt": "2026-11-12T01:15:44.362Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.kernelTerm",
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/HeatGrowth.lean": {
+    "checkedAt": "2026-11-12T01:17:24.500Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.cubic_absorption",
+      "LeanCert.Analysis.DBN.kernelTerm",
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/PolynomialApproximation.lean": {
+    "checkedAt": "2026-11-12T01:18:43.892Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "MeromorphicOn.divisor_support_discrete",
+      "LeanCert.Analysis.DBN.kernelTerm",
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/DBN/PolynomialHeatTransfer.lean": {
+    "checkedAt": "2026-11-12T01:50:17.950Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.shiftAverage"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/CartanProductBound.lean": {
+    "checkedAt": "2026-11-12T01:50:34.699Z",
+    "collisions": [
+      "Finset.prod_le_exp_sum",
+      "hasProd_le_of_prod_le_exp",
+      "hasProd_inv_unconditional"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/DivisorComplement.lean": {
+    "checkedAt": "2026-11-12T01:53:14.914Z",
+    "collisions": [
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/DivisorFiber.lean": {
+    "checkedAt": "2026-11-12T01:56:10.532Z",
+    "collisions": [
+      "Complex.Hadamard.divisor_univ_eq_analyticOrderNatAt_int",
+      "MeromorphicOn.divisor_support_discrete",
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/DivisorIndex.lean": {
+    "checkedAt": "2026-11-12T02:01:42.656Z",
+    "collisions": [
+      "Complex.Hadamard.divisorZeroIndex",
+      "MeromorphicOn.divisor_support_discrete",
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/DivisorQuotientConvergence.lean": {
+    "checkedAt": "2026-11-12T02:04:30.683Z",
+    "collisions": [
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/Norm.lean": {
+    "checkedAt": "2026-11-12T02:04:37.610Z",
+    "collisions": [
+      "Complex.neg_norm_le_re",
+      "Complex.norm_sub_one_le_one_add_norm",
+      "Complex.norm_one_sub_le_one_add_norm",
+      "Complex.one_le_norm_one_sub_of_norm_gt_three",
+      "Complex.norm_inv_pow_le_one_of_one_le_norm",
+      "Complex.one_sub_ne_one_of_norm_pos",
+      "Complex.ne_neg_nat_of_re_pos"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/ValueDistribution/LogCounting/Basic.lean": {
+    "checkedAt": "2026-11-12T02:04:39.636Z",
+    "collisions": [
+      "Function.locallyFinsuppWithin.norm_le_abs_of_mem_toClosedBall_support",
+      "Function.locallyFinsuppWithin.toClosedBall_eval_eq_of_norm_le_abs",
+      "Function.locallyFinsuppWithin.massClosedBall₀"
+    ]
+  },
+  "LeanCert/Analysis/ParametricIntegral.lean": {
+    "checkedAt": "2026-11-12T02:04:41.369Z",
+    "collisions": [
+      "LeanCert.Analysis.ParametricIntegral.continuous_integral",
+      "LeanCert.Analysis.ParametricIntegral.hasDerivAt_integral"
+    ]
+  },
+  "LeanCert/Contrib/Sinc.lean": {
+    "checkedAt": "2026-11-12T02:04:41.950Z",
+    "collisions": [
+      "Real.abs_sin_sub_self_le",
+      "Real.sinc_eq_integral_cos",
+      "Real.hasDerivAt_sinc_of_ne_zero",
+      "Real.abs_x_mul_cos_sub_sin_le_sq",
+      "Real.sinc_eq_integral",
+      "Real.contDiffAt_sinc_of_ne_zero",
+      "Real.analyticAt_sinc_zero"
+    ]
+  },
+  "LeanCert/Core/HermiteBounds.lean": {
+    "checkedAt": "2026-11-12T02:04:47.959Z",
+    "collisions": [
+      "LeanCert.Core.gaussianSq"
+    ]
+  },
+  "LeanCert/Core/Interval.lean": {
+    "checkedAt": "2026-11-12T02:04:48.790Z",
+    "collisions": [
+      "LeanCert.Core.mem_Icc"
+    ]
+  },
+  "LeanCert/Core/IntervalDyadic.lean": {
+    "checkedAt": "2026-11-12T02:04:57.717Z",
+    "collisions": [
+      "LeanCert.Core.Dyadic",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Core/IntervalRat/Basic.lean": {
+    "checkedAt": "2026-11-12T02:09:40.528Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Core/IntervalRat/TrigReduced.lean": {
+    "checkedAt": "2026-11-12T02:10:35.619Z",
+    "collisions": [
+      "LeanCert.Core.TrigReduction.piRatLo"
+    ]
+  },
+  "LeanCert/Core/Taylor.lean": {
+    "checkedAt": "2026-11-12T02:10:35.970Z",
+    "collisions": [
+      "LeanCert.Core.TaylorApprox",
+      "LeanCert.Core.DerivativeIntervals.exp_deriv_pos"
+    ]
+  },
+  "LeanCert/Engine/Affine/Basic.lean": {
+    "checkedAt": "2026-11-12T02:10:53.759Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Engine.Affine.AffineForm"
+    ]
+  },
+  "LeanCert/Engine/Affine/Transcendental.lean": {
+    "checkedAt": "2026-11-12T02:12:56.022Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/Algebra/Bezout.lean": {
+    "checkedAt": "2026-11-12T02:13:30.544Z",
+    "collisions": [
+      "LeanCert.Engine.QPoly"
+    ]
+  },
+  "LeanCert/Engine/BKLNW.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T02:13:34.301Z"
+  },
+  "LeanCert/Engine/FinSumDyadic.lean": {
+    "checkedAt": "2026-11-12T02:13:38.439Z",
+    "collisions": [
+      "LeanCert.Engine.Finset.sum_Icc_eq_add_sum_Ioc'",
+      "LeanCert.Engine.Finset.Ioc_eq_Icc_succ'",
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Core.Dyadic"
+    ]
+  },
+  "LeanCert/Engine/PentagonLucas.lean": {
+    "checkedAt": "2026-11-12T02:14:11.359Z",
+    "collisions": [
+      "LeanCert.Engine.PentagonLucas.α"
+    ]
+  },
+  "LeanCert/Engine/RootFinding/Krawczyk.lean": {
+    "checkedAt": "2026-11-12T02:14:19.030Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/Table.lean": {
+    "checkedAt": "2026-11-12T02:15:07.745Z",
+    "collisions": [
+      "LeanCert.Engine.TableCert"
+    ]
+  },
+  "LeanCert/Engine/WitnessSum.lean": {
+    "checkedAt": "2026-11-12T02:15:22.198Z",
+    "collisions": [
+      "LeanCert.Core.Dyadic"
+    ]
+  },
+  "LeanCert/Examples/Certificate.lean": {
+    "checkedAt": "2026-11-12T02:15:24.579Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Examples/EulerMascheroniBounds.lean": {
+    "checkedAt": "2026-11-12T02:15:29.899Z",
+    "collisions": [
+      "EulerMascheroni.body"
+    ]
+  },
+  "LeanCert/ML/Optimized/MatrixNetwork.lean": {
+    "checkedAt": "2026-11-12T02:15:32.502Z",
+    "collisions": [
+      "LeanCert.ML.Optimized.IntMatrix"
+    ]
+  },
+  "LeanCert/ML/Symbolic/ReLU.lean": {
+    "checkedAt": "2026-11-12T02:15:33.941Z",
+    "collisions": [
+      "LeanCert.ML.Symbolic.LinearBound"
+    ]
+  },
+  "LeanCert/ML/Transformer.lean": {
+    "checkedAt": "2026-11-12T02:15:41.436Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Core.Dyadic",
+      "LeanCert.ML.Transformer.Real.gelu"
+    ]
+  },
+  "LeanCert/Meta/ProveContinuous.lean": {
+    "checkedAt": "2026-11-12T02:17:56.124Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/QProduct/PrimeLambda.lean": {
+    "checkedAt": "2026-11-12T02:18:28.573Z",
+    "collisions": [
+      "LeanCert.QProduct.qProd",
+      "LeanCert.QProduct.pow_mem_unit_interval"
+    ]
+  },
+  "LeanCert/Validity/Eventual.lean": {
+    "checkedAt": "2026-11-12T02:20:46.101Z",
+    "collisions": [
+      "LeanCert.Validity.checkReciprocalPowerUpper"
+    ]
+  },
+  "LeanCert/Validity/RelativeCompleteness.lean": {
+    "checkedAt": "2026-11-12T02:20:47.943Z",
+    "collisions": [
+      "LeanCert.Validity.NumericalRefinementSchedule"
+    ]
+  },
+  "LeanCert/ANT/PrimeEuler.lean": {
+    "checkedAt": "2026-11-12T01:13:14.119Z",
+    "collisions": [
+      "LeanCert.Cert.checkRatInterval"
+    ]
+  },
+  "LeanCert/Analysis/ComplexGrowth.lean": {
+    "checkedAt": "2026-11-12T01:13:16.914Z",
+    "collisions": [
+      "LeanCert.Analysis.norm_cos_le_exp_abs_im"
+    ]
+  },
+  "LeanCert/Analysis/DBN/DobnerDirichlet.lean": {
+    "checkedAt": "2026-11-12T01:13:31.880Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.gaussian_average_H_zero",
+      "LeanCert.Analysis.DBN.riemannXi",
+      "LeanCert.Analysis.DBN.heatCoordinate"
+    ]
+  },
+  "LeanCert/Analysis/DBN/HeatRegularity.lean": {
+    "checkedAt": "2026-11-12T01:16:06.395Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.kernelTerm"
+    ]
+  },
+  "LeanCert/Analysis/DBN/HeatSymmetry.lean": {
+    "checkedAt": "2026-11-12T01:16:12.584Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.kernelTerm",
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/RealZeroTimes.lean": {
+    "checkedAt": "2026-11-12T01:16:30.121Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.kernelTerm"
+    ]
+  },
+  "LeanCert/Analysis/DBN/ThetaDerivatives.lean": {
+    "checkedAt": "2026-11-12T01:21:55.238Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.thetaTerm",
+      "LeanCert.Analysis.DBN.kernelTerm",
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.SeriesTail.of_majorant"
+    ]
+  },
+  "LeanCert/Analysis/DBN/ThetaIntegral.lean": {
+    "checkedAt": "2026-11-12T01:22:02.764Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.thetaTerm"
+    ]
+  },
+  "LeanCert/Analysis/DBN/TimeHeatLimit.lean": {
+    "checkedAt": "2026-11-12T01:22:38.178Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.timeShift",
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/TimePolynomialApproximation.lean": {
+    "checkedAt": "2026-11-12T01:23:20.814Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.kernelTerm",
+      "MeromorphicOn.divisor_support_discrete"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/ExpPoly/Growth.lean": {
+    "checkedAt": "2026-11-12T01:31:27.490Z",
+    "collisions": [
+      "Real.log_one_add_exp_le_add_log_two",
+      "Complex.Hadamard.natDegree_le_floor_of_growth_exp_eval"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/HadamardFactorization.lean": {
+    "checkedAt": "2026-11-12T01:31:52.273Z",
+    "collisions": [
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/LocallyUniformLimit.lean": {
+    "checkedAt": "2026-11-12T01:31:53.332Z",
+    "collisions": [
+      "TendstoUniformlyOn.mul_left_bounded"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Meromorphic/DivisorHolomorphic.lean": {
+    "checkedAt": "2026-11-12T01:31:53.619Z",
+    "collisions": [
+      "Differentiable.divisor_nonneg"
+    ]
+  },
+  "LeanCert/Analysis/SeriesTail.lean": {
+    "checkedAt": "2026-11-12T01:31:53.900Z",
+    "collisions": [
+      "LeanCert.Analysis.SeriesTail.of_majorant"
+    ]
+  },
+  "LeanCert/ConstantFactory.lean": {
+    "checkedAt": "2026-11-12T01:31:54.560Z",
+    "collisions": [
+      "LeanCert.QProduct.qProd"
+    ]
+  },
+  "LeanCert/ConstantFactory/IntervalBank.lean": {
+    "checkedAt": "2026-11-12T01:32:04.811Z",
+    "collisions": [
+      "LeanCert.QProduct.qProd",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/AD/Correctness.lean": {
+    "checkedAt": "2026-11-12T01:32:22.060Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Engine/DirichletGaussian.lean": {
+    "checkedAt": "2026-11-12T01:32:58.765Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Analysis.SeriesTail.of_majorant"
+    ]
+  },
+  "LeanCert/Engine/Integrate.lean": {
+    "checkedAt": "2026-11-12T01:33:25.461Z",
+    "collisions": [
+      "LeanCert.Engine.integral_bounds_of_bounds",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/IntervalEvalReal.lean": {
+    "checkedAt": "2026-11-12T01:34:24.558Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh",
+      "LeanCert.Core.IntervalReal"
+    ]
+  },
+  "LeanCert/Engine/Optimization/BoxAddress.lean": {
+    "checkedAt": "2026-11-12T01:34:36.383Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Engine.Optimization.BoxDecision"
+    ]
+  },
+  "LeanCert/Engine/Pisano/Defs.lean": {
+    "checkedAt": "2026-11-12T01:34:43.600Z",
+    "collisions": [
+      "LeanCert.Engine.Pisano.lucasUPair"
+    ]
+  },
+  "LeanCert/Engine/TaylorModel/Trig.lean": {
+    "checkedAt": "2026-11-12T01:34:50.194Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Engine.TaylorModel.sinTaylorCoeffs",
+      "Real.abs_sin_sub_self_le"
+    ]
+  },
+  "LeanCert/Examples/Basic.lean": {
+    "checkedAt": "2026-11-12T01:36:38.496Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Examples/Calculus.lean": {
+    "checkedAt": "2026-11-12T01:36:41.903Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Examples/ML/Distillation.lean": {
+    "checkedAt": "2026-11-12T01:36:50.600Z",
+    "collisions": [
+      "LeanCert.ML.Layer",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/ML/ErfGELU.lean": {
+    "checkedAt": "2026-11-12T01:37:06.608Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Core.Dyadic"
+    ]
+  },
+  "LeanCert/ML/IntervalVector.lean": {
+    "checkedAt": "2026-11-12T01:37:29.149Z",
+    "collisions": [
+      "LeanCert.Core.Dyadic",
+      "LeanCert.ML.IntervalVector.relu"
+    ]
+  },
+  "LeanCert/ML/LayerNormAffine.lean": {
+    "checkedAt": "2026-11-12T01:38:06.024Z",
+    "collisions": [
+      "LeanCert.Core.Dyadic"
+    ]
+  },
+  "LeanCert/ML/Optimized/QuantizedLayer.lean": {
+    "checkedAt": "2026-11-12T01:38:08.936Z",
+    "collisions": [
+      "LeanCert.Core.Dyadic",
+      "LeanCert.ML.Optimized.dotProductInt"
+    ]
+  },
+  "LeanCert/ML/Softmax.lean": {
+    "checkedAt": "2026-11-12T01:38:30.248Z",
+    "collisions": [
+      "LeanCert.Core.Dyadic",
+      "LeanCert.ML.Softmax.expVector",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Tactic/IntervalAuto/Norm.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T01:46:58.895Z",
+    "collisions": [
+      "LeanCert.Tactic.Auto.rpow_one_half_eq_sqrt",
+      "LeanCert.Tactic.Auto.rpow_inv_two_eq_sqrt",
+      "LeanCert.Tactic.Auto.rpow_three_halves_eq_mul_sqrt",
+      "LeanCert.Tactic.Auto.rpow_one_point_five_eq_mul_sqrt"
+    ]
+  },
+  "LeanCert/Test/ReleaseTest.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T01:47:20.312Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Validity/DirectedLimit.lean": {
+    "checkedAt": "2026-11-12T01:47:25.271Z",
+    "collisions": [
+      "LeanCert.Validity.checkLimitInterval"
+    ]
+  },
+  "LeanCert/ANT/Asymp/Checkers.lean": {
+    "checkedAt": "2026-11-12T01:08:39.506Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/ANT/Asymp/Hyperbola.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T01:12:25.538Z"
+  },
+  "LeanCert/Analysis/DBN/CanonicalProduct.lean": {
+    "checkedAt": "2026-11-12T01:12:52.819Z",
+    "collisions": [
+      "Real.pow_div_one_sub_le_two_mul",
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.kernelTerm"
+    ]
+  },
+  "LeanCert/Analysis/DBN/HeatKernel.lean": {
+    "checkedAt": "2026-11-12T01:13:14.057Z",
+    "collisions": [
+      "LeanCert.Analysis.DBN.kernelTerm",
+      "LeanCert.Analysis.SeriesTail.of_majorant",
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/KernelObstruction.lean": {
+    "checkedAt": "2026-11-12T01:13:19.357Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/KernelRegularity.lean": {
+    "checkedAt": "2026-11-12T01:13:20.786Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/RealZeros.lean": {
+    "checkedAt": "2026-11-12T01:14:47.973Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le"
+    ]
+  },
+  "LeanCert/Analysis/DBN/XiIdentity.lean": {
+    "checkedAt": "2026-11-12T01:16:50.660Z",
+    "collisions": [
+      "LeanCert.Analysis.pow_mul_exp_neg_le",
+      "LeanCert.Analysis.DBN.thetaTerm"
+    ]
+  },
+  "LeanCert/Analysis/DBN/ZeroLimit.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T01:18:05.759Z",
+    "collisions": [
+      "Complex.Hadamard.analyticOrderAt_ne_top_of_exists_ne_zero"
+    ]
+  },
+  "LeanCert/Analysis/GaussianMoments.lean": {
+    "checkedAt": "2026-11-12T01:18:10.080Z",
+    "collisions": [
+      "LeanCert.Analysis.integrableOn_gaussian_moment"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/AbsMax.lean": {
+    "checkedAt": "2026-11-12T01:18:10.370Z",
+    "collisions": [
+      "Complex.norm_le_of_mem_ball_of_forall_sphere_norm_le"
+    ]
+  },
+  "LeanCert/Analysis/HadamardSupport/Analysis/Complex/DivisorQuotientRemovable.lean": {
+    "checkedAt": "2026-11-12T01:18:11.805Z",
+    "collisions": [
+      "Real.pow_div_one_sub_le_two_mul"
+    ]
+  },
+  "LeanCert/Core/CertifiedCellDomain.lean": {
+    "checkedAt": "2026-11-12T01:18:12.188Z",
+    "collisions": [
+      "LeanCert.Core.CertifiedCellDomain"
+    ]
+  },
+  "LeanCert/Core/DerivativeIntervals.lean": {
+    "checkedAt": "2026-11-12T01:18:13.313Z",
+    "collisions": [
+      "LeanCert.Core.DerivativeIntervals.exp_deriv_pos",
+      "LeanCert.Core.DerivativeIntervals.exp_strictMono",
+      "LeanCert.Core.DerivativeIntervals.exp_deriv_interval",
+      "LeanCert.Core.DerivativeIntervals.log_deriv_eq_inv",
+      "LeanCert.Core.DerivativeIntervals.log_strictMonoOn",
+      "LeanCert.Core.DerivativeIntervals.arctan_deriv_eq",
+      "LeanCert.Core.DerivativeIntervals.arctan_strictMono",
+      "LeanCert.Core.DerivativeIntervals.arsinh_deriv_eq",
+      "LeanCert.Core.DerivativeIntervals.sqrt_one_add_sq_ge_one",
+      "LeanCert.Core.DerivativeIntervals.sqrt_one_add_sq_pos",
+      "LeanCert.Core.DerivativeIntervals.arsinh_strictMono",
+      "LeanCert.Core.DerivativeIntervals.sin_deriv_eq",
+      "LeanCert.Core.DerivativeIntervals.cos_deriv_eq",
+      "LeanCert.Core.DerivativeIntervals.sinh_deriv_eq",
+      "LeanCert.Core.DerivativeIntervals.sinh_strictMono",
+      "LeanCert.Core.DerivativeIntervals.cosh_deriv_eq",
+      "LeanCert.Core.DerivativeIntervals.cosh_strictAntiOn_nonpos",
+      "LeanCert.Core.DerivativeIntervals.cosh_strictMonoOn_nonneg",
+      "LeanCert.Core.OneSidedTaylor.one_le_exp_of_nonneg",
+      "LeanCert.Core.OneSidedTaylor.one_add_le_exp",
+      "LeanCert.Core.OneSidedTaylor.add_one_le_exp'",
+      "LeanCert.Core.OneSidedTaylor.monotoneOn_of_deriv_nonneg",
+      "LeanCert.Core.OneSidedTaylor.strictMonoOn_of_deriv_pos",
+      "LeanCert.Core.OneSidedTaylor.antitoneOn_of_deriv_nonpos",
+      "LeanCert.Core.OneSidedTaylor.strictAntiOn_of_deriv_neg"
+    ]
+  },
+  "LeanCert/Core/DyadicFrontier.lean": {
+    "checkedAt": "2026-11-12T01:18:25.593Z",
+    "collisions": [
+      "LeanCert.Core.IntervalDyadic.ValueEq",
+      "LeanCert.Core.Dyadic"
+    ]
+  },
+  "LeanCert/Core/DyadicLimit.lean": {
+    "checkedAt": "2026-11-12T01:18:53.827Z",
+    "collisions": [
+      "LeanCert.Core.IntervalDyadic.ValueEq",
+      "LeanCert.Core.Dyadic"
+    ]
+  },
+  "LeanCert/Core/IntervalRat/Transcendental.lean": {
+    "checkedAt": "2026-11-12T01:20:24.379Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Core.IntervalRat.ofRealEndpoints",
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Core/IntervalRealEndpoints.lean": {
+    "checkedAt": "2026-11-12T01:21:22.752Z",
+    "collisions": [
+      "LeanCert.Core.IntervalReal",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Core/LogBounds.lean": {
+    "checkedAt": "2026-11-12T01:21:46.066Z",
+    "collisions": [
+      "LeanCert.Core.log_lower_taylor",
+      "LeanCert.Core.log_ge'",
+      "LeanCert.Core.symmetricLogComb"
+    ]
+  },
+  "LeanCert/Core/Support.lean": {
+    "checkedAt": "2026-11-12T01:21:52.233Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Core/TrigReduction.lean": {
+    "checkedAt": "2026-11-12T01:21:54.873Z",
+    "collisions": [
+      "LeanCert.Core.TrigReduction.piRatLo",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/AD/Dyadic.lean": {
+    "checkedAt": "2026-11-12T01:22:16.956Z",
+    "collisions": [
+      "LeanCert.Core.Dyadic"
+    ]
+  },
+  "LeanCert/Engine/Affine/Nonlinear.lean": {
+    "checkedAt": "2026-11-12T01:22:31.174Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/Algebra/CubicCount.lean": {
+    "checkedAt": "2026-11-12T01:22:52.928Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Engine/Algebra/QCubic.lean": {
+    "checkedAt": "2026-11-12T01:22:54.386Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh",
+      "LeanCert.Engine.QCubic",
+      "LeanCert.Engine.Algebra.quadraticZeroSet",
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/Algebra/QPolyBernstein.lean": {
+    "checkedAt": "2026-11-12T01:23:14.292Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Engine.QPoly"
+    ]
+  },
+  "LeanCert/Engine/Algebra/QPolyIntegral.lean": {
+    "checkedAt": "2026-11-12T01:24:48.018Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Engine/Chebyshev/Theta.lean": {
+    "checkedAt": "2026-11-12T01:25:02.943Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/Eval/Core.lean": {
+    "checkedAt": "2026-11-12T02:44:02.278Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Engine/IntervalVector.lean": {
+    "checkedAt": "2026-11-12T02:45:54.923Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Core.Dyadic"
+    ]
+  },
+  "LeanCert/Engine/RootFinding/Bisection.lean": {
+    "checkedAt": "2026-11-12T02:47:26.722Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/RootFinding/MVTBounds.lean": {
+    "checkedAt": "2026-11-12T02:47:39.212Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/Engine/TaylorModel/Core.lean": {
+    "checkedAt": "2026-11-12T02:48:09.324Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Engine.truncPoly"
+    ]
+  },
+  "LeanCert/Engine/TaylorModel/ExpLog.lean": {
+    "checkedAt": "2026-11-12T02:50:27.639Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Engine.TaylorModel.expTaylorPoly"
+    ]
+  },
+  "LeanCert/Engine/TaylorModel/Expr.lean": {
+    "checkedAt": "2026-11-12T02:51:23.901Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Engine/TaylorModel/Hyperbolic.lean": {
+    "checkedAt": "2026-11-12T02:53:55.413Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Engine.TaylorModel.sinhTaylorCoeffs",
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Engine/TaylorModel/Log1p.lean": {
+    "checkedAt": "2026-11-12T03:00:39.357Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat",
+      "LeanCert.Core.TaylorApprox",
+      "LeanCert.Engine.TaylorModel.log1pTaylorCoeffs"
+    ]
+  },
+  "LeanCert/Engine/TaylorModel/Special.lean": {
+    "checkedAt": "2026-11-12T03:01:07.720Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  },
+  "LeanCert/QProduct/Differences.lean": {
+    "checkedAt": "2026-11-12T04:33:22.674Z",
+    "collisions": [
+      "LeanCert.QProduct.qProd",
+      "LeanCert.QProduct.one_sub_mul_sum_pow_le"
+    ]
+  },
+  "LeanCert/Test/AffineCoverTest.lean": {
+    "checkedAt": "2026-11-12T04:34:01.832Z",
+    "collisions": [
+      "LeanCert.Core.Real.atanh"
+    ]
+  },
+  "LeanCert/Validity/Algebra.lean": {
+    "checkedAt": "2026-11-12T04:34:12.700Z",
+    "collisions": [
+      "LeanCert.Engine.QPoly",
+      "LeanCert.Core.Real.atanh",
+      "LeanCert.Engine.Algebra.quadraticZeroSet"
+    ]
+  },
+  "LeanCert/Validity/Integration.lean": {
+    "checkedAt": "2026-11-12T04:34:42.201Z",
+    "collisions": [
+      "LeanCert.Core.IntervalRat"
+    ]
+  }
+}
