@@ -1324,5 +1324,81 @@
     "collisions": [
       "OAI.FourierLLogL.Torus"
     ]
+  },
+  "OAI/Analysis/FourierLLogL/Procedure/Counts.lean": {
+    "checkedAt": "2026-11-12T00:41:57.452Z",
+    "collisions": [
+      "OAI.FourierLLogL.Law"
+    ]
+  },
+  "OAI/Analysis/FourierLLogL/Procedure/Fork.lean": {
+    "checkedAt": "2026-11-12T00:42:21.161Z",
+    "collisions": [
+      "OAI.FourierLLogL.Period.box",
+      "OAI.FourierLLogL.Law"
+    ]
+  },
+  "OAI/Analysis/FourierLLogL/Procedure/Likelihood.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T00:46:46.874Z"
+  },
+  "OAI/Analysis/FourierLLogL/Procedure/Play.lean": {
+    "checkedAt": "2026-11-12T00:47:07.981Z",
+    "collisions": [
+      "OAI.FourierLLogL.Period.box",
+      "OAI.FourierLLogL.Law"
+    ]
+  },
+  "OAI/Analysis/FourierLLogL/Snapshot/Activate.lean": {
+    "checkedAt": "2026-11-12T00:51:35.601Z",
+    "collisions": [
+      "OAI.FourierLLogL.Period.box",
+      "OAI.FourierLLogL.Law"
+    ]
+  },
+  "OAI/Analysis/FourierLLogL/Snapshot/Difference.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T00:56:14.805Z"
+  },
+  "OAI/Analysis/FourierLLogL/Snapshot/Representative.lean": {
+    "checkedAt": "2026-11-12T00:56:24.314Z",
+    "collisions": [
+      "OAI.FourierLLogL.Period.box",
+      "OAI.FourierLLogL.Law",
+      "OAI.FourierLLogL.Period.unitInt"
+    ]
+  },
+  "OAI/Analysis/FourierLLogL/Thermal/Order.lean": {
+    "checkedAt": "2026-11-12T01:01:10.339Z",
+    "collisions": [
+      "OAI.FourierLLogL.Period.box",
+      "OAI.FourierLLogL.Period.unitInt",
+      "OAI.FourierLLogL.Law"
+    ]
+  },
+  "OAI/Analysis/FourierLLogL/Thermal/Spatial.lean": {
+    "checkedAt": "2026-11-12T01:03:14.735Z",
+    "collisions": [
+      "OAI.FourierLLogL.Period.unitInt",
+      "OAI.FourierLLogL.Law"
+    ]
+  },
+  "OAI/Analysis/FourierLLogL/Thermal/True.lean": {
+    "checkedAt": "2026-11-12T01:06:53.054Z",
+    "collisions": [
+      "OAI.FourierLLogL.Law"
+    ]
+  },
+  "OAI/Analysis/FourierLLogL/Weak/Endpoint.lean": {
+    "checkedAt": "2026-11-12T00:42:51.046Z",
+    "collisions": [
+      "OAI.FourierLLogL.Torus"
+    ]
+  },
+  "OAI/Analysis/FourierLLogL/Weak/Quantile.lean": {
+    "checkedAt": "2026-11-12T00:43:14.726Z",
+    "collisions": [
+      "OAI.FourierLLogL.Torus"
+    ]
   }
 }
