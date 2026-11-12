@@ -1,0 +1,887 @@
+{
+  "Schoenflies/BoundaryCycles.lean": {
+    "checkedAt": "2026-11-12T08:09:09.228Z",
+    "collisions": [
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/Bounded.lean": {
+    "checkedAt": "2026-11-12T08:09:54.158Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/CrosscutCells.lean": {
+    "checkedAt": "2026-11-12T08:09:57.309Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/FiniteTransferTarget.lean": {
+    "checkedAt": "2026-11-12T08:11:14.301Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/FreshDenseSelection.lean": {
+    "checkedAt": "2026-11-12T10:03:38.427Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Graph/Cycle.lean": {
+    "checkedAt": "2026-11-12T10:18:12.010Z",
+    "collisions": [
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/Graph/K33Land.lean": {
+    "checkedAt": "2026-11-12T10:19:10.167Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/GridAttach.lean": {
+    "checkedAt": "2026-11-12T10:40:02.141Z",
+    "collisions": [
+      "Graph.SameLinks",
+      "Graph.coveredVertices",
+      "Graph.mem_deleteVerts_singleton",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/LimitMap.lean": {
+    "checkedAt": "2026-11-12T10:58:40.811Z",
+    "collisions": [
+      "Graph.IsWalk.map",
+      "Schoenflies.Plane",
+      "Schoenflies.CellStructure.LimitTower"
+    ]
+  },
+  "Schoenflies/Parity.lean": {
+    "checkedAt": "2026-11-12T11:03:22.690Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.hgt"
+    ]
+  },
+  "Schoenflies/PolyLocal.lean": {
+    "checkedAt": "2026-11-12T11:05:40.017Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/PolygonBridge.lean": {
+    "checkedAt": "2026-11-12T11:06:07.802Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.hgt",
+      "Schoenflies.triangle"
+    ]
+  },
+  "Schoenflies/Polygonal.lean": {
+    "checkedAt": "2026-11-12T11:08:45.995Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/PrePolygonArc.lean": {
+    "checkedAt": "2026-11-12T11:08:52.205Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.PrePolygon.chain",
+      "Schoenflies.PrePolygon"
+    ]
+  },
+  "Schoenflies/QuantitativeForwardStages.lean": {
+    "checkedAt": "2026-11-12T11:17:01.474Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/SegmentOrder.lean": {
+    "checkedAt": "2026-11-12T11:55:43.748Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/SquareCycle.lean": {
+    "checkedAt": "2026-11-12T11:55:51.611Z",
+    "collisions": [
+      "Graph.coveredVertices",
+      "Graph.IsIncWalk",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/StripLocal.lean": {
+    "checkedAt": "2026-11-12T11:59:37.717Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/AlternatingCrosscuts.lean": {
+    "checkedAt": "2026-11-12T08:08:30.208Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/CommonSubdivision.lean": {
+    "checkedAt": "2026-11-12T08:11:04.947Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/CrosscutAtMostTwo.lean": {
+    "checkedAt": "2026-11-12T08:36:05.430Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Graph/K33.lean": {
+    "checkedAt": "2026-11-12T08:36:43.527Z",
+    "collisions": [
+      "Graph.IsK33Config",
+      "Graph.coveredVertices",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Graph/Relabel.lean": {
+    "checkedAt": "2026-11-12T08:37:38.009Z",
+    "collisions": [
+      "Graph.relabelEdges",
+      "Graph.coveredVertices",
+      "Graph.Finite",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Graph/Walk.lean": {
+    "checkedAt": "2026-11-12T08:37:48.651Z",
+    "collisions": [
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/InitialPairFixed.lean": {
+    "checkedAt": "2026-11-12T08:41:03.854Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.IsSetHomeoOn",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/JordanSeparates.lean": {
+    "checkedAt": "2026-11-12T10:14:07.311Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.Plane.axisVec"
+    ]
+  },
+  "Schoenflies/Line.lean": {
+    "checkedAt": "2026-11-12T10:17:44.761Z",
+    "collisions": [
+      "Schoenflies.exists_Ioo_eq_connectedComponentIn",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/MatchedArc.lean": {
+    "checkedAt": "2026-11-12T10:17:52.062Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Plane.lean": {
+    "checkedAt": "2026-11-12T10:18:02.181Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Realization.lean": {
+    "checkedAt": "2026-11-12T10:18:09.289Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.PrePolygon",
+      "Schoenflies.segment_inter_shared"
+    ]
+  },
+  "Schoenflies/RefinementStars.lean": {
+    "checkedAt": "2026-11-12T10:22:07.548Z",
+    "collisions": [
+      "Graph.IsWalk.map",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/SourceAttachment.lean": {
+    "checkedAt": "2026-11-12T10:24:03.521Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/SquareMesh.lean": {
+    "checkedAt": "2026-11-12T11:46:34.713Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.ringSet"
+    ]
+  },
+  "Schoenflies/SquareMeshClosed.lean": {
+    "checkedAt": "2026-11-12T11:49:13.812Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.ringSet",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/Strip.lean": {
+    "checkedAt": "2026-11-12T12:04:32.098Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.Plane.cone"
+    ]
+  },
+  "Schoenflies/ArcComplementPrep.lean": {
+    "checkedAt": "2026-11-12T08:11:07.268Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.Plane.sqNE"
+    ]
+  },
+  "Schoenflies/ArcMonotone.lean": {
+    "checkedAt": "2026-11-12T08:13:13.368Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/CellulationInvariants.lean": {
+    "checkedAt": "2026-11-12T08:13:31.035Z",
+    "collisions": [
+      "Graph.IsWalk.map",
+      "Schoenflies.Plane",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/Direction.lean": {
+    "checkedAt": "2026-11-12T09:29:32.835Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Graph/Drawing.lean": {
+    "checkedAt": "2026-11-12T09:29:55.561Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Graph/Ear.lean": {
+    "checkedAt": "2026-11-12T09:30:03.826Z",
+    "collisions": [
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/Graph/OuterFace.lean": {
+    "checkedAt": "2026-11-12T09:30:10.691Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Graph/RelativeEar.lean": {
+    "checkedAt": "2026-11-12T09:30:15.209Z",
+    "collisions": [
+      "Graph.mem_vertexSet_of_inc_of_mem_edgeSet",
+      "Graph.eq_of_le_of_subset_subset",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/Graph/TwoPaths.lean": {
+    "checkedAt": "2026-11-12T09:30:39.846Z",
+    "collisions": [
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/Graph/VertexSquares.lean": {
+    "checkedAt": "2026-11-12T09:30:40.250Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/InitialOuterCycle.lean": {
+    "checkedAt": "2026-11-12T09:30:50.574Z",
+    "collisions": [
+      "Schoenflies.IsSetHomeoOn",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/InitialReverseTransfer.lean": {
+    "checkedAt": "2026-11-12T09:32:07.560Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/LocalGrid.lean": {
+    "checkedAt": "2026-11-12T09:35:09.127Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.coveredVertices",
+      "Schoenflies.uniformCoord"
+    ]
+  },
+  "Schoenflies/OverlayExtension.lean": {
+    "checkedAt": "2026-11-12T09:36:14.386Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/ParitySplitting.lean": {
+    "checkedAt": "2026-11-12T09:37:33.491Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/PolyPath.lean": {
+    "checkedAt": "2026-11-12T09:41:39.136Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/PolygonalJordan.lean": {
+    "checkedAt": "2026-11-12T09:41:59.464Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/RealizeSubdiv.lean": {
+    "checkedAt": "2026-11-12T09:46:56.808Z",
+    "collisions": [
+      "Schoenflies.uIcc_union_uIcc",
+      "Schoenflies.uIcc_inter_uIcc",
+      "Schoenflies.uIcc_left_subset",
+      "Schoenflies.uIcc_right_subset",
+      "Schoenflies.Plane",
+      "Schoenflies.uIcc_zero_one",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/RealizeSubdivHomeo.lean": {
+    "checkedAt": "2026-11-12T09:56:49.988Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/SkeletonAccess.lean": {
+    "checkedAt": "2026-11-12T09:58:58.426Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/SourceOverlay.lean": {
+    "checkedAt": "2026-11-12T10:02:19.606Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/SquareMeshConnected.lean": {
+    "checkedAt": "2026-11-12T10:55:48.561Z",
+    "collisions": [
+      "Graph.coveredVertices",
+      "Graph.mem_deleteVerts_singleton",
+      "Schoenflies.Plane",
+      "Graph.attachUnion"
+    ]
+  },
+  "Schoenflies/StageTower.lean": {
+    "checkedAt": "2026-11-12T10:56:50.819Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/StageTransition.lean": {
+    "checkedAt": "2026-11-12T11:02:11.832Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/StripConstants.lean": {
+    "checkedAt": "2026-11-12T11:04:20.409Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/TargetOverlay.lean": {
+    "checkedAt": "2026-11-12T11:05:35.774Z",
+    "collisions": [
+      "Graph.coveredVertices",
+      "Graph.Finite",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Accessible.lean": {
+    "checkedAt": "2026-11-12T08:09:02.372Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/AccessibleJoin.lean": {
+    "checkedAt": "2026-11-12T08:09:13.170Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/BoundaryContinuity.lean": {
+    "checkedAt": "2026-11-12T08:10:28.621Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/BoundaryCyclesGenerated.lean": {
+    "checkedAt": "2026-11-12T08:11:10.566Z",
+    "collisions": [
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/CombinatorialInvariance.lean": {
+    "checkedAt": "2026-11-12T08:14:47.128Z",
+    "collisions": [
+      "Graph.coveredVertices",
+      "Graph.mem_deleteVerts_singleton",
+      "Graph.map_deleteVerts_singleton",
+      "Graph.map_map_invFunOn",
+      "Schoenflies.Plane",
+      "Schoenflies.CellStructure"
+    ]
+  },
+  "Schoenflies/FaceCyclesProof.lean": {
+    "checkedAt": "2026-11-12T08:15:26.471Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/FiniteTransfer.lean": {
+    "checkedAt": "2026-11-12T08:24:33.070Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.CellStructure.Realization.IsWeaklyAdmissible",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/GeneralCrosscut.lean": {
+    "checkedAt": "2026-11-12T10:01:57.071Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Graph/Component.lean": {
+    "checkedAt": "2026-11-12T10:04:17.093Z",
+    "collisions": [
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/Graph/K33Closed.lean": {
+    "checkedAt": "2026-11-12T10:04:49.849Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.ClosedPolygon.reverse",
+      "Schoenflies.segment_inter_shared"
+    ]
+  },
+  "Schoenflies/Graph/PathGraph.lean": {
+    "checkedAt": "2026-11-12T10:19:24.560Z",
+    "collisions": [
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/InitialPair.lean": {
+    "checkedAt": "2026-11-12T10:19:55.004Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.IsSetHomeoOn",
+      "Graph.IsWalk.map",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/Jordan.lean": {
+    "checkedAt": "2026-11-12T11:03:14.944Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.exists_windows",
+      "Schoenflies.uIcc_inter_uIcc_mid"
+    ]
+  },
+  "Schoenflies/OuterChain.lean": {
+    "checkedAt": "2026-11-12T11:12:33.748Z",
+    "collisions": [
+      "Graph.mem_deleteVerts_singleton",
+      "Graph.coveredVertices",
+      "Graph.chainUnion",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/OuterChainClosed.lean": {
+    "checkedAt": "2026-11-12T11:23:25.135Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Overlay.lean": {
+    "checkedAt": "2026-11-12T11:23:25.702Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/SkeletonSectors.lean": {
+    "checkedAt": "2026-11-12T11:23:32.019Z",
+    "collisions": [
+      "Schoenflies.exists_greatest_of_finite",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/SquareMeshFixed.lean": {
+    "checkedAt": "2026-11-12T11:30:27.219Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/Subarc.lean": {
+    "checkedAt": "2026-11-12T11:33:26.394Z",
+    "collisions": [
+      "Schoenflies.reparam",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/UniformBound.lean": {
+    "checkedAt": "2026-11-12T11:33:44.391Z",
+    "collisions": [
+      "Schoenflies.exists_pos_le_of_finite"
+    ]
+  },
+  "Schoenflies/Concatenate.lean": {
+    "checkedAt": "2026-11-12T08:06:20.301Z",
+    "collisions": [
+      "Schoenflies.lowerHalf",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Curve.lean": {
+    "checkedAt": "2026-11-12T08:06:29.551Z",
+    "collisions": [
+      "Schoenflies.IsArc",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Endgame.lean": {
+    "checkedAt": "2026-11-12T08:06:36.832Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/FaceCyclesLand.lean": {
+    "checkedAt": "2026-11-12T08:14:26.916Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Graph/CycleJordan.lean": {
+    "checkedAt": "2026-11-12T08:16:38.846Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/Graph/Degree.lean": {
+    "checkedAt": "2026-11-12T08:16:54.103Z",
+    "collisions": [
+      "Graph.Finite"
+    ]
+  },
+  "Schoenflies/Graph/Tree.lean": {
+    "checkedAt": "2026-11-12T08:17:05.252Z",
+    "collisions": [
+      "Graph.coveredVertices",
+      "Graph.IsTree"
+    ]
+  },
+  "Schoenflies/InitialGenerated.lean": {
+    "checkedAt": "2026-11-12T08:17:27.055Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.IsWalk.map",
+      "Schoenflies.IsSetHomeoOn"
+    ]
+  },
+  "Schoenflies/InteriorHomeomorphism.lean": {
+    "checkedAt": "2026-11-12T09:09:49.164Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Inversion.lean": {
+    "checkedAt": "2026-11-12T09:25:16.617Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/LocallyPolygonal.lean": {
+    "checkedAt": "2026-11-12T09:32:16.592Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.exists_pos_le_of_finite"
+    ]
+  },
+  "Schoenflies/PolygonalCarrier.lean": {
+    "checkedAt": "2026-11-12T09:32:28.402Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/PolygonalCrosscut.lean": {
+    "checkedAt": "2026-11-12T09:32:34.016Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.farRegion"
+    ]
+  },
+  "Schoenflies/PrePolygonSep.lean": {
+    "checkedAt": "2026-11-12T09:41:54.362Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/QuantitativeRecursion.lean": {
+    "checkedAt": "2026-11-12T09:45:08.628Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.QuantitativeSchedule",
+      "Schoenflies.Plane.eq_of_supDist_eq_zero"
+    ]
+  },
+  "Schoenflies/SegmentCut.lean": {
+    "checkedAt": "2026-11-12T10:15:02.484Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/SourceJoining.lean": {
+    "checkedAt": "2026-11-12T10:15:03.762Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/Square.lean": {
+    "checkedAt": "2026-11-12T11:24:12.527Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/StripConnected.lean": {
+    "checkedAt": "2026-11-12T11:24:25.940Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.isConnected_iUnion_zmod"
+    ]
+  },
+  "Schoenflies/Subdivide.lean": {
+    "checkedAt": "2026-11-12T11:25:51.220Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Topology.lean": {
+    "checkedAt": "2026-11-12T11:25:58.231Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/TwoArcs.lean": {
+    "checkedAt": "2026-11-12T11:25:59.354Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.IsLoop.front_subset_I",
+      "Schoenflies.IsLoop.middle_subset_I",
+      "Schoenflies.IsLoop.back_subset_I",
+      "Schoenflies.IsLoop.parameters_split"
+    ]
+  },
+  "Schoenflies/Windows.lean": {
+    "checkedAt": "2026-11-12T11:26:09.728Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.supRadius"
+    ]
+  },
+  "Schoenflies/ArcCollars.lean": {
+    "checkedAt": "2026-11-12T08:09:09.375Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.PolyArc"
+    ]
+  },
+  "Schoenflies/ArcComplement.lean": {
+    "checkedAt": "2026-11-12T08:19:06.073Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.Plane.supDist_eq_max",
+      "Schoenflies.segGraph"
+    ]
+  },
+  "Schoenflies/BoundaryAnchors.lean": {
+    "checkedAt": "2026-11-12T08:30:23.053Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/BoundaryContinuity2.lean": {
+    "checkedAt": "2026-11-12T08:38:43.609Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Compose.lean": {
+    "checkedAt": "2026-11-12T09:01:23.176Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/CrosscutEncloses.lean": {
+    "checkedAt": "2026-11-12T09:01:36.846Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/CrosscutExists.lean": {
+    "checkedAt": "2026-11-12T09:07:28.162Z",
+    "collisions": [
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/FaceCycles.lean": {
+    "checkedAt": "2026-11-12T09:08:12.544Z",
+    "collisions": [
+      "Graph.coveredVertices",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/FiniteTransferTargetMesh.lean": {
+    "checkedAt": "2026-11-12T09:09:38.826Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.Finite"
+    ]
+  },
+  "Schoenflies/FreshAccess.lean": {
+    "checkedAt": "2026-11-12T09:10:16.717Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/GeneratedStructure.lean": {
+    "checkedAt": "2026-11-12T09:10:52.015Z",
+    "collisions": [
+      "Schoenflies.subdivGraph",
+      "Graph.IsWalk.map",
+      "Graph.coveredVertices",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Graph/K33Planar.lean": {
+    "checkedAt": "2026-11-12T09:16:52.503Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Graph/Redrawing.lean": {
+    "checkedAt": "2026-11-12T09:22:27.258Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/Graph/TwoConnected.lean": {
+    "checkedAt": "2026-11-12T09:22:43.396Z",
+    "collisions": [
+      "Graph.mem_deleteVerts_singleton",
+      "Graph.deleteVerts_singleton_eq_self",
+      "Graph.deleteVerts_mono",
+      "Graph.coveredVertices",
+      "Graph.IsCutVertex"
+    ]
+  },
+  "Schoenflies/JordanClosed.lean": {
+    "checkedAt": "2026-11-12T09:25:04.727Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/MatchedSplit.lean": {
+    "checkedAt": "2026-11-12T09:33:09.956Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/ModelCurve.lean": {
+    "checkedAt": "2026-11-12T09:39:00.492Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.segment_one_neg_one",
+      "Schoenflies.segment_neg_one_one"
+    ]
+  },
+  "Schoenflies/OverlayGraph.lean": {
+    "checkedAt": "2026-11-12T09:39:19.627Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/PolyArcRealize.lean": {
+    "checkedAt": "2026-11-12T09:39:35.670Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Schoenflies.skipIdx"
+    ]
+  },
+  "Schoenflies/QuantitativeStages.lean": {
+    "checkedAt": "2026-11-12T09:44:37.364Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/RealizeSplit.lean": {
+    "checkedAt": "2026-11-12T10:02:00.297Z",
+    "collisions": [
+      "Graph.coveredVertices",
+      "Graph.mem_deleteVerts_singleton",
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/SegmentMeet.lean": {
+    "checkedAt": "2026-11-12T10:34:20.846Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/SimpleArc.lean": {
+    "checkedAt": "2026-11-12T10:34:21.412Z",
+    "collisions": [
+      "Schoenflies.Plane",
+      "Graph.coveredVertices"
+    ]
+  },
+  "Schoenflies/SkeletonLocal.lean": {
+    "checkedAt": "2026-11-12T10:35:24.065Z",
+    "collisions": [
+      "Schoenflies.Plane"
+    ]
+  },
+  "Schoenflies/SquareMover.lean": {
+    "checkedAt": "2026-11-12T10:37:20.028Z",
+    "collisions": [
+      "Schoenflies.Plane.tent",
+      "Schoenflies.Plane"
+    ]
+  }
+}
