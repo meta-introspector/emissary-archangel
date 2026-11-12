@@ -1,0 +1,38 @@
+{
+  "key": "abel-formalization",
+  "repo": "https://github.com/archernikov/abel-formalization",
+  "commit": "e5c3d233c4bd4220ec3b8e52a05ff6e42c2ef3a3",
+  "toolchain": "leanprover/lean4:v4.34.0-rc2",
+  "roots": [
+    "AbelFormalization",
+    "Challenge",
+    "Solution"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/abel-formalization/repo",
+  "entries": 7813,
+  "modules": 830,
+  "exported": 830,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 42,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 7813,
+    "kept": 7813,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 1275,
+    "lineUnverified": 87,
+    "nameFixed": 7813,
+    "sorryOriginals": 0,
+    "emptyProofs": 7
+  },
+  "exportsBytes": 1259671552,
+  "minutes": 70,
+  "finishedAt": "2026-11-12T17:33:34.547Z"
+}
