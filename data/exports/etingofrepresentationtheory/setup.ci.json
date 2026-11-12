@@ -1,0 +1,106 @@
+{
+  "key": "etingofrepresentationtheory",
+  "repo": "https://github.com/mathlib-initiative/EtingofRepresentationTheory",
+  "commit": "752fe269b3233f08f0795aa4bcdc5b4c84be7a50",
+  "toolchain": "leanprover/lean4:v4.32.2",
+  "roots": [
+    "RepresentationTheory"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/etingofrepresentationtheory/repo",
+  "entries": 10823,
+  "modules": 758,
+  "exported": 745,
+  "failed": [
+    {
+      "module": "RepresentationTheory.AdjInputSetCardinalities",
+      "why": "no closure"
+    },
+    {
+      "module": "RepresentationTheory.AlternatingTensorSquare",
+      "why": "no closure"
+    },
+    {
+      "module": "RepresentationTheory.Auxiliary.TensorProductGradedComparisons",
+      "why": "no closure"
+    },
+    {
+      "module": "RepresentationTheory.CosetPermutationActions",
+      "why": "no closure"
+    },
+    {
+      "module": "RepresentationTheory.FiniteGroupDegreeFiveCharacters",
+      "why": "no closure"
+    },
+    {
+      "module": "RepresentationTheory.FiniteGroupRepresentation",
+      "why": "no closure"
+    },
+    {
+      "module": "RepresentationTheory.Group.AlternatingGroupFin5Classification",
+      "why": "no closure"
+    },
+    {
+      "module": "RepresentationTheory.Group.OuterAutomorphismTwist",
+      "why": "no closure"
+    },
+    {
+      "module": "RepresentationTheory.Group.SmallRepresentationData",
+      "why": "no closure"
+    },
+    {
+      "module": "RepresentationTheory.IndexedPermutationFinsetAction",
+      "why": "no closure"
+    },
+    {
+      "module": "RepresentationTheory.LinearYonedaTensorProductComparison",
+      "why": "no closure"
+    },
+    {
+      "module": "RepresentationTheory.RepresentationTensorDecompositions",
+      "why": "no closure"
+    },
+    {
+      "module": "RepresentationTheory.TensorSquareSpectralDecomposition",
+      "why": "no closure"
+    }
+  ],
+  "expansion": {
+    "expanded": 5,
+    "verbatim": 13876,
+    "unexpanded": 0,
+    "failed": [
+      {
+        "module": "RepresentationTheory.DynkinDiagram.AffineClassification",
+        "why": "nd failed: lake env lean -M 12288 --run /home/runner/work/emissary-archangel/emissary-archangel/scripts/expand-notations.lean /home/runner/work/emissary-archangel/emissary-archangel/data/exports/etingofrepresentationtheory RepresentationTheory RepresentationTheory.DynkinDiagram.AffineClassification "
+      },
+      {
+        "module": "RepresentationTheory.FiniteGroupRepresentationExamples",
+        "why": "and failed: lake env lean -M 12288 --run /home/runner/work/emissary-archangel/emissary-archangel/scripts/expand-notations.lean /home/runner/work/emissary-archangel/emissary-archangel/data/exports/etingofrepresentationtheory RepresentationTheory RepresentationTheory.FiniteGroupRepresentationExamples "
+      },
+      {
+        "module": "RepresentationTheory.FiniteRotationGroups",
+        "why": "Command failed: lake env lean -M 12288 --run /home/runner/work/emissary-archangel/emissary-archangel/scripts/expand-notations.lean /home/runner/work/emissary-archangel/emissary-archangel/data/exports/etingofrepresentationtheory RepresentationTheory RepresentationTheory.FiniteRotationGroups "
+      },
+      {
+        "module": "RepresentationTheory.PermutationDegreeFour",
+        "why": "Command failed: lake env lean -M 12288 --run /home/runner/work/emissary-archangel/emissary-archangel/scripts/expand-notations.lean /home/runner/work/emissary-archangel/emissary-archangel/data/exports/etingofrepresentationtheory RepresentationTheory RepresentationTheory.PermutationDegreeFour "
+      }
+    ]
+  },
+  "seed": {
+    "records": 10823,
+    "kept": 10823,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 1578,
+    "lineUnverified": 19,
+    "nameFixed": 10600,
+    "sorryOriginals": 0,
+    "emptyProofs": 6
+  },
+  "exportsBytes": 807804928,
+  "minutes": 196,
+  "finishedAt": "2026-11-12T19:40:22.961Z"
+}
