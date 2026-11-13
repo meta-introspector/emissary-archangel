@@ -1,0 +1,1218 @@
+{
+  "AlbertLean/Characteristic03.lean": {
+    "checkedAt": "2026-11-13T03:15:08.111Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic21.lean": {
+    "checkedAt": "2026-11-13T03:15:08.779Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic23.lean": {
+    "checkedAt": "2026-11-13T03:15:09.443Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Compact/DualDictionary.lean": {
+    "checkedAt": "2026-11-13T03:15:12.352Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord08.lean": {
+    "checkedAt": "2026-11-13T03:23:05.007Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord17.lean": {
+    "checkedAt": "2026-11-13T03:23:05.915Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord19.lean": {
+    "checkedAt": "2026-11-13T03:23:06.822Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord22.lean": {
+    "checkedAt": "2026-11-13T03:23:07.737Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord24.lean": {
+    "checkedAt": "2026-11-13T03:23:08.647Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord26.lean": {
+    "checkedAt": "2026-11-13T03:23:09.548Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/ComplexNonzeroFrame.lean": {
+    "checkedAt": "2026-11-13T03:23:20.437Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/ComplexPairPolynomial.lean": {
+    "checkedAt": "2026-11-13T03:23:20.808Z",
+    "collisions": [
+      "AlbertLean.Generic.ComplexPairPolynomial.nu"
+    ]
+  },
+  "AlbertLean/Generic/ComplexRawFrameIdeal.lean": {
+    "checkedAt": "2026-11-13T03:23:21.841Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/CubicAutomorphism.lean": {
+    "checkedAt": "2026-11-13T03:23:28.235Z",
+    "collisions": [
+      "AlbertLean.Generic.CubicAutomorphism.polar"
+    ]
+  },
+  "AlbertLean/Generic/DetectorSeparation.lean": {
+    "checkedAt": "2026-11-13T03:23:31.277Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/FourRowProbeSeparation.lean": {
+    "checkedAt": "2026-11-13T03:23:53.930Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowProbeSeparation.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/FourRowSkew.lean": {
+    "checkedAt": "2026-11-13T03:23:57.559Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowSkew.Vec3"
+    ]
+  },
+  "AlbertLean/Generic/FourRowTomography.lean": {
+    "checkedAt": "2026-11-13T03:24:01.594Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowTomography.transposeVector"
+    ]
+  },
+  "AlbertLean/Generic/MatrixOperatorTrace.lean": {
+    "checkedAt": "2026-11-13T03:24:05.452Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/RawCompanionSeparation.lean": {
+    "checkedAt": "2026-11-13T03:24:10.050Z",
+    "collisions": [
+      "AlbertLean.Generic.RawCompanionSeparation.agreement_of_mem_generated_field"
+    ]
+  },
+  "AlbertLean/Generic/SignGaugeMatrices.lean": {
+    "checkedAt": "2026-11-13T03:24:11.604Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/SourceRingReflectionFormula.lean": {
+    "checkedAt": "2026-11-13T03:24:15.876Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/SourceStandardReflections.lean": {
+    "checkedAt": "2026-11-13T03:24:17.896Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/TensorDifferenceAlgebraicity.lean": {
+    "checkedAt": "2026-11-13T03:24:19.775Z",
+    "collisions": [
+      "AlbertLean.Generic.TensorDifferenceAlgebraicity.scalarRetraction"
+    ]
+  },
+  "AlbertLean/Generic/TensorDifferenceDescent.lean": {
+    "checkedAt": "2026-11-13T03:24:21.581Z",
+    "collisions": [
+      "AlbertLean.Generic.TensorDifferenceDescent.TensorSquare"
+    ]
+  },
+  "AlbertLean/Generic/TitsFrames.lean": {
+    "checkedAt": "2026-11-13T03:26:44.711Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/TwoCopyCoefficientDescent.lean": {
+    "checkedAt": "2026-11-13T03:26:45.213Z",
+    "collisions": [
+      "AlbertLean.Generic.TwoCopyCoefficientDescent.firstCopy"
+    ]
+  },
+  "AlbertLean/RegressionM06.lean": {
+    "checkedAt": "2026-11-13T03:27:01.558Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/SplitAlbert.lean": {
+    "checkedAt": "2026-11-13T03:27:07.784Z",
+    "collisions": [
+      "AlbertLean.Vec3"
+    ]
+  },
+  "AlbertLean/TauCetiBridge.lean": {
+    "checkedAt": "2026-11-13T03:27:08.161Z",
+    "collisions": [
+      "AlbertLean.Vec3"
+    ]
+  },
+  "AlbertLean/WitnessJoint01.lean": {
+    "checkedAt": "2026-11-13T03:27:28.805Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "FrameInvariants/Domain.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:27:32.690Z"
+  },
+  "FrameInvariants/GenericProofActions.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:28:50.713Z"
+  },
+  "FrameInvariants/GenericProofTransfer.lean": {
+    "checkedAt": "2026-11-13T03:28:51.097Z",
+    "collisions": [
+      "FrameInvariants.GenericTransfer.quadratic_basis"
+    ]
+  },
+  "OneBit/Statement.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:28:51.378Z"
+  },
+  "AlbertLean/Characteristic05.lean": {
+    "checkedAt": "2026-11-13T03:15:57.987Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic09.lean": {
+    "checkedAt": "2026-11-13T03:15:58.644Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic12.lean": {
+    "checkedAt": "2026-11-13T03:15:59.300Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic14.lean": {
+    "checkedAt": "2026-11-13T03:15:59.949Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic25.lean": {
+    "checkedAt": "2026-11-13T03:16:00.618Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Compact/CoordinateProof.lean": {
+    "checkedAt": "2026-11-13T03:16:57.439Z",
+    "collisions": [
+      "CompactOneBit.Coord"
+    ]
+  },
+  "AlbertLean/Compact/Dictionary.lean": {
+    "checkedAt": "2026-11-13T03:16:58.004Z",
+    "collisions": [
+      "AlbertLean.Scalar",
+      "CompactOneBit.Coord"
+    ]
+  },
+  "AlbertLean/CubicNorm/TraceDual.lean": {
+    "checkedAt": "2026-11-13T03:20:42.343Z",
+    "collisions": [
+      "AlbertLean.CubicNorm.traceToDual"
+    ]
+  },
+  "AlbertLean/DetectorIdentities.lean": {
+    "checkedAt": "2026-11-13T03:20:57.448Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/FrameLaws.lean": {
+    "checkedAt": "2026-11-13T03:21:28.832Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord00.lean": {
+    "checkedAt": "2026-11-13T03:21:45.610Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord06.lean": {
+    "checkedAt": "2026-11-13T03:21:46.542Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord11.lean": {
+    "checkedAt": "2026-11-13T03:21:47.471Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord15.lean": {
+    "checkedAt": "2026-11-13T03:21:48.391Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord20.lean": {
+    "checkedAt": "2026-11-13T03:21:49.309Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/ComplexDephasedPair.lean": {
+    "checkedAt": "2026-11-13T03:21:54.734Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/FiniteQuadraticRoots.lean": {
+    "checkedAt": "2026-11-13T03:21:57.280Z",
+    "collisions": [
+      "AlbertLean.Generic.FiniteQuadraticRoots.OneRootField"
+    ]
+  },
+  "AlbertLean/Generic/FourRowExample.lean": {
+    "checkedAt": "2026-11-13T03:21:58.964Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowExample.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/FourRowFrameReduction.lean": {
+    "checkedAt": "2026-11-13T03:22:02.392Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowFrameReduction.weighted_cslot_implies_anchored_equation",
+      "AlbertLean.Generic.FourRowFrameReduction.anchored_equation_implies_right_quadratic",
+      "AlbertLean.Generic.FourRowFrameReduction.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/FrameTransport.lean": {
+    "checkedAt": "2026-11-13T03:22:03.606Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/JordanPolarization.lean": {
+    "checkedAt": "2026-11-13T03:23:00.796Z",
+    "collisions": [
+      "AlbertLean.Generic.JordanPolarization.residual"
+    ]
+  },
+  "AlbertLean/Generic/MeasurementLedgerConverse.lean": {
+    "checkedAt": "2026-11-13T03:23:02.582Z",
+    "collisions": [
+      "AlbertLean.Generic.MeasurementLedgerConverse.uncentered_mem"
+    ]
+  },
+  "AlbertLean/Generic/OrthogonalConjugation.lean": {
+    "checkedAt": "2026-11-13T03:23:03.261Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/PeircePolynomial.lean": {
+    "checkedAt": "2026-11-13T03:23:05.701Z",
+    "collisions": [
+      "AlbertLean.Generic.PeircePolynomial.leftMul"
+    ]
+  },
+  "AlbertLean/Generic/PrimeKernelByFieldPoints.lean": {
+    "checkedAt": "2026-11-13T03:23:06.282Z",
+    "collisions": [
+      "AlbertLean.Generic.PrimeKernelByFieldPoints.radical_eq_ker_of_prime_field_squares"
+    ]
+  },
+  "AlbertLean/Generic/QuaternionFiniteQuadraticDiagnostic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:23:07.069Z"
+  },
+  "AlbertLean/Generic/QuaternionPolynomialFrameSchedule.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:23:12.336Z"
+  },
+  "AlbertLean/Generic/RationalResidualSourceFamily.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:23:15.682Z"
+  },
+  "AlbertLean/Generic/RationalTensorCircuit.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T03:28:57.637Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/RealPrimitiveFrameCoverage.lean": {
+    "checkedAt": "2026-11-13T03:29:31.230Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/ScalarMidpoint.lean": {
+    "checkedAt": "2026-11-13T03:29:42.733Z",
+    "collisions": [
+      "AlbertLean.Generic.ScalarMidpoint.PairTable"
+    ]
+  },
+  "AlbertLean/Generic/SignGaugeCocycle.lean": {
+    "checkedAt": "2026-11-13T03:29:43.941Z",
+    "collisions": [
+      "AlbertLean.Generic.RealRow.sign_ne_zero",
+      "AlbertLean.Generic.RealRow.sign_mul_self"
+    ]
+  },
+  "AlbertLean/Generic/SourceAutExtension.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:29:45.959Z"
+  },
+  "AlbertLean/Generic/SymplecticActualFrameCoverage.lean": {
+    "checkedAt": "2026-11-13T03:29:47.630Z",
+    "collisions": [
+      "AlbertLean.Generic.SymplecticProjectorFrame.intertwines_of_spanning_target"
+    ]
+  },
+  "AlbertLean/Generic/SymplecticProjectorFrame.lean": {
+    "checkedAt": "2026-11-13T03:29:47.969Z",
+    "collisions": [
+      "AlbertLean.Generic.SymplecticProjectorFrame.IsIdempotent"
+    ]
+  },
+  "AlbertLean/Generic/TitsLabelledLedger.lean": {
+    "checkedAt": "2026-11-13T03:29:50.790Z",
+    "collisions": [
+      "AlbertLean.Generic.SecondStatement.Coord"
+    ]
+  },
+  "AlbertLean/ProductTrace.lean": {
+    "checkedAt": "2026-11-13T03:29:51.562Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/RegressionLedger.lean": {
+    "checkedAt": "2026-11-13T03:29:52.213Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Residual/NormalizedRootSwap.lean": {
+    "checkedAt": "2026-11-13T03:29:53.917Z",
+    "collisions": [
+      "AlbertLean.Residual.NormalizedRootSwap.NormalizedResidualSection"
+    ]
+  },
+  "AlbertLean/Residual/TrialitySquares.lean": {
+    "checkedAt": "2026-11-13T03:29:58.574Z",
+    "collisions": [
+      "AlbertLean.Residual.TrialitySquares.sourceSquare"
+    ]
+  },
+  "FrameInvariants/FiniteProofs.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:29:59.802Z"
+  },
+  "FrameInvariants/GenericBridge.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:30:09.402Z"
+  },
+  "FrameInvariants/RawBridgeBase.lean": {
+    "checkedAt": "2026-11-13T03:33:15.151Z",
+    "collisions": [
+      "FrameInvariants.Polynomials"
+    ]
+  },
+  "OneBit/Closeout/MarginalRigidity.lean": {
+    "checkedAt": "2026-11-13T03:33:17.201Z",
+    "collisions": [
+      "OneBit.Closeout.family"
+    ]
+  },
+  "AlbertLean/Characteristic08.lean": {
+    "checkedAt": "2026-11-13T03:19:51.222Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic11.lean": {
+    "checkedAt": "2026-11-13T03:19:51.723Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic20.lean": {
+    "checkedAt": "2026-11-13T03:19:52.225Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic22.lean": {
+    "checkedAt": "2026-11-13T03:19:52.701Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic26.lean": {
+    "checkedAt": "2026-11-13T03:19:53.187Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/C0Polar.lean": {
+    "checkedAt": "2026-11-13T03:19:53.999Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord07.lean": {
+    "checkedAt": "2026-11-13T03:20:05.155Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord14.lean": {
+    "checkedAt": "2026-11-13T03:20:05.893Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord16.lean": {
+    "checkedAt": "2026-11-13T03:20:06.627Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/CommutatorGeometry.lean": {
+    "checkedAt": "2026-11-13T03:20:09.780Z",
+    "collisions": [
+      "AlbertLean.Generic.CommutatorGeometry.commutator_skewAdjoint",
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/ComplexGLParameterNaturality.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T03:27:45.128Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/ComplexPairSeed.lean": {
+    "checkedAt": "2026-11-13T03:27:46.240Z",
+    "collisions": [
+      "AlbertLean.Generic.ComplexPairSeed.X"
+    ]
+  },
+  "AlbertLean/Generic/CubicAutomorphismCompact.lean": {
+    "checkedAt": "2026-11-13T03:27:47.810Z",
+    "collisions": [
+      "AlbertLean.Scalar",
+      "CompactOneBit.Coord"
+    ]
+  },
+  "AlbertLean/Generic/DetectorScaling.lean": {
+    "checkedAt": "2026-11-13T03:29:01.204Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/FieldPointOpenWitness.lean": {
+    "checkedAt": "2026-11-13T03:29:19.385Z",
+    "collisions": [
+      "AlbertLean.Generic.FieldPointOpenWitness.not_isNilpotent_of_injective_witness"
+    ]
+  },
+  "AlbertLean/Generic/FourRowTrace.lean": {
+    "checkedAt": "2026-11-13T03:29:19.984Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowTrace.charpoly_coeff_two_eq_neg_trace",
+      "AlbertLean.Generic.FourRowTrace.eq_or_eq_or_eq_of_three_quadratic_roots"
+    ]
+  },
+  "AlbertLean/Generic/GenericNormalizedFrameChart.lean": {
+    "checkedAt": "2026-11-13T03:29:21.641Z",
+    "collisions": [
+      "AlbertLean.Generic.GenericNormalizedFrameChart.Parameters"
+    ]
+  },
+  "AlbertLean/Generic/GenericRootAwayTorsionFree.lean": {
+    "checkedAt": "2026-11-13T03:29:22.155Z",
+    "collisions": [
+      "AlbertLean.Generic.GenericRootAwayTorsionFree.away_isTorsionFree",
+      "AlbertLean.Generic.GenericRootAwayTorsionFree.QuadraticRootRing"
+    ]
+  },
+  "AlbertLean/Generic/LocalizedGridIdentity.lean": {
+    "checkedAt": "2026-11-13T03:29:24.133Z",
+    "collisions": [
+      "AlbertLean.Generic.LocalizedGridIdentity.Base"
+    ]
+  },
+  "AlbertLean/Generic/ParameterRootArithmetic.lean": {
+    "checkedAt": "2026-11-13T03:29:25.081Z",
+    "collisions": [
+      "AlbertLean.Generic.ParameterRootArithmetic.reciprocal_sum_eq_iff",
+      "AlbertLean.Generic.ParameterRootArithmetic.reciprocal_involutive"
+    ]
+  },
+  "AlbertLean/Generic/QuadraticDetectorAffine.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:29:27.678Z"
+  },
+  "AlbertLean/Generic/QuadraticNormTransport.lean": {
+    "checkedAt": "2026-11-13T03:29:29.534Z",
+    "collisions": [
+      "AlbertLean.Generic.QuadraticNormTransport.map"
+    ]
+  },
+  "AlbertLean/Generic/RationalChartCircuit.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:29:35.305Z"
+  },
+  "AlbertLean/Generic/RealCayleySignCover.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T03:29:55.610Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/RealFrameOrbitReconstruction.lean": {
+    "checkedAt": "2026-11-13T03:30:06.329Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/ResidualPowerMeasurements.lean": {
+    "checkedAt": "2026-11-13T03:30:10.090Z",
+    "collisions": [
+      "AlbertLean.Generic.ResidualPowerMeasurements.DiagIn"
+    ]
+  },
+  "AlbertLean/Generic/StandardTargetAdjoint.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:30:12.473Z"
+  },
+  "AlbertLean/Generic/Sym3JordanCoefficientMap.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:30:12.979Z"
+  },
+  "AlbertLean/Generic/Sym3PrimitiveDictionary.lean": {
+    "checkedAt": "2026-11-13T03:30:13.841Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/ThreeFrameCayleyLocalization.lean": {
+    "checkedAt": "2026-11-13T03:30:14.761Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3",
+      "AlbertLean.Generic.RealRow.ThreeFrameCayleyLocalization.baseEval",
+      "AlbertLean.Generic.RealRow.ThreeFrameCayleyLocalization.Base"
+    ]
+  },
+  "AlbertLean/Generic/ThreeFrameCayleyNaturality.lean": {
+    "checkedAt": "2026-11-13T03:30:17.711Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/TitsFrameEquivalence.lean": {
+    "checkedAt": "2026-11-13T03:30:18.158Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/RegressionM07.lean": {
+    "checkedAt": "2026-11-13T03:39:51.829Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/RegressionM07Data.lean": {
+    "checkedAt": "2026-11-13T03:39:55.903Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Residual/SL4PairAction.lean": {
+    "checkedAt": "2026-11-13T03:39:56.405Z",
+    "collisions": [
+      "AlbertLean.Residual.SL4PairAction.Mat4"
+    ]
+  },
+  "AlbertLean/Solution.lean": {
+    "checkedAt": "2026-11-13T03:40:15.028Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/WitnessData.lean": {
+    "checkedAt": "2026-11-13T03:40:22.695Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/WitnessJoint00.lean": {
+    "checkedAt": "2026-11-13T03:40:27.873Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "OneBit/Closeout/Inequivalence.lean": {
+    "checkedAt": "2026-11-13T03:40:28.228Z",
+    "collisions": [
+      "OneBit.Closeout.family",
+      "OneBit.Closeout.tripleForm"
+    ]
+  },
+  "OneBit/Closeout/Tensor.lean": {
+    "checkedAt": "2026-11-13T03:40:29.471Z",
+    "collisions": [
+      "OneBit.Closeout.tripleForm",
+      "OneBit.Closeout.family"
+    ]
+  },
+  "AlbertLean/Characteristic01.lean": {
+    "checkedAt": "2026-11-13T03:20:31.939Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic07.lean": {
+    "checkedAt": "2026-11-13T03:20:32.487Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic10.lean": {
+    "checkedAt": "2026-11-13T03:20:33.024Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic16.lean": {
+    "checkedAt": "2026-11-13T03:20:33.577Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic18.lean": {
+    "checkedAt": "2026-11-13T03:20:34.113Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Comparison/StructuredProductF0.lean": {
+    "checkedAt": "2026-11-13T03:20:34.666Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/CubicJordan.lean": {
+    "checkedAt": "2026-11-13T03:20:42.097Z",
+    "collisions": [
+      "CubicJordan.residual"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/All.lean": {
+    "checkedAt": "2026-11-13T03:20:43.373Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord02.lean": {
+    "checkedAt": "2026-11-13T03:20:43.715Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord04.lean": {
+    "checkedAt": "2026-11-13T03:20:44.526Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord13.lean": {
+    "checkedAt": "2026-11-13T03:20:45.340Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/ActionBridgeChecks.lean": {
+    "checkedAt": "2026-11-13T03:20:46.137Z",
+    "collisions": [
+      "AlbertLean.Generic.ActionBridgeChecks.sourcePair"
+    ]
+  },
+  "AlbertLean/Generic/BlockTrace.lean": {
+    "checkedAt": "2026-11-13T03:20:47.978Z",
+    "collisions": [
+      "AlbertLean.Generic.BlockTrace.trace_prod_blocks"
+    ]
+  },
+  "AlbertLean/Generic/ComplexGLFrame.lean": {
+    "checkedAt": "2026-11-13T03:21:36.184Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/ComplexGLGridIdentityTransport.lean": {
+    "checkedAt": "2026-11-13T03:21:39.619Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/ComplexMatrixDephasing.lean": {
+    "checkedAt": "2026-11-13T03:21:40.106Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/FiniteCoordinateExtension.lean": {
+    "checkedAt": "2026-11-13T03:21:44.341Z",
+    "collisions": [
+      "FiniteCoordinateExtension.extend"
+    ]
+  },
+  "AlbertLean/Generic/FiniteIndexExtension.lean": {
+    "checkedAt": "2026-11-13T03:21:45.499Z",
+    "collisions": [
+      "FiniteIndexExtension.extend"
+    ]
+  },
+  "AlbertLean/Generic/FourRowFrameSeed.lean": {
+    "checkedAt": "2026-11-13T03:21:50.816Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowFrameSeed.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/FourRowQuadratic.lean": {
+    "checkedAt": "2026-11-13T03:21:52.589Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowQuadratic.cubicNormalForm"
+    ]
+  },
+  "AlbertLean/Generic/GenericClearedTransport.lean": {
+    "checkedAt": "2026-11-13T03:21:54.549Z",
+    "collisions": [
+      "AlbertLean.Generic.GenericClearedTransport.injective_of_evaluation_square",
+      "AlbertLean.Generic.GenericClearedTransport.ratio_fixed_comp",
+      "AlbertLean.Generic.GenericClearedTransport.ratio_fixed_inverse",
+      "AlbertLean.Generic.GenericClearedTransport.agreement_of_generic_cleared_transport"
+    ]
+  },
+  "AlbertLean/Generic/OpenGridIdentity.lean": {
+    "checkedAt": "2026-11-13T03:21:56.365Z",
+    "collisions": [
+      "AlbertLean.Generic.OpenGridIdentity.eq_zero_of_eval_algebraMap_eq_zero"
+    ]
+  },
+  "AlbertLean/Generic/PairedReflectionDescent.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T03:26:28.731Z"
+  },
+  "AlbertLean/Generic/QuaternionHatAdjugate.lean": {
+    "checkedAt": "2026-11-13T03:26:36.792Z",
+    "collisions": [
+      "AlbertLean.Generic.QuaternionRow.ScalarFibre.Vec3"
+    ]
+  },
+  "AlbertLean/Generic/RealLedgerNaturality.lean": {
+    "checkedAt": "2026-11-13T03:26:39.047Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/ResidualLedgerMomentField.lean": {
+    "checkedAt": "2026-11-13T03:26:40.126Z",
+    "collisions": [
+      "AlbertLean.Generic.ResidualLedgerMomentField.projectorWeight"
+    ]
+  },
+  "AlbertLean/Generic/SignRootAdjoin.lean": {
+    "checkedAt": "2026-11-13T03:26:42.132Z",
+    "collisions": [
+      "AlbertLean.Generic.SignRootAdjoin.map_coe",
+      "AlbertLean.Generic.SignRootAdjoin.span"
+    ]
+  },
+  "AlbertLean/Generic/SourceDiagonalPermutation.lean": {
+    "checkedAt": "2026-11-13T03:26:44.578Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/SymplecticPartnerAlignment.lean": {
+    "checkedAt": "2026-11-13T03:37:58.990Z",
+    "collisions": [
+      "AlbertLean.Generic.SymplecticTransvection.avoidanceScalar"
+    ]
+  },
+  "AlbertLean/Generic/TauChart.lean": {
+    "checkedAt": "2026-11-13T03:38:01.770Z",
+    "collisions": [
+      "AlbertLean.Generic.SecondStatement.Coord",
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/TauTraceInvarianceCore.lean": {
+    "checkedAt": "2026-11-13T03:38:33.064Z",
+    "collisions": [
+      "AlbertLean.Generic.TauTraceInvarianceCore.leftMul_conj",
+      "AlbertLean.Generic.TauTraceInvarianceCore.leftMul"
+    ]
+  },
+  "AlbertLean/Generic/ThreeIdempotents.lean": {
+    "checkedAt": "2026-11-13T03:38:35.025Z",
+    "collisions": [
+      "AlbertLean.Generic.ThreeIdempotents.pairwise_mul_eq_zero_of_sum_eq_one",
+      "AlbertLean.Generic.ThreeIdempotents.scalar_coefficient_eq_zero_of_adjoint_eq_zero"
+    ]
+  },
+  "AlbertLean/ModelProduct.lean": {
+    "checkedAt": "2026-11-13T03:38:38.078Z",
+    "collisions": [
+      "AlbertLean.Vec3",
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/ProductLaws.lean": {
+    "checkedAt": "2026-11-13T03:39:35.238Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/RegressionW0.lean": {
+    "checkedAt": "2026-11-13T03:40:12.298Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/TensorConformance.lean": {
+    "checkedAt": "2026-11-13T03:40:13.284Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/TraceAssociative.lean": {
+    "checkedAt": "2026-11-13T03:40:13.837Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/TraceFormLaws.lean": {
+    "checkedAt": "2026-11-13T03:40:14.363Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/WitnessLedger.lean": {
+    "checkedAt": "2026-11-13T03:40:22.139Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/WitnessPairs.lean": {
+    "checkedAt": "2026-11-13T03:40:23.166Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "OneBit/Bridge.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T03:43:23.053Z"
+  },
+  "OneBit/Closeout/FiniteRelabelling.lean": {
+    "checkedAt": "2026-11-13T03:43:23.443Z",
+    "collisions": [
+      "OneBit.Closeout.family"
+    ]
+  },
+  "AlbertLean/Characteristic.lean": {
+    "checkedAt": "2026-11-13T03:21:45.718Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic02.lean": {
+    "checkedAt": "2026-11-13T03:21:46.272Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic04.lean": {
+    "checkedAt": "2026-11-13T03:21:46.816Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic06.lean": {
+    "checkedAt": "2026-11-13T03:21:47.367Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic17.lean": {
+    "checkedAt": "2026-11-13T03:21:47.910Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic19.lean": {
+    "checkedAt": "2026-11-13T03:21:48.449Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Compact/Solution.lean": {
+    "checkedAt": "2026-11-13T03:21:55.798Z",
+    "collisions": [
+      "AlbertLean.Vec3",
+      "AlbertLean.Scalar",
+      "CompactOneBit.Coord"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord03.lean": {
+    "checkedAt": "2026-11-13T03:23:41.460Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord10.lean": {
+    "checkedAt": "2026-11-13T03:23:42.298Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord12.lean": {
+    "checkedAt": "2026-11-13T03:23:43.121Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord21.lean": {
+    "checkedAt": "2026-11-13T03:23:43.948Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/ComplexNormalizedPairOrbit.lean": {
+    "checkedAt": "2026-11-13T03:23:47.449Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/CubicTracePolarization.lean": {
+    "checkedAt": "2026-11-13T03:23:48.263Z",
+    "collisions": [
+      "AlbertLean.Generic.SourceCubicTrace.cubicResidual"
+    ]
+  },
+  "AlbertLean/Generic/F0FirstTitsProduct.lean": {
+    "checkedAt": "2026-11-13T03:23:49.338Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/FourRowAdjoint.lean": {
+    "checkedAt": "2026-11-13T03:23:57.268Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowAdjoint.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/FourRowComponentEquivalence.lean": {
+    "checkedAt": "2026-11-13T03:23:59.800Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowComponentEquivalence.right_quadratic_implies_anchored_equation",
+      "AlbertLean.Generic.FourRowComponentEquivalence.anchored_equation_implies_weighted_cslot"
+    ]
+  },
+  "AlbertLean/Generic/FourRowFrameDeterminants.lean": {
+    "checkedAt": "2026-11-13T03:24:00.397Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowFrameDeterminants.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/FourRowMatrix.lean": {
+    "checkedAt": "2026-11-13T03:24:01.232Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowMatrix.cube_eq_of_right_quadratic",
+      "AlbertLean.Generic.FourRowMatrix.sylvester_conjugate_eq_add_invOf",
+      "AlbertLean.Generic.FourRowMatrix.sylvester_invOf_relation",
+      "AlbertLean.Generic.FourRowMatrix.trace_invOf_mul_mul"
+    ]
+  },
+  "AlbertLean/Generic/FrameEncoder.lean": {
+    "checkedAt": "2026-11-13T03:24:04.653Z",
+    "collisions": [
+      "AlbertLean.Generic.FrameEncoder.literal_projectors",
+      "AlbertLean.Generic.FrameEncoder.trace_encoder"
+    ]
+  },
+  "AlbertLean/Generic/M3JordanExtension.lean": {
+    "checkedAt": "2026-11-13T03:24:06.870Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/M3JordanSubgroup.lean": {
+    "checkedAt": "2026-11-13T03:24:53.212Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/NestedReciprocalField.lean": {
+    "checkedAt": "2026-11-13T03:25:51.744Z",
+    "collisions": [
+      "AlbertLean.Generic.NestedReciprocalField.Omega"
+    ]
+  },
+  "AlbertLean/Generic/QuadraticCharacterDescent.lean": {
+    "checkedAt": "2026-11-13T03:25:57.279Z",
+    "collisions": [
+      "AlbertLean.Generic.QuadraticCharacterDescent.Data"
+    ]
+  },
+  "AlbertLean/Generic/QuaternionBlockEigenbasis.lean": {
+    "checkedAt": "2026-11-13T03:25:59.353Z",
+    "collisions": [
+      "AlbertLean.Generic.QuaternionRow.BlockEigenbasis.Mat2"
+    ]
+  },
+  "AlbertLean/Generic/RawOrthogonalAction.lean": {
+    "checkedAt": "2026-11-13T03:26:06.118Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/ResidualMomentSubfield.lean": {
+    "checkedAt": "2026-11-13T03:26:09.263Z",
+    "collisions": [
+      "AlbertLean.Generic.ResidualMomentSubfield.triple_mem_of_pair_sums",
+      "AlbertLean.Generic.ResidualMomentSubfield.pair_mem_of_linear_mem"
+    ]
+  },
+  "AlbertLean/Generic/SourceFixedScheduleParameterDomain.lean": {
+    "checkedAt": "2026-11-13T03:32:39.114Z",
+    "collisions": [
+      "AlbertLean.Generic.SourceFixedScheduleParameterDomain.zeroEval",
+      "AlbertLean.Generic.SourceFixedScheduleParameterDomain.Base"
+    ]
+  },
+  "AlbertLean/Generic/SourceFrameLaws.lean": {
+    "checkedAt": "2026-11-13T03:32:39.651Z",
+    "collisions": [
+      "AlbertLean.Generic.SourceFrameLaws.triple_pairwise_orthogonal"
+    ]
+  },
+  "AlbertLean/Generic/Sym3JordanCoordinates.lean": {
+    "checkedAt": "2026-11-13T03:32:41.395Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/Sym3JordanMatrixDictionary.lean": {
+    "checkedAt": "2026-11-13T03:32:50.141Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/SymplecticTransvection.lean": {
+    "checkedAt": "2026-11-13T03:35:52.644Z",
+    "collisions": [
+      "AlbertLean.Generic.SymplecticTransvection.BilinForm"
+    ]
+  },
+  "AlbertLean/Generic/TauParameter.lean": {
+    "checkedAt": "2026-11-13T03:36:00.642Z",
+    "collisions": [
+      "AlbertLean.Generic.SecondStatement.Coord"
+    ]
+  },
+  "AlbertLean/Generic/TauTransport.lean": {
+    "checkedAt": "2026-11-13T04:09:33.858Z",
+    "collisions": [
+      "CompactOneBit.Coord",
+      "AlbertLean.Generic.SecondStatement.Coord",
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/TitsLinear.lean": {
+    "checkedAt": "2026-11-13T05:43:57.212Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/TitsTracePairing.lean": {
+    "checkedAt": "2026-11-13T05:45:23.050Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/JordanLaws.lean": {
+    "checkedAt": "2026-11-13T05:45:44.826Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/WitnessFrames.lean": {
+    "checkedAt": "2026-11-13T05:46:38.664Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "FrameInvariants/CoordinateBridge.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T05:47:18.144Z"
+  },
+  "OneBit/Closeout/Public.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T05:51:26.797Z",
+    "collisions": [
+      "OneBit.Closeout.family"
+    ]
+  },
+  "OneBit/Closeout/TraceNorm.lean": {
+    "checkedAt": "2026-11-13T05:57:27.317Z",
+    "collisions": [
+      "OneBit.traceCube_eq_three_cubicNorm"
+    ]
+  },
+  "OneBit/ExactWitness.lean": {
+    "checkedAt": "2026-11-13T05:57:27.593Z",
+    "collisions": [
+      "OneBit.exactWitness"
+    ]
+  }
+}
