@@ -447,5 +447,336 @@
     "collisions": [
       "WeierstrassCurve.Affine.CoordinateRing.genPsi"
     ]
+  },
+  "EllipticCurves/FormalGroup/BivariateCoords.lean": {
+    "checkedAt": "2026-11-12T22:16:43.505Z",
+    "collisions": [
+      "HahnSeries.mapRingHom",
+      "WeierstrassCurve.wOp"
+    ]
+  },
+  "EllipticCurves/FormalGroup/CoordinateSeries.lean": {
+    "checkedAt": "2026-11-12T22:16:49.684Z",
+    "collisions": [
+      "WeierstrassCurve.wOp",
+      "WeierstrassCurve.wCofactor"
+    ]
+  },
+  "EllipticCurves/FormalGroup/Expansion.lean": {
+    "checkedAt": "2026-11-12T22:17:02.723Z",
+    "collisions": [
+      "WeierstrassCurve.wOp"
+    ]
+  },
+  "EllipticCurves/FormalGroup/GenuineLawIdentification.lean": {
+    "checkedAt": "2026-11-12T22:17:48.400Z",
+    "collisions": [
+      "WeierstrassCurve.wOp",
+      "HahnSeries.ofPowerSeries_mk_coeff_eq_self"
+    ]
+  },
+  "EllipticCurves/FormalGroup/GenuineLawMap.lean": {
+    "checkedAt": "2026-11-12T22:18:57.267Z",
+    "collisions": [
+      "PowerSeries.coeff_toMvPowerSeries_single",
+      "WeierstrassCurve.map_toMvPowerSeries",
+      "WeierstrassCurve.map_invOfUnit",
+      "WeierstrassCurve.wOp"
+    ]
+  },
+  "EllipticCurves/FormalGroup/LogAdditivity.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-12T22:19:08.867Z"
+  },
+  "EllipticCurves/FormalGroup/MulByZ.lean": {
+    "checkedAt": "2026-11-12T22:19:09.292Z",
+    "collisions": [
+      "PowerSeries.X_pow_succ_dvd_pow_sub_pow",
+      "FormalGroup.fgAdd"
+    ]
+  },
+  "EllipticCurves/FormalGroup/PointsOnIdealTorsion.lean": {
+    "checkedAt": "2026-11-12T22:19:11.054Z",
+    "collisions": [
+      "PowerSeries.adicEval"
+    ]
+  },
+  "EllipticCurves/FormalGroup/UniversalIdentification.lean": {
+    "checkedAt": "2026-11-12T22:19:36.261Z",
+    "collisions": [
+      "WeierstrassCurve.wOp",
+      "WeierstrassCurve.univ"
+    ]
+  },
+  "EllipticCurves/FunctionField/CoordinateRingBaseChange.lean": {
+    "checkedAt": "2026-11-12T22:25:32.553Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.polyEquivTensor_symm_comp_includeRight",
+      "WeierstrassCurve.Affine.CoordinateRing.basePoly_map_polyEquivTensor_symm"
+    ]
+  },
+  "EllipticCurves/FunctionField/CoordinateRingUnits.lean": {
+    "checkedAt": "2026-11-12T22:25:38.371Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.exists_eq_algebraMap_of_isUnit"
+    ]
+  },
+  "EllipticCurves/FunctionField/DivisorClassGroup.lean": {
+    "checkedAt": "2026-11-12T22:25:38.987Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.ord",
+      "WeierstrassCurve.Affine.divisorHom"
+    ]
+  },
+  "EllipticCurves/FunctionField/DivisorProd.lean": {
+    "checkedAt": "2026-11-12T22:25:40.272Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.ord"
+    ]
+  },
+  "EllipticCurves/FunctionField/DivisorTransport.lean": {
+    "checkedAt": "2026-11-12T22:25:40.957Z",
+    "collisions": [
+      "RingEquiv.idealMulEquiv",
+      "IsDedekindDomain.HeightOneSpectrum.valuation_eq_exp_neg_count",
+      "WeierstrassCurve.Affine.ord"
+    ]
+  },
+  "EllipticCurves/FunctionField/FunctionFieldGaloisDescent.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T22:36:17.664Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.map_root",
+      "WeierstrassCurve.Affine.CoordinateRing.genPsi"
+    ]
+  },
+  "EllipticCurves/FunctionField/GenericDoubling.lean": {
+    "checkedAt": "2026-11-12T23:48:30.514Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.genPsi"
+    ]
+  },
+  "EllipticCurves/FunctionField/MulByNComposition.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-12T23:49:57.527Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.genPsi"
+    ]
+  },
+  "EllipticCurves/FunctionField/MulByThreeDegree.lean": {
+    "checkedAt": "2026-11-13T00:18:32.699Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.genPsi"
+    ]
+  },
+  "EllipticCurves/FunctionField/MulByThreeExtensionFinite.lean": {
+    "checkedAt": "2026-11-13T00:33:26.510Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.genPsi"
+    ]
+  },
+  "EllipticCurves/FunctionField/PullbackPrincipalityTwo.lean": {
+    "checkedAt": "2026-11-12T22:41:12.178Z",
+    "collisions": [
+      "IsDedekindDomain.HeightOneSpectrum.eq_of_count_eq",
+      "WeierstrassCurve.Affine.ord"
+    ]
+  },
+  "EllipticCurves/FunctionField/PullbackPrincipalityTwoGeneral.lean": {
+    "checkedAt": "2026-11-12T23:34:52.667Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.evalEvalHom"
+    ]
+  },
+  "EllipticCurves/FunctionField/PullbackPrincipalityTwoRationalTorsion.lean": {
+    "checkedAt": "2026-11-13T00:48:39.992Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.genPsi"
+    ]
+  },
+  "EllipticCurves/FunctionField/RationalPointDegree.lean": {
+    "checkedAt": "2026-11-13T02:50:54.004Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.ord"
+    ]
+  },
+  "EllipticCurves/FunctionField/WeilPairingAlternating.lean": {
+    "checkedAt": "2026-11-13T02:50:58.600Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.genPsi"
+    ]
+  },
+  "EllipticCurves/FunctionField/WeilPairingBilinearBaseField.lean": {
+    "checkedAt": "2026-11-13T03:16:53.846Z",
+    "collisions": [
+      "algebraicClosure_eq_bot_of_isDomain_tensor"
+    ]
+  },
+  "EllipticCurves/FunctionField/ValuationAtInfinity.lean": {
+    "checkedAt": "2026-11-12T22:18:10.262Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.genPsi"
+    ]
+  },
+  "EllipticCurves/FunctionField/WeilPairingAlternatingThree.lean": {
+    "checkedAt": "2026-11-12T22:18:44.361Z",
+    "collisions": [
+      "AddSubgroup.torsionBy.zsmul_iff"
+    ]
+  },
+  "EllipticCurves/FunctionField/WeilPairingAlternatingWorkhorseN.lean": {
+    "checkedAt": "2026-11-12T22:31:04.464Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.genPsi",
+      "WeierstrassCurve.Affine.CoordinateRing.nonsingular_gen"
+    ]
+  },
+  "EllipticCurves/FunctionField/WeilPairingDivisorSlotBilinearHprin.lean": {
+    "checkedAt": "2026-11-12T22:43:10.638Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.genPsi",
+      "WeierstrassCurve.Affine.ord",
+      "EllipticCurves.Fixture.AlgClosedQ"
+    ]
+  },
+  "EllipticCurves/FunctionField/WeilPairingDivisorSlotBilinearHprinN.lean": {
+    "checkedAt": "2026-11-12T23:46:40.022Z",
+    "collisions": [
+      "AddSubgroup.torsionBy.zsmul_iff"
+    ]
+  },
+  "EllipticCurves/FunctionField/WeilPairingGaloisRootN.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T00:02:15.942Z"
+  },
+  "EllipticCurves/FunctionField/WeilPairingProductRelation.lean": {
+    "checkedAt": "2026-11-13T00:02:23.618Z",
+    "collisions": [
+      "IsDedekindDomain.HeightOneSpectrum.eq_of_count_eq",
+      "WeierstrassCurve.Affine.ord"
+    ]
+  },
+  "EllipticCurves/FunctionField/WeilPairingProductRelationRootIndependent.lean": {
+    "checkedAt": "2026-11-13T00:41:38.798Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.ord"
+    ]
+  },
+  "EllipticCurves/FunctionField/WeilPairingRootsOfUnity.lean": {
+    "checkedAt": "2026-11-13T01:16:29.054Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.genPsi"
+    ]
+  },
+  "EllipticCurves/Galois/CyclotomicCharacter.lean": {
+    "checkedAt": "2026-11-13T01:16:38.783Z",
+    "collisions": [
+      "galoisRingAut"
+    ]
+  },
+  "EllipticCurves/Reduction/JInvariantGoodReductionBaseChange.lean": {
+    "checkedAt": "2026-11-13T01:16:41.395Z",
+    "collisions": [
+      "WeierstrassCurve.baseChange_integralModel_baseChange_eq"
+    ]
+  },
+  "EllipticCurves/Reduction/JInvariantMultiplicativeReduction.lean": {
+    "checkedAt": "2026-11-13T01:16:42.993Z",
+    "collisions": [
+      "WeierstrassCurve.valuation_j_eq_of_isElliptic"
+    ]
+  },
+  "EllipticCurves/Reduction/JInvariantMultiplicativeReductionValuationBaseChange.lean": {
+    "checkedAt": "2026-11-13T01:16:44.293Z",
+    "collisions": [
+      "WeierstrassCurve.valuation_j_eq_of_isElliptic"
+    ]
+  },
+  "EllipticCurves/Reduction/PotentialMultiplicativeReduction.lean": {
+    "checkedAt": "2026-11-13T01:16:45.748Z",
+    "collisions": [
+      "WeierstrassCurve.exists_algebraMap_eq_of_valuation_le_one"
+    ]
+  },
+  "EllipticCurves/Reduction/ReductionC6Criteria.lean": {
+    "checkedAt": "2026-11-13T01:16:46.998Z",
+    "collisions": [
+      "WeierstrassCurve.reduction_c₄_eq_zero_iff_c₆_eq_zero",
+      "WeierstrassCurve.reduction_a₁_eq"
+    ]
+  },
+  "EllipticCurves/Reduction/ReductionGaloisEquivariant.lean": {
+    "checkedAt": "2026-11-13T01:17:06.018Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.Point.instSMulAlgEquiv"
+    ]
+  },
+  "EllipticCurves/Reduction/ReductionTrichotomy.lean": {
+    "checkedAt": "2026-11-13T01:46:33.416Z",
+    "collisions": [
+      "WeierstrassCurve.not_hasGoodReduction_iff_hasMultiplicativeReduction_or_hasAdditiveReduction",
+      "WeierstrassCurve.reduction_Δ_eq_zero_iff",
+      "WeierstrassCurve.hasGoodReduction_trichotomy",
+      "WeierstrassCurve.hasGoodReduction_iff_not_multiplicative_and_not_additive",
+      "WeierstrassCurve.hasMultiplicativeReduction_iff_not_good_and_not_additive",
+      "WeierstrassCurve.hasAdditiveReduction_iff_not_good_and_not_multiplicative"
+    ]
+  },
+  "EllipticCurves/Reduction/TwoTorsionReduction.lean": {
+    "checkedAt": "2026-11-13T01:46:39.230Z",
+    "collisions": [
+      "WeierstrassCurve.valuation_a₁_le_one"
+    ]
+  },
+  "EllipticCurves/TateModule/Continuity.lean": {
+    "checkedAt": "2026-11-13T01:46:49.635Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.Point.instSMulAlgEquiv",
+      "AddSubgroup.torsionBy.zsmul_iff"
+    ]
+  },
+  "EllipticCurves/TateModule/MatrixRepBasisChangeThree.lean": {
+    "checkedAt": "2026-11-13T02:23:13.757Z",
+    "collisions": [
+      "AddSubgroup.torsionBy.zsmul_iff"
+    ]
+  },
+  "EllipticCurves/TateModule/MatrixRepCompatThree.lean": {
+    "checkedAt": "2026-11-13T02:28:30.299Z",
+    "collisions": [
+      "AddSubgroup.torsionBy.zsmul_iff",
+      "Module.Basis.linearEquivMulEquivGL"
+    ]
+  },
+  "EllipticCurves/Torsion/CoordinateRingDedekind.lean": {
+    "checkedAt": "2026-11-13T02:29:37.465Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.instModuleFinite"
+    ]
+  },
+  "EllipticCurves/Torsion/CoprimeStructure.lean": {
+    "checkedAt": "2026-11-13T02:29:38.336Z",
+    "collisions": [
+      "AddSubgroup.torsionBy.zsmul_iff",
+      "AddCommGroup.equiv_zmod_sq_of_two_gen"
+    ]
+  },
+  "EllipticCurves/Torsion/HalvingExtension.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T02:30:49.453Z"
+  },
+  "EllipticCurves/Torsion/TwoPrimaryBasis.lean": {
+    "checkedAt": "2026-11-13T02:40:37.405Z",
+    "collisions": [
+      "AddSubgroup.torsionBy.zsmul_iff",
+      "WeierstrassCurve.Affine.CoordinateRing.evalEvalHom"
+    ]
+  },
+  "EllipticCurves/Torsion/TwoTorsionOrder.lean": {
+    "checkedAt": "2026-11-13T02:44:44.448Z",
+    "collisions": [
+      "WeierstrassCurve.Affine.CoordinateRing.evalEvalHom",
+      "EllipticCurves.Fixture.AlgClosedQ"
+    ]
   }
 }
