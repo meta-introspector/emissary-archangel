@@ -1214,5 +1214,238 @@
     "collisions": [
       "OneBit.exactWitness"
     ]
+  },
+  "AlbertLean/AutomorphismLaws.lean": {
+    "checkedAt": "2026-11-13T06:35:21.913Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic00.lean": {
+    "checkedAt": "2026-11-13T06:35:47.184Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic13.lean": {
+    "checkedAt": "2026-11-13T06:35:47.704Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic15.lean": {
+    "checkedAt": "2026-11-13T06:35:48.199Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Characteristic24.lean": {
+    "checkedAt": "2026-11-13T06:35:48.702Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Compact/Automorphisms.lean": {
+    "checkedAt": "2026-11-13T06:36:47.260Z",
+    "collisions": [
+      "AlbertLean.Scalar",
+      "CompactOneBit.Coord"
+    ]
+  },
+  "AlbertLean/Comparison/GenericF0.lean": {
+    "checkedAt": "2026-11-13T06:38:25.917Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Comparison/StructuredF0.lean": {
+    "checkedAt": "2026-11-13T06:38:26.631Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord01.lean": {
+    "checkedAt": "2026-11-13T06:38:27.078Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord05.lean": {
+    "checkedAt": "2026-11-13T06:38:27.928Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord09.lean": {
+    "checkedAt": "2026-11-13T06:38:28.777Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord18.lean": {
+    "checkedAt": "2026-11-13T06:38:29.652Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord23.lean": {
+    "checkedAt": "2026-11-13T06:38:30.501Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generated/TensorSlices/Coord25.lean": {
+    "checkedAt": "2026-11-13T06:38:31.341Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/ComplexGLParameterLocalization.lean": {
+    "checkedAt": "2026-11-13T06:38:44.663Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/ComplexTripleOrbitHelpers.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T06:39:35.137Z"
+  },
+  "AlbertLean/Generic/FibreLedger.lean": {
+    "checkedAt": "2026-11-13T06:39:51.947Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/FieldPointNilpotence.lean": {
+    "checkedAt": "2026-11-13T06:39:56.100Z",
+    "collisions": [
+      "AlbertLean.Generic.FieldPointNilpotence.isNilpotent_of_forall_field_maps_zero"
+    ]
+  },
+  "AlbertLean/Generic/FourRowFactorization.lean": {
+    "checkedAt": "2026-11-13T06:39:56.671Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowFactorization.quadratic_factor_of_right_quadratic",
+      "AlbertLean.Generic.FourRowFactorization.quadraticMatrix"
+    ]
+  },
+  "AlbertLean/Generic/FourRowProbeSeed.lean": {
+    "checkedAt": "2026-11-13T06:39:59.047Z",
+    "collisions": [
+      "AlbertLean.Generic.FourRowProbeSeed.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/FullOrbitFibre.lean": {
+    "checkedAt": "2026-11-13T06:40:15.529Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/Generic/GenericBaseLocalization.lean": {
+    "checkedAt": "2026-11-13T06:40:19.621Z",
+    "collisions": [
+      "AlbertLean.Generic.GenericBaseLocalization.baseNonzeroImages"
+    ]
+  },
+  "AlbertLean/Generic/ParameterFamily.lean": {
+    "checkedAt": "2026-11-13T06:40:23.531Z",
+    "collisions": [
+      "AlbertLean.Generic.WitnessChart.witnessScale"
+    ]
+  },
+  "AlbertLean/Generic/QuaternionNonvanishingSeed.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T06:40:27.534Z"
+  },
+  "AlbertLean/Generic/RationalEvenFamilyNaturality.lean": {
+    "checkedAt": "2026-11-13T06:40:28.900Z",
+    "collisions": [
+      "AlbertLean.Triality.RationalEvenFamilyNaturality.sourceTwo"
+    ]
+  },
+  "AlbertLean/Generic/RawRealPrimitiveFrameIdeal.lean": {
+    "checkedAt": "2026-11-13T06:40:31.289Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/RealPrimitiveFiniteRoots.lean": {
+    "checkedAt": "2026-11-13T06:40:38.302Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/ResidualLedgerPower.lean": {
+    "checkedAt": "2026-11-13T06:40:38.843Z",
+    "collisions": [
+      "AlbertLean.Generic.ResidualLedgerPower.spectralProjector"
+    ]
+  },
+  "AlbertLean/Generic/SourceChartDiagonalReadback.lean": {
+    "checkedAt": "2026-11-13T06:40:39.341Z",
+    "collisions": [
+      "AlbertLean.Generic.SourceChartDiagonalReadback.parameters"
+    ]
+  },
+  "AlbertLean/Generic/SourceFrameNormalization.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T06:40:40.904Z"
+  },
+  "AlbertLean/Generic/SourceFramePivotNormalization.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T06:40:41.746Z"
+  },
+  "AlbertLean/Generic/Sym3PrimitivePivot.lean": {
+    "checkedAt": "2026-11-13T06:40:45.104Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/Generic/TauLedgerInvariance.lean": {
+    "checkedAt": "2026-11-13T06:40:48.766Z",
+    "collisions": [
+      "AlbertLean.Generic.C1Coordinates.Mat3"
+    ]
+  },
+  "AlbertLean/ModelIdentification.lean": {
+    "checkedAt": "2026-11-13T06:40:52.586Z",
+    "collisions": [
+      "AlbertLean.Vec3",
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/RegressionBasic.lean": {
+    "checkedAt": "2026-11-13T06:40:58.126Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/SplitOctonion.lean": {
+    "checkedAt": "2026-11-13T06:41:14.374Z",
+    "collisions": [
+      "AlbertLean.Vec3"
+    ]
+  },
+  "AlbertLean/Triality/ExteriorSix.lean": {
+    "checkedAt": "2026-11-13T06:41:14.973Z",
+    "collisions": [
+      "AlbertLean.Triality.ExteriorSix.WIdx"
+    ]
+  },
+  "AlbertLean/WitnessDetector.lean": {
+    "checkedAt": "2026-11-13T06:41:48.975Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "AlbertLean/WitnessJoint02.lean": {
+    "checkedAt": "2026-11-13T06:41:56.930Z",
+    "collisions": [
+      "AlbertLean.Scalar"
+    ]
+  },
+  "FrameInvariants/RawBridge.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T06:41:59.859Z"
   }
 }
