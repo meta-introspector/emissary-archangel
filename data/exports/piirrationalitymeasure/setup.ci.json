@@ -1,0 +1,139 @@
+{
+  "key": "piirrationalitymeasure",
+  "repo": "https://github.com/frenzymath/PiIrrationalityMeasure",
+  "commit": "3ee5d4d080b440469d331a2fb3862aee88c23ca0",
+  "toolchain": "leanprover/lean4:v4.33.0",
+  "roots": [
+    "Challenge",
+    "Formalization",
+    "Solution"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/piirrationalitymeasure/repo",
+  "entries": 2378,
+  "modules": 308,
+  "exported": 283,
+  "failed": [
+    {
+      "module": "Formalization.ConstructionIntegerDecay",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.ConstructionIntegerRates",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.ConstructionRealization",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.EndpointCountCertificate",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.EndpointSectorCounts",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.ExponentCoordinates",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.LocalLogLowerBound",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.LocalMinimumAssembly",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.LocalOptimality",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.LocalOptimalityNumerics",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.LocalTaylorEstimate",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.OldPointComparisonNumerics",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.OldPointImprovement",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.PaperRateNumerics",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.ParameterCostDominance",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.ParameterNeighborhood",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.PiMeasureTheorem",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.PrimeSavingComputation",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.PrimeSavingNumerics",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.SavingMeasureLocalFormula",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.SavingOmegaLogVariation",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.SavingPeriodMainTerm",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.SavingPhiDominance",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.SavingPhiLogVariation",
+      "why": "no closure"
+    },
+    {
+      "module": "Formalization.Section6Lemmas",
+      "why": "no closure"
+    }
+  ],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 2384,
+    "kept": 2378,
+    "skippedRoot": 6,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 5,
+    "lineUnverified": 0,
+    "nameFixed": 2198,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 62402560,
+  "minutes": 49,
+  "finishedAt": "2026-11-13T18:32:46.276Z"
+}
