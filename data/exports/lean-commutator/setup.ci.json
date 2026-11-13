@@ -1,0 +1,38 @@
+{
+  "key": "lean-commutator",
+  "repo": "https://github.com/WuProver/lean-commutator",
+  "commit": "2f197491d436faa274133f9b72b2e8e8fe6c19c0",
+  "toolchain": "leanprover/lean4:v4.30.0-rc1",
+  "roots": [
+    "CommutatorTheorem",
+    "KadisonSinger",
+    "PavingSeparation"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/lean-commutator/repo",
+  "entries": 1871,
+  "modules": 167,
+  "exported": 167,
+  "failed": [],
+  "expansion": {
+    "expanded": 63,
+    "verbatim": 348,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 1871,
+    "kept": 1871,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 3,
+    "lineUnverified": 0,
+    "nameFixed": 1871,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 70434816,
+  "minutes": 32,
+  "finishedAt": "2026-11-13T18:16:06.492Z"
+}
