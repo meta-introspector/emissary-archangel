@@ -1,0 +1,726 @@
+{
+  "CommutatorTheorem/Epsilon/BTCardTwo.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T22:59:45.784Z"
+  },
+  "CommutatorTheorem/Epsilon/BTFellExactDescartes.lean": {
+    "checkedAt": "2026-11-13T23:00:00.209Z",
+    "collisions": [
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTLibraryRoute.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:00:31.640Z"
+  },
+  "CommutatorTheorem/Epsilon/BTMDPJointControl.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:00:32.133Z"
+  },
+  "CommutatorTheorem/Epsilon/BTMDPStability.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:01:40.424Z"
+  },
+  "CommutatorTheorem/Epsilon/BTRSColoringLeaf.lean": {
+    "checkedAt": "2026-11-13T23:01:46.099Z",
+    "collisions": [
+      "CommutatorTheorem.BTMixedDet.Coloring"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/NEst.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:02:11.612Z"
+  },
+  "CommutatorTheorem/Epsilon/Pow4BTRecursion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:03:27.828Z"
+  },
+  "CommutatorTheorem/NoEpsilon/BlockAlgebra.lean": {
+    "checkedAt": "2026-11-13T23:03:31.395Z",
+    "collisions": [
+      "NoEpsilon.ringCommutator"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/HermitianSplit.lean": {
+    "checkedAt": "2026-11-13T23:03:35.998Z",
+    "collisions": [
+      "NoEpsilon.hermitianRealPart",
+      "NoEpsilon.ringCommutator"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/IdentityCorner.lean": {
+    "checkedAt": "2026-11-13T23:04:54.727Z",
+    "collisions": [
+      "NoEpsilon.ringCommutator"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/Induction.lean": {
+    "checkedAt": "2026-11-13T23:04:55.017Z",
+    "collisions": [
+      "CommutatorTheorem.NoEpsilon.uniform_bound_of_shrinking_split"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/MSSSelection.lean": {
+    "checkedAt": "2026-11-13T23:10:57.306Z",
+    "collisions": [
+      "NoEpsilon.MSSSelection.outer",
+      "NoEpsilon.norm_ringCommutator_le"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/SteinitzGrouping.lean": {
+    "checkedAt": "2026-11-13T23:11:25.495Z",
+    "collisions": [
+      "NoEpsilon.SteinitzGrouping.interval_sum_eq_sub_prefix",
+      "NoEpsilon.SteinitzGrouping.group_sum_eq_interval"
+    ]
+  },
+  "CommutatorTheorem/Shared/THConvexity.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T23:11:33.323Z",
+    "collisions": [
+      "CommutatorTheorem.THConvexity.construct_vector_from_sphere",
+      "CommutatorTheorem.THConvexity.withLp_symm_ofLp_eq"
+    ]
+  },
+  "KadisonSinger/OperatorPaving.lean": {
+    "checkedAt": "2026-11-13T23:23:12.799Z",
+    "collisions": [
+      "KadisonSinger.Hilbert",
+      "KadisonSinger.Operator"
+    ]
+  },
+  "PavingSeparation/Lambda.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T23:26:51.614Z"
+  },
+  "PavingSeparation/Paving.lean": {
+    "checkedAt": "2026-11-13T23:27:00.933Z",
+    "collisions": [
+      "PavingSeparation.Cube"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTAutomationHarness.lean": {
+    "checkedAt": "2026-11-13T23:04:35.961Z",
+    "collisions": [
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTFellCountInduction.lean": {
+    "checkedAt": "2026-11-13T23:11:11.000Z",
+    "collisions": [
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTFellCountLocal.lean": {
+    "checkedAt": "2026-11-13T23:13:23.314Z",
+    "collisions": [
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTFellTaylorCount.lean": {
+    "checkedAt": "2026-11-13T23:13:24.949Z",
+    "collisions": [
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTMDPDeletionIdentity.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:13:54.215Z"
+  },
+  "CommutatorTheorem/Epsilon/BTRSExactMDPHarness.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:13:54.894Z"
+  },
+  "CommutatorTheorem/Epsilon/BTRootShrinking.lean": {
+    "checkedAt": "2026-11-13T23:13:57.326Z",
+    "collisions": [
+      "CommutatorTheorem.RealRooted",
+      "CommutatorTheorem.rootBarrierPotential"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/Main.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:14:50.447Z"
+  },
+  "CommutatorTheorem/Epsilon/Paving.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:15:03.482Z"
+  },
+  "CommutatorTheorem/NoEpsilon/CyclicCommutator.lean": {
+    "checkedAt": "2026-11-13T23:15:03.903Z",
+    "collisions": [
+      "NoEpsilon.permutationMatrix_isUnitary",
+      "NoEpsilon.permutation_conjugates_diagonal",
+      "NoEpsilon.ringCommutator",
+      "NoEpsilon.hermitianRealPart",
+      "NoEpsilon.real_cyclic_difference"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/FiniteAbsorption.lean": {
+    "checkedAt": "2026-11-13T23:17:04.794Z",
+    "collisions": [
+      "NoEpsilon.Absorption.shear",
+      "NoEpsilon.Shear.conjugate_expand",
+      "NoEpsilon.norm_ringCommutator_le"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/GoalSemantics.lean": {
+    "checkedAt": "2026-11-13T23:17:25.441Z",
+    "collisions": [
+      "NoEpsilon.UniformCommutatorBound"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/HighMassGeometry.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T23:28:05.462Z"
+  },
+  "CommutatorTheorem/NoEpsilon/LowMassRecurrence.lean": {
+    "checkedAt": "2026-11-13T23:33:29.977Z",
+    "collisions": [
+      "NoEpsilon.LowMassPaving.transversalConstant"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/LowMassTransversals.lean": {
+    "checkedAt": "2026-11-13T23:33:32.297Z",
+    "collisions": [
+      "NoEpsilon.LowMassPaving.splitBound"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/MSSBarrier.lean": {
+    "checkedAt": "2026-11-13T23:33:33.302Z",
+    "collisions": [
+      "NoEpsilon.MSSBarrier.coordinateShift"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/MSSStability.lean": {
+    "checkedAt": "2026-11-13T23:33:33.718Z",
+    "collisions": [
+      "NoEpsilon.MSSStability.InUpperHalfPlane",
+      "NoEpsilon.MixedCharacteristic.det_add_vecMulVec_of_support"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/MSSTranslation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:33:49.585Z"
+  },
+  "CommutatorTheorem/NoEpsilon/MixedCharacteristic.lean": {
+    "checkedAt": "2026-11-13T23:33:49.931Z",
+    "collisions": [
+      "NoEpsilon.MixedCharacteristic.det_add_vecMulVec_of_support",
+      "NoEpsilon.MixedCharacteristic.firstVariation"
+    ]
+  },
+  "CommutatorTheorem/Shared/Fillmore.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:34:18.888Z"
+  },
+  "KadisonSinger/DiagonalEmbedding.lean": {
+    "checkedAt": "2026-11-13T23:34:27.829Z",
+    "collisions": [
+      "KadisonSinger.Diagonal",
+      "KadisonSinger.Hilbert",
+      "KadisonSinger.diagonalRepresentation",
+      "KadisonSinger.Operator"
+    ]
+  },
+  "KadisonSinger/States.lean": {
+    "checkedAt": "2026-11-13T23:34:31.252Z",
+    "collisions": [
+      "KadisonSinger.State"
+    ]
+  },
+  "PavingSeparation/Arithmetic.lean": {
+    "checkedAt": "2026-11-13T23:34:43.691Z",
+    "collisions": [
+      "PavingSeparation.Cube"
+    ]
+  },
+  "PavingSeparation/CoordinateNorm.lean": {
+    "checkedAt": "2026-11-13T23:34:45.614Z",
+    "collisions": [
+      "PavingSeparation.coordinateInclusion"
+    ]
+  },
+  "PavingSeparation/LowerBounds.lean": {
+    "checkedAt": "2026-11-13T23:34:48.042Z",
+    "collisions": [
+      "PavingSeparation.coordProjection",
+      "PavingSeparation.Cube"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTDeterminantStability.lean": {
+    "checkedAt": "2026-11-13T22:59:12.097Z",
+    "collisions": [
+      "CommutatorTheorem.BTDeterminantStability.ComplexStable"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTElementary.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T22:59:38.902Z"
+  },
+  "CommutatorTheorem/Epsilon/BTFellRolleCount.lean": {
+    "checkedAt": "2026-11-13T22:59:39.473Z",
+    "collisions": [
+      "CommutatorTheorem.BTFellRolleCount.countP_lt_add_countP_gt_le_card",
+      "CommutatorTheorem.BTFellRolleCount.countP_lt_add_countP_gt_eq_card_of_not_mem",
+      "CommutatorTheorem.BTFellRolleCount.countP_lt_add_count_add_countP_gt_eq_card",
+      "CommutatorTheorem.BTFellRolleCount.countP_le_eq_countP_lt_add_count",
+      "CommutatorTheorem.BTFellRolleCount.card_roots_filter_toFinset_le_derivative_diff_succ",
+      "CommutatorTheorem.BTFellRolleCount.roots_countP_le_derivative_succ_of_intervalConvex",
+      "CommutatorTheorem.BTFellCrossGap.CrossGapCompatible",
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTFellSignWordCrossing.lean": {
+    "checkedAt": "2026-11-13T22:59:50.689Z",
+    "collisions": [
+      "CommutatorTheorem.BTFellSignWordCrossing.changesFrom"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTRootMoment.lean": {
+    "checkedAt": "2026-11-13T22:59:54.871Z",
+    "collisions": [
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTRootMotionContinuity.lean": {
+    "checkedAt": "2026-11-13T22:59:59.248Z",
+    "collisions": [
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/MSSCharpoly.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:06:15.575Z"
+  },
+  "CommutatorTheorem/NoEpsilon/MSSInterlacing.lean": {
+    "checkedAt": "2026-11-13T23:14:35.195Z",
+    "collisions": [
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/MSSOutcome.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:14:37.056Z"
+  },
+  "CommutatorTheorem/NoEpsilon/NormBounds.lean": {
+    "checkedAt": "2026-11-13T23:14:37.581Z",
+    "collisions": [
+      "NoEpsilon.ringCommutator",
+      "NoEpsilon.norm_conjugation_le",
+      "NoEpsilon.identityCornerScale"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/Riccati.lean": {
+    "checkedAt": "2026-11-13T23:15:08.294Z",
+    "collisions": [
+      "NoEpsilon.quadratic"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/Sylvester.lean": {
+    "checkedAt": "2026-11-13T23:15:15.339Z",
+    "collisions": [
+      "NoEpsilon.exists_scalar_add_lipschitz_solution",
+      "NoEpsilon.rectangular_commutator_lipschitz"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/ThreeHermitian.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T23:15:17.716Z"
+  },
+  "CommutatorTheorem/NoEpsilon/ThreeHermitianBasis.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:19:18.528Z"
+  },
+  "KadisonSinger/PureExtension.lean": {
+    "checkedAt": "2026-11-13T23:19:23.702Z",
+    "collisions": [
+      "KadisonSinger.State"
+    ]
+  },
+  "PavingSeparation/Normal.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T23:19:25.454Z",
+    "collisions": [
+      "PavingSeparation.Cube"
+    ]
+  },
+  "PavingSeparation/Theorem1.lean": {
+    "checkedAt": "2026-11-13T23:23:47.791Z",
+    "collisions": [
+      "PavingSeparation.DiagonalCost.sqrt_k_lower_bound",
+      "PavingSeparation.Cube"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTDirect.lean": {
+    "checkedAt": "2026-11-13T23:01:21.755Z",
+    "collisions": [
+      "CommutatorTheorem.canonicalPavingBlock"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTFellCountParity.lean": {
+    "checkedAt": "2026-11-13T23:01:49.053Z",
+    "collisions": [
+      "CommutatorTheorem.BTFellCountParity.taylor_convex",
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTFellCrossGap.lean": {
+    "checkedAt": "2026-11-13T23:01:56.392Z",
+    "collisions": [
+      "CommutatorTheorem.BTFellCrossGap.CrossGapCompatible",
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTFellDescartes.lean": {
+    "checkedAt": "2026-11-13T23:02:15.300Z",
+    "collisions": [
+      "CommutatorTheorem.BTFellDescartes.nonzeroCoeffSigns"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTFellPair.lean": {
+    "checkedAt": "2026-11-13T23:02:27.975Z",
+    "collisions": [
+      "CommutatorTheorem.BTFellPair.rootQuadratic",
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTInterlacingConverse.lean": {
+    "checkedAt": "2026-11-13T23:03:12.421Z",
+    "collisions": [
+      "CommutatorTheorem.BTInterlacingConverse.maximizingIndex",
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTJointReduction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:03:43.147Z"
+  },
+  "CommutatorTheorem/Epsilon/BTPrerequisites.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T23:03:44.111Z"
+  },
+  "CommutatorTheorem/Epsilon/Rosenblum.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:04:34.015Z"
+  },
+  "CommutatorTheorem/Epsilon/SylvesterBound.lean": {
+    "checkedAt": "2026-11-13T23:04:34.991Z",
+    "collisions": [
+      "CommutatorTheorem.norm_cexp_neg_mul_real",
+      "CommutatorTheorem.norm_diag_mul_mul_diag'",
+      "CommutatorTheorem.pi_norm_mul_pi_norm_le"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/ExplicitBound.lean": {
+    "checkedAt": "2026-11-13T23:04:42.379Z",
+    "collisions": [
+      "NoEpsilon.norm_ringCommutator_le"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/MSSRealPencil.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:04:44.515Z"
+  },
+  "CommutatorTheorem/NoEpsilon/PairedCovarianceBound.lean": {
+    "checkedAt": "2026-11-13T23:04:44.821Z",
+    "collisions": [
+      "NoEpsilon.MSSSelection.norm_duplicate_diagonal_le",
+      "NoEpsilon.MSSSelection.outer"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/SimultaneousAbsorption.lean": {
+    "checkedAt": "2026-11-13T23:04:48.741Z",
+    "collisions": [
+      "NoEpsilon.Absorption.outside_projection_norm_le"
+    ]
+  },
+  "KadisonSinger/FinitePaving.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T23:04:49.640Z"
+  },
+  "KadisonSinger/Weaver.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:22:39.980Z"
+  },
+  "PavingSeparation/DiagonalInfimum.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:22:46.003Z"
+  },
+  "PavingSeparation/Family.lean": {
+    "checkedAt": "2026-11-13T23:22:46.360Z",
+    "collisions": [
+      "PavingSeparation.Cube"
+    ]
+  },
+  "PavingSeparation/PlanarEnergy.lean": {
+    "checkedAt": "2026-11-13T23:23:03.205Z",
+    "collisions": [
+      "PavingSeparation.PlanarEnergy.geom_sum_exact",
+      "PavingSeparation.PlanarEnergy.geom_sum_bound",
+      "PavingSeparation.PlanarEnergy.scale_sum_bound",
+      "PavingSeparation.PlanarEnergy.collision_identity",
+      "PavingSeparation.PlanarEnergy.collision_cauchy",
+      "PavingSeparation.PlanarEnergy.coordColor_bounds",
+      "PavingSeparation.PlanarEnergy.coordColor_close",
+      "PavingSeparation.PlanarEnergy.pointColor_close",
+      "PavingSeparation.PlanarEnergy.color_card"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTCardThree.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:01:30.842Z"
+  },
+  "CommutatorTheorem/Epsilon/BTFellThreshold.lean": {
+    "checkedAt": "2026-11-13T23:01:31.285Z",
+    "collisions": [
+      "CommutatorTheorem.BTFellThreshold.eval_convex_eq",
+      "CommutatorTheorem.BTFellPair.rootQuadratic"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTHermitianDetPDeriv.lean": {
+    "checkedAt": "2026-11-13T23:01:34.414Z",
+    "collisions": [
+      "CommutatorTheorem.BTHermitianDetPDeriv.pderiv_prod_finset",
+      "CommutatorTheorem.BTDeterminantStability.ComplexStable",
+      "CommutatorTheorem.BTHermitianDetPDeriv.pderiv_comm"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTInterlacing.lean": {
+    "checkedAt": "2026-11-13T23:01:38.159Z",
+    "collisions": [
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTLeafSpectral.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:02:08.986Z"
+  },
+  "CommutatorTheorem/Epsilon/BTMixedDet.lean": {
+    "checkedAt": "2026-11-13T23:02:09.703Z",
+    "collisions": [
+      "CommutatorTheorem.BTMixedDet.Coloring"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTRealStabilityClosure.lean": {
+    "checkedAt": "2026-11-13T23:02:42.104Z",
+    "collisions": [
+      "CommutatorTheorem.BTRealStabilityClosure.InUpperHalfPlane"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/Pow4Bootstrap.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T23:09:24.829Z"
+  },
+  "CommutatorTheorem/NoEpsilon/CoreTheorem.lean": {
+    "checkedAt": "2026-11-13T23:18:40.745Z",
+    "collisions": [
+      "NoEpsilon.ringCommutator"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/FinitePartition.lean": {
+    "checkedAt": "2026-11-13T23:21:50.731Z",
+    "collisions": [
+      "NoEpsilon.exists_bounded_fibers"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/GlobalAssembly.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T23:21:54.022Z"
+  },
+  "CommutatorTheorem/NoEpsilon/MSSExpectation.lean": {
+    "checkedAt": "2026-11-13T23:21:54.391Z",
+    "collisions": [
+      "NoEpsilon.MixedCharacteristic.det_add_vecMulVec_of_support",
+      "NoEpsilon.MSSExpectation.differenceAtZero"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/MSSFlatten.lean": {
+    "checkedAt": "2026-11-13T23:21:55.556Z",
+    "collisions": [
+      "NoEpsilon.MSSExpectation.splitHead",
+      "NoEpsilon.MSSExpectation.differenceAtZero",
+      "NoEpsilon.MixedCharacteristic.det_add_vecMulVec_of_support"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/MSSPartialFractions.lean": {
+    "checkedAt": "2026-11-13T23:22:08.442Z",
+    "collisions": [
+      "NoEpsilon.MSSPartialFractions.splits_eq_leadingCoeff_mul_nodal"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/MSSReducedFraction.lean": {
+    "checkedAt": "2026-11-13T23:22:09.295Z",
+    "collisions": [
+      "NoEpsilon.MSSReducedFraction.exists_reduced_fraction",
+      "NoEpsilon.MSSReducedFraction.eval₂_reduced_fraction"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/MSSResidueBounds.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:22:14.817Z"
+  },
+  "CommutatorTheorem/NoEpsilon/MSSResidues.lean": {
+    "checkedAt": "2026-11-13T23:22:15.126Z",
+    "collisions": [
+      "NoEpsilon.MSSResidues.eval_map_ofReal",
+      "NoEpsilon.MSSResidues.eval_ne_zero_of_coprime_of_root",
+      "NoEpsilon.MSSPick.exists_upper_pow_I"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/Shear.lean": {
+    "checkedAt": "2026-11-13T23:22:16.650Z",
+    "collisions": [
+      "NoEpsilon.Shear.conjugate_expand",
+      "NoEpsilon.Shear.one_add_mul_one_sub",
+      "NoEpsilon.Shear.one_sub_mul_one_add",
+      "NoEpsilon.Shear.Index"
+    ]
+  },
+  "KadisonSinger/DiagonalExpectation.lean": {
+    "checkedAt": "2026-11-13T23:22:49.642Z",
+    "collisions": [
+      "KadisonSinger.Diagonal",
+      "KadisonSinger.Hilbert",
+      "KadisonSinger.Operator"
+    ]
+  },
+  "KadisonSinger/FiniteCompression.lean": {
+    "checkedAt": "2026-11-13T23:36:10.760Z",
+    "collisions": [
+      "KadisonSinger.finiteInclusionLinear_inner",
+      "KadisonSinger.Hilbert",
+      "KadisonSinger.finiteInclusion"
+    ]
+  },
+  "KadisonSinger/VectorPartition.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:36:24.400Z"
+  },
+  "PavingSeparation/Foundation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T23:36:33.416Z",
+    "collisions": [
+      "PavingSeparation.Foundation.complex_normSq_sum_mul_le"
+    ]
+  },
+  "PavingSeparation/PavingBasic.lean": {
+    "checkedAt": "2026-11-13T23:36:47.316Z",
+    "collisions": [
+      "PavingSeparation.coordProjection"
+    ]
+  },
+  "CommutatorTheorem/Defs.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T22:59:06.837Z",
+    "collisions": [
+      "CommutatorTheorem.complex_normSq_sum_mul_le"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTDirectProof.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T22:59:33.617Z"
+  },
+  "CommutatorTheorem/Epsilon/BTExactSecondMoment.lean": {
+    "checkedAt": "2026-11-13T23:01:12.638Z",
+    "collisions": [
+      "CommutatorTheorem.BTMixedDet.Coloring"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTFellSignLocal.lean": {
+    "checkedAt": "2026-11-13T23:01:21.050Z",
+    "collisions": [
+      "CommutatorTheorem.BTFellSignLocal.reflectPolynomial",
+      "CommutatorTheorem.RealRooted"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTMDPSelection.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:07:54.403Z"
+  },
+  "CommutatorTheorem/Epsilon/BTMixedDeterminantal.lean": {
+    "checkedAt": "2026-11-13T23:07:58.206Z",
+    "collisions": [
+      "CommutatorTheorem.BTMixedDet.Coloring"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTRSBaseExpansion.lean": {
+    "checkedAt": "2026-11-13T23:09:24.729Z",
+    "collisions": [
+      "CommutatorTheorem.BTDeterminantStability.ComplexStable"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTRSColoringExpansion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-13T23:09:25.497Z"
+  },
+  "CommutatorTheorem/Epsilon/BTRSStabilityBridge.lean": {
+    "checkedAt": "2026-11-13T23:09:25.797Z",
+    "collisions": [
+      "CommutatorTheorem.BTRSStabilityBridge.iteratedPDeriv"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTRootShrinkingClose.lean": {
+    "checkedAt": "2026-11-13T23:09:26.717Z",
+    "collisions": [
+      "CommutatorTheorem.reciprocal_gap_at_shift",
+      "CommutatorTheorem.one_lt_optimal_rootMoment_barrier"
+    ]
+  },
+  "CommutatorTheorem/Epsilon/BTStableLine.lean": {
+    "checkedAt": "2026-11-13T23:09:27.874Z",
+    "collisions": [
+      "CommutatorTheorem.BTStableLine.stableLinePolynomial"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/GlobalReduction.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T23:09:29.198Z"
+  },
+  "CommutatorTheorem/NoEpsilon/GridCenters.lean": {
+    "checkedAt": "2026-11-13T23:09:31.777Z",
+    "collisions": [
+      "NoEpsilon.gridCenter"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/MSSPick.lean": {
+    "checkedAt": "2026-11-13T23:09:36.778Z",
+    "collisions": [
+      "NoEpsilon.MSSPick.exists_upper_pow_I",
+      "NoEpsilon.MSSPick.exists_upper_pow_neg_I",
+      "NoEpsilon.MSSPick.laurent_ray_limit",
+      "NoEpsilon.MSSPick.logDerivative_of_factorization"
+    ]
+  },
+  "CommutatorTheorem/NoEpsilon/MSSSpecialization.lean": {
+    "checkedAt": "2026-11-13T23:09:39.214Z",
+    "collisions": [
+      "NoEpsilon.MSSSpecialization.coordinatePolynomial"
+    ]
+  },
+  "KadisonSinger/DiagonalOperators.lean": {
+    "checkedAt": "2026-11-13T23:09:41.412Z",
+    "collisions": [
+      "KadisonSinger.Hilbert",
+      "KadisonSinger.diagonalAction_norm",
+      "KadisonSinger.diagonalOperator_apply",
+      "KadisonSinger.diagonalOperator_star"
+    ]
+  },
+  "KadisonSinger/DiagonalRange.lean": {
+    "checkedAt": "2026-11-13T23:10:04.289Z",
+    "collisions": [
+      "KadisonSinger.Operator"
+    ]
+  },
+  "KadisonSinger/Infinite.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-13T23:16:08.944Z"
+  },
+  "PavingSeparation/DiagonalCost.lean": {
+    "checkedAt": "2026-11-13T23:20:05.741Z",
+    "collisions": [
+      "PavingSeparation.DiagonalCost.sqrt_k_lower_bound"
+    ]
+  }
+}
