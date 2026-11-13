@@ -1,0 +1,72 @@
+{
+  "key": "palomar-qseries-row-factorization",
+  "repo": "https://github.com/xiangyazi24/palomar-qseries-row-factorization",
+  "commit": "702c524cd8bc70867c918c23039680e7adf48bf8",
+  "toolchain": "leanprover/lean4:v4.30.0",
+  "roots": [
+    "Challenge",
+    "PalomarQseriesRowFactorization",
+    "QseriesFormalization",
+    "Solution"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/palomar-qseries-row-factorization/repo",
+  "entries": 2858,
+  "modules": 39,
+  "exported": 31,
+  "failed": [
+    {
+      "module": "QseriesFormalization.Ch10_Paper2_EvenCompression",
+      "why": "no closure"
+    },
+    {
+      "module": "QseriesFormalization.Ch10_Paper2_LaurentFactorization",
+      "why": "no closure"
+    },
+    {
+      "module": "QseriesFormalization.Chapter01",
+      "why": "no closure"
+    },
+    {
+      "module": "QseriesFormalization.Chapter19",
+      "why": "no closure"
+    },
+    {
+      "module": "QseriesFormalization.Chapter19_JacobiTripleSignChar",
+      "why": "no closure"
+    },
+    {
+      "module": "QseriesFormalization.Pending.Chapter10_HM",
+      "why": "no closure"
+    },
+    {
+      "module": "QseriesFormalization.Pending.Chapter10_PF",
+      "why": "no closure"
+    },
+    {
+      "module": "QseriesFormalization.Pending.JacobiCubeAnalyticToFormal",
+      "why": "no closure"
+    }
+  ],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 2875,
+    "kept": 2858,
+    "skippedRoot": 17,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 7,
+    "lineUnverified": 0,
+    "nameFixed": 2858,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 10518528,
+  "minutes": 10,
+  "finishedAt": "2026-11-13T17:53:48.355Z"
+}
