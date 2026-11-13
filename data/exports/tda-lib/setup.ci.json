@@ -1,0 +1,36 @@
+{
+  "key": "tda-lib",
+  "repo": "https://github.com/uda-lab/tda-lib",
+  "commit": "6880b1ef1fcfebae0b8064d3c26223f3b952964a",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "roots": [
+    "TDA"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/tda-lib/repo",
+  "entries": 13866,
+  "modules": 824,
+  "exported": 824,
+  "failed": [],
+  "expansion": {
+    "expanded": 35,
+    "verbatim": 1596,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 13866,
+    "kept": 13866,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 130,
+    "lineUnverified": 0,
+    "nameFixed": 13866,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 1284677632,
+  "minutes": 101,
+  "finishedAt": "2026-11-13T19:24:43.252Z"
+}
