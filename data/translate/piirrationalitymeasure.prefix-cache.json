@@ -395,5 +395,187 @@
   "Formalization/HarmonicLogScale.lean": {
     "status": "clean",
     "checkedAt": "2026-11-14T08:26:22.136Z"
+  },
+  "Formalization/PrimeSavingAsymptotic.lean": {
+    "checkedAt": "2026-11-14T11:39:01.739Z",
+    "collisions": [
+      "PiIrrationality.lcmRange"
+    ]
+  },
+  "Formalization/PrimeSavingCells.lean": {
+    "checkedAt": "2026-11-14T11:39:02.186Z",
+    "collisions": [
+      "PiIrrationality.primeSavingCondition"
+    ]
+  },
+  "Formalization/SaddleLogCertificate.lean": {
+    "checkedAt": "2026-11-14T11:39:04.464Z",
+    "collisions": [
+      "PiIrrationality.saddleLogInput",
+      "PiIrrationality.roundedOddLogSum",
+      "PiIrrationality.oddLogTerm"
+    ]
+  },
+  "Formalization/Statements.lean": {
+    "checkedAt": "2026-11-14T12:39:52.577Z",
+    "collisions": [
+      "PiIrrationality.IrrationalityMeasureAtMost"
+    ]
+  },
+  "Formalization/BinetRecurrence.lean": {
+    "checkedAt": "2026-11-14T12:02:19.696Z",
+    "collisions": [
+      "PiIrrationality.binetKernel",
+      "PiIrrationality.exp_sub_div_bounds",
+      "PiIrrationality.binetLaplace"
+    ]
+  },
+  "Formalization/BinomialExpansion.lean": {
+    "checkedAt": "2026-11-14T12:02:25.276Z",
+    "collisions": [
+      "PiIrrationality.LeibnizIndex",
+      "PiIrrationality.regularizedRat"
+    ]
+  },
+  "Formalization/CoefficientAsymptotic.lean": {
+    "checkedAt": "2026-11-14T12:02:35.783Z",
+    "collisions": [
+      "PiIrrationality.sqrt_scaled_asymptotic",
+      "PiIrrationality.shifted_quartic"
+    ]
+  },
+  "Formalization/CoefficientExtraction.lean": {
+    "checkedAt": "2026-11-14T12:02:44.824Z",
+    "collisions": [
+      "PiIrrationality.laurentResidue",
+      "PiIrrationality.PSeriesNat",
+      "PiIrrationality.regularizedRat",
+      "PiIrrationality.laurent_derivative_coeff",
+      "PiIrrationality.laurent_single_div_X_pow"
+    ]
+  },
+  "Formalization/CoefficientGaussian.lean": {
+    "checkedAt": "2026-11-14T12:02:59.272Z",
+    "collisions": [
+      "PiIrrationality.shifted_quartic",
+      "PiIrrationality.centered_charFun_taylor"
+    ]
+  },
+  "Formalization/CoefficientGrowthNumerics.lean": {
+    "checkedAt": "2026-11-14T12:03:11.388Z",
+    "collisions": [
+      "PiIrrationality.coefficientSaddleNumerator",
+      "PiIrrationality.coefficientZLowerRat",
+      "PiIrrationality.shifted_quartic",
+      "PiIrrationality.oddLogTerm"
+    ]
+  },
+  "Formalization/ConstructionCoefficientData.lean": {
+    "checkedAt": "2026-11-14T12:03:15.055Z",
+    "collisions": [
+      "PiIrrationality.IrrationalityMeasureAtMost",
+      "PiIrrationality.constructionDegree",
+      "PiIrrationality.PSeriesNat"
+    ]
+  },
+  "Formalization/ConstructionIntegerLinearForm.lean": {
+    "checkedAt": "2026-11-14T12:03:21.033Z",
+    "collisions": [
+      "PiIrrationality.lcmRange",
+      "PiIrrationality.regularizedRat"
+    ]
+  },
+  "Formalization/ConstructionMobiusAlgebra.lean": {
+    "checkedAt": "2026-11-14T13:17:30.790Z",
+    "collisions": [
+      "PiIrrationality.constructionDegree",
+      "PiIrrationality.PSeriesNat"
+    ]
+  },
+  "Formalization/ConstructionPrincipalLaurent.lean": {
+    "checkedAt": "2026-11-14T13:17:45.980Z",
+    "collisions": [
+      "PiIrrationality.HasTwoWeight",
+      "PiIrrationality.constructionTwoSaving",
+      "PiIrrationality.regularizedRat"
+    ]
+  },
+  "Formalization/ConstructionRationalLinearForm.lean": {
+    "checkedAt": "2026-11-14T13:18:10.817Z",
+    "collisions": [
+      "PiIrrationality.regularizedRat",
+      "PiIrrationality.IrrationalityMeasureAtMost"
+    ]
+  },
+  "Formalization/ContourLogEstimate.lean": {
+    "checkedAt": "2026-11-14T13:18:32.639Z",
+    "collisions": [
+      "PiIrrationality.log_norm_eq_bot_iff",
+      "PiIrrationality.log_norm_limsup_of_exp_bound",
+      "PiIrrationality.intervalIntegral_norm_bound"
+    ]
+  },
+  "Formalization/DigammaThirds.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T13:18:35.096Z"
+  },
+  "Formalization/EndpointCoincidences.lean": {
+    "checkedAt": "2026-11-14T13:18:35.479Z",
+    "collisions": [
+      "PiIrrationality.SavingEndpointType"
+    ]
+  },
+  "Formalization/EndpointLocalFiniteness.lean": {
+    "checkedAt": "2026-11-14T13:18:37.465Z",
+    "collisions": [
+      "PiIrrationality.SavingEndpointType"
+    ]
+  },
+  "Formalization/EndpointSectorVariation.lean": {
+    "checkedAt": "2026-11-14T13:18:40.014Z",
+    "collisions": [
+      "PiIrrationality.candidateSectorRay",
+      "PiIrrationality.SectorData"
+    ]
+  },
+  "Formalization/EvenPolePartialFractions.lean": {
+    "checkedAt": "2026-11-14T13:18:51.281Z",
+    "collisions": [
+      "PiIrrationality.regularizedRat"
+    ]
+  },
+  "Formalization/FloorDisagreementIntegral.lean": {
+    "checkedAt": "2026-11-14T13:18:51.985Z",
+    "collisions": [
+      "PiIrrationality.floorBand",
+      "PiIrrationality.savingChi_floor_formula"
+    ]
+  },
+  "Formalization/FloorThresholdComparison.lean": {
+    "checkedAt": "2026-11-14T13:29:40.714Z",
+    "collisions": [
+      "PiIrrationality.floor_le_of_threshold_imp",
+      "PiIrrationality.floor_eq_of_threshold_comparisons"
+    ]
+  },
+  "Formalization/GlobalGaussianBound.lean": {
+    "checkedAt": "2026-11-14T13:29:41.473Z",
+    "collisions": [
+      "PiIrrationality.compact_positive_norm_bound"
+    ]
+  },
+  "Formalization/InverseSquarePeriod.lean": {
+    "checkedAt": "2026-11-14T13:29:42.031Z",
+    "collisions": [
+      "PiIrrationality.inverse_square_shift_le",
+      "PiIrrationality.continuousOn_inverse_square_shift",
+      "PiIrrationality.intervalIntegral_abs_mul_le"
+    ]
+  },
+  "Formalization/IrrationalityMeasureBounds.lean": {
+    "checkedAt": "2026-11-14T13:29:43.435Z",
+    "collisions": [
+      "PiIrrationality.IrrationalityMeasureAtMost"
+    ]
   }
 }
