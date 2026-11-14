@@ -1,0 +1,1024 @@
+{
+  "TwinPrime/Analytic/BVInternalCutoffs.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:11:05.483Z"
+  },
+  "TwinPrime/Analytic/BilinearBoxPolynomial.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:11:18.588Z"
+  },
+  "TwinPrime/Analytic/BilinearCutoffShift.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:11:30.030Z"
+  },
+  "TwinPrime/Analytic/BilinearPrimeBeta.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:11:31.072Z"
+  },
+  "TwinPrime/Analytic/CenteredUnsmoothing.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:28:45.409Z"
+  },
+  "TwinPrime/Analytic/CharacterConvolutionMass.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:28:47.623Z"
+  },
+  "TwinPrime/Analytic/CharacterExceptions.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:29:13.659Z"
+  },
+  "TwinPrime/Analytic/CharacterMaximalLargeSieve.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:29:15.467Z"
+  },
+  "TwinPrime/Analytic/CharacterPeriodSum.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:31:00.227Z",
+    "collisions": [
+      "TwinPrime.Analytic.sum_Ioc_zero_eq_shifted_range"
+    ]
+  },
+  "TwinPrime/Analytic/CharacterPrimitiveReduction.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:31:14.136Z"
+  },
+  "TwinPrime/Analytic/DispersionActiveBand.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:44:08.765Z"
+  },
+  "TwinPrime/Analytic/DispersionGcdCutoff.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:00:54.421Z"
+  },
+  "TwinPrime/Analytic/DispersionLargeGcd.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:36:23.477Z"
+  },
+  "TwinPrime/Analytic/DivisorGrowth.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:00:23.234Z"
+  },
+  "TwinPrime/Analytic/DyadicStaircaseFirstMoment.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:09:35.134Z"
+  },
+  "TwinPrime/Analytic/FactorRanges.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:09:53.486Z"
+  },
+  "TwinPrime/Analytic/LFunctionFiniteConductors.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:09:56.884Z"
+  },
+  "TwinPrime/Analytic/LFunctionLogDerivative.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:11:21.245Z"
+  },
+  "TwinPrime/Analytic/LFunctionNearOneGrowth.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:11:56.043Z"
+  },
+  "TwinPrime/Analytic/LFunctionNearOneZeros.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:24:46.708Z"
+  },
+  "TwinPrime/Analytic/LFunctionNonquadraticZeroFree.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:24:57.305Z"
+  },
+  "TwinPrime/Analytic/LFunctionRealSign.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:34:00.065Z"
+  },
+  "TwinPrime/Analytic/LFunctionZeroCount.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:34:02.449Z"
+  },
+  "TwinPrime/Analytic/LFunctionZeroInequality.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:34:32.572Z"
+  },
+  "TwinPrime/Analytic/LFunctionZeroValue.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:36:23.659Z"
+  },
+  "TwinPrime/Analytic/LogKernel.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:37:27.747Z"
+  },
+  "TwinPrime/Analytic/LogPowerDistribution.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:37:35.476Z"
+  },
+  "TwinPrime/Analytic/LogarithmicCorrection.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:37:37.643Z"
+  },
+  "TwinPrime/Analytic/MertensReduction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:46:21.396Z"
+  },
+  "TwinPrime/Analytic/PowerLevelDistribution.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:46:32.552Z"
+  },
+  "TwinPrime/Analytic/PrimeDistribution.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:46:54.145Z"
+  },
+  "TwinPrime/Analytic/PrimeLog.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:47:12.350Z"
+  },
+  "TwinPrime/Analytic/PrimeReal.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:47:16.790Z"
+  },
+  "TwinPrime/Analytic/PrimeReciprocalLogScale.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:59:19.807Z"
+  },
+  "TwinPrime/Analytic/QuadraticAuxiliaryCharacter.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:18:58.254Z",
+    "collisions": [
+      "TwinPrime.Analytic.auxiliaryQuadraticCharacter_conductor_ne_two"
+    ]
+  },
+  "TwinPrime/Analytic/QuadraticProductCoefficients.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:19:31.960Z"
+  },
+  "TwinPrime/Analytic/SelbergSummatory.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:39:35.910Z"
+  },
+  "TwinPrime/Analytic/SeparatedReciprocal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:54:34.823Z"
+  },
+  "TwinPrime/Analytic/SiegelValueFromComparison.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:58:03.970Z"
+  },
+  "TwinPrime/Analytic/WeightedBilinear.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:42:26.785Z"
+  },
+  "TwinPrime/Analytic/WideAnalyticLogDerivativeBound.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:42:36.982Z"
+  },
+  "TwinPrime/Analytic/WideLFunctionLocalExpansion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:45:25.888Z"
+  },
+  "TwinPrime/Analytic/WideZetaLocalExpansion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:46:50.440Z"
+  },
+  "TwinPrime/Analytic/ZetaContinuation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:46:56.494Z"
+  },
+  "TwinPrime/Analytic/ZetaLogDerivative.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T05:04:17.693Z"
+  },
+  "TwinPrime/Analytic/ZetaRealTruncation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T05:04:27.036Z"
+  },
+  "TwinPrime/Analytic/ZetaTruncation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T05:04:28.900Z"
+  },
+  "TwinPrime/Brun.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T05:04:31.839Z"
+  },
+  "TwinPrime/Analytic/BVConductorGrowth.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:03:59.491Z"
+  },
+  "TwinPrime/Analytic/BilinearExceptional.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:09:29.624Z"
+  },
+  "TwinPrime/Analytic/BilinearStructuredCore.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:13:27.466Z"
+  },
+  "TwinPrime/Analytic/BombieriVinogradovPsi.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:13:30.191Z"
+  },
+  "TwinPrime/Analytic/CharacterCommonLevel.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:13:31.347Z"
+  },
+  "TwinPrime/Analytic/CharacterConductor.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:13:39.562Z"
+  },
+  "TwinPrime/Analytic/CharacterConvolutionPower.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:13:53.823Z"
+  },
+  "TwinPrime/Analytic/CharacterLogInterval.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:15:02.508Z"
+  },
+  "TwinPrime/Analytic/CharacterVaughanTypeI.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:16:28.705Z"
+  },
+  "TwinPrime/Analytic/ContourBudgetAbsorption.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:28:29.813Z"
+  },
+  "TwinPrime/Analytic/ContractionParameters.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:28:33.830Z"
+  },
+  "TwinPrime/Analytic/ConvolutionHyperbolaBound.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:28:34.797Z"
+  },
+  "TwinPrime/Analytic/DispersionBilinearGcd.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:28:42.113Z"
+  },
+  "TwinPrime/Analytic/DyadicIntervalCover.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:28:44.021Z"
+  },
+  "TwinPrime/Analytic/FiniteLargeSieve.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:29:34.376Z"
+  },
+  "TwinPrime/Analytic/HolomorphicLog.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:30:07.499Z"
+  },
+  "TwinPrime/Analytic/LFunctionLocalExpansion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:30:38.799Z"
+  },
+  "TwinPrime/Analytic/LFunctionZeroSigns.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:30:42.271Z"
+  },
+  "TwinPrime/Analytic/MiddlePrimeReciprocalBound.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:43:22.812Z"
+  },
+  "TwinPrime/Analytic/MiddlePrimeSieveConstant.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:54:22.544Z"
+  },
+  "TwinPrime/Analytic/MiddlePrimeSieveMass.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:54:41.503Z"
+  },
+  "TwinPrime/Analytic/MiddlePrimeSieveWeight.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:54:52.051Z"
+  },
+  "TwinPrime/Analytic/MoebiusAbel.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:55:38.795Z"
+  },
+  "TwinPrime/Analytic/MoebiusSmoothing.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:56:55.252Z"
+  },
+  "TwinPrime/Analytic/PowerDirichletContinuation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:04:27.086Z"
+  },
+  "TwinPrime/Analytic/PrincipalMellinInversion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:46:00.501Z"
+  },
+  "TwinPrime/Analytic/QuadraticProductPartialSums.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:16:19.974Z"
+  },
+  "TwinPrime/Analytic/QuadraticResidueComparison.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:38:32.102Z"
+  },
+  "TwinPrime/Analytic/ResidueCutoff.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:04:33.656Z"
+  },
+  "TwinPrime/Analytic/SelbergMoebiusError.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:24:46.232Z"
+  },
+  "TwinPrime/Analytic/SiegelWalfiszStripBudget.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:24:47.339Z"
+  },
+  "TwinPrime/Analytic/SmoothedSiegelWalfisz.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:24:52.267Z"
+  },
+  "TwinPrime/Analytic/WideLocalLogDerivativeExpansion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:25:17.976Z"
+  },
+  "TwinPrime/Analytic/ZeroFactorLogDerivative.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:25:20.534Z"
+  },
+  "TwinPrime/Analytic/ZeroFreeLogarithms.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:25:39.483Z"
+  },
+  "TwinPrime/Analytic/ZetaLocalExpansion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:53:10.786Z"
+  },
+  "TwinPrime/ConditionalBilinear.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:53:14.123Z"
+  },
+  "TwinPrime/Sieve/BrunBlocks.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:24:24.430Z"
+  },
+  "TwinPrime/Sieve/Fundamental.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:25:09.166Z",
+    "collisions": [
+      "SelbergSieve.eq_gcd_mul_of_dvd_of_coprime",
+      "SelbergSieve.helper_iff"
+    ]
+  },
+  "TwinPrime/Analytic/AdditiveKernel.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:07:21.599Z"
+  },
+  "TwinPrime/Analytic/BVSmallConductorGrowth.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:07:51.995Z"
+  },
+  "TwinPrime/Analytic/CharacterBilinear.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:08:02.795Z"
+  },
+  "TwinPrime/Analytic/CharacterExceptionGrowth.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:08:08.617Z"
+  },
+  "TwinPrime/Analytic/CharacterSums.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:08:33.009Z"
+  },
+  "TwinPrime/Analytic/CharacterTypeIBounds.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:08:38.851Z"
+  },
+  "TwinPrime/Analytic/ConductorAbel.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:12:44.496Z"
+  },
+  "TwinPrime/Analytic/Cutoff.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:12:45.971Z"
+  },
+  "TwinPrime/Analytic/DispersionActiveBudget.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:12:54.638Z"
+  },
+  "TwinPrime/Analytic/DyadicMaximal.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:12:55.776Z",
+    "collisions": [
+      "TwinPrime.Analytic.add_sq_le_of_sq_le"
+    ]
+  },
+  "TwinPrime/Analytic/DyadicStaircaseGeometry.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:13:17.341Z"
+  },
+  "TwinPrime/Analytic/LFunctionConjugateZeros.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:13:20.395Z"
+  },
+  "TwinPrime/Analytic/LFunctionGrowth.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:13:40.451Z"
+  },
+  "TwinPrime/Analytic/LFunctionInducedValue.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:13:43.364Z"
+  },
+  "TwinPrime/Analytic/LFunctionPeriodBound.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:14:03.361Z"
+  },
+  "TwinPrime/Analytic/LocalLogDerivativeExpansion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:14:09.509Z"
+  },
+  "TwinPrime/Analytic/LogDerivativeStrip.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:14:10.950Z"
+  },
+  "TwinPrime/Analytic/LogFactorial.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:17:32.173Z"
+  },
+  "TwinPrime/Analytic/MixedCorrelation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:36:42.567Z"
+  },
+  "TwinPrime/Analytic/MoebiusTotient.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:36:44.190Z"
+  },
+  "TwinPrime/Analytic/PrimeBetaSmallPart.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:36:58.876Z"
+  },
+  "TwinPrime/Analytic/PrimitiveCharacterCounting.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:06:11.341Z"
+  },
+  "TwinPrime/Analytic/RationalLargeSieve.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:06:30.141Z"
+  },
+  "TwinPrime/Analytic/SiegelValuePower.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:07:33.385Z"
+  },
+  "TwinPrime/Analytic/SiegelWalfiszStripWidth.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:07:36.408Z"
+  },
+  "TwinPrime/Analytic/SiegelZeroGap.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:07:38.539Z"
+  },
+  "TwinPrime/Analytic/SmoothedMangoldtContour.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:09:23.080Z"
+  },
+  "TwinPrime/Analytic/TotientReciprocal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:28:58.776Z"
+  },
+  "TwinPrime/Analytic/TypeICorrelation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:29:15.387Z"
+  },
+  "TwinPrime/Analytic/VaughanActiveBoxes.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:30:19.730Z"
+  },
+  "TwinPrime/Analytic/ZeroFreeRectangle.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:30:44.323Z"
+  },
+  "TwinPrime/Analytic/ZeroSumNorm.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:30:47.956Z"
+  },
+  "TwinPrime/HardyLittlewood.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:30:56.872Z"
+  },
+  "TwinPrime/Sieve/Bonferroni.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:36:34.689Z"
+  },
+  "TwinPrime/Sieve/TwinBound.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:36:50.782Z"
+  },
+  "TwinPrime/Sieve/TwinSieve.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:36:51.934Z"
+  },
+  "TwinPrime/TwinRough.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:37:24.316Z"
+  },
+  "TwinPrime/Analytic/AnalyticLogDerivativeBound.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:12:40.012Z"
+  },
+  "TwinPrime/Analytic/BilinearSmallPart.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:12:53.599Z"
+  },
+  "TwinPrime/Analytic/BombieriVinogradovFromSW.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:21:25.816Z"
+  },
+  "TwinPrime/Analytic/CharacterDirichletContinuation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:21:46.614Z"
+  },
+  "TwinPrime/Analytic/CharacterInterval.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:21:48.773Z"
+  },
+  "TwinPrime/Analytic/CharacterMaximalBilinear.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:22:45.185Z"
+  },
+  "TwinPrime/Analytic/ComplexHyperbola.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:24:33.031Z"
+  },
+  "TwinPrime/Analytic/ConductorMean.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:24:50.214Z"
+  },
+  "TwinPrime/Analytic/ContourParameterBounds.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:24:51.298Z"
+  },
+  "TwinPrime/Analytic/Dispersion.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:25:13.155Z"
+  },
+  "TwinPrime/Analytic/EvenModuli.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:29:53.719Z"
+  },
+  "TwinPrime/Analytic/GrowthBounds.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:30:02.867Z"
+  },
+  "TwinPrime/Analytic/HolomorphicZeroRemoval.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:30:20.080Z"
+  },
+  "TwinPrime/Analytic/LFunctionInducedBound.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:30:59.738Z"
+  },
+  "TwinPrime/Analytic/LFunctionLogarithmicZeroValue.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:31:02.585Z"
+  },
+  "TwinPrime/Analytic/LFunctionZeroFreeRegion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:42:48.413Z"
+  },
+  "TwinPrime/Analytic/MellinRampKernel.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:42:50.102Z",
+    "collisions": [
+      "TwinPrime.Analytic.mellinRamp_integrand_eq_indicator",
+      "TwinPrime.Analytic.intervalIntegrable_mellinRamp_difference"
+    ]
+  },
+  "TwinPrime/Analytic/MellinRectangle.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:43:37.723Z"
+  },
+  "TwinPrime/Analytic/MellinTruncation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:44:31.223Z"
+  },
+  "TwinPrime/Analytic/MiddlePrimeIntegral.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:44:32.251Z"
+  },
+  "TwinPrime/Analytic/MiddlePrimeSieveCorrection.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:31:40.815Z"
+  },
+  "TwinPrime/Analytic/MiddlePrimeSieveDenominator.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:32:59.258Z"
+  },
+  "TwinPrime/Analytic/MoebiusBoundary.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:28:49.655Z"
+  },
+  "TwinPrime/Analytic/MoebiusHyperbola.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:52:49.715Z"
+  },
+  "TwinPrime/Analytic/MoebiusSelberg.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:07:59.045Z"
+  },
+  "TwinPrime/Analytic/NonprimeMangoldtTail.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:14:39.610Z"
+  },
+  "TwinPrime/Analytic/ResidueConductorBound.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:14:40.703Z"
+  },
+  "TwinPrime/Analytic/SiegelWalfiszMaximal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:14:51.811Z"
+  },
+  "TwinPrime/Analytic/SquarefreeWeightedDistribution.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:14:53.769Z"
+  },
+  "TwinPrime/Analytic/TotientMainAsymptotics.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:19:32.841Z"
+  },
+  "TwinPrime/Analytic/Vaughan.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:20:53.300Z"
+  },
+  "TwinPrime/Analytic/ZeroFactorBounds.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:21:08.007Z"
+  },
+  "TwinPrime/Analytic/ZetaConvolutionPowerBounds.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:21:33.988Z"
+  },
+  "TwinPrime/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:21:35.664Z"
+  },
+  "TwinPrime/Conditional.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:59:06.207Z"
+  },
+  "TwinPrime/Correlation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:18:57.758Z"
+  },
+  "TwinPrime/RoughParity.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:25:44.502Z"
+  },
+  "TwinPrime/Sieve/BrunHooleySieve.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:25:46.596Z"
+  },
+  "TwinPrime/Sieve/ErrorSum.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:26:15.847Z"
+  },
+  "TwinPrime/Sieve/Expansion.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:26:26.008Z"
+  },
+  "TwinPrime/Sieve/Rankin.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:26:56.941Z"
+  },
+  "TwinPrime/Analytic/AdditiveLargeSieve.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:10:52.599Z"
+  },
+  "TwinPrime/Analytic/BilinearGcdReduction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:11:29.381Z"
+  },
+  "TwinPrime/Analytic/BilinearSign.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:11:33.927Z"
+  },
+  "TwinPrime/Analytic/CharacterDirichletTail.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:12:13.228Z"
+  },
+  "TwinPrime/Analytic/CharacterLargeSieveTransfer.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:13:30.184Z"
+  },
+  "TwinPrime/Analytic/CharacterTrivialBounds.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:13:48.684Z"
+  },
+  "TwinPrime/Analytic/CharacterTypeIMean.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:14:10.159Z"
+  },
+  "TwinPrime/Analytic/CharacterVaughan.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:14:17.792Z"
+  },
+  "TwinPrime/Analytic/CharacterVaughanDyadic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:14:44.615Z"
+  },
+  "TwinPrime/Analytic/CutoffLogarithms.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:14:47.374Z"
+  },
+  "TwinPrime/Analytic/Decomposition.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:21:34.190Z"
+  },
+  "TwinPrime/Analytic/DispersionGcdGlobal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:28:20.869Z"
+  },
+  "TwinPrime/Analytic/DispersionGrowth.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:28:23.112Z"
+  },
+  "TwinPrime/Analytic/DyadicNatPartition.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:28:24.217Z"
+  },
+  "TwinPrime/Analytic/DyadicStaircase.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:28:35.208Z"
+  },
+  "TwinPrime/Analytic/LFunctionEulerCorrection.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:28:46.518Z"
+  },
+  "TwinPrime/Analytic/LFunctionLowerBound.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:29:05.965Z"
+  },
+  "TwinPrime/Analytic/MiddlePrimePowerSieve.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:29:09.416Z"
+  },
+  "TwinPrime/Analytic/MiddlePrimeSieveThreshold.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:29:10.647Z"
+  },
+  "TwinPrime/Analytic/MoebiusTotientAsymptotics.lean": {
+    "checkedAt": "2026-11-14T00:29:52.159Z",
+    "collisions": [
+      "TwinPrime.Analytic.odd_prime_two_lt",
+      "TwinPrime.Analytic.sharedPrimeCorrection_eq_tsum",
+      "TwinPrime.Analytic.abs_primePowerCorrectionSummand_le",
+      "TwinPrime.Analytic.tendsto_primePowerCorrectionSummand"
+    ]
+  },
+  "TwinPrime/Analytic/PowerDirichletTail.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:31:22.661Z"
+  },
+  "TwinPrime/Analytic/PrimeReciprocal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:35:10.871Z"
+  },
+  "TwinPrime/Analytic/PrimeReciprocalAbel.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:35:14.236Z"
+  },
+  "TwinPrime/Analytic/PrimeReciprocalReal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:35:15.135Z"
+  },
+  "TwinPrime/Analytic/PrimeReciprocalReplacement.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:35:17.094Z"
+  },
+  "TwinPrime/Analytic/QuadraticAuxiliaryComparison.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:50:32.596Z"
+  },
+  "TwinPrime/Analytic/QuarterBilinearReduction.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:17:09.038Z"
+  },
+  "TwinPrime/Analytic/QuarterCutoff.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:46:25.954Z"
+  },
+  "TwinPrime/Analytic/ReciprocalPowerSums.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:17:27.540Z"
+  },
+  "TwinPrime/Analytic/SmallConductorMean.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:18:05.494Z"
+  },
+  "TwinPrime/Analytic/VaughanBoxCoefficients.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:18:07.098Z"
+  },
+  "TwinPrime/Analytic/VaughanMeanParameters.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:18:09.336Z"
+  },
+  "TwinPrime/Analytic/WeightedMertens.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:18:19.997Z"
+  },
+  "TwinPrime/Analytic/ZetaConvolutionAsymptotic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:18:34.897Z"
+  },
+  "TwinPrime/Sieve/BrunLower.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:27:00.354Z"
+  },
+  "TwinPrime/Sieve/Legendre.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:47:38.284Z"
+  },
+  "TwinPrime/Sieve/Mertens.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:54:12.788Z"
+  },
+  "TwinPrime/Analytic/BVLogComparisons.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:08:56.803Z"
+  },
+  "TwinPrime/Analytic/CharacterConvolutionAsymptotic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:09:32.043Z"
+  },
+  "TwinPrime/Analytic/CharacterConvolutionCancellation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:09:33.148Z"
+  },
+  "TwinPrime/Analytic/CharacterConvolutionContinuation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:10:19.362Z"
+  },
+  "TwinPrime/Analytic/CharacterMaximal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:12:27.234Z"
+  },
+  "TwinPrime/Analytic/CharacterVaughanBox.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:12:28.333Z"
+  },
+  "TwinPrime/Analytic/CharacterVaughanMean.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:14:43.235Z"
+  },
+  "TwinPrime/Analytic/ConductorReduction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T00:32:54.837Z"
+  },
+  "TwinPrime/Analytic/DispersionPartition.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:33:01.388Z"
+  },
+  "TwinPrime/Analytic/DispersionSquareFactor.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:33:38.695Z"
+  },
+  "TwinPrime/Analytic/DyadicBilinearPartition.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:59:42.671Z"
+  },
+  "TwinPrime/Analytic/DyadicStaircaseLevels.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T00:59:48.640Z"
+  },
+  "TwinPrime/Analytic/EvenAsymptotics.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:00:37.280Z"
+  },
+  "TwinPrime/Analytic/HarmonicConvolutionLimit.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:01:00.983Z"
+  },
+  "TwinPrime/Analytic/Hyperbola.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:01:40.173Z"
+  },
+  "TwinPrime/Analytic/IntervalFamilyLargeSieve.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:01:56.191Z"
+  },
+  "TwinPrime/Analytic/LFunctionQuadraticZeroFree.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:01:58.202Z"
+  },
+  "TwinPrime/Analytic/LargePrimeModuli.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:10:12.013Z"
+  },
+  "TwinPrime/Analytic/MangoldtMellinInversion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:10:36.970Z"
+  },
+  "TwinPrime/Analytic/MellinPoleKernel.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:10:49.815Z",
+    "collisions": [
+      "TwinPrime.Analytic.mellinPoleWeight_eq_ramp_difference",
+      "TwinPrime.Analytic.mellinPoleWeight_integrand_eq"
+    ]
+  },
+  "TwinPrime/Analytic/MiddlePrimeSieve.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:12:41.612Z"
+  },
+  "TwinPrime/Analytic/MiddlePrimeSieveError.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:12:48.508Z"
+  },
+  "TwinPrime/Analytic/MixedEvenBudget.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:12:51.910Z"
+  },
+  "TwinPrime/Analytic/MoebiusLogWeight.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:13:02.006Z"
+  },
+  "TwinPrime/Analytic/PartialSummation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:30:57.848Z"
+  },
+  "TwinPrime/Analytic/PrimeBetaGrouping.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:34:29.746Z"
+  },
+  "TwinPrime/Analytic/PrimeToMertens.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:43:24.190Z"
+  },
+  "TwinPrime/Analytic/PrimitiveGauss.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T01:47:01.701Z"
+  },
+  "TwinPrime/Analytic/PrincipalStripParameters.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T01:47:26.245Z"
+  },
+  "TwinPrime/Analytic/QuadraticNoZeroTransport.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:17:57.382Z"
+  },
+  "TwinPrime/Analytic/QuadraticProductLSeries.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:27:54.132Z"
+  },
+  "TwinPrime/Analytic/RationalFrequencySeparation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:50:13.811Z"
+  },
+  "TwinPrime/Analytic/SelbergCenteredError.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T02:50:36.809Z"
+  },
+  "TwinPrime/Analytic/SelbergCoefficientBounds.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T02:50:38.414Z"
+  },
+  "TwinPrime/Analytic/SiegelZeroGapUnconditional.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:11:15.000Z"
+  },
+  "TwinPrime/Analytic/SmoothingLimits.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:11:26.352Z"
+  },
+  "TwinPrime/Analytic/SmoothingSummability.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:16:27.245Z"
+  },
+  "TwinPrime/Analytic/SupremumContraction.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:17:50.948Z"
+  },
+  "TwinPrime/Analytic/TruncatedMangoldt.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:18:12.790Z"
+  },
+  "TwinPrime/Analytic/VaughanMeanValue.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:20:11.743Z"
+  },
+  "TwinPrime/Analytic/ZeroFreeArithmetic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:20:19.538Z"
+  },
+  "TwinPrime/Analytic/ZetaConvolutionHyperbola.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:20:23.832Z"
+  },
+  "TwinPrime/Analytic/ZetaZeroFree.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:39:03.234Z"
+  },
+  "TwinPrime/BrunAlmostPrime.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:39:04.411Z"
+  },
+  "TwinPrime/BrunBounded.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:39:04.912Z"
+  },
+  "TwinPrime/Sieve/BrunFinal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T03:39:08.354Z"
+  },
+  "TwinPrime/Sieve/BrunHooley.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T03:39:11.538Z"
+  }
+}
