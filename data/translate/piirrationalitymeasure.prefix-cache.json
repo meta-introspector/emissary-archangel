@@ -1,0 +1,399 @@
+{
+  "Formalization/ArcPhase.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:18:43.150Z",
+    "collisions": [
+      "PiIrrationality.hasDerivAt_quadratic"
+    ]
+  },
+  "Formalization/BinetKernel.lean": {
+    "checkedAt": "2026-11-14T04:20:12.899Z",
+    "collisions": [
+      "PiIrrationality.neg_mul_I_mem_integerComplement",
+      "PiIrrationality.cotTerm_neg_mul_I_im",
+      "PiIrrationality.cot_neg_mul_I",
+      "PiIrrationality.cot_main_neg_mul_I_im"
+    ]
+  },
+  "Formalization/BinetSymmetricIntegral.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:20:30.399Z"
+  },
+  "Formalization/Coefficient.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:28:19.094Z"
+  },
+  "Formalization/ComplexLaurent.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:28:23.801Z"
+  },
+  "Formalization/ConstructionCoefficientGrowth.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:38:20.972Z"
+  },
+  "Formalization/ConstructionEndpointDivisibility.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:39:16.173Z"
+  },
+  "Formalization/ConstructionFiniteSeries.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:39:20.878Z"
+  },
+  "Formalization/ConstructionIntegral.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:39:24.126Z"
+  },
+  "Formalization/ConstructionNormalizedCoefficient.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:40:38.880Z"
+  },
+  "Formalization/ConstructionReducedLcm.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T05:14:30.542Z"
+  },
+  "Formalization/EndpointArithmetic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T05:14:33.813Z"
+  },
+  "Formalization/ArcTransform.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:09:56.669Z"
+  },
+  "Formalization/ArctanFinite.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:17:14.586Z"
+  },
+  "Formalization/BinetLaplace.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:17:31.020Z"
+  },
+  "Formalization/BinetSecondFormula.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:33:26.061Z",
+    "collisions": [
+      "Complex.norm_natCast_add_one"
+    ]
+  },
+  "Formalization/CoefficientConvergence.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:37:01.151Z"
+  },
+  "Formalization/CoefficientGrowth.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:38:36.927Z"
+  },
+  "Formalization/CoefficientLogCertificate.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:50:54.275Z"
+  },
+  "Formalization/CoefficientMean.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:51:17.208Z"
+  },
+  "Formalization/ConstructionDenominatorGrowth.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:51:54.057Z"
+  },
+  "Formalization/ConstructionEndpointFormula.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:51:56.191Z"
+  },
+  "Formalization/ConstructionFiniteField.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:52:07.626Z"
+  },
+  "Formalization/ConstructionPolynomialClearing.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:52:10.140Z"
+  },
+  "Formalization/ConstructionScaledLaurent.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T05:06:56.583Z"
+  },
+  "Formalization/ContourDeformation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T05:12:59.149Z"
+  },
+  "Formalization/EndpointCountData.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T05:13:09.839Z"
+  },
+  "Formalization/EndpointSectorForms.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T06:06:28.263Z"
+  },
+  "Formalization/EvenPolePolynomial.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T06:06:31.554Z"
+  },
+  "Formalization/FiniteEndpointPartition.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T06:06:34.129Z"
+  },
+  "Formalization/FiniteFieldLaurent.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T06:06:56.157Z",
+    "collisions": [
+      "PiIrrationality.laurentDerivation"
+    ]
+  },
+  "Formalization/GaussianExpansion.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T06:08:54.267Z"
+  },
+  "Formalization/GeneralSavingPolyhedral.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T06:25:56.069Z"
+  },
+  "Formalization/LatticeLocalLimit.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T06:35:44.662Z"
+  },
+  "Formalization/LaurentDerivative.lean": {
+    "checkedAt": "2026-11-14T06:49:08.346Z",
+    "collisions": [
+      "PiIrrationality.euler_support_subset"
+    ]
+  },
+  "Formalization/LocalOptimization.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T06:59:59.151Z"
+  },
+  "Formalization/OldPointLogVariation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T07:18:46.591Z"
+  },
+  "Formalization/PNT/Mathlib/Analysis/SpecialFunctions/Gamma/DigammaSeries.lean": {
+    "checkedAt": "2026-11-14T07:18:49.156Z",
+    "collisions": [
+      "Complex.norm_natCast_add_one",
+      "Complex.sum_inv_natCast_add_one",
+      "Complex.sum_inv_natCast_add_one_real",
+      "Complex.inv_add_one_sub_inv_eq",
+      "Complex.summable_one_div_natCast_add_one_sq",
+      "Complex.logGammaSeq"
+    ]
+  },
+  "Formalization/ParameterComplexSaddle.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T07:19:09.651Z"
+  },
+  "Formalization/PhaseCritical.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T08:29:17.092Z"
+  },
+  "Formalization/PhaseRootCount.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T08:36:59.618Z"
+  },
+  "Formalization/PhaseSignPattern.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T08:37:12.060Z"
+  },
+  "Formalization/PoleArithmetic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T08:37:49.939Z"
+  },
+  "Formalization/PolynomialReducedCoefficients.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T08:37:52.180Z"
+  },
+  "Formalization/PrimeSavingApproximation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T08:44:38.017Z"
+  },
+  "Formalization/Arithmetic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:22:31.389Z"
+  },
+  "Formalization/CoefficientCharacteristic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:22:49.562Z"
+  },
+  "Formalization/CoefficientMoments.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:22:50.630Z"
+  },
+  "Formalization/CoefficientProbability.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:24:06.814Z"
+  },
+  "Formalization/CoefficientResidue.lean": {
+    "checkedAt": "2026-11-14T04:24:13.390Z",
+    "collisions": [
+      "PiIrrationality.laurentDerivation"
+    ]
+  },
+  "Formalization/CoefficientSaddleAlgebra.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:28:52.715Z"
+  },
+  "Formalization/CoefficientSeries.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:28:54.679Z"
+  },
+  "Formalization/ConstructionLaurent.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:28:55.373Z"
+  },
+  "Formalization/ConstructionPrimeSelection.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:28:58.242Z"
+  },
+  "Formalization/ConstructionSavingAsymptotic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:32:15.292Z"
+  },
+  "Formalization/ContourEstimate.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:32:16.542Z"
+  },
+  "Formalization/Denominator.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:32:19.441Z"
+  },
+  "Formalization/DigammaBinet.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:33:06.579Z"
+  },
+  "Formalization/DigammaLogApprox.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:33:11.350Z"
+  },
+  "Formalization/EndpointUniformEnumeration.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:33:22.956Z"
+  },
+  "Formalization/EvenPoleIdentification.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:33:49.180Z"
+  },
+  "Formalization/FiniteFieldScaledSeries.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T06:35:29.346Z"
+  },
+  "Formalization/FiniteFieldTransfer.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T06:35:30.434Z"
+  },
+  "Formalization/GaussianIntegralLimit.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T06:37:49.334Z"
+  },
+  "Formalization/GeneralSavingPeriodBounds.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T06:48:41.437Z"
+  },
+  "Formalization/Hata.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T06:49:19.937Z"
+  },
+  "Formalization/HataAssembly.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T06:49:42.095Z"
+  },
+  "Formalization/HataScale.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T06:50:14.038Z"
+  },
+  "Formalization/HataSelection.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T06:50:28.860Z"
+  },
+  "Formalization/IntegralDecay.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T06:54:29.748Z"
+  },
+  "Formalization/LatticeAperiodicity.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T06:54:32.361Z"
+  },
+  "Formalization/NormalizedCoefficient.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T06:55:10.582Z"
+  },
+  "Formalization/OldPointAnalytic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T06:55:50.728Z"
+  },
+  "Formalization/OldPointLogCertificate.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T06:55:52.545Z"
+  },
+  "Formalization/AffineGap.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:14:53.886Z"
+  },
+  "Formalization/BinetSecondMoments.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:14:56.886Z"
+  },
+  "Formalization/CoefficientCircle.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:24:12.049Z"
+  },
+  "Formalization/CoefficientLocalLimit.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:24:37.220Z"
+  },
+  "Formalization/ComplexDensityPrimitive.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:27:41.328Z"
+  },
+  "Formalization/ComplexLeibniz.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T04:27:51.392Z"
+  },
+  "Formalization/ConstructionArithmetic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:40:11.095Z"
+  },
+  "Formalization/ConstructionCoefficientExtraction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:45:25.291Z"
+  },
+  "Formalization/ConstructionCoefficientSaddle.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T04:45:46.550Z"
+  },
+  "Formalization/ConstructionPoleIntegral.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T06:48:22.226Z"
+  },
+  "Formalization/ConstructionPolynomialCoefficients.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T06:49:15.672Z"
+  },
+  "Formalization/ConstructionSavingFloor.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T07:36:27.492Z"
+  },
+  "Formalization/EndpointFormula.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T07:48:40.681Z"
+  },
+  "Formalization/EndpointSeparation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T08:09:47.735Z"
+  },
+  "Formalization/EvenPoleLaurent.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T08:19:55.744Z"
+  },
+  "Formalization/FiniteFieldRational.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T08:25:39.036Z"
+  },
+  "Formalization/FiniteStepIntegral.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T08:26:15.029Z"
+  },
+  "Formalization/GeneralSavingLogVariation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T08:26:20.342Z"
+  },
+  "Formalization/HarmonicLogScale.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T08:26:22.136Z"
+  }
+}
