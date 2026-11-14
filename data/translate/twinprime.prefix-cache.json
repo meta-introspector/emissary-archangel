@@ -1020,5 +1020,22 @@
   "TwinPrime/Sieve/BrunHooley.lean": {
     "status": "clean",
     "checkedAt": "2026-11-14T03:39:11.538Z"
+  },
+  "TwinPrime/Parity.lean": {
+    "checkedAt": "2026-11-14T10:08:19.090Z",
+    "collisions": [
+      "TwinPrime.IsLowerMoebius",
+      "TwinPrime.Sieve.siftedSum_eq_sum_moebius_multSum"
+    ]
+  },
+  "TwinPrime/Sieve/BrunHooleyBounds.lean": {
+    "checkedAt": "2026-11-14T10:08:27.285Z",
+    "collisions": [
+      "TwinPrime.Sieve.abs_moebius_le_one'",
+      "TwinPrime.Sieve.sum_neg_one_pow_choose",
+      "TwinPrime.Sieve.one_sub_sum_le_prod_one_sub",
+      "TwinPrime.Sieve.powOmega",
+      "TwinPrime.Sieve.prod_ge_prod_sub_sum"
+    ]
   }
 }
