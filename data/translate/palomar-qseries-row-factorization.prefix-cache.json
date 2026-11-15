@@ -1,0 +1,131 @@
+{
+  "QseriesFormalization/Ch10_MK_Main.lean": {
+    "checkedAt": "2026-11-14T21:39:11.057Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.PhiInt"
+    ]
+  },
+  "QseriesFormalization/Ch10_MockModular_Certificate.lean": {
+    "checkedAt": "2026-11-14T21:40:19.087Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.PhiInt"
+    ]
+  },
+  "QseriesFormalization/Ch10_MockModular_Sigma.lean": {
+    "checkedAt": "2026-11-14T21:40:20.829Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.sigma",
+      "QseriesFormalization.Ch10.PhiInt"
+    ]
+  },
+  "QseriesFormalization/Ch10_NormTheta_Coeff.lean": {
+    "checkedAt": "2026-11-14T21:40:27.651Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.PhiInt"
+    ]
+  },
+  "QseriesFormalization/Ch10_Paper2_ZwegersFourier.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-14T21:42:57.551Z"
+  },
+  "QseriesFormalization/Chapter19_JacobiTripleSignChar.lean": {
+    "checkedAt": "2026-11-15T01:13:17.362Z",
+    "collisions": [
+      "QseriesFormalization.PartIV.Ch19.pentagonalIndex"
+    ]
+  },
+  "QseriesFormalization/Ch10_MK_RowTransport.lean": {
+    "checkedAt": "2026-11-14T21:38:26.382Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.sigma",
+      "QseriesFormalization.Ch10.PhiInt",
+      "QseriesFormalization.Ch10.Hq"
+    ]
+  },
+  "QseriesFormalization/Ch10_MockModular_Involution.lean": {
+    "checkedAt": "2026-11-14T21:38:34.038Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.finset_sum_cancel_invol"
+    ]
+  },
+  "QseriesFormalization/Ch10_Paper2_PoissonLattice.lean": {
+    "checkedAt": "2026-11-14T21:38:34.320Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.paper2LatticeVec"
+    ]
+  },
+  "QseriesFormalization/Chapter02.lean": {
+    "checkedAt": "2026-11-14T21:38:35.511Z",
+    "collisions": [
+      "QseriesFormalization.PartI.Ch02.jacobiProductTrunc",
+      "QseriesFormalization.IsPartition"
+    ]
+  },
+  "QseriesFormalization/Chapter04.lean": {
+    "checkedAt": "2026-11-14T21:39:18.530Z",
+    "collisions": [
+      "QseriesFormalization.IsPartition",
+      "QseriesFormalization.PartI.Ch04.eulerProductTrunc",
+      "QseriesFormalization.PartI.Ch02.jacobiProductTrunc"
+    ]
+  },
+  "QseriesFormalization/Chapter04_T43.lean": {
+    "checkedAt": "2026-11-14T22:13:37.901Z",
+    "collisions": [
+      "QseriesFormalization.PartI.Ch04.jacobiSeriesT",
+      "QseriesFormalization.IsPartition",
+      "QseriesFormalization.PartI.Ch02.jacobiProductTrunc"
+    ]
+  },
+  "QseriesFormalization/Ch10_MK_Separation.lean": {
+    "checkedAt": "2026-11-14T21:34:57.927Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.Hq",
+      "QseriesFormalization.Ch10.PhiInt"
+    ]
+  },
+  "QseriesFormalization/Ch10_NormTheta_Algebra.lean": {
+    "checkedAt": "2026-11-14T21:35:06.811Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.two_dvd_mul_succ",
+      "QseriesFormalization.Ch10.PhiInt"
+    ]
+  },
+  "QseriesFormalization/Ch10_Paper2_ZwegersS.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-14T21:41:27.263Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.zwegersGaussian"
+    ]
+  },
+  "QseriesFormalization/Chapter03.lean": {
+    "checkedAt": "2026-11-15T02:36:54.123Z",
+    "collisions": [
+      "QseriesFormalization.PartI.Ch03.qBinomialLHS",
+      "QseriesFormalization.IsPartition"
+    ]
+  },
+  "QseriesFormalization/Ch10_MK_Defs.lean": {
+    "checkedAt": "2026-11-14T21:37:28.212Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.PhiInt",
+      "QseriesFormalization.Ch10.Hq"
+    ]
+  },
+  "QseriesFormalization/Ch10_MockModular_Shadow.lean": {
+    "checkedAt": "2026-11-14T21:37:32.568Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.thetaComp"
+    ]
+  },
+  "QseriesFormalization/Ch10_Paper2_SignBridge.lean": {
+    "checkedAt": "2026-11-14T21:37:34.110Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.PhiInt",
+      "QseriesFormalization.Ch10.ZVec",
+      "QseriesFormalization.Ch10.sigma",
+      "QseriesFormalization.Ch10.paper2ThetaResidue",
+      "QseriesFormalization.Ch10.zwegersGaussian"
+    ]
+  }
+}
