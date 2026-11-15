@@ -1,0 +1,3062 @@
+{
+  "SandronesLibrary/AbstractAlgebra/Group.lean": {
+    "checkedAt": "2026-11-15T03:55:32.475Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.Group.GroupAxioms"
+    ]
+  },
+  "SandronesLibrary/AbstractAlgebra/GroupAction.lean": {
+    "checkedAt": "2026-11-15T03:56:00.106Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.Group.action_one",
+      "SandronesLibrary.AbstractAlgebra.Group.action_mul",
+      "SandronesLibrary.AbstractAlgebra.Group.orbit_mem_iff",
+      "SandronesLibrary.AbstractAlgebra.Group.stabilizer_mem_iff",
+      "SandronesLibrary.AbstractAlgebra.Group.orbit_eq_iff_mem",
+      "SandronesLibrary.AbstractAlgebra.Group.orbitEquivCosets"
+    ]
+  },
+  "SandronesLibrary/AbstractAlgebra/GroupAutomorphism.lean": {
+    "checkedAt": "2026-11-15T03:56:02.314Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.Group.AutomorphismGroup"
+    ]
+  },
+  "SandronesLibrary/AbstractAlgebra/GroupPermutation.lean": {
+    "checkedAt": "2026-11-15T03:56:03.714Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.Group.SymmetricGroup"
+    ]
+  },
+  "SandronesLibrary/AbstractAlgebra/GroupSylow.lean": {
+    "checkedAt": "2026-11-15T03:56:06.758Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.Group.IsPrimePowerGroup"
+    ]
+  },
+  "SandronesLibrary/Analysis/ClassicalLimits.lean": {
+    "checkedAt": "2026-11-15T03:56:11.679Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.ClassicalLimits.tendsto_sin_div_id",
+      "SandronesLibrary.Analysis.ClassicalLimits.tendsto_exp_sub_one_div",
+      "SandronesLibrary.Analysis.ClassicalLimits.tendsto_log_one_add_div"
+    ]
+  },
+  "SandronesLibrary/Analysis/Constants.lean": {
+    "checkedAt": "2026-11-15T03:56:12.775Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Constants.e"
+    ]
+  },
+  "SandronesLibrary/Analysis/InverseImplicit.lean": {
+    "checkedAt": "2026-11-15T03:56:23.106Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.inverse_function_theorem",
+      "SandronesLibrary.Analysis.Multivariable.implicit_function_theorem",
+      "SandronesLibrary.Analysis.Multivariable.full_rank_level_set_normal_form"
+    ]
+  },
+  "SandronesLibrary/Analysis/MultivariableIntegration.lean": {
+    "checkedAt": "2026-11-15T03:56:23.931Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.closedRectangle"
+    ]
+  },
+  "SandronesLibrary/Analysis/Sequence.lean": {
+    "checkedAt": "2026-11-15T03:56:25.099Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Sequence.SequenceConvergesTo"
+    ]
+  },
+  "SandronesLibrary/CommutativeAlgebra/Module/DirectSum.lean": {
+    "checkedAt": "2026-11-15T03:56:33.206Z",
+    "collisions": [
+      "SandronesLibrary.CommutativeAlgebra.Module.isCompl_iff_disjoint_sup_eq_top",
+      "SandronesLibrary.CommutativeAlgebra.Module.mem_sup_iff_exists_add",
+      "SandronesLibrary.CommutativeAlgebra.Module.exists_add_of_isCompl",
+      "SandronesLibrary.CommutativeAlgebra.Module.add_eq_add_iff_of_disjoint",
+      "SandronesLibrary.CommutativeAlgebra.Module.prodEquivOfIsCompl_apply",
+      "SandronesLibrary.CommutativeAlgebra.Module.directSum_of_apply_same",
+      "SandronesLibrary.CommutativeAlgebra.Module.directSum_of_apply_of_ne",
+      "SandronesLibrary.CommutativeAlgebra.Module.directSum_toModule_lof",
+      "SandronesLibrary.CommutativeAlgebra.Module.directSum_toModule_unique",
+      "SandronesLibrary.CommutativeAlgebra.Module.directSum_component_apply",
+      "SandronesLibrary.CommutativeAlgebra.Module.internalDirectSum_decomposeLinearEquiv"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/HomotopyInvariance.lean": {
+    "checkedAt": "2026-11-15T03:56:39.862Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.scalarOneForm"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/Taylor.lean": {
+    "checkedAt": "2026-11-15T03:56:45.080Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.ComplexDifferentiableAtTextbook",
+      "SandronesLibrary.ComplexAnalysis.taylorCoefficient"
+    ]
+  },
+  "SandronesLibrary/Examples/GaussStokes.lean": {
+    "checkedAt": "2026-11-15T03:56:46.264Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.GreenGaussStokes.rectangleBoundaryIntegral",
+      "SandronesLibrary.Analysis.Multivariable.ParametrizedCurve"
+    ]
+  },
+  "SandronesLibrary/Examples/GreenRegions.lean": {
+    "checkedAt": "2026-11-15T03:56:47.962Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.xNormalDomain",
+      "SandronesLibrary.Examples.GreenRegions.standardRightTriangle"
+    ]
+  },
+  "SandronesLibrary/Examples/SetTheory/CardinalArithmetic.lean": {
+    "checkedAt": "2026-11-15T03:56:51.295Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.CardinalTheory.Equinumerous",
+      "SandronesLibrary.Examples.SetTheory.CardinalArithmetic.TwoSumThree",
+      "SandronesLibrary.SetTheory.Cardinal.countable_iff_injective_nat"
+    ]
+  },
+  "SandronesLibrary/Examples/SetTheory/SetOperations.lean": {
+    "checkedAt": "2026-11-15T03:56:58.734Z",
+    "collisions": [
+      "SandronesLibrary.Examples.SetTheory.SetOperations.U",
+      "SandronesLibrary.SetTheory.Set.set_ext"
+    ]
+  },
+  "SandronesLibrary/Examples/SphericalMoments.lean": {
+    "checkedAt": "2026-11-15T03:57:09.797Z",
+    "collisions": [
+      "SandronesLibrary.Examples.SphericalMoments.integral_Ioo_cos_neg_pi_pi",
+      "SandronesLibrary.Examples.SphericalMoments.integral_Ioo_sin_neg_pi_pi",
+      "SandronesLibrary.Examples.SphericalMoments.integral_Ioo_sin_sq_zero_pi",
+      "SandronesLibrary.Examples.SphericalMoments.integral_Ioo_sin_mul_cos_zero_pi",
+      "SandronesLibrary.Examples.SphericalMoments.integral_Ioo_sin_cube_zero_pi",
+      "SandronesLibrary.Examples.SphericalMoments.integral_Ioo_pow_four_zero_radius",
+      "SandronesLibrary.Examples.SphericalMoments.uniform_ball_inertia_eq_two_fifths_mass"
+    ]
+  },
+  "SandronesLibrary/Examples/TopologySpaces.lean": {
+    "checkedAt": "2026-11-15T03:57:12.831Z",
+    "collisions": [
+      "SandronesLibrary.Examples.TopologySpaces.closure_Ioo_zero_one",
+      "SandronesLibrary.Examples.TopologySpaces.interior_Icc_zero_one",
+      "SandronesLibrary.Examples.TopologySpaces.frontier_Ioo_zero_one"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/BanachAlaoglu.lean": {
+    "checkedAt": "2026-11-15T03:57:14.207Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.weakStar_isClosed_closedBall",
+      "SandronesLibrary.FunctionalAnalysis.weakStar_isCompact_closedBall"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/BanachDieudonne.lean": {
+    "checkedAt": "2026-11-15T03:57:15.167Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.weakStar_evaluation_continuous",
+      "SandronesLibrary.FunctionalAnalysis.weakStar_isClosed_closedBall"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/FredholmAlternative.lean": {
+    "checkedAt": "2026-11-15T04:03:16.129Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.compactOperator_iff_isCompact_closure_image_unitBall"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/FredholmCokernel.lean": {
+    "checkedAt": "2026-11-15T04:03:29.893Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.separate_open_convex_neighborhood",
+      "SandronesLibrary.FunctionalAnalysis.identitySubCompact"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/InverseOperator.lean": {
+    "checkedAt": "2026-11-15T04:03:46.819Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/OpenMapping.lean": {
+    "checkedAt": "2026-11-15T04:03:47.892Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/OperatorSpace.lean": {
+    "checkedAt": "2026-11-15T04:03:48.915Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/RieszRepresentation.lean": {
+    "checkedAt": "2026-11-15T04:03:50.646Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/SpectrumDefinition.lean": {
+    "checkedAt": "2026-11-15T04:03:51.588Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.spectrum_eq_compl_resolventSet",
+      "SandronesLibrary.FunctionalAnalysis.mem_resolventSet_iff_isUnit",
+      "SandronesLibrary.FunctionalAnalysis.mem_spectrum_iff_not_isUnit",
+      "SandronesLibrary.FunctionalAnalysis.resolvent_eq_ringInverse",
+      "SandronesLibrary.FunctionalAnalysis.spectralParameter_sub_mul_resolvent",
+      "SandronesLibrary.FunctionalAnalysis.resolvent_mul_spectralParameter_sub",
+      "SandronesLibrary.FunctionalAnalysis.spectralRadius_eq_iSup_norm",
+      "SandronesLibrary.FunctionalAnalysis.operator_mem_resolventSet_iff_isUnit",
+      "SandronesLibrary.FunctionalAnalysis.operator_mem_spectrum_iff_not_isUnit"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/SpectrumNonemptyCompact.lean": {
+    "checkedAt": "2026-11-15T04:03:54.705Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.complexSpectrum_nonempty",
+      "SandronesLibrary.FunctionalAnalysis.complexSpectrum_isCompact",
+      "SandronesLibrary.FunctionalAnalysis.norm_spectrum_le",
+      "SandronesLibrary.FunctionalAnalysis.spectralRadius_le_nnnorm",
+      "SandronesLibrary.FunctionalAnalysis.exists_spectrum_nnnorm_eq_spectralRadius",
+      "SandronesLibrary.FunctionalAnalysis.tendsto_nthRoot_nnnorm_pow_spectralRadius"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/Jordan.lean": {
+    "checkedAt": "2026-11-15T04:03:57.559Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace",
+      "SandronesLibrary.LinearAlgebra.Jordan.generalizedEigenspace"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/JordanUniqueness.lean": {
+    "checkedAt": "2026-11-15T04:05:00.283Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.Jordan.JordanFormData",
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace",
+      "SandronesLibrary.LinearAlgebra.Jordan.generalizedEigenspace",
+      "SandronesLibrary.LinearAlgebra.Jordan.JordanFormData.blockLabel"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/MatrixSVD.lean": {
+    "checkedAt": "2026-11-15T04:07:42.985Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.MatrixDecomposition.operatorNorm"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/NormalMatrix.lean": {
+    "checkedAt": "2026-11-15T04:08:04.170Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.NormalMatrix.IsNormalMatrix",
+      "SandronesLibrary.LinearAlgebra.OrthogonalUnitary.IsUnitaryMatrix"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/SpectralQuadratic.lean": {
+    "checkedAt": "2026-11-15T04:08:07.841Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Algebraic/RingOfIntegers.lean": {
+    "checkedAt": "2026-11-15T04:08:10.363Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Algebraic.ringOfIntegers_mem_iff",
+      "SandronesLibrary.NumberTheory.Algebraic.ringOfIntegersMk"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/QuadraticResidues.lean": {
+    "checkedAt": "2026-11-15T04:08:12.590Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.IsQuadraticResidue"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/SqrtPeriodicCF.lean": {
+    "checkedAt": "2026-11-15T04:08:15.996Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.cfCompleteQuotient",
+      "SandronesLibrary.NumberTheory.Elementary.continuedFractionConvergent"
+    ]
+  },
+  "SandronesLibrary/Probability/CLTCenteredStandardized.lean": {
+    "checkedAt": "2026-11-15T04:11:00.025Z",
+    "collisions": [
+      "SandronesLibrary.Probability.iIndepFun_centeredScaled",
+      "SandronesLibrary.Probability.identDistrib_centeredScaled",
+      "SandronesLibrary.Probability.integral_centeredScaled_eq_zero",
+      "SandronesLibrary.Probability.integral_sq_centeredScaled_eq_one",
+      "SandronesLibrary.Probability.normalizedSum_charFun_eq_pow",
+      "SandronesLibrary.Probability.probabilityMeasure_tendsto_iff_charFun",
+      "SandronesLibrary.Probability.lawProbabilityMeasure"
+    ]
+  },
+  "SandronesLibrary/Probability/ConditionalExpectationIndependence.lean": {
+    "checkedAt": "2026-11-15T04:11:02.983Z",
+    "collisions": [
+      "SandronesLibrary.Probability.conditionalExpectation_eq_expectation_of_indep"
+    ]
+  },
+  "SandronesLibrary/Probability/Distribution.lean": {
+    "checkedAt": "2026-11-15T04:11:03.538Z",
+    "collisions": [
+      "SandronesLibrary.Probability.distribution_isProbabilityMeasure",
+      "SandronesLibrary.Probability.distribution_apply",
+      "SandronesLibrary.Probability.distribution_const_apply"
+    ]
+  },
+  "SandronesLibrary/Probability/DistributionConvergenceBridge.lean": {
+    "checkedAt": "2026-11-15T04:11:04.374Z",
+    "collisions": [
+      "SandronesLibrary.Probability.lawProbabilityMeasure"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/CoveringLemma.lean": {
+    "checkedAt": "2026-11-15T04:11:04.655Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.Covering.OpenInterval"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/MaximalFunction.lean": {
+    "checkedAt": "2026-11-15T04:11:08.061Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.Covering.OpenInterval"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/RiemannCriterion.lean": {
+    "checkedAt": "2026-11-15T04:11:14.121Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.Riemann.AlmostEverywhereContinuousOn",
+      "SandronesLibrary.RealAnalysis.Riemann.DarbouxPartition"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/RiemannIntegralBridge.lean": {
+    "checkedAt": "2026-11-15T04:11:33.757Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Continuity.ContinuousAtTextbook",
+      "SandronesLibrary.RealAnalysis.Riemann.DarbouxPartition"
+    ]
+  },
+  "SandronesLibrary/SetTheory/BusyBeaverExistence.lean": {
+    "checkedAt": "2026-11-15T04:11:52.380Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.GoogologyComputability.HeadMove"
+    ]
+  },
+  "SandronesLibrary/SetTheory/ConcretePairingCode.lean": {
+    "checkedAt": "2026-11-15T04:11:55.905Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.ComputabilityDiagonal.PairingCode"
+    ]
+  },
+  "SandronesLibrary/SetTheory/GoogologyNotation.lean": {
+    "checkedAt": "2026-11-15T04:11:56.763Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.GoogologyNotation.ConwayChain"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HydraCertifiedStepWellFounded.lean": {
+    "checkedAt": "2026-11-15T04:11:59.647Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Hydra"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HydraMeasure.lean": {
+    "checkedAt": "2026-11-15T04:12:02.690Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Hydra"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HydraOrdinalAssignment.lean": {
+    "checkedAt": "2026-11-15T04:12:04.292Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Hydra",
+      "SandronesLibrary.SetTheory.Ordinal.orderType_classification"
+    ]
+  },
+  "SandronesLibrary/SetTheory/Set.lean": {
+    "checkedAt": "2026-11-15T04:12:07.140Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Set.set_ext",
+      "SandronesLibrary.SetTheory.Set.inter_distrib_left",
+      "SandronesLibrary.SetTheory.Set.subset_iff_forall_mem",
+      "SandronesLibrary.SetTheory.Set.subset_trans",
+      "SandronesLibrary.SetTheory.Set.empty_subset",
+      "SandronesLibrary.SetTheory.Set.complement_union",
+      "SandronesLibrary.SetTheory.Set.complement_inter",
+      "SandronesLibrary.SetTheory.Set.diff_inter_complement"
+    ]
+  },
+  "SandronesLibrary/Statistics/BiasVariance.lean": {
+    "checkedAt": "2026-11-15T04:12:09.613Z",
+    "collisions": [
+      "SandronesLibrary.Statistics.squaredLoss_jointlyMeasurable",
+      "SandronesLibrary.Statistics.squaredError_integral_eq_variance_add_bias_sq"
+    ]
+  },
+  "SandronesLibrary/Statistics/Consistency.lean": {
+    "checkedAt": "2026-11-15T04:12:10.453Z",
+    "collisions": [
+      "SandronesLibrary.Probability.almostSurelyConverges_iff_ae_tendsto"
+    ]
+  },
+  "SandronesLibrary/Statistics/MaximumLikelihood.lean": {
+    "checkedAt": "2026-11-15T04:12:11.011Z",
+    "collisions": [
+      "SandronesLibrary.Statistics.isMaxOn_univ_comp_strictMono_iff",
+      "SandronesLibrary.Statistics.isMaxOn_univ_comp_equiv_iff",
+      "SandronesLibrary.Statistics.likelihood",
+      "SandronesLibrary.Statistics.statisticalModel_density_jointlyMeasurable"
+    ]
+  },
+  "SandronesLibrary/Statistics/Sufficiency.lean": {
+    "checkedAt": "2026-11-15T04:12:14.545Z",
+    "collisions": [
+      "SandronesLibrary.Statistics.IsSufficientStatistic"
+    ]
+  },
+  "SandronesLibrary/Topology/BoundaryCollarHomotopySmoothing.lean": {
+    "checkedAt": "2026-11-15T04:12:15.141Z",
+    "collisions": [
+      "SandronesLibrary.Topology.closedUnitSquare"
+    ]
+  },
+  "SandronesLibrary/Topology/CoveringSubgroupPathClassStandard.lean": {
+    "checkedAt": "2026-11-15T04:12:16.364Z",
+    "collisions": [
+      "SandronesLibrary.Topology.CoveringSubgroupBasedPath"
+    ]
+  },
+  "SandronesLibrary/Topology/FundamentalGroupFunctorialityStandard.lean": {
+    "checkedAt": "2026-11-15T04:12:18.455Z",
+    "collisions": [
+      "SandronesLibrary.Topology.fundamentalGroup_map_toPath",
+      "SandronesLibrary.Topology.fundamentalGroup_map_id",
+      "SandronesLibrary.Topology.fundamentalGroup_map_comp",
+      "SandronesLibrary.Topology.homotopicMapsNatIso_app_eq_pathClass",
+      "SandronesLibrary.Topology.homotopicMapsNatIso_naturality_loop"
+    ]
+  },
+  "SandronesLibrary/Topology/Orientation.lean": {
+    "checkedAt": "2026-11-15T04:12:19.871Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Orientation.VectorOrientation"
+    ]
+  },
+  "SandronesLibrary/Topology/PathCorrectedLoop.lean": {
+    "checkedAt": "2026-11-15T04:12:21.266Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Path.correctedLoop"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenBlockBoundaryCocycle.lean": {
+    "checkedAt": "2026-11-15T04:12:37.774Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenCombinedFrames.lean": {
+    "checkedAt": "2026-11-15T04:14:37.518Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.twoCellBoundary_glue"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenLeftBoundaryCocycle.lean": {
+    "checkedAt": "2026-11-15T04:25:19.610Z",
+    "collisions": [
+      "SandronesLibrary.Topology.twoCellBoundary_glue",
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenPathGaugeComparison.lean": {
+    "checkedAt": "2026-11-15T04:32:27.340Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.binaryOpenCoverPiece"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenSurjectivity.lean": {
+    "checkedAt": "2026-11-15T04:34:53.253Z",
+    "collisions": [
+      "SandronesLibrary.Topology.binaryOpenCoverPiece",
+      "SandronesLibrary.Topology.pathCodRestrict",
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.binaryOpenCoverBasepoint"
+    ]
+  },
+  "SandronesLibrary/AbstractAlgebra/GroupAbelianStructure.lean": {
+    "checkedAt": "2026-11-15T03:33:30.400Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.Group.GroupAxioms",
+      "SandronesLibrary.AbstractAlgebra.Group.IsFinitelyGeneratedGroup"
+    ]
+  },
+  "SandronesLibrary/AbstractAlgebra/GroupIsomorphismTheorems.lean": {
+    "checkedAt": "2026-11-15T03:33:32.668Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.Group.secondIsomorphism"
+    ]
+  },
+  "SandronesLibrary/AbstractAlgebra/PolynomialIrreducibility.lean": {
+    "checkedAt": "2026-11-15T03:33:34.064Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.PolynomialIrreducibility.irreducible_factor_isUnit",
+      "SandronesLibrary.AbstractAlgebra.PolynomialIrreducibility.irreducible_X_sub_C",
+      "SandronesLibrary.AbstractAlgebra.PolynomialIrreducibility.irreducible_X",
+      "SandronesLibrary.AbstractAlgebra.PolynomialIrreducibility.field_irreducible_of_degree_eq_one",
+      "SandronesLibrary.AbstractAlgebra.PolynomialIrreducibility.primitive_iff_constant_dvd_isUnit",
+      "SandronesLibrary.AbstractAlgebra.PolynomialIrreducibility.monic_isPrimitive",
+      "SandronesLibrary.AbstractAlgebra.PolynomialIrreducibility.primitive_mul",
+      "SandronesLibrary.AbstractAlgebra.PolynomialIrreducibility.primitive_iff_content_eq_one",
+      "SandronesLibrary.AbstractAlgebra.PolynomialIrreducibility.eq_C_content_mul_primPart",
+      "SandronesLibrary.AbstractAlgebra.PolynomialIrreducibility.content_mul",
+      "SandronesLibrary.AbstractAlgebra.PolynomialIrreducibility.integer_gauss_irreducible_iff_rational_irreducible",
+      "SandronesLibrary.AbstractAlgebra.PolynomialIrreducibility.monic_rational_root_is_integer",
+      "SandronesLibrary.AbstractAlgebra.PolynomialIrreducibility.irreducible_of_isEisensteinAt"
+    ]
+  },
+  "SandronesLibrary/Analysis/ChangeOfVariables.lean": {
+    "checkedAt": "2026-11-15T03:41:25.612Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.JordanEuc"
+    ]
+  },
+  "SandronesLibrary/Analysis/Complex.lean": {
+    "checkedAt": "2026-11-15T03:41:26.574Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Complex.mk"
+    ]
+  },
+  "SandronesLibrary/Analysis/DifferentialForms.lean": {
+    "checkedAt": "2026-11-15T03:41:29.891Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Orientation.VectorOrientation",
+      "SandronesLibrary.Analysis.DifferentialForms.FormOrientation",
+      "SandronesLibrary.Analysis.NormedAlternating.NormalizedAlternatingSpace"
+    ]
+  },
+  "SandronesLibrary/Analysis/FiniteInequalities.lean": {
+    "checkedAt": "2026-11-15T03:41:42.451Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.FiniteInequalities.young",
+      "SandronesLibrary.Analysis.FiniteInequalities.holder",
+      "SandronesLibrary.Analysis.FiniteInequalities.cauchy_schwarz_sq",
+      "SandronesLibrary.Analysis.FiniteInequalities.minkowski"
+    ]
+  },
+  "SandronesLibrary/Analysis/JordanRegion.lean": {
+    "checkedAt": "2026-11-15T03:41:43.549Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.JordanEuc"
+    ]
+  },
+  "SandronesLibrary/Analysis/ParametrizedGeometry.lean": {
+    "checkedAt": "2026-11-15T03:41:45.271Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.ParametrizedCurve",
+      "SandronesLibrary.Analysis.Multivariable.closedRectangle"
+    ]
+  },
+  "SandronesLibrary/Analysis/Stirling.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-15T03:41:55.215Z"
+  },
+  "SandronesLibrary/Analysis/TaylorSeries.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-15T03:41:57.664Z"
+  },
+  "SandronesLibrary/Analysis/Trigonometric.lean": {
+    "checkedAt": "2026-11-15T03:49:21.271Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Trigonometric.sin_neg",
+      "SandronesLibrary.Analysis.Trigonometric.cos_neg",
+      "SandronesLibrary.Analysis.Trigonometric.sin_add_two_pi",
+      "SandronesLibrary.Analysis.Trigonometric.cos_add_two_pi",
+      "SandronesLibrary.Analysis.Trigonometric.sin_bound",
+      "SandronesLibrary.Analysis.Trigonometric.cos_bound",
+      "SandronesLibrary.Analysis.Trigonometric.sin_add",
+      "SandronesLibrary.Analysis.Trigonometric.sin_sub",
+      "SandronesLibrary.Analysis.Trigonometric.cos_add",
+      "SandronesLibrary.Analysis.Trigonometric.cos_sub",
+      "SandronesLibrary.Analysis.Trigonometric.sin_two_mul",
+      "SandronesLibrary.Analysis.Trigonometric.cos_two_mul",
+      "SandronesLibrary.Analysis.Trigonometric.sin_sq_eq_half_sub",
+      "SandronesLibrary.Analysis.Trigonometric.cos_sq",
+      "SandronesLibrary.Analysis.Trigonometric.sin_sq_add_cos_sq",
+      "SandronesLibrary.Analysis.Trigonometric.sin_mul_sin",
+      "SandronesLibrary.Analysis.Trigonometric.cos_mul_cos",
+      "SandronesLibrary.Analysis.Trigonometric.sin_mul_cos",
+      "SandronesLibrary.Analysis.Trigonometric.sin_add_sin",
+      "SandronesLibrary.Analysis.Trigonometric.sin_sub_sin",
+      "SandronesLibrary.Analysis.Trigonometric.cos_add_cos",
+      "SandronesLibrary.Analysis.Trigonometric.cos_sub_cos",
+      "SandronesLibrary.Analysis.Trigonometric.sin_pi_div_six",
+      "SandronesLibrary.Analysis.Trigonometric.cos_pi_div_six",
+      "SandronesLibrary.Analysis.Trigonometric.tan_pi_div_six",
+      "SandronesLibrary.Analysis.Trigonometric.sin_pi_div_four",
+      "SandronesLibrary.Analysis.Trigonometric.cos_pi_div_four",
+      "SandronesLibrary.Analysis.Trigonometric.tan_pi_div_four",
+      "SandronesLibrary.Analysis.Trigonometric.sin_pi_div_three",
+      "SandronesLibrary.Analysis.Trigonometric.cos_pi_div_three",
+      "SandronesLibrary.Analysis.Trigonometric.tan_pi_div_three",
+      "SandronesLibrary.Analysis.Trigonometric.tan_add",
+      "SandronesLibrary.Analysis.Trigonometric.tan_sub",
+      "SandronesLibrary.Analysis.Trigonometric.tan_two_mul",
+      "SandronesLibrary.Analysis.Trigonometric.abs_sin_half",
+      "SandronesLibrary.Analysis.Trigonometric.abs_cos_half",
+      "SandronesLibrary.Analysis.Trigonometric.sin_half_root"
+    ]
+  },
+  "SandronesLibrary/CommutativeAlgebra/Module/Definition.lean": {
+    "checkedAt": "2026-11-15T03:49:32.055Z",
+    "collisions": [
+      "SandronesLibrary.CommutativeAlgebra.Module.module_axioms",
+      "SandronesLibrary.CommutativeAlgebra.Module.submodule_closure",
+      "SandronesLibrary.CommutativeAlgebra.Module.submodule_of_closure",
+      "SandronesLibrary.CommutativeAlgebra.Module.submodule_eq_iff",
+      "SandronesLibrary.CommutativeAlgebra.Module.linearMap_iff",
+      "SandronesLibrary.CommutativeAlgebra.Module.linearMap_ext_iff",
+      "SandronesLibrary.CommutativeAlgebra.Module.linearMap_map_zero",
+      "SandronesLibrary.CommutativeAlgebra.Module.linearMap_mem_ker_iff",
+      "SandronesLibrary.CommutativeAlgebra.Module.linearMap_mem_range_iff",
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace"
+    ]
+  },
+  "SandronesLibrary/CommutativeAlgebra/Module/IsomorphismTheorems.lean": {
+    "checkedAt": "2026-11-15T03:49:35.649Z",
+    "collisions": [
+      "SandronesLibrary.CommutativeAlgebra.Module.firstIsoHom"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/FiniteRawOpenPathGridBoundary.lean": {
+    "checkedAt": "2026-11-15T03:49:44.037Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Path.affineHomotopy"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/PrimitiveFromPathIntegral.lean": {
+    "checkedAt": "2026-11-15T03:50:06.884Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.scalarOneForm"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/WindingIndex.lean": {
+    "checkedAt": "2026-11-15T03:50:08.526Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.banachOneForm",
+      "SandronesLibrary.ComplexAnalysis.scalarOneForm",
+      "SandronesLibrary.ComplexAnalysis.ComplexDifferentiableAtTextbook",
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Examples/CoordinateIntegrals.lean": {
+    "checkedAt": "2026-11-15T03:50:51.870Z",
+    "collisions": [
+      "SandronesLibrary.Examples.CoordinateIntegrals.integral_Ioo_sin_zero_pi",
+      "SandronesLibrary.Examples.CoordinateIntegrals.integral_Ioo_sq_zero_radius"
+    ]
+  },
+  "SandronesLibrary/Examples/MeasureDerivative.lean": {
+    "checkedAt": "2026-11-15T03:50:53.002Z",
+    "collisions": [
+      "SandronesLibrary.Examples.MeasureDerivative.twoVolume"
+    ]
+  },
+  "SandronesLibrary/Examples/SetTheory/Functions.lean": {
+    "checkedAt": "2026-11-15T03:50:55.780Z",
+    "collisions": [
+      "SandronesLibrary.Examples.SetTheory.Functions.doubleAddOne",
+      "SandronesLibrary.SetTheory.Function.injective_comp",
+      "SandronesLibrary.SetTheory.Set.set_ext"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/BanachSteinhaus.lean": {
+    "checkedAt": "2026-11-15T03:51:08.626Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/ClosedRangeConsequences.lean": {
+    "checkedAt": "2026-11-15T03:51:11.686Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.separate_open_convex_neighborhood",
+      "SandronesLibrary.FunctionalAnalysis.hahnBanach_dominated_extension",
+      "SandronesLibrary.FunctionalAnalysis.mem_continuousAnnihilator_iff"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/EberleinSmulian.lean": {
+    "checkedAt": "2026-11-15T03:52:07.089Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.separate_open_convex_neighborhood",
+      "SandronesLibrary.FunctionalAnalysis.weakStar_isClosed_closedBall",
+      "SandronesLibrary.FunctionalAnalysis.bidual_evaluation",
+      "SandronesLibrary.FunctionalAnalysis.weak_evaluation_continuous"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/FredholmIndex.lean": {
+    "checkedAt": "2026-11-15T04:01:52.653Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.identitySubCompact",
+      "SandronesLibrary.FunctionalAnalysis.compactOperator_iff_isCompact_closure_image_unitBall"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/FredholmSmallPerturbation.lean": {
+    "checkedAt": "2026-11-15T04:03:30.783Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.separate_open_convex_neighborhood"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/KreinMilman.lean": {
+    "checkedAt": "2026-11-15T04:03:42.815Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.textbookFace_iff_nonempty_convex_isExtreme",
+      "SandronesLibrary.FunctionalAnalysis.mem_extremePoints_iff_textbook",
+      "SandronesLibrary.FunctionalAnalysis.singleton_isExtreme_iff_mem_extremePoints",
+      "SandronesLibrary.FunctionalAnalysis.closedConvexHull_extremePoints_eq",
+      "SandronesLibrary.FunctionalAnalysis.exists_extremePoint_of_nonempty_compact_convex"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/SchauderCompactness.lean": {
+    "checkedAt": "2026-11-15T04:03:48.872Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.dualOperator"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/SelfAdjointPositiveNormal.lean": {
+    "checkedAt": "2026-11-15T04:03:54.104Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.isSelfAdjoint_iff_inner_symm",
+      "SandronesLibrary.FunctionalAnalysis.isPositive_iff_selfAdjoint_inner_nonneg",
+      "SandronesLibrary.FunctionalAnalysis.positive_isSelfAdjoint",
+      "SandronesLibrary.FunctionalAnalysis.isStarNormal_iff_adjoint_commute",
+      "SandronesLibrary.FunctionalAnalysis.isStarNormal_iff_norm_adjoint",
+      "SandronesLibrary.FunctionalAnalysis.isStarNormal_ker_adjoint",
+      "SandronesLibrary.FunctionalAnalysis.isStarNormal_range_orthogonal_ker",
+      "SandronesLibrary.FunctionalAnalysis.selfAdjoint_isStarNormal",
+      "SandronesLibrary.FunctionalAnalysis.positive_isStarNormal",
+      "SandronesLibrary.FunctionalAnalysis.idempotent_selfAdjoint_iff_isStarNormal",
+      "SandronesLibrary.FunctionalAnalysis.unitary_isStarNormal",
+      "SandronesLibrary.FunctionalAnalysis.unitary_adjoint_eq_inv",
+      "SandronesLibrary.FunctionalAnalysis.isSelfAdjoint_unitary_mul_self",
+      "SandronesLibrary.FunctionalAnalysis.linearIsometryEquiv_mem_unitary"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/SeparableDual.lean": {
+    "checkedAt": "2026-11-15T04:03:58.326Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.separable_bidual_of_reflexive",
+      "SandronesLibrary.FunctionalAnalysis.separate_open_convex_neighborhood"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/WeakStarMetrizable.lean": {
+    "checkedAt": "2026-11-15T04:03:59.291Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.weakStar_metrizable_of_isCompact",
+      "SandronesLibrary.FunctionalAnalysis.weakStar_isSeqCompact_closedBall"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/WeakTopology.lean": {
+    "checkedAt": "2026-11-15T04:04:00.180Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.weak_evaluation_continuous",
+      "SandronesLibrary.FunctionalAnalysis.weak_tendsto_iff_forall_dual",
+      "SandronesLibrary.FunctionalAnalysis.norm_tendsto_implies_weak",
+      "SandronesLibrary.FunctionalAnalysis.weak_tendsto_map"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/Coordinates.lean": {
+    "checkedAt": "2026-11-15T04:04:01.863Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/JordanMatrix.lean": {
+    "checkedAt": "2026-11-15T04:10:07.370Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/JordanSimilarity.lean": {
+    "checkedAt": "2026-11-15T04:10:20.078Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/LinearMap.lean": {
+    "checkedAt": "2026-11-15T04:10:45.092Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace",
+      "SandronesLibrary.LinearAlgebra.LinearMap.firstIsomorphism"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/NormalSpectral.lean": {
+    "checkedAt": "2026-11-15T04:12:20.435Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.OrthogonalUnitary.IsUnitaryMatrix"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/OrthogonalUnitary.lean": {
+    "checkedAt": "2026-11-15T04:16:54.800Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.OrthogonalUnitary.IsUnitaryMatrix"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/Pell.lean": {
+    "checkedAt": "2026-11-15T04:16:56.536Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.IsIntegerSquare"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/PythagoreanTriples.lean": {
+    "checkedAt": "2026-11-15T04:16:58.498Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.IsPythagoreanTriple"
+    ]
+  },
+  "SandronesLibrary/Probability/IndependenceEvents.lean": {
+    "checkedAt": "2026-11-15T04:16:59.321Z",
+    "collisions": [
+      "SandronesLibrary.Probability.independentEvents_iff"
+    ]
+  },
+  "SandronesLibrary/Probability/StrongLaw.lean": {
+    "checkedAt": "2026-11-15T04:16:59.868Z",
+    "collisions": [
+      "SandronesLibrary.Probability.strongLaw_of_pairwise_independent_integrable"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/MeasureDerivativeRadonNikodym.lean": {
+    "checkedAt": "2026-11-15T04:17:00.415Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.radonNikodym",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_iff_withDensity_rnDeriv_eq",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.rnDeriv_pos",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.rnDeriv_self",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.rnDeriv_withDensity",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.rnDeriv_withDensity_left",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.rnDeriv_withDensity_right",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.inv_rnDeriv",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.rnDeriv_mul_rnDeriv",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.setLIntegral_rnDeriv",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.lintegral_rnDeriv",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.setIntegral_toReal_rnDeriv",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.integral_toReal_rnDeriv",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.rnDeriv_lt_top",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.rnDeriv_ne_top",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.signedMeasure_absolutelyContinuous_iff_withDensityᵥ_rnDeriv_eq"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/Riemann.lean": {
+    "checkedAt": "2026-11-15T04:17:04.835Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.Riemann.DarbouxPartition",
+      "SandronesLibrary.Analysis.Continuity.ContinuousAtTextbook"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/SignedMeasureComplex.lean": {
+    "checkedAt": "2026-11-15T04:17:15.307Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.SignedMeasure.complexMeasure_re_add_im",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.complexMeasure_re_apply",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.complexMeasure_im_apply",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.complexMeasure_toComplexMeasure_re_im",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.complexMeasure_re_toComplexMeasure",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.complexMeasure_im_toComplexMeasure",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.complexMeasure_apply_toComplexMeasure",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.complexMeasure_eq_zero_iff",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.complexMeasure_ext"
+    ]
+  },
+  "SandronesLibrary/SetTheory/GoodsteinFinitePowerBorrow.lean": {
+    "checkedAt": "2026-11-15T04:17:19.363Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HereditaryNatEncodingOrder.lean": {
+    "checkedAt": "2026-11-15T04:17:24.489Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HydraCertifiedPlayTermination.lean": {
+    "checkedAt": "2026-11-15T04:17:29.631Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Hydra"
+    ]
+  },
+  "SandronesLibrary/SetTheory/OrdinalPowerBridge.lean": {
+    "checkedAt": "2026-11-15T04:17:31.758Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Ordinal.orderType_classification"
+    ]
+  },
+  "SandronesLibrary/SetTheory/PartialComputability.lean": {
+    "checkedAt": "2026-11-15T04:17:33.903Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.GoogologyComputability.HeadMove"
+    ]
+  },
+  "SandronesLibrary/SetTheory/PrimitiveRecursiveClass.lean": {
+    "checkedAt": "2026-11-15T04:17:35.646Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion",
+      "SandronesLibrary.SetTheory.Googology.primrec_boundedSum",
+      "SandronesLibrary.SetTheory.Googology.primrec_boundedProd",
+      "SandronesLibrary.SetTheory.Googology.primrec_iterated"
+    ]
+  },
+  "SandronesLibrary/Statistics/Model.lean": {
+    "checkedAt": "2026-11-15T04:17:38.680Z",
+    "collisions": [
+      "SandronesLibrary.Statistics.statisticalModel_measurable",
+      "SandronesLibrary.Statistics.statisticalModel_eventProbability_measurable",
+      "SandronesLibrary.Statistics.statisticalModel_fiber_isProbabilityMeasure",
+      "SandronesLibrary.Statistics.statisticalModel_measure_univ",
+      "SandronesLibrary.Statistics.constantProbabilityMeasure_isStatisticalModel",
+      "SandronesLibrary.Statistics.deterministicObservation_isStatisticalModel"
+    ]
+  },
+  "SandronesLibrary/Topology/CircleFundamentalGroupStandard.lean": {
+    "checkedAt": "2026-11-15T04:17:41.744Z",
+    "collisions": [
+      "SandronesLibrary.Topology.circlePeriod_ne_zero",
+      "SandronesLibrary.Topology.circleDeckIntEquiv"
+    ]
+  },
+  "SandronesLibrary/Topology/FundamentalGroupInvarianceStandard.lean": {
+    "checkedAt": "2026-11-15T04:17:44.551Z",
+    "collisions": [
+      "SandronesLibrary.Topology.fundamentalGroup_mapOfEq_toPath",
+      "SandronesLibrary.Topology.fundamentalGroup_changeBasepoint_toPath",
+      "SandronesLibrary.Topology.fundamentalGroupMulEquivOfHomotopyEquiv"
+    ]
+  },
+  "SandronesLibrary/Topology/PathCodRestrict.lean": {
+    "checkedAt": "2026-11-15T04:17:45.380Z",
+    "collisions": [
+      "SandronesLibrary.Topology.pathCodRestrict"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenCoverSubdivision.lean": {
+    "checkedAt": "2026-11-15T04:17:45.989Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenEdgeGauge.lean": {
+    "checkedAt": "2026-11-15T04:17:47.791Z",
+    "collisions": [
+      "SandronesLibrary.Topology.twoCellBoundary_glue",
+      "SandronesLibrary.Topology.rebaseEdge",
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.BinaryOpenCoverSquareSubdivision.horizontalSwitchEdgeInIntersection"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenHomotopySquareBoundary.lean": {
+    "checkedAt": "2026-11-15T04:19:00.735Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.squareGridCellBoundary",
+      "SandronesLibrary.Topology.Path.correctedLoop"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenLetterWord.lean": {
+    "checkedAt": "2026-11-15T04:19:05.949Z",
+    "collisions": [
+      "SandronesLibrary.Topology.binaryOpenCoverPiece",
+      "SandronesLibrary.Topology.BinaryVanKampenLetter"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenNormalizedGridGauge.lean": {
+    "checkedAt": "2026-11-15T04:19:10.229Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenSquareSubdivision.lean": {
+    "checkedAt": "2026-11-15T04:24:17.857Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenVertexPotential.lean": {
+    "checkedAt": "2026-11-15T04:24:19.412Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Path.correctedLoop",
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.twoCellBoundary_glue",
+      "SandronesLibrary.Topology.connectorChange"
+    ]
+  },
+  "SandronesLibrary/AbstractAlgebra/RingLocalization.lean": {
+    "checkedAt": "2026-11-15T02:56:21.992Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.Ring.MultiplicativeSet"
+    ]
+  },
+  "SandronesLibrary/Analysis/Derivative.lean": {
+    "checkedAt": "2026-11-15T02:56:25.035Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Derivative.HasDerivativeAtTextbook"
+    ]
+  },
+  "SandronesLibrary/Analysis/FuncLimit.lean": {
+    "checkedAt": "2026-11-15T02:56:28.374Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.FuncLimit.FunctionConvergesToAt"
+    ]
+  },
+  "SandronesLibrary/Analysis/FundamentalTheoremAlgebra.lean": {
+    "checkedAt": "2026-11-15T02:56:37.806Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Complex.fundamental_theorem_of_algebra"
+    ]
+  },
+  "SandronesLibrary/Analysis/JordanRiemannBridge.lean": {
+    "checkedAt": "2026-11-15T02:56:38.915Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.JordanEuc"
+    ]
+  },
+  "SandronesLibrary/Analysis/MVT.lean": {
+    "checkedAt": "2026-11-15T02:56:40.645Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.MVT.rolle",
+      "SandronesLibrary.Analysis.MVT.lagrange",
+      "SandronesLibrary.Analysis.MVT.lagrange_deriv",
+      "SandronesLibrary.Analysis.MVT.monotone_of_deriv_nonneg",
+      "SandronesLibrary.Analysis.MVT.strict_mono_of_deriv_pos",
+      "SandronesLibrary.Analysis.MVT.cauchy_mvt",
+      "SandronesLibrary.Analysis.MVT.taylor_lagrange_remainder",
+      "SandronesLibrary.Analysis.MVT.lhopital_zero_real",
+      "SandronesLibrary.Analysis.MVT.is_constant_of_deriv_zero",
+      "SandronesLibrary.Analysis.MVT.exp_taylor_first_order",
+      "SandronesLibrary.Analysis.MVT.sin_taylor_second_order",
+      "SandronesLibrary.Analysis.MVT.cos_taylor_second_order"
+    ]
+  },
+  "SandronesLibrary/Analysis/MassCenter.lean": {
+    "checkedAt": "2026-11-15T02:56:43.923Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.JordanEuc"
+    ]
+  },
+  "SandronesLibrary/Analysis/SecondKindIntegrals.lean": {
+    "checkedAt": "2026-11-15T02:56:50.219Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.DifferentialForms.FormOrientation",
+      "SandronesLibrary.Analysis.Multivariable.ParametrizedCurve",
+      "SandronesLibrary.Analysis.Multivariable.closedRectangle"
+    ]
+  },
+  "SandronesLibrary/Analysis/Series/RiemannRearrangement.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-15T03:02:49.891Z"
+  },
+  "SandronesLibrary/ComplexAnalysis/AdmissiblePathConnectivity.lean": {
+    "checkedAt": "2026-11-15T03:06:24.912Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.ComplexDifferentiableAtTextbook",
+      "SandronesLibrary.ComplexAnalysis.scalarOneForm"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/CauchyTheorem.lean": {
+    "checkedAt": "2026-11-15T03:06:28.260Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.scalarOneForm"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/DyadicPathIntegralAssembly.lean": {
+    "checkedAt": "2026-11-15T03:06:29.802Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.scalarOneForm",
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/Goursat.lean": {
+    "checkedAt": "2026-11-15T03:07:01.169Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.scalarOneForm"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/Laurent.lean": {
+    "checkedAt": "2026-11-15T03:07:01.748Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.ComplexAnnulus"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/Liouville.lean": {
+    "checkedAt": "2026-11-15T03:07:02.306Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.ComplexDifferentiableAtTextbook"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/PathIntegral.lean": {
+    "checkedAt": "2026-11-15T03:07:02.869Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.scalarOneForm"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/PiecewiseC1HomotopyInvariance.lean": {
+    "checkedAt": "2026-11-15T03:07:20.331Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.ComplexAnalysis.scalarOneForm"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/Singularity.lean": {
+    "checkedAt": "2026-11-15T03:07:35.779Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.ComplexDifferentiableAtTextbook"
+    ]
+  },
+  "SandronesLibrary/Examples/CentralLimit.lean": {
+    "checkedAt": "2026-11-15T03:07:36.916Z",
+    "collisions": [
+      "SandronesLibrary.Examples.CentralLimit.gaussianSpace",
+      "SandronesLibrary.Probability.probabilityMeasure_tendsto_iff_charFun"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/AnnihilatorClosure.lean": {
+    "checkedAt": "2026-11-15T03:07:40.172Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.mem_continuousAnnihilator_iff",
+      "SandronesLibrary.FunctionalAnalysis.separate_open_convex_neighborhood"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/BanachAlgebraFoundation.lean": {
+    "checkedAt": "2026-11-15T03:07:41.448Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.banachAlgebra_norm_mul_le",
+      "SandronesLibrary.FunctionalAnalysis.banachAlgebra_hasSum_geometric_inverse",
+      "SandronesLibrary.FunctionalAnalysis.banachAlgebra_one_sub_isUnit",
+      "SandronesLibrary.FunctionalAnalysis.complexUnitization_complete",
+      "SandronesLibrary.FunctionalAnalysis.complexUnitization_inclusion_isometry",
+      "SandronesLibrary.FunctionalAnalysis.norm_complexUnitization_inclusion",
+      "SandronesLibrary.FunctionalAnalysis.operator_hasSum_geometric_inverse",
+      "SandronesLibrary.FunctionalAnalysis.operator_one_sub_isUnit"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/ClosedGraph.lean": {
+    "checkedAt": "2026-11-15T03:07:45.504Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/CompactPerturbationIdentity.lean": {
+    "checkedAt": "2026-11-15T03:07:46.492Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.identitySubCompact",
+      "SandronesLibrary.FunctionalAnalysis.compactOperator_iff_isCompact_closure_image_unitBall"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/FredholmDefinition.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-15T03:07:56.716Z"
+  },
+  "SandronesLibrary/LinearAlgebra/Subspace.lean": {
+    "checkedAt": "2026-11-15T03:07:59.290Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/SubspaceSumQuotient.lean": {
+    "checkedAt": "2026-11-15T03:08:00.987Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/SymplecticMatrix.lean": {
+    "checkedAt": "2026-11-15T03:08:02.927Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.SymplecticMatrix.standardJ"
+    ]
+  },
+  "SandronesLibrary/Probability/Expectation.lean": {
+    "checkedAt": "2026-11-15T03:08:05.256Z",
+    "collisions": [
+      "SandronesLibrary.Probability.integrable_iff_memLp_one",
+      "SandronesLibrary.Probability.expectation_add",
+      "SandronesLibrary.Probability.expectation_const",
+      "SandronesLibrary.Probability.expectation_mono"
+    ]
+  },
+  "SandronesLibrary/Probability/Filtration.lean": {
+    "checkedAt": "2026-11-15T03:08:06.337Z",
+    "collisions": [
+      "SandronesLibrary.Probability.filtration_mono",
+      "SandronesLibrary.Probability.filtration_le",
+      "SandronesLibrary.Probability.adapted_iff_measurable"
+    ]
+  },
+  "SandronesLibrary/Probability/Martingale.lean": {
+    "checkedAt": "2026-11-15T03:08:07.690Z",
+    "collisions": [
+      "SandronesLibrary.Probability.martingale_iff_stronglyAdapted_conditionalExpectation",
+      "SandronesLibrary.Probability.supermartingale_iff_stronglyAdapted_conditionalExpectation",
+      "SandronesLibrary.Probability.submartingale_iff_stronglyAdapted_conditionalExpectation",
+      "SandronesLibrary.Probability.martingale_integrable",
+      "SandronesLibrary.Probability.martingale_iff_supermartingale_and_submartingale",
+      "SandronesLibrary.Probability.conditionalExpectation_process_isMartingale"
+    ]
+  },
+  "SandronesLibrary/Probability/OptionalStopping.lean": {
+    "checkedAt": "2026-11-15T03:08:09.314Z",
+    "collisions": [
+      "SandronesLibrary.Probability.stoppingTime_iff_measurableSet_le",
+      "SandronesLibrary.Probability.stoppedValue_apply",
+      "SandronesLibrary.Probability.martingale_expected_stoppedValue_eq"
+    ]
+  },
+  "SandronesLibrary/Probability/Space.lean": {
+    "checkedAt": "2026-11-15T03:08:10.397Z",
+    "collisions": [
+      "SandronesLibrary.Probability.probabilityMeasure_iff",
+      "SandronesLibrary.Probability.probability_univ",
+      "SandronesLibrary.Probability.measurableEvent_empty",
+      "SandronesLibrary.Probability.MeasurableSet.event_compl",
+      "SandronesLibrary.Probability.MeasurableSet.event_inter",
+      "SandronesLibrary.Probability.probability_le_one",
+      "SandronesLibrary.Probability.probability_compl",
+      "SandronesLibrary.Probability.probability_add_compl"
+    ]
+  },
+  "SandronesLibrary/Probability/Variable.lean": {
+    "checkedAt": "2026-11-15T03:08:12.597Z",
+    "collisions": [
+      "SandronesLibrary.Probability.randomVariable_iff_preimage",
+      "SandronesLibrary.Probability.randomVariable_const",
+      "SandronesLibrary.Probability.randomVariable_comp"
+    ]
+  },
+  "SandronesLibrary/Probability/WeakLaw.lean": {
+    "checkedAt": "2026-11-15T03:08:13.407Z",
+    "collisions": [
+      "SandronesLibrary.Probability.iid_memLp_of_memLp_zero",
+      "SandronesLibrary.Probability.markov_inequality"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/AbsoluteContinuityFunction.lean": {
+    "checkedAt": "2026-11-15T03:08:15.625Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_iff_tendsto",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_iff_epsilon_delta",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.mem_disjWithin_iff",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.lipschitzOnWith_absolutelyContinuousOnInterval",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.contDiffOn_one_absolutelyContinuousOnInterval",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_boundedVariationOn",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_ae_differentiableAt",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_uniformContinuousOn",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_continuousOn",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_exists_bound",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_add",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_sub",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_neg",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_const_mul",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_const_smul",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_mul",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_smul",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_symm",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.absolutelyContinuousOnInterval_mono",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.lipschitzOnWith_comp_absolutelyContinuousOnInterval",
+      "SandronesLibrary.RealAnalysis.AbsoluteContinuityFunction.intervalIntegrable_absolutelyContinuousOnInterval_intervalIntegral"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/LpInequalities.lean": {
+    "checkedAt": "2026-11-15T03:08:22.694Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.Lp.holder_norm",
+      "SandronesLibrary.RealAnalysis.Lp.holder_nonneg",
+      "SandronesLibrary.RealAnalysis.Lp.holder_product_integrable",
+      "SandronesLibrary.RealAnalysis.Lp.chebyshev_markov",
+      "SandronesLibrary.RealAnalysis.Lp.minkowski",
+      "SandronesLibrary.RealAnalysis.Lp.minkowski_nonneg"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/SignedMeasureDefinition.lean": {
+    "checkedAt": "2026-11-15T03:08:24.359Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.SignedMeasure.signedMeasure_empty",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.signedMeasure_not_measurable",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.signedMeasure_union",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.signedMeasure_sdiff",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.signedMeasure_compl",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.signedMeasure_iUnion",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.signedMeasure_iUnion_finset",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.signedMeasure_tendsto_iUnion",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.measure_toSignedMeasure_apply_measurable",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.measure_toSignedMeasure_add",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.measure_toSignedMeasure_zero",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.IsPositiveSet"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/SignedMeasureVariation.lean": {
+    "checkedAt": "2026-11-15T03:08:29.942Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.SignedMeasure.totalVariation_eq_posPart_add_negPart",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.totalVariation_apply",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.totalVariation_eq_variation",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.totalVariation_univ_lt_top",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.totalVariation_zero",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.totalVariation_neg",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.null_of_totalVariation_zero",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.abs_apply_le_totalVariation",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.enorm_apply_le_totalVariation",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.totalVariation_union",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.posPart_mutuallySingular_negPart"
+    ]
+  },
+  "SandronesLibrary/SetTheory/BinaryMachineCodeHalting.lean": {
+    "checkedAt": "2026-11-15T03:08:33.256Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.GoogologyComputability.HeadMove"
+    ]
+  },
+  "SandronesLibrary/SetTheory/BinaryMachineCoding.lean": {
+    "checkedAt": "2026-11-15T03:08:35.452Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.GoogologyComputability.HeadMove"
+    ]
+  },
+  "SandronesLibrary/SetTheory/BusyBeaverTimeHaltingBound.lean": {
+    "checkedAt": "2026-11-15T03:08:37.879Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.GoogologyComputability.HeadMove"
+    ]
+  },
+  "SandronesLibrary/SetTheory/Cardinal.lean": {
+    "checkedAt": "2026-11-15T03:08:41.734Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Cardinal.countable_iff_injective_nat",
+      "SandronesLibrary.SetTheory.Cardinal.countable_rat",
+      "SandronesLibrary.SetTheory.Cardinal.uncountable_real",
+      "SandronesLibrary.SetTheory.Cardinal.countable_iUnion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/ComputabilityFoundations.lean": {
+    "checkedAt": "2026-11-15T03:08:42.909Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.GoogologyComputability.HeadMove"
+    ]
+  },
+  "SandronesLibrary/SetTheory/GoodsteinDescent.lean": {
+    "checkedAt": "2026-11-15T03:08:46.350Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/GoodsteinHereditaryPowerExponentBorrow.lean": {
+    "checkedAt": "2026-11-15T03:08:49.068Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/GoodsteinHigherBorrow.lean": {
+    "checkedAt": "2026-11-15T03:08:58.951Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/GoodsteinNoBorrow.lean": {
+    "checkedAt": "2026-11-15T03:09:03.069Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/GrowthHierarchy.lean": {
+    "checkedAt": "2026-11-15T03:09:04.209Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.GrowthHierarchy.FundamentalStage"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HereditaryEncodingOrderGeneral.lean": {
+    "checkedAt": "2026-11-15T03:09:06.694Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HydraGeneralDescent.lean": {
+    "checkedAt": "2026-11-15T03:09:12.421Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Ordinal.orderType_classification",
+      "SandronesLibrary.SetTheory.HydraGeneralDescent.ordNadd",
+      "SandronesLibrary.SetTheory.Hydra"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HydraParentSiblingDescent.lean": {
+    "checkedAt": "2026-11-15T03:11:44.145Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Hydra"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HydraRightmostSpineDescent.lean": {
+    "checkedAt": "2026-11-15T03:11:51.145Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Hydra",
+      "SandronesLibrary.SetTheory.Ordinal.orderType_classification"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HydraSiblingDescent.lean": {
+    "checkedAt": "2026-11-15T03:15:13.298Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Ordinal.orderType_classification",
+      "SandronesLibrary.SetTheory.Hydra"
+    ]
+  },
+  "SandronesLibrary/Statistics/CramerRao.lean": {
+    "checkedAt": "2026-11-15T03:20:27.102Z",
+    "collisions": [
+      "SandronesLibrary.Statistics.modelMeasure",
+      "SandronesLibrary.Statistics.statisticalModel_density_jointlyMeasurable",
+      "SandronesLibrary.Statistics.squaredLoss_jointlyMeasurable"
+    ]
+  },
+  "SandronesLibrary/Statistics/Density.lean": {
+    "checkedAt": "2026-11-15T03:20:30.787Z",
+    "collisions": [
+      "SandronesLibrary.Statistics.statisticalModel_density_jointlyMeasurable",
+      "SandronesLibrary.Statistics.statisticalModel_density_ae_eq_measure_rnDeriv",
+      "SandronesLibrary.Statistics.statisticalModel_withDensity_eq",
+      "SandronesLibrary.Statistics.statisticalModel_setLIntegral_density",
+      "SandronesLibrary.Statistics.statisticalModel_lintegral_density_eq_one",
+      "SandronesLibrary.Statistics.statisticalModel_density_ne_top_ae"
+    ]
+  },
+  "SandronesLibrary/Topology/CoveringMapStandard.lean": {
+    "checkedAt": "2026-11-15T03:20:32.452Z",
+    "collisions": [
+      "SandronesLibrary.Topology.isEvenlyCovered_iff_exists_open_product",
+      "SandronesLibrary.Topology.isCoveringMap_iff_every_point_evenlyCovered",
+      "SandronesLibrary.Topology.coveringMap_exists_open_product_neighborhood",
+      "SandronesLibrary.Topology.coveringMap_discreteTopology_fiber",
+      "SandronesLibrary.Topology.coveringMap_continuous_and_isOpenMap_and_isLocalHomeomorph",
+      "SandronesLibrary.Topology.coveringMap_isQuotientMap_of_surjective"
+    ]
+  },
+  "SandronesLibrary/Topology/CoveringMonodromyStandard.lean": {
+    "checkedAt": "2026-11-15T03:20:34.153Z",
+    "collisions": [
+      "SandronesLibrary.Topology.existsUnique_coveringMap_pathLift"
+    ]
+  },
+  "SandronesLibrary/Topology/CoveringSubgroupRecoveryStandard.lean": {
+    "checkedAt": "2026-11-15T03:20:35.765Z",
+    "collisions": [
+      "SandronesLibrary.Topology.fundamentalGroup_mapOfEq_comp_apply",
+      "SandronesLibrary.Topology.fundamentalGroup_mapOfEq_congr",
+      "SandronesLibrary.Topology.PointedCovering"
+    ]
+  },
+  "SandronesLibrary/Topology/HomotopyEquivalenceStandard.lean": {
+    "checkedAt": "2026-11-15T03:20:39.047Z",
+    "collisions": [
+      "SandronesLibrary.Topology.nonempty_homotopyEquiv_iff_exists_two_sided_homotopy_inverse",
+      "SandronesLibrary.Topology.nonempty_homotopyEquiv_refl",
+      "SandronesLibrary.Topology.nonempty_homotopyEquiv_symm",
+      "SandronesLibrary.Topology.nonempty_homotopyEquiv_trans",
+      "SandronesLibrary.Topology.homeomorph_toHomotopyEquiv_apply"
+    ]
+  },
+  "SandronesLibrary/Topology/HomotopySquareGrid.lean": {
+    "checkedAt": "2026-11-15T03:20:40.444Z",
+    "collisions": [
+      "SandronesLibrary.Topology.pathHomotopySquare",
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/HomotopyStandard.lean": {
+    "checkedAt": "2026-11-15T03:20:42.714Z",
+    "collisions": [
+      "SandronesLibrary.Topology.nonempty_homotopy_iff_exists_continuous_deformation",
+      "SandronesLibrary.Topology.nonempty_homotopyRel_iff_exists_continuous_deformation_fixed_on",
+      "SandronesLibrary.Topology.homotopy_comp_apply",
+      "SandronesLibrary.Topology.homotopyRel_compContinuousMap_apply"
+    ]
+  },
+  "SandronesLibrary/Topology/MathlibBridge.lean": {
+    "checkedAt": "2026-11-15T03:20:43.865Z",
+    "collisions": [
+      "SandronesLibrary.Topology.topologicalSpace_open_axioms"
+    ]
+  },
+  "SandronesLibrary/Topology/PathConcatAlignedSubdivision.lean": {
+    "checkedAt": "2026-11-15T03:20:51.330Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.exists_binaryOpenCoverSquareSubdivision_steps_multiple"
+    ]
+  },
+  "SandronesLibrary/Topology/PathConcatDyadicSubdivision.lean": {
+    "checkedAt": "2026-11-15T03:22:26.066Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.pathConcatDyadicScale",
+      "SandronesLibrary.Topology.binaryOpenCoverPiece"
+    ]
+  },
+  "SandronesLibrary/Topology/PathConnected.lean": {
+    "checkedAt": "2026-11-15T03:23:39.964Z",
+    "collisions": [
+      "SandronesLibrary.Topology.joined_iff_nonempty_path",
+      "SandronesLibrary.Topology.isPathConnected_iff_nonempty_joinedIn",
+      "SandronesLibrary.Topology.isPathConnected_image",
+      "SandronesLibrary.Topology.topologicalSpace_open_axioms"
+    ]
+  },
+  "SandronesLibrary/Topology/PathHomotopyImageControl.lean": {
+    "checkedAt": "2026-11-15T03:23:46.345Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Path.affineHomotopy"
+    ]
+  },
+  "SandronesLibrary/Topology/RealLine.lean": {
+    "checkedAt": "2026-11-15T03:23:49.174Z",
+    "collisions": [
+      "SandronesLibrary.Topology.real_isOpen_iff_abs",
+      "SandronesLibrary.Topology.unitInterval_eq_Icc",
+      "SandronesLibrary.Topology.TextbookTopology.realLine",
+      "SandronesLibrary.Topology.topologicalSpace_open_axioms"
+    ]
+  },
+  "SandronesLibrary/Topology/Separation.lean": {
+    "checkedAt": "2026-11-15T03:23:53.046Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Separation.t1_singleton_closed",
+      "SandronesLibrary.Topology.Separation.t2_tendsto_unique",
+      "SandronesLibrary.Topology.Separation.t2_iff_disjoint_nhds",
+      "SandronesLibrary.Topology.Separation.regular_iff_closed_nhds",
+      "SandronesLibrary.Topology.Separation.t2_implies_t1",
+      "SandronesLibrary.Topology.Separation.t1_iff_singleton_closed",
+      "SandronesLibrary.Topology.Separation.urysohn_lemma"
+    ]
+  },
+  "SandronesLibrary/Topology/UnitIntervalMesh.lean": {
+    "checkedAt": "2026-11-15T03:23:54.940Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenLetterBlockTelescope.lean": {
+    "checkedAt": "2026-11-15T03:24:17.931Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenLetterBlockWord.lean": {
+    "checkedAt": "2026-11-15T03:33:29.613Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenRowAnchoring.lean": {
+    "checkedAt": "2026-11-15T03:34:03.091Z",
+    "collisions": [
+      "SandronesLibrary.Topology.twoCellBoundary_glue",
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/AbstractAlgebra/GroupCyclic.lean": {
+    "checkedAt": "2026-11-15T03:02:09.663Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.Group.cyclicSubgroup"
+    ]
+  },
+  "SandronesLibrary/AbstractAlgebra/Ring.lean": {
+    "checkedAt": "2026-11-15T03:02:12.144Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.Ring.RingAxioms"
+    ]
+  },
+  "SandronesLibrary/Analysis/ConstantRank.lean": {
+    "checkedAt": "2026-11-15T03:02:26.148Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.Euc"
+    ]
+  },
+  "SandronesLibrary/Analysis/Continuity.lean": {
+    "checkedAt": "2026-11-15T03:02:31.587Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Continuity.ContinuousAtTextbook"
+    ]
+  },
+  "SandronesLibrary/Analysis/PowerSeries.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-15T03:02:41.500Z"
+  },
+  "SandronesLibrary/Analysis/Series/CauchyProduct.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-15T03:12:39.687Z"
+  },
+  "SandronesLibrary/Analysis/SpecialFunctions.lean": {
+    "checkedAt": "2026-11-15T03:12:51.390Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.SpecialFunctions.exp_pos",
+      "SandronesLibrary.Analysis.SpecialFunctions.exp_add",
+      "SandronesLibrary.Analysis.SpecialFunctions.continuous_exp",
+      "SandronesLibrary.Analysis.SpecialFunctions.deriv_exp",
+      "SandronesLibrary.Analysis.SpecialFunctions.continuous_sin",
+      "SandronesLibrary.Analysis.SpecialFunctions.continuous_cos",
+      "SandronesLibrary.Analysis.SpecialFunctions.deriv_sin",
+      "SandronesLibrary.Analysis.SpecialFunctions.deriv_cos",
+      "SandronesLibrary.Analysis.SpecialFunctions.log_mul",
+      "SandronesLibrary.Analysis.SpecialFunctions.continuousOn_log",
+      "SandronesLibrary.Analysis.SpecialFunctions.deriv_log",
+      "SandronesLibrary.Analysis.SpecialFunctions.strictMonoOn_log_pos",
+      "SandronesLibrary.Analysis.SpecialFunctions.exp_log_pos",
+      "SandronesLibrary.Analysis.SpecialFunctions.log_exp",
+      "SandronesLibrary.Analysis.SpecialFunctions.log_mul_pos",
+      "SandronesLibrary.Analysis.SpecialFunctions.deriv_tan",
+      "SandronesLibrary.Analysis.SpecialFunctions.continuous_pow_nat",
+      "SandronesLibrary.Analysis.SpecialFunctions.deriv_pow_nat",
+      "SandronesLibrary.Analysis.SpecialFunctions.continuous_arctan",
+      "SandronesLibrary.Analysis.SpecialFunctions.deriv_arctan",
+      "SandronesLibrary.Analysis.SpecialFunctions.tan_arctan",
+      "SandronesLibrary.Analysis.SpecialFunctions.continuous_arcsin",
+      "SandronesLibrary.Analysis.SpecialFunctions.continuous_arccos",
+      "SandronesLibrary.Analysis.SpecialFunctions.hasDerivAt_arcsin",
+      "SandronesLibrary.Analysis.SpecialFunctions.hasDerivAt_arccos"
+    ]
+  },
+  "SandronesLibrary/CommutativeAlgebra/Module/Quotient.lean": {
+    "checkedAt": "2026-11-15T03:19:50.814Z",
+    "collisions": [
+      "SandronesLibrary.CommutativeAlgebra.Module.quotient_mk_eq_iff",
+      "SandronesLibrary.CommutativeAlgebra.Module.quotient_mk_eq_zero_iff",
+      "SandronesLibrary.CommutativeAlgebra.Module.quotient_mk_add",
+      "SandronesLibrary.CommutativeAlgebra.Module.quotient_mk_smul",
+      "SandronesLibrary.CommutativeAlgebra.Module.mkQ_apply_mk",
+      "SandronesLibrary.CommutativeAlgebra.Module.mkQ_ker",
+      "SandronesLibrary.CommutativeAlgebra.Module.mkQ_range",
+      "SandronesLibrary.CommutativeAlgebra.Module.mkQ_surjective",
+      "SandronesLibrary.CommutativeAlgebra.Module.quotient_liftQ_mk",
+      "SandronesLibrary.CommutativeAlgebra.Module.quotient_liftQ_comp_mkQ",
+      "SandronesLibrary.CommutativeAlgebra.Module.quotient_liftQ_exists_unique",
+      "SandronesLibrary.CommutativeAlgebra.Module.quotient_liftQ_unique",
+      "SandronesLibrary.CommutativeAlgebra.Module.quotient_hom_ext",
+      "SandronesLibrary.CommutativeAlgebra.Module.quotient_factor_mkQ",
+      "SandronesLibrary.CommutativeAlgebra.Module.quotient_factor_surjective",
+      "SandronesLibrary.CommutativeAlgebra.Module.quotient_subsingleton_iff",
+      "SandronesLibrary.CommutativeAlgebra.Module.quotient_nontrivial_iff"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/CauchyHomotopy.lean": {
+    "checkedAt": "2026-11-15T03:19:56.038Z",
+    "collisions": [
+      "SandronesLibrary.Topology.pathHomotopySquare",
+      "SandronesLibrary.Topology.Path.PiecewiseC1",
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.ComplexAnalysis.scalarOneForm",
+      "SandronesLibrary.ComplexAnalysis.ComplexDifferentiableAtTextbook"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/CycleCarrier.lean": {
+    "checkedAt": "2026-11-15T03:21:46.250Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.ClosedPath",
+      "SandronesLibrary.ComplexAnalysis.banachOneForm",
+      "SandronesLibrary.ComplexAnalysis.scalarOneForm",
+      "SandronesLibrary.Topology.Path.PiecewiseC1"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/Holomorphic.lean": {
+    "checkedAt": "2026-11-15T03:21:52.483Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.ComplexDifferentiableAtTextbook"
+    ]
+  },
+  "SandronesLibrary/Examples/SetTheory/Countability.lean": {
+    "checkedAt": "2026-11-15T03:21:54.475Z",
+    "collisions": [
+      "SandronesLibrary.Examples.SetTheory.Countability.pair_two_three",
+      "SandronesLibrary.Examples.SetTheory.Countability.pair_injective",
+      "SandronesLibrary.Examples.SetTheory.Countability.countable_prod_nat",
+      "SandronesLibrary.Examples.SetTheory.Countability.intToNat",
+      "SandronesLibrary.SetTheory.Cardinal.countable_iff_injective_nat"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/AdjointOperator.lean": {
+    "checkedAt": "2026-11-15T03:22:04.750Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/Baire.lean": {
+    "checkedAt": "2026-11-15T03:22:06.747Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/ClosedRange.lean": {
+    "checkedAt": "2026-11-15T03:22:07.617Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.mem_continuousAnnihilator_iff",
+      "SandronesLibrary.FunctionalAnalysis.hahnBanach_dominated_extension"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/CompactSelfAdjointSpectrum.lean": {
+    "checkedAt": "2026-11-15T03:22:28.247Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.dense_iSup_eigenspaces_of_orthogonal_eq_bot",
+      "SandronesLibrary.FunctionalAnalysis.compact_isSymmetric_spectral_decomposition"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/CondensationDivergence.lean": {
+    "checkedAt": "2026-11-15T03:22:30.712Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/HilbertProjection.lean": {
+    "checkedAt": "2026-11-15T03:22:37.809Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/OrthonormalBasis.lean": {
+    "checkedAt": "2026-11-15T03:22:39.258Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.hilbertBasis_orthonormal",
+      "SandronesLibrary.FunctionalAnalysis.hilbertBasis_dense_span",
+      "SandronesLibrary.FunctionalAnalysis.hilbertBasis_hasSum_fourier",
+      "SandronesLibrary.FunctionalAnalysis.hilbertBasis_parseval"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/WeakStarTopology.lean": {
+    "checkedAt": "2026-11-15T03:22:40.427Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.weakStar_evaluation_continuous",
+      "SandronesLibrary.FunctionalAnalysis.weakStar_tendsto_iff_forall",
+      "SandronesLibrary.FunctionalAnalysis.weak_evaluation_continuous"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/Determinant.lean": {
+    "checkedAt": "2026-11-15T03:22:41.685Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.Determinant.det_mul",
+      "SandronesLibrary.LinearAlgebra.Determinant.det_transpose",
+      "SandronesLibrary.LinearAlgebra.Determinant.det_invertible",
+      "SandronesLibrary.LinearAlgebra.Determinant.det_one",
+      "SandronesLibrary.LinearAlgebra.Determinant.det_zero",
+      "SandronesLibrary.LinearAlgebra.Determinant.adj"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/Diagonalization.lean": {
+    "checkedAt": "2026-11-15T03:22:48.583Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/InnerProduct.lean": {
+    "checkedAt": "2026-11-15T03:23:04.164Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.InnerProduct.AreOrthogonal",
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/JordanDecomposition.lean": {
+    "checkedAt": "2026-11-15T03:42:37.188Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/MatrixPolar.lean": {
+    "checkedAt": "2026-11-15T03:46:46.980Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.MatrixDecomposition.operatorNorm"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/SymplecticBasis.lean": {
+    "checkedAt": "2026-11-15T03:46:59.949Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/Congruence.lean": {
+    "checkedAt": "2026-11-15T03:47:11.369Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.Congruent"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/ConvergentBest.lean": {
+    "checkedAt": "2026-11-15T03:47:13.042Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.exists_int_contsAux",
+      "SandronesLibrary.NumberTheory.Elementary.of_irrational_not_terminatedAt",
+      "SandronesLibrary.NumberTheory.Elementary.dens_add_two",
+      "SandronesLibrary.NumberTheory.Elementary.continuedFractionConvergent"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/PellAllPositive.lean": {
+    "checkedAt": "2026-11-15T03:47:17.678Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.IsIntegerSquare"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/QuadraticReciprocity.lean": {
+    "checkedAt": "2026-11-15T03:47:21.862Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.legendre_quadratic_reciprocity_product",
+      "SandronesLibrary.NumberTheory.Elementary.IsQuadraticResidue",
+      "SandronesLibrary.NumberTheory.Elementary.jacobi_quadratic_reciprocity"
+    ]
+  },
+  "SandronesLibrary/Probability/CLTCharacteristicFoundation.lean": {
+    "checkedAt": "2026-11-15T03:47:24.426Z",
+    "collisions": [
+      "SandronesLibrary.Probability.normalizedSum_charFun_eq_pow",
+      "SandronesLibrary.Probability.normalizedSumLaw",
+      "SandronesLibrary.Probability.probabilityMeasure_tendsto_iff_charFun"
+    ]
+  },
+  "SandronesLibrary/Probability/CharacteristicFunction.lean": {
+    "checkedAt": "2026-11-15T03:47:25.397Z",
+    "collisions": [
+      "SandronesLibrary.Probability.realCharFun_eq_integral",
+      "SandronesLibrary.Probability.realCharFun_zero",
+      "SandronesLibrary.Probability.realCharFun_continuous",
+      "SandronesLibrary.Probability.norm_realCharFun_le_one",
+      "SandronesLibrary.Probability.realCharFun_neg",
+      "SandronesLibrary.Probability.realCharFun_scale",
+      "SandronesLibrary.Probability.realCharFun_translate",
+      "SandronesLibrary.Probability.realCharFun_independent_add",
+      "SandronesLibrary.Probability.identDistrib_iff_realCharFun_eq"
+    ]
+  },
+  "SandronesLibrary/Probability/Convergence.lean": {
+    "checkedAt": "2026-11-15T03:47:27.867Z",
+    "collisions": [
+      "SandronesLibrary.Probability.almostSurelyConverges_iff_ae_tendsto",
+      "SandronesLibrary.Probability.convergesInProbability_iff_measureReal_dist",
+      "SandronesLibrary.Probability.almostSurelyConverges_inProbability",
+      "SandronesLibrary.Probability.convergesInLp_inProbability",
+      "SandronesLibrary.Probability.convergesInProbability_inDistribution",
+      "SandronesLibrary.Probability.convergesInProbability_has_almostSurelyConvergent_subsequence",
+      "SandronesLibrary.Probability.convergenceInDistribution_continuousMapping"
+    ]
+  },
+  "SandronesLibrary/Probability/IndependenceVariables.lean": {
+    "checkedAt": "2026-11-15T03:47:30.047Z",
+    "collisions": [
+      "SandronesLibrary.Probability.independentRandomVariables_iff",
+      "SandronesLibrary.Probability.independentRandomVariables_comp",
+      "SandronesLibrary.Probability.independent_integrable_mul",
+      "SandronesLibrary.Probability.expectation_mul_eq_mul_expectation_of_independent"
+    ]
+  },
+  "SandronesLibrary/Probability/Inequalities.lean": {
+    "checkedAt": "2026-11-15T03:47:31.148Z",
+    "collisions": [
+      "SandronesLibrary.Probability.markov_inequality",
+      "SandronesLibrary.Probability.chebyshev_inequality",
+      "SandronesLibrary.Probability.jensen_inequality"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/Calculus.lean": {
+    "checkedAt": "2026-11-15T03:47:31.978Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.Calculus.ftc_2",
+      "SandronesLibrary.RealAnalysis.Calculus.ftc_1_right"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/Lp.lean": {
+    "checkedAt": "2026-11-15T03:47:32.565Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.Lp.LpSpace"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/MeasureDerivativeLebesgueDecomposition.lean": {
+    "checkedAt": "2026-11-15T03:47:35.221Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.haveLebesgueDecomposition_of_sigmaFinite",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.haveLebesgueDecomposition_add",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_singularPart",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.singularPart_le",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.withDensity_rnDeriv_le",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.haveLebesgueDecomposition_spec",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.singularPart_unique",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.rnDeriv_unique",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_haveLebesgueDecomposition",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.singularPart_eq_zero_iff",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.singularPart_eq_zero_of_absolutelyContinuous",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.singularPart_self",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.singularPart_eq_self_iff",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.measurable_rnDeriv",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.haveLebesgueDecomposition_withDensity"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/RiemannAlgebra.lean": {
+    "checkedAt": "2026-11-15T03:47:39.554Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Continuity.ContinuousAtTextbook"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/SignedMeasureJordan.lean": {
+    "checkedAt": "2026-11-15T03:47:43.712Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.SignedMeasure.jordan_decomposition",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.jordan_decomposition_toSignedMeasure",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.jordan_decomposition_unique",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.jordan_decomposition_iff",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.jordan_toSignedMeasure_eq_posPart_sub_negPart",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.jordan_apply_eq_posPart_real_sub_negPart_real",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.jordan_posPart_mutuallySingular_negPart",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.jordan_toSignedMeasure_injective",
+      "SandronesLibrary.RealAnalysis.SignedMeasure.signedMeasure_empty"
+    ]
+  },
+  "SandronesLibrary/SetTheory/BusyBeaverConvergence.lean": {
+    "checkedAt": "2026-11-15T03:47:47.345Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.GoogologyComputability.HeadMove"
+    ]
+  },
+  "SandronesLibrary/SetTheory/GoodsteinBorrow.lean": {
+    "checkedAt": "2026-11-15T03:47:52.706Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/Ordinal.lean": {
+    "checkedAt": "2026-11-15T03:47:54.938Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Ordinal.orderType_classification",
+      "SandronesLibrary.SetTheory.Ordinal.transfinite_induction",
+      "SandronesLibrary.SetTheory.Ordinal.transfiniteRec"
+    ]
+  },
+  "SandronesLibrary/SetTheory/UniversalMachineInstance.lean": {
+    "checkedAt": "2026-11-15T03:48:05.124Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.GoogologyComputability.HeadMove"
+    ]
+  },
+  "SandronesLibrary/SetTheory/Zorn.lean": {
+    "checkedAt": "2026-11-15T03:48:07.015Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Zorn.isMax_def",
+      "SandronesLibrary.SetTheory.Zorn.zorn_lemma",
+      "SandronesLibrary.SetTheory.Zorn.zorn_subset_lemma",
+      "SandronesLibrary.SetTheory.Zorn.zorn_superset_lemma"
+    ]
+  },
+  "SandronesLibrary/Topology/Compact.lean": {
+    "checkedAt": "2026-11-15T03:48:08.107Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Compact.compact_elim_finite_subcover",
+      "SandronesLibrary.Topology.Compact.compact_image_of_continuous",
+      "SandronesLibrary.Topology.Compact.compact_union",
+      "SandronesLibrary.Topology.Compact.compact_singleton",
+      "SandronesLibrary.Topology.Compact.compact_Icc",
+      "SandronesLibrary.Topology.Compact.compact_isClosed_of_t2",
+      "SandronesLibrary.Topology.Compact.compact_inter_of_t2",
+      "SandronesLibrary.Topology.Compact.tychonoff",
+      "SandronesLibrary.Topology.Compact.tychonoff_pi",
+      "SandronesLibrary.Topology.Compact.compact_space_pi"
+    ]
+  },
+  "SandronesLibrary/Topology/CoveringSubgroupCanonicalChartStandard.lean": {
+    "checkedAt": "2026-11-15T03:48:10.884Z",
+    "collisions": [
+      "SandronesLibrary.Topology.CoveringSubgroupCanonicalChart.quotient_map_trans",
+      "SandronesLibrary.Topology.CoveringSubgroupCanonicalChart.quotient_map_symm",
+      "SandronesLibrary.Topology.CoveringSubgroupCanonicalChart.quotient_symm_trans",
+      "SandronesLibrary.Topology.CoveringSubgroupCanonicalChart.FixedRelated",
+      "SandronesLibrary.Topology.CoveringSubgroupBasedPath",
+      "SandronesLibrary.Topology.SemilocallySimplyConnectedAt"
+    ]
+  },
+  "SandronesLibrary/Topology/Foundation.lean": {
+    "checkedAt": "2026-11-15T03:48:26.696Z",
+    "collisions": [
+      "SandronesLibrary.Topology.topologicalSpace_open_axioms",
+      "SandronesLibrary.Topology.continuous_iff_preimage_open",
+      "SandronesLibrary.Topology.mem_nhds_iff_exists_open",
+      "SandronesLibrary.Topology.nonempty_homeomorph_iff_exists_equiv",
+      "SandronesLibrary.Topology.TextbookTopology"
+    ]
+  },
+  "SandronesLibrary/Topology/Homotopy.lean": {
+    "checkedAt": "2026-11-15T03:48:31.351Z",
+    "collisions": [
+      "SandronesLibrary.Topology.topologicalSpace_open_axioms"
+    ]
+  },
+  "SandronesLibrary/Topology/NormedSpace.lean": {
+    "checkedAt": "2026-11-15T03:48:32.003Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/Topology/Path.lean": {
+    "checkedAt": "2026-11-15T03:48:34.565Z",
+    "collisions": [
+      "SandronesLibrary.Topology.nonempty_path_iff_exists_continuous",
+      "SandronesLibrary.Topology.path_symm_apply",
+      "SandronesLibrary.Topology.path_symm_symm",
+      "SandronesLibrary.Topology.path_trans_apply_of_le",
+      "SandronesLibrary.Topology.path_trans_apply_of_not_le",
+      "SandronesLibrary.Topology.topologicalSpace_open_axioms"
+    ]
+  },
+  "SandronesLibrary/Topology/PathHomotopyStandard.lean": {
+    "checkedAt": "2026-11-15T03:48:39.796Z",
+    "collisions": [
+      "SandronesLibrary.Topology.nonempty_pathHomotopy_iff_exists_fixed_endpoint_deformation",
+      "SandronesLibrary.Topology.pathHomotopy_refl_apply",
+      "SandronesLibrary.Topology.pathHomotopy_symm_apply",
+      "SandronesLibrary.Topology.pathHomotopy_trans_apply_of_le",
+      "SandronesLibrary.Topology.pathHomotopy_trans_apply_of_not_le"
+    ]
+  },
+  "SandronesLibrary/Topology/PathPolygonalApproximation.lean": {
+    "checkedAt": "2026-11-15T03:48:42.775Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/PiecewiseC1DyadicAlignment.lean": {
+    "checkedAt": "2026-11-15T03:48:47.271Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Path.DyadicC1AtDepth",
+      "SandronesLibrary.Topology.Path.PiecewiseC1",
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/PiecewiseC1Path.lean": {
+    "checkedAt": "2026-11-15T03:49:39.708Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Path.PiecewiseC1",
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.Path.affineHomotopy"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenGlobalBlockTelescope.lean": {
+    "checkedAt": "2026-11-15T03:50:52.253Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenLeftBoundaryEdge.lean": {
+    "checkedAt": "2026-11-15T03:53:18.538Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenLeftBoundaryTransport.lean": {
+    "checkedAt": "2026-11-15T03:58:53.846Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenRebasedLetterWord.lean": {
+    "checkedAt": "2026-11-15T04:03:52.240Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.twoCellBoundary_glue",
+      "SandronesLibrary.Topology.binaryOpenCoverPiece"
+    ]
+  },
+  "SandronesLibrary/AbstractAlgebra/PolynomialFactorization.lean": {
+    "checkedAt": "2026-11-15T03:20:06.691Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.PolynomialFactorization.polynomial_exists_irreducible_factorization",
+      "SandronesLibrary.AbstractAlgebra.PolynomialFactorization.polynomial_irreducible_factorization_unique",
+      "SandronesLibrary.AbstractAlgebra.PolynomialFactorization.polynomial_eq_leadingCoeff_mul_normalizedFactors",
+      "SandronesLibrary.AbstractAlgebra.PolynomialFactorization.normalizedFactor_monic_irreducible",
+      "SandronesLibrary.AbstractAlgebra.PolynomialFactorization.monic_irreducible_factorization_unique",
+      "SandronesLibrary.AbstractAlgebra.PolynomialFactorization.rootMultiplicity_pos_iff_isRoot",
+      "SandronesLibrary.AbstractAlgebra.PolynomialFactorization.pow_X_sub_C_dvd_iff_le_rootMultiplicity",
+      "SandronesLibrary.AbstractAlgebra.PolynomialFactorization.rootMultiplicity_eq_iff",
+      "SandronesLibrary.AbstractAlgebra.PolynomialFactorization.rootMultiplicity_X_sub_C_pow",
+      "SandronesLibrary.AbstractAlgebra.PolynomialFactorization.rootMultiplicity_mul",
+      "SandronesLibrary.AbstractAlgebra.PolynomialFactorization.coefficient_derivative",
+      "SandronesLibrary.AbstractAlgebra.PolynomialFactorization.derivative_mul",
+      "SandronesLibrary.AbstractAlgebra.PolynomialFactorization.SimpleRoot"
+    ]
+  },
+  "SandronesLibrary/Analysis/Asymptotic.lean": {
+    "checkedAt": "2026-11-15T03:20:12.463Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Asymptotic.log_tendsto_atTop",
+      "SandronesLibrary.Analysis.Asymptotic.log_little_o_id",
+      "SandronesLibrary.Analysis.Asymptotic.exp_div_pow_tendsto_atTop",
+      "SandronesLibrary.Analysis.Asymptotic.pow_little_o_exp"
+    ]
+  },
+  "SandronesLibrary/Analysis/CoordinateIntegrals.lean": {
+    "checkedAt": "2026-11-15T03:20:13.555Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.polarMap",
+      "SandronesLibrary.Analysis.Multivariable.JordanEuc"
+    ]
+  },
+  "SandronesLibrary/Analysis/FirstKindIntegrals.lean": {
+    "checkedAt": "2026-11-15T03:20:21.285Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.ParametrizedCurve"
+    ]
+  },
+  "SandronesLibrary/Analysis/GreenGaussStokes.lean": {
+    "checkedAt": "2026-11-15T03:20:22.556Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.GreenGaussStokes.rectangleBoundaryIntegral",
+      "SandronesLibrary.Analysis.Multivariable.xNormalDomain",
+      "SandronesLibrary.Analysis.Multivariable.ParametrizedCurve"
+    ]
+  },
+  "SandronesLibrary/Analysis/MultivariableCalculus.lean": {
+    "checkedAt": "2026-11-15T03:20:28.139Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.TotalDerivative",
+      "SandronesLibrary.LinearAlgebra.Matrix.IsSymmetric"
+    ]
+  },
+  "SandronesLibrary/Analysis/MultivariableRiemann.lean": {
+    "checkedAt": "2026-11-15T03:20:36.911Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.RiemannBox"
+    ]
+  },
+  "SandronesLibrary/Analysis/NormalDomain.lean": {
+    "checkedAt": "2026-11-15T03:20:38.017Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Multivariable.xNormalDomain",
+      "SandronesLibrary.Analysis.Continuity.ContinuousAtTextbook",
+      "SandronesLibrary.Analysis.Multivariable.JordanEuc"
+    ]
+  },
+  "SandronesLibrary/Analysis/Series.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-15T03:20:41.999Z"
+  },
+  "SandronesLibrary/Analysis/StokesDomainGluing.lean": {
+    "checkedAt": "2026-11-15T03:20:42.430Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.GreenGaussStokes.rectangleBoundaryIntegral",
+      "SandronesLibrary.Analysis.StokesDomainGluing.PiecewiseSmoothRegion"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/ArgumentPrinciple.lean": {
+    "checkedAt": "2026-11-15T03:20:45.403Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.circleArgumentIntegral"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/CauchyFormula.lean": {
+    "checkedAt": "2026-11-15T03:20:46.226Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.ComplexDifferentiableAtTextbook"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/CauchyRiemann.lean": {
+    "checkedAt": "2026-11-15T03:20:47.060Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.realPartPartialX",
+      "SandronesLibrary.ComplexAnalysis.ComplexDifferentiableAtTextbook"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/Residue.lean": {
+    "checkedAt": "2026-11-15T03:20:48.176Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.circleResidue",
+      "SandronesLibrary.ComplexAnalysis.ComplexDifferentiableAtTextbook"
+    ]
+  },
+  "SandronesLibrary/Examples/SetTheory/Quotients.lean": {
+    "checkedAt": "2026-11-15T03:20:49.548Z",
+    "collisions": [
+      "SandronesLibrary.Examples.SetTheory.Quotients.modFive",
+      "SandronesLibrary.SetTheory.Relations.equivalence_class_eq"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/BanachSeries.lean": {
+    "checkedAt": "2026-11-15T03:20:53.964Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/CompactSpectrum.lean": {
+    "checkedAt": "2026-11-15T03:20:54.844Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.compact_hasEigenvalue_iff_mem_spectrum",
+      "SandronesLibrary.FunctionalAnalysis.finiteDimensional_eigenspace_of_compact",
+      "SandronesLibrary.FunctionalAnalysis.finiteDimensional_genEigenspace_of_compact",
+      "SandronesLibrary.FunctionalAnalysis.finite_spectrum_norm_ge_of_compact"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/DualOperator.lean": {
+    "checkedAt": "2026-11-15T03:21:01.526Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.dualOperator"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/HahnBanach.lean": {
+    "checkedAt": "2026-11-15T03:21:03.163Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.hahnBanach_dominated_extension",
+      "SandronesLibrary.FunctionalAnalysis.hahnBanach_exists_extension_norm_eq"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/HolomorphicNeighborhood.lean": {
+    "checkedAt": "2026-11-15T03:21:03.995Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.HolomorphicOnNhdSpectrum"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/HolomorphicResolventIntegrand.lean": {
+    "checkedAt": "2026-11-15T03:21:06.407Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.resolvent_sub_resolvent_same",
+      "SandronesLibrary.FunctionalAnalysis.resolvent_mul_comm",
+      "SandronesLibrary.FunctionalAnalysis.differentiableOn_resolvent",
+      "SandronesLibrary.FunctionalAnalysis.differentiableAt_resolvent",
+      "SandronesLibrary.FunctionalAnalysis.HolomorphicOnNhdSpectrum"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/Operator.lean": {
+    "checkedAt": "2026-11-15T03:21:10.154Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/TopologicalVectorSpace.lean": {
+    "checkedAt": "2026-11-15T03:21:11.397Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.topologicalVectorSpace_add_continuous",
+      "SandronesLibrary.FunctionalAnalysis.topologicalVectorSpace_neg_continuous",
+      "SandronesLibrary.FunctionalAnalysis.topologicalVectorSpace_smul_continuous"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/UnitaryOperator.lean": {
+    "checkedAt": "2026-11-15T03:21:12.311Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.unitary_inner_map_map",
+      "SandronesLibrary.FunctionalAnalysis.unitary_norm_map",
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace",
+      "SandronesLibrary.FunctionalAnalysis.unitary_trans_apply"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/MatrixDecomposition.lean": {
+    "checkedAt": "2026-11-15T03:21:13.557Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.MatrixDecomposition.LDUFactorization"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/MatrixElimination.lean": {
+    "checkedAt": "2026-11-15T03:21:34.953Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.MatrixElimination.swapRows"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/MatrixQR.lean": {
+    "checkedAt": "2026-11-15T03:21:50.794Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.OrthogonalUnitary.IsUnitaryMatrix",
+      "SandronesLibrary.LinearAlgebra.MatrixDecomposition.QRFactorization"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/MatrixSchur.lean": {
+    "checkedAt": "2026-11-15T03:21:56.894Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.OrthogonalUnitary.IsUnitaryMatrix",
+      "SandronesLibrary.LinearAlgebra.Jordan.generalizedEigenspace",
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace",
+      "SandronesLibrary.LinearAlgebra.MatrixDecomposition.ComplexSchurFactorization",
+      "SandronesLibrary.Analysis.Complex.fundamental_theorem_of_algebra"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Algebraic/AlgebraicInteger.lean": {
+    "checkedAt": "2026-11-15T03:27:37.098Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Algebraic.isIntegral_iff_monic",
+      "SandronesLibrary.NumberTheory.Algebraic.isIntegral_iff_mem_integralClosure",
+      "SandronesLibrary.NumberTheory.Algebraic.algebraMap_isIntegral",
+      "SandronesLibrary.NumberTheory.Algebraic.intCast_isIntegral",
+      "SandronesLibrary.NumberTheory.Algebraic.isIntegral_add",
+      "SandronesLibrary.NumberTheory.Algebraic.isIntegral_mul",
+      "SandronesLibrary.NumberTheory.Algebraic.isIntegral_neg",
+      "SandronesLibrary.NumberTheory.Algebraic.isIntegral_sub",
+      "SandronesLibrary.NumberTheory.Algebraic.int_isIntegrallyClosed",
+      "SandronesLibrary.NumberTheory.Algebraic.isIntegral_rat_iff"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/ContinuedFractions.lean": {
+    "checkedAt": "2026-11-15T03:27:39.824Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.continuedFractionConvergent"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/FermatEuler.lean": {
+    "checkedAt": "2026-11-15T03:27:41.197Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.EulerTotient",
+      "SandronesLibrary.NumberTheory.Elementary.Congruent"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/LinearDiophantine.lean": {
+    "checkedAt": "2026-11-15T03:27:43.127Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.LinearDiophantineSolvable"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/PrimeFactorization.lean": {
+    "checkedAt": "2026-11-15T03:27:43.946Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.primeMultiplicity"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/Primes.lean": {
+    "checkedAt": "2026-11-15T03:27:45.309Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.PassesTrialDivision"
+    ]
+  },
+  "SandronesLibrary/Probability/ConditionalExpectation.lean": {
+    "checkedAt": "2026-11-15T03:27:47.778Z",
+    "collisions": [
+      "SandronesLibrary.Probability.conditionalExpectation_stronglyMeasurable",
+      "SandronesLibrary.Probability.conditionalExpectation_integrable",
+      "SandronesLibrary.Probability.conditionalExpectation_setIntegral",
+      "SandronesLibrary.Probability.conditionalExpectation_ae_eq_self",
+      "SandronesLibrary.Probability.conditionalExpectation_const"
+    ]
+  },
+  "SandronesLibrary/Probability/LevyContinuity.lean": {
+    "checkedAt": "2026-11-15T03:27:49.398Z",
+    "collisions": [
+      "SandronesLibrary.Probability.probabilityMeasure_tendsto_iff_charFun",
+      "SandronesLibrary.Probability.tight_of_charFun_tendsto_continuousAt_zero"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/MeasureDerivativeMutuallySingular.lean": {
+    "checkedAt": "2026-11-15T03:27:49.950Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_iff",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_nullSet_measurable",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_nullSet_measure",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_measure_compl_nullSet",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_comm",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_symm",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_zero_left",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_zero_right",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_self_iff",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_add_left",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_add_right",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_mono",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_withDensity",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_iff_disjoint",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.mutuallySingular_iff_disjoint_ae",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.eq_zero_of_mutuallySingular_of_absolutelyContinuous"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/MonotoneFunction.lean": {
+    "checkedAt": "2026-11-15T03:35:39.413Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.MonotoneFunction.monotone_iff_forall_le",
+      "SandronesLibrary.RealAnalysis.MonotoneFunction.monotoneOn_iff_forall_le",
+      "SandronesLibrary.RealAnalysis.MonotoneFunction.monotone_iff_monotoneOn_univ",
+      "SandronesLibrary.RealAnalysis.MonotoneFunction.leftLim_le_self",
+      "SandronesLibrary.RealAnalysis.MonotoneFunction.self_le_rightLim",
+      "SandronesLibrary.RealAnalysis.MonotoneFunction.leftLim_le_rightLim_self",
+      "SandronesLibrary.RealAnalysis.MonotoneFunction.continuousAt_iff_leftLim_eq_self_and_rightLim_eq_self",
+      "SandronesLibrary.RealAnalysis.MonotoneFunction.countable_not_continuousAt_real",
+      "SandronesLibrary.RealAnalysis.MonotoneFunction.ae_hasDerivAt_volume",
+      "SandronesLibrary.RealAnalysis.MonotoneFunction.stieltjesFunction_measure_isLocallyFinite",
+      "SandronesLibrary.RealAnalysis.MonotoneFunction.leftLim_stieltjesFunction",
+      "SandronesLibrary.RealAnalysis.MonotoneFunction.stieltjesFunction_eq_self",
+      "SandronesLibrary.RealAnalysis.MonotoneFunction.stieltjesFunction_measure_Ioc"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/ProductMeasure.lean": {
+    "checkedAt": "2026-11-15T03:35:47.798Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.ProductMeasure.rectangle_measure",
+      "SandronesLibrary.RealAnalysis.ProductMeasure.tonelli",
+      "SandronesLibrary.RealAnalysis.ProductMeasure.tonelli_swap",
+      "SandronesLibrary.RealAnalysis.ProductMeasure.fubini",
+      "SandronesLibrary.RealAnalysis.ProductMeasure.fubini_swap"
+    ]
+  },
+  "SandronesLibrary/SetTheory/BusyBeaver.lean": {
+    "checkedAt": "2026-11-15T03:35:49.236Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.GoogologyComputability.HeadMove"
+    ]
+  },
+  "SandronesLibrary/SetTheory/Function.lean": {
+    "checkedAt": "2026-11-15T03:35:50.777Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Function.injective_comp",
+      "SandronesLibrary.SetTheory.Function.surjective_comp",
+      "SandronesLibrary.SetTheory.Function.preimage_union",
+      "SandronesLibrary.SetTheory.Function.preimage_inter",
+      "SandronesLibrary.SetTheory.Function.bijective_iff_inverse"
+    ]
+  },
+  "SandronesLibrary/SetTheory/Goodstein.lean": {
+    "checkedAt": "2026-11-15T03:35:52.267Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/Googology.lean": {
+    "checkedAt": "2026-11-15T03:35:55.058Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/GoogologyComputability.lean": {
+    "checkedAt": "2026-11-15T03:35:58.894Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.GoogologyComputability.HeadMove"
+    ]
+  },
+  "SandronesLibrary/SetTheory/Hydra.lean": {
+    "checkedAt": "2026-11-15T03:36:00.115Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Hydra"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HydraCertifiedStrategyTermination.lean": {
+    "checkedAt": "2026-11-15T03:36:03.197Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Hydra"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HydraCertifiedTransitiveDescent.lean": {
+    "checkedAt": "2026-11-15T03:39:09.479Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Hydra"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HydraOneLevelDescent.lean": {
+    "checkedAt": "2026-11-15T03:44:40.727Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Ordinal.orderType_classification",
+      "SandronesLibrary.SetTheory.Hydra"
+    ]
+  },
+  "SandronesLibrary/Statistics/Estimator.lean": {
+    "checkedAt": "2026-11-15T03:44:46.812Z",
+    "collisions": [
+      "SandronesLibrary.Statistics.deterministicEstimator_isMarkov",
+      "SandronesLibrary.Statistics.estimatorOutput_isMarkov",
+      "SandronesLibrary.Statistics.deterministicEstimator_outputDistribution",
+      "SandronesLibrary.Statistics.measurable_loss_section",
+      "SandronesLibrary.Statistics.avgRisk_eq_lintegral_pointwiseRisk",
+      "SandronesLibrary.Statistics.avgRisk_deterministic",
+      "SandronesLibrary.Statistics.bayesRisk_le_estimator_avgRisk",
+      "SandronesLibrary.Statistics.isBayesEstimator_iff"
+    ]
+  },
+  "SandronesLibrary/Topology/Constructions.lean": {
+    "checkedAt": "2026-11-15T03:44:48.986Z",
+    "collisions": [
+      "SandronesLibrary.Topology.isOpen_induced_iff_exists",
+      "SandronesLibrary.Topology.continuous_subtype_iff",
+      "SandronesLibrary.Topology.isOpen_prod_iff_rectangles",
+      "SandronesLibrary.Topology.continuous_prod_mk_iff",
+      "SandronesLibrary.Topology.topologicalSpace_open_axioms"
+    ]
+  },
+  "SandronesLibrary/Topology/CoveringHomotopyLiftStandard.lean": {
+    "checkedAt": "2026-11-15T03:44:52.137Z",
+    "collisions": [
+      "SandronesLibrary.Topology.existsUnique_coveringMap_homotopyLift",
+      "SandronesLibrary.Topology.coveringMapHomotopyLiftEndpoint"
+    ]
+  },
+  "SandronesLibrary/Topology/CoveringLiftingCriterionStandard.lean": {
+    "checkedAt": "2026-11-15T03:44:52.992Z",
+    "collisions": [
+      "SandronesLibrary.Topology.coveringMap_lift_range_le_of_exists"
+    ]
+  },
+  "SandronesLibrary/Topology/CoveringPathLiftStandard.lean": {
+    "checkedAt": "2026-11-15T03:44:53.836Z",
+    "collisions": [
+      "SandronesLibrary.Topology.existsUnique_coveringMap_pathLift",
+      "SandronesLibrary.Topology.coveringMapPathLift"
+    ]
+  },
+  "SandronesLibrary/Topology/FundamentalGroupProductStandard.lean": {
+    "checkedAt": "2026-11-15T03:44:54.694Z",
+    "collisions": [
+      "SandronesLibrary.Topology.fundamentalGroupProdProjections"
+    ]
+  },
+  "SandronesLibrary/Topology/FundamentalGroupTrivialityStandard.lean": {
+    "checkedAt": "2026-11-15T03:44:55.812Z",
+    "collisions": [
+      "SandronesLibrary.Topology.fundamentalGroup_eq_one_of_simplyConnected",
+      "SandronesLibrary.Topology.fundamentalGroup_eq_one_of_contractible",
+      "SandronesLibrary.Topology.loopHomotopyClass_eq_refl_of_simplyConnected",
+      "SandronesLibrary.Topology.fundamentalGroup_eq_one_of_convex"
+    ]
+  },
+  "SandronesLibrary/Topology/IndexedOpenCoverSquareSubdivision.lean": {
+    "checkedAt": "2026-11-15T03:44:57.344Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/Metric.lean": {
+    "checkedAt": "2026-11-15T03:45:01.211Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Metric.metric_dist_comm",
+      "SandronesLibrary.Topology.Metric.metric_dist_triangle",
+      "SandronesLibrary.Topology.Metric.metric_dist_self",
+      "SandronesLibrary.Topology.Metric.metric_dist_eq_zero_iff",
+      "SandronesLibrary.Topology.Metric.metric_dist_nonneg",
+      "SandronesLibrary.Topology.Metric.metric_mem_ball_iff",
+      "SandronesLibrary.Topology.Metric.metric_isOpen_ball",
+      "SandronesLibrary.Topology.Metric.metric_mem_ball_self",
+      "SandronesLibrary.Topology.Metric.metric_ball_subset_ball",
+      "SandronesLibrary.Topology.Metric.metric_uniformContinuous_iff_eps_delta",
+      "SandronesLibrary.Topology.Metric.metric_uniformContinuous_of_continuous",
+      "SandronesLibrary.Topology.Metric.metric_uniformContinuous_id",
+      "SandronesLibrary.Topology.Metric.metric_cauchySeq_iff_eps_N",
+      "SandronesLibrary.Topology.Metric.metric_cauchySeq_tendsto_of_complete",
+      "SandronesLibrary.Topology.Metric.completion_coe_uniformContinuous",
+      "SandronesLibrary.Topology.Metric.completion_coe_injective"
+    ]
+  },
+  "SandronesLibrary/Topology/PathHomotopyQuotientStandard.lean": {
+    "checkedAt": "2026-11-15T03:45:05.590Z",
+    "collisions": [
+      "SandronesLibrary.Topology.nonempty_pathHomotopy_iff_exists_fixed_endpoint_deformation",
+      "SandronesLibrary.Topology.pathHomotopyQuotient_mk_eq_iff_homotopic",
+      "SandronesLibrary.Topology.pathHomotopyQuotient_exists_representative"
+    ]
+  },
+  "SandronesLibrary/Topology/SemilocallySimplyConnectedStandard.lean": {
+    "checkedAt": "2026-11-15T03:45:06.417Z",
+    "collisions": [
+      "SandronesLibrary.Topology.SemilocallySimplyConnectedAt"
+    ]
+  },
+  "SandronesLibrary/Topology/Space.lean": {
+    "checkedAt": "2026-11-15T03:45:07.531Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Space.topo_isOpen_empty",
+      "SandronesLibrary.Topology.Space.topo_isOpen_univ",
+      "SandronesLibrary.Topology.Space.topo_isOpen_inter",
+      "SandronesLibrary.Topology.Space.topo_isOpen_iUnion",
+      "SandronesLibrary.Topology.Space.topo_isClosed_iInter",
+      "SandronesLibrary.Topology.Space.topo_isClosed_union",
+      "SandronesLibrary.Topology.Space.topo_isOpen_iff_isClosed_compl",
+      "SandronesLibrary.Topology.Space.topo_continuous_iff_isOpen_preimage",
+      "SandronesLibrary.Topology.Space.topo_continuous_isOpen_preimage",
+      "SandronesLibrary.Topology.Space.topo_continuous_iff_continuousAt",
+      "SandronesLibrary.Topology.Space.topo_continuous_id",
+      "SandronesLibrary.Topology.Space.topo_continuous_const",
+      "SandronesLibrary.Topology.Space.topo_continuous_comp",
+      "SandronesLibrary.Topology.Space.topo_continuous_tendsto",
+      "SandronesLibrary.Topology.Space.topo_isOpen_mem_nhds",
+      "SandronesLibrary.Topology.Space.homeomorph_continuous",
+      "SandronesLibrary.Topology.Space.homeomorph_invFun_continuous",
+      "SandronesLibrary.Topology.Space.homeomorph_bijective",
+      "SandronesLibrary.Topology.Space.homeomorph_isOpen_image",
+      "SandronesLibrary.Topology.Space.isConnected_image_of_continuous",
+      "SandronesLibrary.Topology.Space.topo_isConnected_Icc",
+      "SandronesLibrary.Topology.Space.topo_isPreconnected_Ioo",
+      "SandronesLibrary.Topology.Space.homeomorph_isConnected_image",
+      "SandronesLibrary.Topology.Space.topo_continuous_subtype_val",
+      "SandronesLibrary.Topology.Space.topo_continuous_restrict",
+      "SandronesLibrary.Topology.Space.topo_continuous_fst",
+      "SandronesLibrary.Topology.Space.topo_continuous_snd",
+      "SandronesLibrary.Topology.Space.topo_isOpen_subtype_iff"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenCommonSharedEdge.lean": {
+    "checkedAt": "2026-11-15T03:45:15.177Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Path.correctedLoop",
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenDualPathPotential.lean": {
+    "checkedAt": "2026-11-15T03:45:34.919Z",
+    "collisions": [
+      "SandronesLibrary.Topology.binaryOpenCoverPiece",
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenFramedGridBoundary.lean": {
+    "checkedAt": "2026-11-15T03:47:41.093Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.twoCellBoundary_glue"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenKernelWord.lean": {
+    "checkedAt": "2026-11-15T03:53:31.132Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.Path.correctedLoop"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenMixedVertexCoherence.lean": {
+    "checkedAt": "2026-11-15T03:55:02.935Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.Path.correctedLoop"
+    ]
+  },
+  "SandronesLibrary/AbstractAlgebra/GroupProduct.lean": {
+    "checkedAt": "2026-11-15T03:39:18.837Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.Group.directProductComm"
+    ]
+  },
+  "SandronesLibrary/AbstractAlgebra/Poly.lean": {
+    "checkedAt": "2026-11-15T03:39:20.259Z",
+    "collisions": [
+      "SandronesLibrary.AbstractAlgebra.Poly.poly_ext",
+      "SandronesLibrary.AbstractAlgebra.Poly.is_root_iff_eval_eq_zero",
+      "SandronesLibrary.AbstractAlgebra.Poly.dvd_X_sub_C_iff_isRoot",
+      "SandronesLibrary.AbstractAlgebra.Poly.poly_is_domain_of_is_domain",
+      "SandronesLibrary.AbstractAlgebra.Poly.poly_isUnit_iff",
+      "SandronesLibrary.AbstractAlgebra.Poly.irreducible_mul_iff",
+      "SandronesLibrary.AbstractAlgebra.Poly.irreducible_X_sub_C",
+      "SandronesLibrary.AbstractAlgebra.Poly.irreducible_X",
+      "SandronesLibrary.AbstractAlgebra.Poly.irreducible_of_degree_eq_one",
+      "SandronesLibrary.AbstractAlgebra.Poly.modByMonic_eq_zero_iff_dvd",
+      "SandronesLibrary.AbstractAlgebra.Poly.degree_modByMonic_lt",
+      "SandronesLibrary.AbstractAlgebra.Poly.mem_roots_iff_isRoot",
+      "SandronesLibrary.AbstractAlgebra.Poly.root_mul_iff",
+      "SandronesLibrary.AbstractAlgebra.Poly.card_roots_le_degree"
+    ]
+  },
+  "SandronesLibrary/Analysis/Completeness.lean": {
+    "checkedAt": "2026-11-15T03:39:24.369Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Completeness.nested_intervals_nonempty",
+      "SandronesLibrary.Analysis.Completeness.finite_cover_principle",
+      "SandronesLibrary.Analysis.Completeness.accumulation_point_of_infinite_bounded",
+      "SandronesLibrary.Analysis.Completeness.SupProperty"
+    ]
+  },
+  "SandronesLibrary/Analysis/FormCoordinateExpression.lean": {
+    "checkedAt": "2026-11-15T03:39:35.501Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.DifferentialForms.FormOrientation"
+    ]
+  },
+  "SandronesLibrary/Analysis/Real.lean": {
+    "checkedAt": "2026-11-15T03:39:40.228Z",
+    "collisions": [
+      "SandronesLibrary.Analysis.Real.archimedean_property",
+      "SandronesLibrary.Analysis.Real.bdd_above_iff",
+      "SandronesLibrary.Analysis.Real.bdd_above_subset",
+      "SandronesLibrary.Analysis.Real.rational_dense",
+      "SandronesLibrary.Analysis.Real.sup_lub",
+      "SandronesLibrary.Analysis.Real.bdd_below_iff",
+      "SandronesLibrary.Analysis.Real.inf_glb",
+      "SandronesLibrary.Analysis.Real.cau_equiv_symm",
+      "SandronesLibrary.Analysis.Real.cau_equiv_trans",
+      "SandronesLibrary.Analysis.Real.real_eq_iff_cau_equiv"
+    ]
+  },
+  "SandronesLibrary/CommutativeAlgebra/Module/Generated.lean": {
+    "checkedAt": "2026-11-15T03:39:43.264Z",
+    "collisions": [
+      "SandronesLibrary.CommutativeAlgebra.Module.subset_span",
+      "SandronesLibrary.CommutativeAlgebra.Module.mem_span_iff",
+      "SandronesLibrary.CommutativeAlgebra.Module.span_le_iff_subset",
+      "SandronesLibrary.CommutativeAlgebra.Module.span_eq_sInf",
+      "SandronesLibrary.CommutativeAlgebra.Module.span_induction",
+      "SandronesLibrary.CommutativeAlgebra.Module.span_eq_of_submodule",
+      "SandronesLibrary.CommutativeAlgebra.Module.span_empty",
+      "SandronesLibrary.CommutativeAlgebra.Module.mem_span_singleton_iff",
+      "SandronesLibrary.CommutativeAlgebra.Module.map_span"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/BanachPathIntegral.lean": {
+    "checkedAt": "2026-11-15T03:39:47.151Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.banachOneForm",
+      "SandronesLibrary.ComplexAnalysis.scalarOneForm"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/Elementary.lean": {
+    "checkedAt": "2026-11-15T03:39:50.887Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.ComplexDifferentiableAtTextbook",
+      "SandronesLibrary.ComplexAnalysis.localLogDomain"
+    ]
+  },
+  "SandronesLibrary/ComplexAnalysis/PowerSeries.lean": {
+    "checkedAt": "2026-11-15T03:39:53.716Z",
+    "collisions": [
+      "SandronesLibrary.ComplexAnalysis.complexPowerSeries",
+      "SandronesLibrary.ComplexAnalysis.ComplexDifferentiableAtTextbook"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/BidualReflexive.lean": {
+    "checkedAt": "2026-11-15T03:39:54.857Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.bidual_evaluation",
+      "SandronesLibrary.FunctionalAnalysis.norm_bidual_evaluation",
+      "SandronesLibrary.FunctionalAnalysis.bidual_evaluation_injective"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/ClosedRangeDuality.lean": {
+    "checkedAt": "2026-11-15T03:40:17.355Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.hahnBanach_dominated_extension",
+      "SandronesLibrary.FunctionalAnalysis.separate_open_convex_neighborhood"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/CompactOperator.lean": {
+    "checkedAt": "2026-11-15T03:41:42.671Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.compactOperator_iff_isCompact_closure_image_unitBall",
+      "SandronesLibrary.FunctionalAnalysis.zero_isCompactOperator",
+      "SandronesLibrary.FunctionalAnalysis.isCompactOperator_of_finiteDimensional_codomain",
+      "SandronesLibrary.FunctionalAnalysis.isCompactOperator_of_finiteDimensional_domain",
+      "SandronesLibrary.FunctionalAnalysis.identity_isCompactOperator_iff_finiteDimensional"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/CompactOperatorComposition.lean": {
+    "checkedAt": "2026-11-15T03:41:44.272Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.IsCompactOperator.comp_right",
+      "SandronesLibrary.FunctionalAnalysis.IsCompactOperator.comp_left",
+      "SandronesLibrary.FunctionalAnalysis.IsCompactOperator.add_clm",
+      "SandronesLibrary.FunctionalAnalysis.isCompactOperator_of_operatorNorm_tendsto"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/Condensation.lean": {
+    "checkedAt": "2026-11-15T03:41:45.596Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.unbounded_on_tail_of_unbounded",
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/ConvexSeparation.lean": {
+    "checkedAt": "2026-11-15T03:41:48.093Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.separate_open_convex_neighborhood",
+      "SandronesLibrary.FunctionalAnalysis.separate_disjoint_open_convex",
+      "SandronesLibrary.FunctionalAnalysis.separate_closed_convex_point",
+      "SandronesLibrary.FunctionalAnalysis.closedConvex_eq_iInter_halfSpaces"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/FredholmCompactPerturbation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-15T03:52:09.492Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.compactOperator_iff_isCompact_closure_image_unitBall"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/FredholmComposition.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-15T03:52:56.375Z"
+  },
+  "SandronesLibrary/FunctionalAnalysis/MeanErgodicDecomposition.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-15T03:52:59.605Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.dualOperator",
+      "SandronesLibrary.FunctionalAnalysis.separate_open_convex_neighborhood"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/NormingFunctional.lean": {
+    "checkedAt": "2026-11-15T03:55:06.214Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.exists_norming_functional",
+      "SandronesLibrary.FunctionalAnalysis.exists_contracting_norming_functional",
+      "SandronesLibrary.FunctionalAnalysis.norm_dual_apply_le_norm"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/QuotientSpace.lean": {
+    "checkedAt": "2026-11-15T03:55:07.761Z",
+    "collisions": [
+      "SandronesLibrary.Topology.NormedSpace.NormedLinearSpace"
+    ]
+  },
+  "SandronesLibrary/FunctionalAnalysis/ReflexiveExamples.lean": {
+    "checkedAt": "2026-11-15T03:55:09.340Z",
+    "collisions": [
+      "SandronesLibrary.FunctionalAnalysis.finiteDimensional_reflexive",
+      "SandronesLibrary.FunctionalAnalysis.realHilbert_reflexive"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/Eigenvalue.lean": {
+    "checkedAt": "2026-11-15T03:55:09.954Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace",
+      "SandronesLibrary.LinearAlgebra.Eigenvalue.eigenspace"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/Matrix.lean": {
+    "checkedAt": "2026-11-15T03:55:15.893Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.Matrix.IsSymmetric"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/MatrixCholesky.lean": {
+    "checkedAt": "2026-11-15T03:55:18.409Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.MatrixDecomposition.CholeskyFactorization",
+      "SandronesLibrary.LinearAlgebra.MatrixDecomposition.QRFactorization",
+      "SandronesLibrary.LinearAlgebra.OrthogonalUnitary.IsUnitaryMatrix"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/MatrixPseudoinverse.lean": {
+    "checkedAt": "2026-11-15T03:55:22.530Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.MatrixDecomposition.operatorNorm",
+      "SandronesLibrary.LinearAlgebra.MatrixDecomposition.pseudoinverseWith"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/TensorExterior.lean": {
+    "checkedAt": "2026-11-15T03:55:35.662Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace"
+    ]
+  },
+  "SandronesLibrary/LinearAlgebra/VectorSpace.lean": {
+    "checkedAt": "2026-11-15T03:55:50.192Z",
+    "collisions": [
+      "SandronesLibrary.LinearAlgebra.VectorSpace.LinearSpace"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Algebraic/NumberField.lean": {
+    "checkedAt": "2026-11-15T03:55:51.908Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Algebraic.numberField_iff",
+      "SandronesLibrary.NumberTheory.Algebraic.numberField_finiteDimensional",
+      "SandronesLibrary.NumberTheory.Algebraic.numberField_isAlgebraic",
+      "SandronesLibrary.NumberTheory.Algebraic.numberField_of_module_finite",
+      "SandronesLibrary.NumberTheory.Algebraic.numberField_of_subfield",
+      "SandronesLibrary.NumberTheory.Algebraic.numberField_exists_primitive_element"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/Divisibility.lean": {
+    "checkedAt": "2026-11-15T03:55:53.558Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.euclidean_division",
+      "SandronesLibrary.NumberTheory.Elementary.dvd_gcd_iff",
+      "SandronesLibrary.NumberTheory.Elementary.bezout_identity",
+      "SandronesLibrary.NumberTheory.Elementary.prime_dvd_mul_iff",
+      "SandronesLibrary.NumberTheory.Elementary.exists_prime_dvd_of_one_lt"
+    ]
+  },
+  "SandronesLibrary/NumberTheory/Elementary/PellCFBridge.lean": {
+    "checkedAt": "2026-11-15T03:55:55.249Z",
+    "collisions": [
+      "SandronesLibrary.NumberTheory.Elementary.continuedFractionConvergent"
+    ]
+  },
+  "SandronesLibrary/Probability/ConditionalExpectationTower.lean": {
+    "checkedAt": "2026-11-15T03:55:59.086Z",
+    "collisions": [
+      "SandronesLibrary.Probability.conditionalExpectation_tower"
+    ]
+  },
+  "SandronesLibrary/Probability/Moments.lean": {
+    "checkedAt": "2026-11-15T03:55:59.369Z",
+    "collisions": [
+      "SandronesLibrary.Probability.variance_eq_secondMoment_sub_expectation_sq",
+      "SandronesLibrary.Probability.covariance_eq_productExpectation_sub",
+      "SandronesLibrary.Probability.variance_nonnegative",
+      "SandronesLibrary.Probability.evariance_lt_top_iff_memLp_two",
+      "SandronesLibrary.Probability.variance_eq_zero_of_not_memLp_two"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/Measure.lean": {
+    "checkedAt": "2026-11-15T03:56:31.998Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.Measure.meas_measurable_empty",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measurable_univ",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measurable_compl",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measurable_iUnion",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measurable_inter",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measurable_union",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measure_empty",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measure_sUnion",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measure_mono",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measure_union",
+      "SandronesLibrary.RealAnalysis.Measure.meas_outer_measure_iUnion_le",
+      "SandronesLibrary.RealAnalysis.Measure.meas_caratheodory_iff",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measurable_id",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measurable_const",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measurable_comp",
+      "SandronesLibrary.RealAnalysis.Measure.meas_lintegral_const",
+      "SandronesLibrary.RealAnalysis.Measure.meas_lintegral_mono",
+      "SandronesLibrary.RealAnalysis.Measure.meas_lintegral_eq_zero_iff",
+      "SandronesLibrary.RealAnalysis.Measure.meas_lintegral_iSup",
+      "SandronesLibrary.RealAnalysis.Measure.meas_lintegral_liminf_le",
+      "SandronesLibrary.RealAnalysis.Measure.meas_tendsto_lintegral_of_dominated",
+      "SandronesLibrary.RealAnalysis.Measure.meas_volume_Icc",
+      "SandronesLibrary.RealAnalysis.Measure.meas_volume_Ioo",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measurable_Icc",
+      "SandronesLibrary.RealAnalysis.Measure.meas_measurable_Ioo"
+    ]
+  },
+  "SandronesLibrary/RealAnalysis/MeasureDerivativeAbsoluteContinuity.lean": {
+    "checkedAt": "2026-11-15T03:56:38.899Z",
+    "collisions": [
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_iff",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_iff_measurable",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_of_le",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_of_eq",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_refl",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_zero",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_trans",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_add",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_add_left",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_add_right",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_zero_iff",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_iff_ae_le",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_ae_eq",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_null_mono",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.absolutelyContinuous_pos_mono",
+      "SandronesLibrary.RealAnalysis.MeasureDerivative.withDensity_absolutelyContinuous"
+    ]
+  },
+  "SandronesLibrary/SetTheory/BusyBeaverTime.lean": {
+    "checkedAt": "2026-11-15T03:56:46.086Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.GoogologyComputability.HeadMove"
+    ]
+  },
+  "SandronesLibrary/SetTheory/CanonicalGoodsteinState.lean": {
+    "checkedAt": "2026-11-15T03:56:50.459Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/CardinalTheory.lean": {
+    "checkedAt": "2026-11-15T03:56:53.813Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.CardinalTheory.Equinumerous"
+    ]
+  },
+  "SandronesLibrary/SetTheory/ComputabilityDiagonal.lean": {
+    "checkedAt": "2026-11-15T03:57:01.011Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.ComputabilityDiagonal.PairingCode",
+      "SandronesLibrary.SetTheory.GoogologyComputability.HeadMove"
+    ]
+  },
+  "SandronesLibrary/SetTheory/ConwayRecursion.lean": {
+    "checkedAt": "2026-11-15T03:57:03.039Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.ConwayRecursion.ConwayArrowTerm"
+    ]
+  },
+  "SandronesLibrary/SetTheory/GoodsteinHereditaryExponentBorrow.lean": {
+    "checkedAt": "2026-11-15T03:57:05.391Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HereditaryNatEncoding.lean": {
+    "checkedAt": "2026-11-15T03:57:10.974Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/HereditaryNatPowerRank.lean": {
+    "checkedAt": "2026-11-15T03:57:15.389Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Ordinal.orderType_classification",
+      "SandronesLibrary.SetTheory.Googology.primitiveRecursion"
+    ]
+  },
+  "SandronesLibrary/SetTheory/Relations.lean": {
+    "checkedAt": "2026-11-15T03:57:23.596Z",
+    "collisions": [
+      "SandronesLibrary.SetTheory.Relations.equivalence_class_eq",
+      "SandronesLibrary.SetTheory.Relations.quotient_surjective"
+    ]
+  },
+  "SandronesLibrary/Statistics/MethodOfMoments.lean": {
+    "checkedAt": "2026-11-15T03:57:24.191Z",
+    "collisions": [
+      "SandronesLibrary.Statistics.momentMap",
+      "SandronesLibrary.Statistics.statisticalModel_measurable",
+      "SandronesLibrary.Statistics.deterministicEstimator_isMarkov"
+    ]
+  },
+  "SandronesLibrary/Topology/Closure.lean": {
+    "checkedAt": "2026-11-15T03:57:27.542Z",
+    "collisions": [
+      "SandronesLibrary.Topology.Closure.interior_eq_sUnion_open_subsets",
+      "SandronesLibrary.Topology.Closure.isOpen_interior'",
+      "SandronesLibrary.Topology.Closure.interior_subset_self",
+      "SandronesLibrary.Topology.Closure.subset_interior_of_isOpen",
+      "SandronesLibrary.Topology.Closure.mem_interior_iff_open_neighborhood",
+      "SandronesLibrary.Topology.Closure.interior_eq_self_iff_isOpen",
+      "SandronesLibrary.Topology.Closure.interior_mono'",
+      "SandronesLibrary.Topology.Closure.closure_eq_sInter_closed_supersets",
+      "SandronesLibrary.Topology.Closure.subset_closure_self",
+      "SandronesLibrary.Topology.Closure.isClosed_closure'",
+      "SandronesLibrary.Topology.Closure.closure_subset_of_isClosed",
+      "SandronesLibrary.Topology.Closure.closure_eq_self_iff_isClosed",
+      "SandronesLibrary.Topology.Closure.closure_mono'",
+      "SandronesLibrary.Topology.Closure.closure_union'",
+      "SandronesLibrary.Topology.Closure.mem_closure_iff_open_neighborhood_meets",
+      "SandronesLibrary.Topology.Closure.closure_eq_compl_interior_compl'",
+      "SandronesLibrary.Topology.Closure.interior_compl'",
+      "SandronesLibrary.Topology.Closure.frontier_eq_closure_sdiff_interior",
+      "SandronesLibrary.Topology.Closure.frontier_eq_two_closures",
+      "SandronesLibrary.Topology.Closure.isClosed_frontier'",
+      "SandronesLibrary.Topology.Closure.frontier_compl'",
+      "SandronesLibrary.Topology.Closure.closure_eq_interior_union_frontier'",
+      "SandronesLibrary.Topology.Closure.closure_eq_self_union_frontier'"
+    ]
+  },
+  "SandronesLibrary/Topology/FundamentalGroupCarrierStandard.lean": {
+    "checkedAt": "2026-11-15T03:57:34.858Z",
+    "collisions": [
+      "SandronesLibrary.Topology.fundamentalGroupoid_equiv_mk_apply",
+      "SandronesLibrary.Topology.fundamentalGroupoid_hom_eq_pathHomotopyQuotient",
+      "SandronesLibrary.Topology.fundamentalGroup_eq_loopHomotopyQuotient",
+      "SandronesLibrary.Topology.fundamentalGroup_toPath_fromPath",
+      "SandronesLibrary.Topology.fundamentalGroup_fromPath_toPath"
+    ]
+  },
+  "SandronesLibrary/Topology/FundamentalGroupOperationsStandard.lean": {
+    "checkedAt": "2026-11-15T03:57:36.266Z",
+    "collisions": [
+      "SandronesLibrary.Topology.fundamentalGroup_one_toPath",
+      "SandronesLibrary.Topology.fundamentalGroup_mul_toPath",
+      "SandronesLibrary.Topology.fundamentalGroup_inv_toPath",
+      "SandronesLibrary.Topology.fundamentalGroup_mk_mul_mk"
+    ]
+  },
+  "SandronesLibrary/Topology/MathlibCompatibility.lean": {
+    "checkedAt": "2026-11-15T03:57:37.420Z",
+    "collisions": [
+      "SandronesLibrary.Topology.topologicalSpace_open_axioms"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenResidualGauge.lean": {
+    "checkedAt": "2026-11-15T03:58:28.568Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.connectorChange",
+      "SandronesLibrary.Topology.twoCellBoundary_glue"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenRightAnchoredGrid.lean": {
+    "checkedAt": "2026-11-15T04:13:02.437Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint"
+    ]
+  },
+  "SandronesLibrary/Topology/VanKampenSwitchSharedEdge.lean": {
+    "checkedAt": "2026-11-15T04:19:32.905Z",
+    "collisions": [
+      "SandronesLibrary.Topology.unitIntervalMeshPoint",
+      "SandronesLibrary.Topology.pathCodRestrict",
+      "SandronesLibrary.Topology.binaryOpenCoverPiece",
+      "SandronesLibrary.Topology.Path.correctedLoop",
+      "SandronesLibrary.Topology.BinaryOpenCoverSquareSubdivision.horizontalSwitchEdgeInIntersection"
+    ]
+  }
+}
