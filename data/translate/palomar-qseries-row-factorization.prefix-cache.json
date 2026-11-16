@@ -127,5 +127,42 @@
       "QseriesFormalization.Ch10.paper2ThetaResidue",
       "QseriesFormalization.Ch10.zwegersGaussian"
     ]
+  },
+  "QseriesFormalization/Basic.lean": {
+    "checkedAt": "2026-11-16T06:26:24.315Z",
+    "collisions": [
+      "QseriesFormalization.IsPartition"
+    ]
+  },
+  "QseriesFormalization/Ch10_NormTheta_Defs.lean": {
+    "checkedAt": "2026-11-16T06:26:35.026Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.PhiInt"
+    ]
+  },
+  "QseriesFormalization/Ch10_Paper2_ConeCoeff.lean": {
+    "checkedAt": "2026-11-16T06:26:40.905Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.PhiInt",
+      "QseriesFormalization.Ch10.paper2ConeTerm"
+    ]
+  },
+  "QseriesFormalization/Ch10_Paper2_EvenCompression.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-16T09:57:00.023Z"
+  },
+  "QseriesFormalization/Ch10_Paper2_LaurentFactorization.lean": {
+    "checkedAt": "2026-11-16T10:00:03.786Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.Hq",
+      "QseriesFormalization.Ch10.PhiInt"
+    ]
+  },
+  "QseriesFormalization/Chapter04_FranklinPentagonal.lean": {
+    "checkedAt": "2026-11-16T10:37:24.879Z",
+    "collisions": [
+      "QseriesFormalization.PartI.Ch04Franklin.AdmissibleState",
+      "QseriesFormalization.IsPartition"
+    ]
   }
 }
