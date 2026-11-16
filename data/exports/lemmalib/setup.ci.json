@@ -1,0 +1,37 @@
+{
+  "key": "lemmalib",
+  "repo": "https://github.com/hara-seihun/LemmaLib",
+  "commit": "086d764fa1659ef261aa442bb12ff3c90ae8aa2a",
+  "toolchain": "leanprover/lean4:v4.33.0",
+  "roots": [
+    "LemmaLib",
+    "LemmaLibTest"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/lemmalib/repo",
+  "entries": 543,
+  "modules": 33,
+  "exported": 33,
+  "failed": [],
+  "expansion": {
+    "expanded": 121,
+    "verbatim": 182,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 543,
+    "kept": 543,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 6,
+    "lineUnverified": 0,
+    "nameFixed": 536,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 5132288,
+  "minutes": 4,
+  "finishedAt": "2026-11-16T23:13:19.596Z"
+}
