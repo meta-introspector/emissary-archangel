@@ -1,0 +1,45 @@
+{
+  "key": "zanello-lc",
+  "repo": "https://github.com/tigerisaac/zanello-lc",
+  "commit": "17b73a42d30fd5e1c39d2646b8598b1ffeca83ce",
+  "toolchain": "leanprover/lean4:v4.31.0",
+  "roots": [
+    "BettiThree",
+    "FormalDeps",
+    "GradedResolution",
+    "InverseSystem",
+    "Koszul",
+    "KoszulHomology",
+    "LogConcavity",
+    "ModuloStanley",
+    "Statement",
+    "Witness"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/zanello-lc/repo",
+  "entries": 128,
+  "modules": 13,
+  "exported": 13,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 697,
+    "kept": 128,
+    "skippedRoot": 569,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 0,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 6602752,
+  "minutes": 3,
+  "finishedAt": "2026-11-16T23:02:22.474Z"
+}
