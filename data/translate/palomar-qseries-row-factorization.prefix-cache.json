@@ -164,5 +164,51 @@
       "QseriesFormalization.PartI.Ch04Franklin.AdmissibleState",
       "QseriesFormalization.IsPartition"
     ]
+  },
+  "QseriesFormalization/Ch10_MockModular_OddTheta.lean": {
+    "checkedAt": "2026-11-16T12:28:27.354Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.thetaInvol",
+      "QseriesFormalization.Ch10.PhiInt"
+    ]
+  },
+  "QseriesFormalization/Ch10_MockModular_Pell.lean": {
+    "checkedAt": "2026-11-16T12:28:29.805Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.ZVec"
+    ]
+  },
+  "QseriesFormalization/Ch10_MockModular_SlabIndicator.lean": {
+    "checkedAt": "2026-11-16T12:28:35.994Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.sgnZ",
+      "QseriesFormalization.Ch10.ZVec"
+    ]
+  },
+  "QseriesFormalization/Ch10_Paper2_CompletedTheta.lean": {
+    "checkedAt": "2026-11-16T12:28:37.261Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.paper2ThetaResidue",
+      "QseriesFormalization.Ch10.zwegersGaussian"
+    ]
+  },
+  "QseriesFormalization/Ch10_Paper2_EllipticLaws.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-16T13:08:54.860Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.zwegersGaussian"
+    ]
+  },
+  "QseriesFormalization/Ch10_Paper2_ErrorKernel.lean": {
+    "checkedAt": "2026-11-16T13:44:16.209Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.zwegersGaussian"
+    ]
+  },
+  "QseriesFormalization/Ch10_Paper2_UnaryTheta.lean": {
+    "checkedAt": "2026-11-16T13:44:25.634Z",
+    "collisions": [
+      "QseriesFormalization.Ch10.paper2ThetaResidue"
+    ]
   }
 }
