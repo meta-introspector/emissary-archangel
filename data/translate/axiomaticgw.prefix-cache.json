@@ -1,0 +1,274 @@
+{
+  "AxiomaticGW/Coefficients/DescendantVariables.lean": {
+    "checkedAt": "2026-11-17T09:38:40.921Z",
+    "collisions": [
+      "AxiomaticGW.DescendantVariable",
+      "AxiomaticGW.EffectiveCurveMonoid"
+    ]
+  },
+  "AxiomaticGW/Coefficients/EffectiveCurveClass.lean": {
+    "checkedAt": "2026-11-17T09:38:50.787Z",
+    "collisions": [
+      "AxiomaticGW.EffectiveCurveMonoid"
+    ]
+  },
+  "AxiomaticGW/Coefficients/Novikov.lean": {
+    "checkedAt": "2026-11-17T09:38:52.038Z",
+    "collisions": [
+      "AxiomaticGW.EffectiveCurveMonoid"
+    ]
+  },
+  "AxiomaticGW/CohFT/Ancestors.lean": {
+    "checkedAt": "2026-11-17T09:39:06.006Z",
+    "collisions": [
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/CohFT/Classification.lean": {
+    "checkedAt": "2026-11-17T09:39:21.595Z",
+    "collisions": [
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/CohFT/Constant.lean": {
+    "checkedAt": "2026-11-17T09:39:51.758Z",
+    "collisions": [
+      "AxiomaticGW.StableArity",
+      "AxiomaticGW.SymmetricPerfectPairing"
+    ]
+  },
+  "AxiomaticGW/CohFT/StableCurve.lean": {
+    "checkedAt": "2026-11-17T09:39:55.727Z",
+    "collisions": [
+      "AxiomaticGW.EvenGradedAlgebra",
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/CohFT/Tautological.lean": {
+    "checkedAt": "2026-11-17T09:39:56.415Z",
+    "collisions": [
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/CohFT/TopologicalPart.lean": {
+    "checkedAt": "2026-11-17T09:39:59.743Z",
+    "collisions": [
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/Combinatorics/StableGraph.lean": {
+    "checkedAt": "2026-11-17T09:40:00.035Z",
+    "collisions": [
+      "AxiomaticGW.StableGraph",
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/Frobenius/Examples.lean": {
+    "checkedAt": "2026-11-17T09:40:03.012Z",
+    "collisions": [
+      "AxiomaticGW.tracePairing",
+      "AxiomaticGW.SymmetricPerfectPairing",
+      "AxiomaticGW.CommFrobeniusAlgebra.baseRing"
+    ]
+  },
+  "AxiomaticGW/GW/BigQuantumProduct.lean": {
+    "checkedAt": "2026-11-17T09:40:08.294Z",
+    "collisions": [
+      "AxiomaticGW.StableArity",
+      "AxiomaticGW.EffectiveCurveMonoid"
+    ]
+  },
+  "AxiomaticGW/GW/Constant.lean": {
+    "checkedAt": "2026-11-17T09:46:07.360Z",
+    "collisions": [
+      "AxiomaticGW.EffectiveCurveMonoid.atZero",
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/GW/Descendants/Comparison.lean": {
+    "checkedAt": "2026-11-17T09:46:13.561Z",
+    "collisions": [
+      "AxiomaticGW.EffectiveCurveMonoid"
+    ]
+  },
+  "AxiomaticGW/GW/Descendants/FullPotential.lean": {
+    "checkedAt": "2026-11-17T09:46:22.079Z",
+    "collisions": [
+      "AxiomaticGW.EffectiveCurveMonoid"
+    ]
+  },
+  "AxiomaticGW/GW/Descendants/Potentials.lean": {
+    "checkedAt": "2026-11-17T09:46:35.159Z",
+    "collisions": [
+      "AxiomaticGW.EffectiveCurveMonoid"
+    ]
+  },
+  "AxiomaticGW/GW/Descendants/Stabilization.lean": {
+    "checkedAt": "2026-11-17T09:46:55.264Z",
+    "collisions": [
+      "AxiomaticGW.EffectiveCurveMonoid"
+    ]
+  },
+  "AxiomaticGW/Linear/PerfectPairing.lean": {
+    "checkedAt": "2026-11-17T09:47:19.144Z",
+    "collisions": [
+      "AxiomaticGW.SymmetricPerfectPairing"
+    ]
+  },
+  "AxiomaticGW/TFT/Basic.lean": {
+    "checkedAt": "2026-11-17T09:47:20.696Z",
+    "collisions": [
+      "AxiomaticGW.SymmetricPerfectPairing"
+    ]
+  },
+  "AxiomaticGW/TFT/Classification.lean": {
+    "checkedAt": "2026-11-17T09:47:21.542Z",
+    "collisions": [
+      "AxiomaticGW.SymmetricPerfectPairing"
+    ]
+  },
+  "AxiomaticGW/TFT/FiniteProduct.lean": {
+    "checkedAt": "2026-11-17T09:47:30.431Z",
+    "collisions": [
+      "AxiomaticGW.TFT.mkPiAlgebra_domDomCongr"
+    ]
+  },
+  "AxiomaticGW/Tautological/DecoratedStableGraph.lean": {
+    "checkedAt": "2026-11-17T09:47:30.812Z",
+    "collisions": [
+      "AxiomaticGW.StableGraph",
+      "AxiomaticGW.StableGraphCode"
+    ]
+  },
+  "AxiomaticGW/Tautological/LowGenus.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T10:00:28.031Z",
+    "collisions": [
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/Coefficients/GenusExpansion.lean": {
+    "checkedAt": "2026-11-17T10:35:51.918Z",
+    "collisions": [
+      "AxiomaticGW.GenusPotential",
+      "AxiomaticGW.EffectiveCurveMonoid"
+    ]
+  },
+  "AxiomaticGW/CohFT/Frobenius.lean": {
+    "checkedAt": "2026-11-17T10:35:58.958Z",
+    "collisions": [
+      "AxiomaticGW.SymmetricPerfectPairing",
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/Combinatorics/StableArity.lean": {
+    "checkedAt": "2026-11-17T10:53:23.926Z",
+    "collisions": [
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/Frobenius/Basic.lean": {
+    "checkedAt": "2026-11-17T10:53:27.434Z",
+    "collisions": [
+      "AxiomaticGW.tracePairing",
+      "AxiomaticGW.SymmetricPerfectPairing"
+    ]
+  },
+  "AxiomaticGW/Frobenius/Coalgebra.lean": {
+    "checkedAt": "2026-11-17T10:53:29.389Z",
+    "collisions": [
+      "AxiomaticGW.SymmetricPerfectPairing",
+      "AxiomaticGW.CommFrobeniusAlgebra.comul"
+    ]
+  },
+  "AxiomaticGW/Frobenius/Constructions.lean": {
+    "checkedAt": "2026-11-17T10:53:46.976Z",
+    "collisions": [
+      "AxiomaticGW.tracePairing",
+      "AxiomaticGW.SymmetricPerfectPairing"
+    ]
+  },
+  "AxiomaticGW/GW/Descendants/Basic.lean": {
+    "checkedAt": "2026-11-17T10:53:51.878Z",
+    "collisions": [
+      "AxiomaticGW.EffectiveCurveMonoid"
+    ]
+  },
+  "AxiomaticGW/GW/SmallQuantumProduct.lean": {
+    "checkedAt": "2026-11-17T10:54:07.976Z",
+    "collisions": [
+      "AxiomaticGW.EffectiveCurveMonoid"
+    ]
+  },
+  "AxiomaticGW/Linear/Contraction.lean": {
+    "checkedAt": "2026-11-17T10:56:21.545Z",
+    "collisions": [
+      "AxiomaticGW.SymmetricPerfectPairing.finTwoToBilin",
+      "AxiomaticGW.SymmetricPerfectPairing"
+    ]
+  },
+  "AxiomaticGW/Linear/Copairing.lean": {
+    "checkedAt": "2026-11-17T10:56:35.362Z",
+    "collisions": [
+      "AxiomaticGW.SymmetricPerfectPairing"
+    ]
+  },
+  "AxiomaticGW/PointTarget/Descendants.lean": {
+    "checkedAt": "2026-11-17T10:56:38.147Z",
+    "collisions": [
+      "AxiomaticGW.SymmetricPerfectPairing",
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/TFT/Correlator.lean": {
+    "checkedAt": "2026-11-17T10:56:44.584Z",
+    "collisions": [
+      "AxiomaticGW.SymmetricPerfectPairing"
+    ]
+  },
+  "AxiomaticGW/TFT/Examples.lean": {
+    "checkedAt": "2026-11-17T10:56:49.033Z",
+    "collisions": [
+      "AxiomaticGW.SymmetricPerfectPairing"
+    ]
+  },
+  "AxiomaticGW/TFT/Sewing.lean": {
+    "checkedAt": "2026-11-17T10:56:52.305Z",
+    "collisions": [
+      "AxiomaticGW.SymmetricPerfectPairing"
+    ]
+  },
+  "AxiomaticGW/Tautological/BasicStrata.lean": {
+    "checkedAt": "2026-11-17T10:56:58.087Z",
+    "collisions": [
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/Tautological/Getzler.lean": {
+    "checkedAt": "2026-11-17T10:57:01.143Z",
+    "collisions": [
+      "AxiomaticGW.GetzlerStratum",
+      "AxiomaticGW.StableGraphCode",
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/Tautological/StrataAlgebra.lean": {
+    "checkedAt": "2026-11-17T10:57:07.724Z",
+    "collisions": [
+      "AxiomaticGW.StableGraphCode"
+    ]
+  },
+  "AxiomaticGW/Tautological/StrataModule.lean": {
+    "checkedAt": "2026-11-17T10:57:10.214Z",
+    "collisions": [
+      "AxiomaticGW.StableGraphCode",
+      "AxiomaticGW.StableArity"
+    ]
+  },
+  "AxiomaticGW/Tautological/StrataRealization.lean": {
+    "checkedAt": "2026-11-17T10:57:12.078Z",
+    "collisions": [
+      "AxiomaticGW.StableArity"
+    ]
+  }
+}
