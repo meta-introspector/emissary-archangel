@@ -1,0 +1,69 @@
+{
+  "XiLab/GammaBounds.lean": {
+    "checkedAt": "2026-11-17T11:34:49.443Z",
+    "collisions": [
+      "XiLab.self_div_add_one_le_log_add_one"
+    ]
+  },
+  "XiLab/HolomorphicLog.lean": {
+    "checkedAt": "2026-11-17T11:34:53.246Z",
+    "collisions": [
+      "XiLab.differentiable_logDeriv",
+      "XiLab.exists_entire_primitive",
+      "XiLab.const_mul_exp_neg_primitive"
+    ]
+  },
+  "XiLab/OrderOne.lean": {
+    "checkedAt": "2026-11-17T11:34:55.445Z",
+    "collisions": [
+      "XiLab.norm_le_linear_of_re_le_linear",
+      "XiLab.norm_deriv_le_of_linear_growth",
+      "XiLab.exists_entire_div_of_zero"
+    ]
+  },
+  "XiLab/OrderOneGen.lean": {
+    "checkedAt": "2026-11-17T11:34:56.846Z",
+    "collisions": [
+      "XiLab.phi32",
+      "XiLab.HasOrderLeOne"
+    ]
+  },
+  "XiLab/Csordas.lean": {
+    "checkedAt": "2026-11-17T11:39:58.270Z",
+    "collisions": [
+      "XiLab.Eterm"
+    ]
+  },
+  "XiLab/Evenness.lean": {
+    "checkedAt": "2026-11-17T11:40:20.211Z",
+    "collisions": [
+      "XiLab.thTerm"
+    ]
+  },
+  "XiLab/FGrowth.lean": {
+    "checkedAt": "2026-11-17T11:40:27.238Z",
+    "collisions": [
+      "XiLab.exp_envelope_sharp",
+      "XiLab.mul_log_le_rpow",
+      "XiLab.rpow_add_const_le"
+    ]
+  },
+  "XiLab/Kernel.lean": {
+    "checkedAt": "2026-11-17T11:40:28.385Z",
+    "collisions": [
+      "XiLab.phiTerm"
+    ]
+  },
+  "XiLab/Wintner.lean": {
+    "checkedAt": "2026-11-17T11:40:39.702Z",
+    "collisions": [
+      "XiLab.phiTerm'"
+    ]
+  },
+  "XiLab/Zeros.lean": {
+    "checkedAt": "2026-11-17T11:40:46.187Z",
+    "collisions": [
+      "XiLab.norm_eval_le_pow"
+    ]
+  }
+}
