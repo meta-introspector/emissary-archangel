@@ -1,0 +1,198 @@
+{
+  "FactorialHypergraph/A2Assembly.lean": {
+    "checkedAt": "2026-11-17T22:45:31.414Z",
+    "collisions": [
+      "FactorialHypergraph.V"
+    ]
+  },
+  "FactorialHypergraph/A3Apply.lean": {
+    "checkedAt": "2026-11-17T22:45:31.926Z",
+    "collisions": [
+      "FactorialHypergraph.V",
+      "FactorialHypergraph.card_filter_comp_eq_sum",
+      "FactorialHypergraph.dimension_condition",
+      "FactorialHypergraph.div_log_le_aux",
+      "FactorialHypergraph.combine_terms_aux"
+    ]
+  },
+  "FactorialHypergraph/A3Euler.lean": {
+    "checkedAt": "2026-11-17T22:45:33.707Z",
+    "collisions": [
+      "FactorialHypergraph.sum_smooth_le_prod",
+      "FactorialHypergraph.sum_inv_sq_Icc_le",
+      "FactorialHypergraph.sum_inv_sqrt_le",
+      "FactorialHypergraph.sum_inv_le_one_add_log"
+    ]
+  },
+  "FactorialHypergraph/A3Local.lean": {
+    "checkedAt": "2026-11-17T22:45:35.521Z",
+    "collisions": [
+      "FactorialHypergraph.Tset",
+      "FactorialHypergraph.V"
+    ]
+  },
+  "FactorialHypergraph/A3Main.lean": {
+    "checkedAt": "2026-11-17T22:45:42.176Z",
+    "collisions": [
+      "FactorialHypergraph.V"
+    ]
+  },
+  "FactorialHypergraph/A3Product.lean": {
+    "checkedAt": "2026-11-17T22:45:42.573Z",
+    "collisions": [
+      "FactorialHypergraph.sievePrimes"
+    ]
+  },
+  "FactorialHypergraph/A3Roots.lean": {
+    "checkedAt": "2026-11-17T22:45:43.370Z",
+    "collisions": [
+      "FactorialHypergraph.V",
+      "FactorialHypergraph.hFactor"
+    ]
+  },
+  "FactorialHypergraph/A3SieveAudit.lean": {
+    "checkedAt": "2026-11-17T22:45:48.752Z",
+    "collisions": [
+      "FactorialHypergraph.squarefree_prod_primes",
+      "FactorialHypergraph.sieveDivisors",
+      "FactorialHypergraph.dim_anchored_of_interval",
+      "FactorialHypergraph.UpperBoundSieveDimOneInterval"
+    ]
+  },
+  "FactorialHypergraph/AnalyticInputs.lean": {
+    "checkedAt": "2026-11-17T22:45:53.015Z",
+    "collisions": [
+      "FactorialHypergraph.primesIn",
+      "FactorialHypergraph.V"
+    ]
+  },
+  "FactorialHypergraph/CRTCover.lean": {
+    "checkedAt": "2026-11-17T22:45:55.390Z",
+    "collisions": [
+      "FactorialHypergraph.V"
+    ]
+  },
+  "FactorialHypergraph/CollisionCriterion.lean": {
+    "checkedAt": "2026-11-17T22:45:59.414Z",
+    "collisions": [
+      "FactorialHypergraph.factorial_mul_prod_Ioc",
+      "FactorialHypergraph.V",
+      "FactorialHypergraph.factorial_add_two_sub_factorial_int"
+    ]
+  },
+  "FactorialHypergraph/ConflictGraph.lean": {
+    "checkedAt": "2026-11-17T22:46:01.216Z",
+    "collisions": [
+      "FactorialHypergraph.exists_proper_coloring",
+      "FactorialHypergraph.conflictGraph"
+    ]
+  },
+  "FactorialHypergraph/Definitions.lean": {
+    "checkedAt": "2026-11-17T22:46:02.369Z",
+    "collisions": [
+      "FactorialHypergraph.V"
+    ]
+  },
+  "FactorialHypergraph/Estimates.lean": {
+    "checkedAt": "2026-11-17T22:46:03.561Z",
+    "collisions": [
+      "FactorialHypergraph.pow_div_exp_le_factorial",
+      "FactorialHypergraph.two_mul_cube_le_factorial",
+      "FactorialHypergraph.log_le_two_sqrt"
+    ]
+  },
+  "FactorialHypergraph/Example329.lean": {
+    "checkedAt": "2026-11-17T22:46:05.547Z",
+    "collisions": [
+      "FactorialHypergraph.V",
+      "FactorialHypergraph.factorial_differences_329"
+    ]
+  },
+  "FactorialHypergraph/LargePrimeFactors.lean": {
+    "checkedAt": "2026-11-17T22:46:07.034Z",
+    "collisions": [
+      "FactorialHypergraph.primesLE",
+      "FactorialHypergraph.V",
+      "FactorialHypergraph.pow_div_exp_le_factorial"
+    ]
+  },
+  "FactorialHypergraph/MainConditional.lean": {
+    "checkedAt": "2026-11-17T22:46:15.672Z",
+    "collisions": [
+      "FactorialHypergraph.V",
+      "FactorialHypergraph.primesIn"
+    ]
+  },
+  "FactorialHypergraph/MertensAux.lean": {
+    "checkedAt": "2026-11-17T22:46:20.708Z",
+    "collisions": [
+      "FactorialHypergraph.sum_Icc_divisors_swap",
+      "FactorialHypergraph.sum_vonMangoldt_le",
+      "FactorialHypergraph.sum_Ico_sub_succ",
+      "FactorialHypergraph.sum_Ioc_by_parts",
+      "FactorialHypergraph.pow_div_exp_le_factorial"
+    ]
+  },
+  "FactorialHypergraph/MertensCharacter.lean": {
+    "checkedAt": "2026-11-17T22:46:23.018Z",
+    "collisions": [
+      "FactorialHypergraph.chi5"
+    ]
+  },
+  "FactorialHypergraph/MertensLower.lean": {
+    "checkedAt": "2026-11-17T22:46:25.363Z",
+    "collisions": [
+      "FactorialHypergraph.sum_log_ge"
+    ]
+  },
+  "FactorialHypergraph/MertensRoots.lean": {
+    "checkedAt": "2026-11-17T22:46:25.756Z",
+    "collisions": [
+      "FactorialHypergraph.V"
+    ]
+  },
+  "FactorialHypergraph/MertensSecond.lean": {
+    "checkedAt": "2026-11-17T22:46:26.099Z",
+    "collisions": [
+      "FactorialHypergraph.sum_log_eq_log_factorial",
+      "FactorialHypergraph.geom_range_le",
+      "FactorialHypergraph.one_add_le_one_div",
+      "FactorialHypergraph.primesLE",
+      "FactorialHypergraph.primeLogSum"
+    ]
+  },
+  "FactorialHypergraph/PrimeCountingUpper.lean": {
+    "checkedAt": "2026-11-17T22:46:31.582Z",
+    "collisions": [
+      "FactorialHypergraph.primesLE",
+      "FactorialHypergraph.eventually_primeCounting_le_of_theta_le'",
+      "FactorialHypergraph.theta_le_of_pnt_theta",
+      "FactorialHypergraph.theta_le_of_pnt_psi",
+      "FactorialHypergraph.WienerIkeharaTheorem"
+    ]
+  },
+  "FactorialHypergraph/PrimeSupply.lean": {
+    "checkedAt": "2026-11-17T22:46:36.560Z",
+    "collisions": [
+      "FactorialHypergraph.piCard",
+      "FactorialHypergraph.primesIn",
+      "FactorialHypergraph.pow_div_exp_le_factorial",
+      "FactorialHypergraph.V"
+    ]
+  },
+  "FactorialHypergraph/QuadraticRoots.lean": {
+    "checkedAt": "2026-11-17T22:46:38.411Z",
+    "collisions": [
+      "FactorialHypergraph.V",
+      "FactorialHypergraph.fact_prime_five"
+    ]
+  },
+  "FactorialHypergraph/Transference.lean": {
+    "checkedAt": "2026-11-17T22:46:44.516Z",
+    "collisions": [
+      "FactorialHypergraph.not_prime_of_proper_divisor",
+      "FactorialHypergraph.V",
+      "FactorialHypergraph.exists_base"
+    ]
+  }
+}
