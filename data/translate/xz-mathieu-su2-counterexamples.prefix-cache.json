@@ -1,0 +1,111 @@
+{
+  "XZMathieuSU2Counterexamples/Basic.lean": {
+    "checkedAt": "2026-11-17T20:44:02.249Z",
+    "collisions": [
+      "XZMathieuSU2Counterexamples.IsMathieuSubspace"
+    ]
+  },
+  "XZMathieuSU2Counterexamples/Bernstein.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T20:44:05.894Z"
+  },
+  "XZMathieuSU2Counterexamples/CircleIntegral.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T20:47:38.013Z"
+  },
+  "XZMathieuSU2Counterexamples/FullIntegration.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T20:59:06.514Z"
+  },
+  "XZMathieuSU2Counterexamples/GeneratingFunction.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T20:59:08.395Z"
+  },
+  "XZMathieuSU2Counterexamples/Haar.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T20:59:18.926Z",
+    "collisions": [
+      "XZMathieuSU2Counterexamples.representativeFunctions",
+      "XZMathieuSU2Counterexamples.representativeIntegral"
+    ]
+  },
+  "XZMathieuSU2Counterexamples/HopfAlgebra.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T21:08:08.034Z"
+  },
+  "XZMathieuSU2Counterexamples/LaurentIntegral.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T21:08:17.878Z"
+  },
+  "XZMathieuSU2Counterexamples/Padding.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T21:28:56.940Z",
+    "collisions": [
+      "XZMathieuSU2Counterexamples.multiIntegralLinear",
+      "XZMathieuSU2Counterexamples.IsMathieuSubspace"
+    ]
+  },
+  "XZMathieuSU2Counterexamples/PolynomialIntegral.lean": {
+    "checkedAt": "2026-11-17T21:42:54.109Z",
+    "collisions": [
+      "XZMathieuSU2Counterexamples.Hopf.integrateCoefficients"
+    ]
+  },
+  "XZMathieuSU2Counterexamples/RepresentativeFunctions.lean": {
+    "checkedAt": "2026-11-17T22:08:54.662Z",
+    "collisions": [
+      "XZMathieuSU2Counterexamples.MatrixRepresentation.entry",
+      "XZMathieuSU2Counterexamples.MatrixRepresentation.pullback",
+      "XZMathieuSU2Counterexamples.MatrixRepresentation.coefficient"
+    ]
+  },
+  "XZMathieuSU2Counterexamples/SU2Action.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T22:10:14.068Z"
+  },
+  "XZMathieuSU2Counterexamples/SU2Basic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T22:10:37.104Z"
+  },
+  "XZMathieuSU2Counterexamples/SU2Counterexample.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T22:11:29.912Z"
+  },
+  "XZMathieuSU2Counterexamples/SU2Integration.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T22:11:34.272Z"
+  },
+  "XZMathieuSU2Counterexamples/SU2Orbit.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T22:37:52.841Z"
+  },
+  "XZMathieuSU2Counterexamples/SphereMeasure.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T22:38:07.200Z"
+  },
+  "XZMathieuSU2Counterexamples/SphereMomentRecurrence.lean": {
+    "checkedAt": "2026-11-17T22:38:17.207Z",
+    "collisions": [
+      "XZMathieuSU2Counterexamples.Hopf.firstCoordinate",
+      "XZMathieuSU2Counterexamples.Hopf.secondCoordinate"
+    ]
+  },
+  "XZMathieuSU2Counterexamples/SphereMonomials.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T22:41:28.749Z"
+  },
+  "XZMathieuSU2Counterexamples/SphereSymmetry.lean": {
+    "checkedAt": "2026-11-17T22:43:52.308Z",
+    "collisions": [
+      "XZMathieuSU2Counterexamples.Hopf.euclideanSphereAction",
+      "XZMathieuSU2Counterexamples.Hopf.euclideanSurface"
+    ]
+  },
+  "XZMathieuSU2Counterexamples/XZWitness.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T22:44:27.647Z",
+    "collisions": [
+      "XZMathieuSU2Counterexamples.IsMathieuSubspace"
+    ]
+  }
+}
