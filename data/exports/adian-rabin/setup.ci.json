@@ -1,0 +1,38 @@
+{
+  "key": "adian-rabin",
+  "repo": "https://github.com/32805433/Adian-Rabin",
+  "commit": "fb4a401e8fbdba36e7b35c11fde2baa15592e185",
+  "toolchain": "leanprover/lean4:v4.33.0",
+  "roots": [
+    "AxiomAudit",
+    "Challenge",
+    "GroupUndecidability"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/adian-rabin/repo",
+  "entries": 1611,
+  "modules": 80,
+  "exported": 80,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 1614,
+    "kept": 1611,
+    "skippedRoot": 3,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 75,
+    "lineUnverified": 0,
+    "nameFixed": 1611,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 68456448,
+  "minutes": 5,
+  "finishedAt": "2026-11-17T15:49:06.153Z"
+}
