@@ -1,0 +1,203 @@
+{
+  "Erdos700/Arithmetic.lean": {
+    "checkedAt": "2026-11-17T19:45:35.980Z",
+    "collisions": [
+      "Erdos700.FourPrime.Arithmetic.change_base",
+      "Erdos700.FourPrime.Arithmetic.expansion_p",
+      "Erdos700.FourPrime.Arithmetic.expansion_a",
+      "Erdos700.FourPrime.Arithmetic.expansion_b",
+      "Erdos700.FourPrime.Arithmetic.expansion_c",
+      "Erdos700.FourPrime.Arithmetic.pairAP_bound",
+      "Erdos700.FourPrime.Arithmetic.pairPB_impossible",
+      "Erdos700.FourPrime.Arithmetic.pairPC_gap",
+      "Erdos700.FourPrime.Arithmetic.pairPC_negative_low_impossible",
+      "Erdos700.FourPrime.Arithmetic.pairPC_middle_negative",
+      "Erdos700.FourPrime.Arithmetic.pairPC_zero_case"
+    ]
+  },
+  "Erdos700/Bounds.lean": {
+    "checkedAt": "2026-11-17T19:45:39.863Z",
+    "collisions": [
+      "Erdos700.FourPrime.Bounds.c_at_least_9",
+      "Erdos700.FourPrime.Bounds.T1_positive",
+      "Erdos700.FourPrime.Bounds.T1_less_than_bc",
+      "Erdos700.FourPrime.Bounds.S1_positive",
+      "Erdos700.FourPrime.Bounds.R_at_least_one",
+      "Erdos700.FourPrime.Bounds.R_less_than_c",
+      "Erdos700.FourPrime.Bounds.B_positive",
+      "Erdos700.FourPrime.Bounds.B_less_than_2bc",
+      "Erdos700.FourPrime.Bounds.U_positive",
+      "Erdos700.FourPrime.Bounds.U_less_than_3c_squared",
+      "Erdos700.FourPrime.Bounds.c_greater_than_a_plus_b",
+      "Erdos700.FourPrime.Bounds.L_less_c_squared",
+      "Erdos700.FourPrime.Bounds.p1_to_p2_h0_gap",
+      "Erdos700.FourPrime.Bounds.p1_to_p3_low_gap",
+      "Erdos700.FourPrime.Bounds.p0_to_p3_low_gap",
+      "Erdos700.FourPrime.Bounds.p2_to_p3_low_gap",
+      "Erdos700.FourPrime.Bounds.a_less_b",
+      "Erdos700.FourPrime.Bounds.b_less_c",
+      "Erdos700.FourPrime.Bounds.S_positive",
+      "Erdos700.FourPrime.Bounds.S_less_3c",
+      "Erdos700.FourPrime.Bounds.T_positive",
+      "Erdos700.FourPrime.Bounds.T_less_3c_squared",
+      "Erdos700.FourPrime.Bounds.Z_positive",
+      "Erdos700.FourPrime.Bounds.Z_less_c_cubed",
+      "Erdos700.FourPrime.Bounds.S1_less_2c",
+      "Erdos700.FourPrime.Bounds.D_positive",
+      "Erdos700.FourPrime.Bounds.D_less_3c",
+      "Erdos700.FourPrime.Bounds.A_positive",
+      "Erdos700.FourPrime.Bounds.A_less_c_cubed",
+      "Erdos700.FourPrime.Bounds.C_positive",
+      "Erdos700.FourPrime.Bounds.C_less_c_cubed",
+      "Erdos700.FourPrime.Bounds.F_positive",
+      "Erdos700.FourPrime.Bounds.F_less_c_cubed",
+      "Erdos700.FourPrime.Bounds.large_base_thresholds"
+    ]
+  },
+  "Erdos700/Counterexample.lean": {
+    "checkedAt": "2026-11-17T19:45:50.193Z",
+    "collisions": [
+      "Erdos700.Counterexample.prime_P",
+      "Erdos700.Counterexample.P",
+      "Erdos700.CounterexampleLucas.not_dvd_factorial_of_lt",
+      "Erdos700.not_dvd_choose_div"
+    ]
+  },
+  "Erdos700/CounterexampleLucas.lean": {
+    "checkedAt": "2026-11-17T19:45:53.471Z",
+    "collisions": [
+      "Erdos700.CounterexampleLucas.not_dvd_factorial_of_lt"
+    ]
+  },
+  "Erdos700/CounterexamplePrimes.lean": {
+    "checkedAt": "2026-11-17T19:56:03.658Z",
+    "collisions": [
+      "Erdos700.Counterexample.prime_3",
+      "Erdos700.Counterexample.prime_5",
+      "Erdos700.Counterexample.prime_7",
+      "Erdos700.Counterexample.prime_13",
+      "Erdos700.Counterexample.prime_17",
+      "Erdos700.Counterexample.prime_37",
+      "Erdos700.Counterexample.prime_263",
+      "Erdos700.Counterexample.prime_523",
+      "Erdos700.Counterexample.prime_563",
+      "Erdos700.Counterexample.prime_145471",
+      "Erdos700.Counterexample.prime_507497",
+      "Erdos700.Counterexample.prime_538789",
+      "Erdos700.Counterexample.prime_3843199",
+      "Erdos700.Counterexample.prime_P",
+      "Erdos700.Counterexample.prime_PA",
+      "Erdos700.Counterexample.prime_PB",
+      "Erdos700.Counterexample.prime_PC"
+    ]
+  },
+  "Erdos700/DigitSupport.lean": {
+    "checkedAt": "2026-11-17T19:56:18.623Z",
+    "collisions": [
+      "Erdos700.nat_three_digit_expansion",
+      "Erdos700.first_three_digits_of_expansion",
+      "Erdos700.not_dvd_choose_div"
+    ]
+  },
+  "Erdos700/FourPrime.lean": {
+    "checkedAt": "2026-11-17T19:56:20.011Z",
+    "collisions": [
+      "Erdos700.FourPrime.Arithmetic.change_base",
+      "Erdos700.not_dvd_choose_div"
+    ]
+  },
+  "Erdos700/IntDigitSupport.lean": {
+    "checkedAt": "2026-11-17T19:56:22.485Z",
+    "collisions": [
+      "Erdos700.int_first_three_digits_of_expansion",
+      "Erdos700.not_dvd_choose_div"
+    ]
+  },
+  "Erdos700/Lucas.lean": {
+    "checkedAt": "2026-11-17T19:56:23.664Z",
+    "collisions": [
+      "Erdos700.not_dvd_choose_div",
+      "Erdos700.mod_le_of_not_dvd_choose",
+      "Erdos700.choose_prime_modEq_div"
+    ]
+  },
+  "Erdos700/Minimum.lean": {
+    "checkedAt": "2026-11-17T19:56:25.945Z",
+    "collisions": [
+      "Erdos700.f",
+      "Erdos700.not_dvd_choose_div"
+    ]
+  },
+  "Erdos700/PairA.lean": {
+    "checkedAt": "2026-11-17T19:56:28.608Z",
+    "collisions": [
+      "Erdos700.FourPrime.PairA.pairAB_h0_impossible",
+      "Erdos700.FourPrime.PairA.pairAB_h1_impossible",
+      "Erdos700.FourPrime.PairA.pairAC_low_gap_identity",
+      "Erdos700.FourPrime.PairA.pairAC_negative_low_impossible",
+      "Erdos700.FourPrime.PairA.pairAC_v_plus_h_bound",
+      "Erdos700.FourPrime.PairA.pairAC_middle_negative",
+      "Erdos700.FourPrime.PairA.pairAC_zero_u",
+      "Erdos700.FourPrime.PairA.pairAC_middle_lower_bound"
+    ]
+  },
+  "Erdos700/PairADigits.lean": {
+    "checkedAt": "2026-11-17T19:56:31.671Z",
+    "collisions": [
+      "Erdos700.FourPrime.PairADigits.quotient_remainder",
+      "Erdos700.FourPrime.PairA.pairAB_h0_impossible",
+      "Erdos700.FourPrime.Bounds.c_at_least_9"
+    ]
+  },
+  "Erdos700/PairBC.lean": {
+    "checkedAt": "2026-11-17T19:56:34.166Z",
+    "collisions": [
+      "Erdos700.PairBC.lowCarry"
+    ]
+  },
+  "Erdos700/PairPDigits.lean": {
+    "checkedAt": "2026-11-17T19:56:39.900Z",
+    "collisions": [
+      "Erdos700.FourPrime.PairPDigits.carry_zero",
+      "Erdos700.FourPrime.PairPDigits.quotient_after_zero_carry",
+      "Erdos700.FourPrime.PairADigits.quotient_remainder",
+      "Erdos700.FourPrime.Arithmetic.change_base"
+    ]
+  },
+  "Erdos700/ParameterBC.lean": {
+    "checkedAt": "2026-11-17T19:56:41.173Z",
+    "collisions": [
+      "Erdos700.FourPrime.Bounds.c_at_least_9"
+    ]
+  },
+  "Erdos700/ParameterDigits.lean": {
+    "checkedAt": "2026-11-17T19:56:41.510Z",
+    "collisions": [
+      "Erdos700.FourPrime.Bounds.c_at_least_9",
+      "Erdos700.FourPrime.ParameterDigits.fourth_power_nearby",
+      "Erdos700.FourPrime.ParameterDigits.quotient_lt_cube"
+    ]
+  },
+  "Erdos700/ParameterP.lean": {
+    "checkedAt": "2026-11-17T19:56:44.358Z",
+    "collisions": [
+      "Erdos700.FourPrime.Bounds.c_at_least_9"
+    ]
+  },
+  "Erdos700/PrimeSource.lean": {
+    "checkedAt": "2026-11-17T19:56:45.379Z",
+    "collisions": [
+      "Erdos700.prime_dvd_int_source",
+      "Erdos700.not_dvd_choose_div"
+    ]
+  },
+  "Erdos700/RowExpansions.lean": {
+    "checkedAt": "2026-11-17T19:56:45.950Z",
+    "collisions": [
+      "Erdos700.FourPrime.RowExpansions.row_p",
+      "Erdos700.FourPrime.RowExpansions.row_a",
+      "Erdos700.FourPrime.RowExpansions.row_b",
+      "Erdos700.FourPrime.RowExpansions.row_c"
+    ]
+  }
+}

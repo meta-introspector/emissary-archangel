@@ -1,0 +1,15 @@
+{
+  "mechanical": {
+    "run": "44153791950",
+    "at": "2026-11-17T19:57:09.593Z",
+    "shards": 1,
+    "todo": 169,
+    "processed": 169,
+    "left": 0,
+    "limited": false,
+    "stalls": 0,
+    "outcomes": {
+      "untranslatable": 169
+    }
+  }
+}
