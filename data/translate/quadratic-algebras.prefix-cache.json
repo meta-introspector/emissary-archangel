@@ -1,0 +1,21 @@
+{
+  "QuadraticAlgebras/RealClosedClosure.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T00:56:59.376Z",
+    "collisions": [
+      "root_of_natDegree_two_of_isSquare",
+      "sylow_two_eq_top"
+    ]
+  },
+  "QuadraticAlgebrasTest/RealClosedClosure.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T00:57:22.084Z"
+  },
+  "QuadraticAlgebrasTest/RealClosedModel.lean": {
+    "checkedAt": "2026-11-17T00:57:23.168Z",
+    "collisions": [
+      "QuadraticAlgebrasTest.oddDegreeRealPolynomial_hasRoot",
+      "QuadraticAlgebrasTest.powSubOne_reducible"
+    ]
+  }
+}
