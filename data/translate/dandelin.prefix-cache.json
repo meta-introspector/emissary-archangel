@@ -1,0 +1,89 @@
+{
+  "Dandelin/Basic.lean": {
+    "checkedAt": "2026-11-17T21:51:44.216Z",
+    "collisions": [
+      "Dandelin.tangent_length_sq",
+      "Dandelin.dist_eq_of_isTangentAt",
+      "Dandelin.cone"
+    ]
+  },
+  "Dandelin/Bridge.lean": {
+    "checkedAt": "2026-11-17T21:51:51.555Z",
+    "collisions": [
+      "Dandelin.tangent_length_sq",
+      "Dandelin.plane"
+    ]
+  },
+  "Dandelin/Degenerate.lean": {
+    "checkedAt": "2026-11-17T21:51:57.616Z",
+    "collisions": [
+      "Dandelin.tangent_length_sq",
+      "Dandelin.apexDir",
+      "Dandelin.axisPlane",
+      "Dandelin.plane"
+    ]
+  },
+  "Dandelin/Directrix.lean": {
+    "checkedAt": "2026-11-17T21:52:14.198Z",
+    "collisions": [
+      "Dandelin.tangent_length_sq",
+      "Dandelin.axisPlane",
+      "Dandelin.plane"
+    ]
+  },
+  "Dandelin/Existence.lean": {
+    "checkedAt": "2026-11-17T21:52:20.362Z",
+    "collisions": [
+      "Dandelin.plane",
+      "Dandelin.tangent_length_sq"
+    ]
+  },
+  "Dandelin/Hyperbola.lean": {
+    "checkedAt": "2026-11-17T21:52:27.000Z",
+    "collisions": [
+      "Dandelin.tangent_length_sq",
+      "Dandelin.cone2",
+      "Dandelin.plane",
+      "Dandelin.axisPlane"
+    ]
+  },
+  "Dandelin/L14.lean": {
+    "checkedAt": "2026-11-17T21:52:35.648Z",
+    "collisions": [
+      "Dandelin.tangent_length_sq",
+      "Dandelin.plane",
+      "Dandelin.l14_proj_ne",
+      "Dandelin.l14_cos_sin",
+      "Dandelin.l14_sq_lt_one",
+      "Dandelin.l14w_inner3",
+      "Dandelin.l14w_norm3",
+      "Dandelin.l14w_sub3",
+      "Dandelin.l14w_ne3",
+      "Dandelin.l14w_alpha",
+      "Dandelin.l14w_V"
+    ]
+  },
+  "Dandelin/L15Classical.lean": {
+    "checkedAt": "2026-11-17T21:52:56.539Z",
+    "collisions": [
+      "Dandelin.Classical.E3",
+      "Dandelin.axisPlane",
+      "Dandelin.tangent_length_sq",
+      "Dandelin.gen_mem_cone",
+      "Dandelin.plane",
+      "Dandelin.cone2"
+    ]
+  },
+  "Dandelin/Regime.lean": {
+    "checkedAt": "2026-11-17T21:53:12.779Z",
+    "collisions": [
+      "Dandelin.tangent_length_sq",
+      "Dandelin.gen_norm",
+      "Dandelin.plane",
+      "Dandelin.gen_dir",
+      "Dandelin.exists_unit_orth",
+      "Dandelin.perpN",
+      "Dandelin.axisPlane"
+    ]
+  }
+}
