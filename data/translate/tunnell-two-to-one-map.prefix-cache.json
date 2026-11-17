@@ -1,0 +1,439 @@
+{
+  "TunnellMap/Assembly.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T13:15:36.526Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/BlockGeneratorCorrect.lean": {
+    "checkedAt": "2026-11-17T13:15:44.271Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/ComputablePipeline.lean": {
+    "checkedAt": "2026-11-17T15:49:40.481Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/ComputableTargetRoster.lean": {
+    "checkedAt": "2026-11-17T16:26:19.593Z",
+    "collisions": [
+      "TunnellMap.sqrtBSAux"
+    ]
+  },
+  "TunnellMap/ControlCost.lean": {
+    "checkedAt": "2026-11-17T17:06:55.149Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/DeferredAcceptance.lean": {
+    "checkedAt": "2026-11-17T17:06:57.365Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/Examples41.lean": {
+    "checkedAt": "2026-11-17T17:07:23.437Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/Examples41CanonicalRerun.lean": {
+    "checkedAt": "2026-11-17T17:32:33.176Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/Finiteness.lean": {
+    "checkedAt": "2026-11-17T17:42:13.240Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/MatchedOrder.lean": {
+    "checkedAt": "2026-11-17T17:42:13.789Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/Midpoint.lean": {
+    "checkedAt": "2026-11-17T17:42:15.959Z",
+    "collisions": [
+      "TunnellMap.Triple",
+      "TunnellMap.qForm"
+    ]
+  },
+  "TunnellMap/MidpointBound.lean": {
+    "checkedAt": "2026-11-17T17:42:18.531Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/OrthogonalFrameExistence.lean": {
+    "checkedAt": "2026-11-17T17:48:42.450Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/Parking.lean": {
+    "checkedAt": "2026-11-17T17:48:43.835Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/ProjectiveKey.lean": {
+    "checkedAt": "2026-11-17T17:48:45.622Z",
+    "collisions": [
+      "TunnellMap.Triple",
+      "TunnellMap.qBilinear"
+    ]
+  },
+  "TunnellMap/QuarterTurns.lean": {
+    "checkedAt": "2026-11-17T17:49:01.759Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/ReducedBasisBound.lean": {
+    "checkedAt": "2026-11-17T18:07:38.270Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/TauLattice.lean": {
+    "checkedAt": "2026-11-17T18:07:39.122Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/AffineLattice.lean": {
+    "checkedAt": "2026-11-17T13:16:03.928Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/BlockGeneratorState.lean": {
+    "checkedAt": "2026-11-17T13:24:26.100Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/BranchSpec.lean": {
+    "checkedAt": "2026-11-17T13:29:16.441Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/ComputableCounting.lean": {
+    "checkedAt": "2026-11-17T13:37:08.661Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/ComputableDirect.lean": {
+    "checkedAt": "2026-11-17T13:48:44.004Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/ComputableDirection.lean": {
+    "checkedAt": "2026-11-17T13:57:51.225Z",
+    "collisions": [
+      "TunnellMap.Triple",
+      "TunnellMap.qBilinear"
+    ]
+  },
+  "TunnellMap/ComputableFullMap.lean": {
+    "checkedAt": "2026-11-17T14:00:34.624Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/DeferredAcceptanceStability.lean": {
+    "checkedAt": "2026-11-17T14:05:29.932Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/DeterministicFrame.lean": {
+    "checkedAt": "2026-11-17T14:05:39.701Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/Examples41Matching.lean": {
+    "checkedAt": "2026-11-17T14:05:48.056Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked",
+      "TunnellMap.qBilinear",
+      "TunnellMap.sortedCounts",
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/Examples41Residual.lean": {
+    "checkedAt": "2026-11-17T14:27:35.365Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/GeneratorSoundness.lean": {
+    "checkedAt": "2026-11-17T14:40:15.989Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/GloballyRanked.lean": {
+    "checkedAt": "2026-11-17T14:40:24.304Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/LagrangeGaussTests.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T15:07:03.858Z"
+  },
+  "TunnellMap/ParkingRearrangement.lean": {
+    "checkedAt": "2026-11-17T15:07:04.822Z",
+    "collisions": [
+      "TunnellMap.sortedCounts",
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/QuadraticRoots.lean": {
+    "checkedAt": "2026-11-17T15:07:06.006Z",
+    "collisions": [
+      "TunnellMap.quadraticEquation",
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/ResidualDeferredAcceptance.lean": {
+    "checkedAt": "2026-11-17T15:07:09.078Z",
+    "collisions": [
+      "TunnellMap.Triple",
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/Sharpness.lean": {
+    "checkedAt": "2026-11-17T15:12:13.423Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked.sharpRank",
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/ShortInterval.lean": {
+    "checkedAt": "2026-11-17T15:12:15.908Z",
+    "collisions": [
+      "TunnellMap.square_le_iff_mem_floorCeilInterval",
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/Antipodal.lean": {
+    "checkedAt": "2026-11-17T13:10:53.562Z",
+    "collisions": [
+      "TunnellMap.Triple",
+      "TunnellMap.negTriple"
+    ]
+  },
+  "TunnellMap/Basic.lean": {
+    "checkedAt": "2026-11-17T13:11:02.552Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/CanonicalSignLift.lean": {
+    "checkedAt": "2026-11-17T13:17:35.281Z",
+    "collisions": [
+      "TunnellMap.negTriple",
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/Examples41Deterministic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T13:18:25.021Z"
+  },
+  "TunnellMap/Examples41GeneratorRun.lean": {
+    "checkedAt": "2026-11-17T13:18:25.477Z",
+    "collisions": [
+      "TunnellMap.qBilinear",
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/Examples5.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T13:43:20.983Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/FallbackFreeMap.lean": {
+    "checkedAt": "2026-11-17T13:54:44.452Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/GeneratorRecovery.lean": {
+    "checkedAt": "2026-11-17T14:15:53.388Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/KernelGenerator.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T14:36:22.436Z"
+  },
+  "TunnellMap/LagrangeGauss.lean": {
+    "checkedAt": "2026-11-17T14:36:26.583Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/OrbitRanking.lean": {
+    "checkedAt": "2026-11-17T14:38:22.074Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/OrderedGenerator.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T14:38:35.103Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/ParkingTotal.lean": {
+    "checkedAt": "2026-11-17T15:49:03.151Z",
+    "collisions": [
+      "TunnellMap.sum_range_add_one_mul_two",
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/PreferenceListPosition.lean": {
+    "checkedAt": "2026-11-17T15:49:04.449Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/PrimitiveDirection.lean": {
+    "checkedAt": "2026-11-17T15:49:08.093Z",
+    "collisions": [
+      "TunnellMap.Triple",
+      "TunnellMap.triplePolynomial"
+    ]
+  },
+  "TunnellMap/ResidualTargetTest.lean": {
+    "checkedAt": "2026-11-17T16:18:40.128Z",
+    "collisions": [
+      "TunnellMap.exists_odd_four_mul_iff",
+      "TunnellMap.exists_odd_two_mul_iff",
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/ComputableRoster.lean": {
+    "checkedAt": "2026-11-17T13:07:07.688Z",
+    "collisions": [
+      "TunnellMap.Triple",
+      "TunnellMap.sqrtBSAux"
+    ]
+  },
+  "TunnellMap/DeferredAcceptanceAccounting.lean": {
+    "checkedAt": "2026-11-17T13:57:02.531Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/DeferredAcceptanceAlgorithm.lean": {
+    "checkedAt": "2026-11-17T13:57:17.508Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/DeferredAcceptanceCorrectness.lean": {
+    "checkedAt": "2026-11-17T13:57:21.192Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/DeferredAcceptanceOutput.lean": {
+    "checkedAt": "2026-11-17T13:57:29.500Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/Examples41Generator.lean": {
+    "checkedAt": "2026-11-17T14:02:58.539Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/FullAssembly.lean": {
+    "checkedAt": "2026-11-17T14:24:43.854Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/GloballyRankedExistence.lean": {
+    "checkedAt": "2026-11-17T14:24:44.827Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked.insertEquiv",
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/InverseByRerun.lean": {
+    "checkedAt": "2026-11-17T14:39:03.004Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/KernelArith.lean": {
+    "checkedAt": "2026-11-17T15:00:38.481Z",
+    "collisions": [
+      "TunnellMap.sqrtBSAux"
+    ]
+  },
+  "TunnellMap/MidpointRecord.lean": {
+    "checkedAt": "2026-11-17T15:00:44.383Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/N41Preferences.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T15:01:06.695Z"
+  },
+  "TunnellMap/OrbitLift.lean": {
+    "checkedAt": "2026-11-17T16:19:54.405Z",
+    "collisions": [
+      "TunnellMap.negTriple",
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/PartialStableMatching.lean": {
+    "checkedAt": "2026-11-17T16:20:09.851Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/PreferenceList.lean": {
+    "checkedAt": "2026-11-17T16:20:11.770Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked"
+    ]
+  },
+  "TunnellMap/RecordDeferredAcceptanceCorrect.lean": {
+    "checkedAt": "2026-11-17T17:11:17.955Z",
+    "collisions": [
+      "TunnellMap.GloballyRanked",
+      "TunnellMap.Triple"
+    ]
+  },
+  "TunnellMap/ResidualBalance.lean": {
+    "checkedAt": "2026-11-17T17:54:37.497Z",
+    "collisions": [
+      "TunnellMap.Triple"
+    ]
+  }
+}
