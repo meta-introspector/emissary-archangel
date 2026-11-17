@@ -1,0 +1,101 @@
+{
+  "SharpIntermediateSubgroupBounds/Blocks.lean": {
+    "checkedAt": "2026-11-17T22:55:10.713Z",
+    "collisions": [
+      "SharpIntermediateSubgroupBounds.SystemOfImprimitivity"
+    ]
+  },
+  "SharpIntermediateSubgroupBounds/Decimal.lean": {
+    "checkedAt": "2026-11-17T22:57:27.773Z",
+    "collisions": [
+      "SharpIntermediateSubgroupBounds.exact_decimal_comparison",
+      "SharpIntermediateSubgroupBounds.one_sub_sum_le_prod_one_sub",
+      "SharpIntermediateSubgroupBounds.dyadic_euler_tail_product_lower",
+      "SharpIntermediateSubgroupBounds.one_le_dyadic_euler_factor",
+      "SharpIntermediateSubgroupBounds.dyadic_euler_partial_nonneg",
+      "SharpIntermediateSubgroupBounds.eulerUpper20_nonneg",
+      "SharpIntermediateSubgroupBounds.dyadic_euler_partial_le",
+      "SharpIntermediateSubgroupBounds.eulerC_two_le",
+      "SharpIntermediateSubgroupBounds.gaussian_two_nat",
+      "SharpIntermediateSubgroupBounds.gaussianTheta_two_eq",
+      "SharpIntermediateSubgroupBounds.dyadic_theta_summable",
+      "SharpIntermediateSubgroupBounds.dyadic_theta_tail_le",
+      "SharpIntermediateSubgroupBounds.gaussianTheta_two_le",
+      "SharpIntermediateSubgroupBounds.eulerLower50_nonneg",
+      "SharpIntermediateSubgroupBounds.eulerUpper50_nonneg",
+      "SharpIntermediateSubgroupBounds.thetaLower6_nonneg",
+      "SharpIntermediateSubgroupBounds.exact_fine_decimal_comparison",
+      "SharpIntermediateSubgroupBounds.dyadic_euler_tail_product_lower50",
+      "SharpIntermediateSubgroupBounds.dyadic_euler_partial_le50",
+      "SharpIntermediateSubgroupBounds.eulerLower50_le",
+      "SharpIntermediateSubgroupBounds.eulerC_two_le50",
+      "SharpIntermediateSubgroupBounds.dyadic_theta_tail6_le",
+      "SharpIntermediateSubgroupBounds.thetaLower6_le",
+      "SharpIntermediateSubgroupBounds.gaussianTheta_two_le6"
+    ]
+  },
+  "SharpIntermediateSubgroupBounds/Escape.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T23:08:16.269Z",
+    "collisions": [
+      "SharpIntermediateSubgroupBounds.RawRelGen"
+    ]
+  },
+  "SharpIntermediateSubgroupBounds/Gaussian.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T23:11:02.641Z",
+    "collisions": [
+      "SharpIntermediateSubgroupBounds.cast_qpow_sub_one_factor",
+      "SharpIntermediateSubgroupBounds.frameWeight_zero",
+      "SharpIntermediateSubgroupBounds.frameWeight_succ",
+      "SharpIntermediateSubgroupBounds.frameWeight_add_qWeight",
+      "SharpIntermediateSubgroupBounds.framePower_cast_real",
+      "SharpIntermediateSubgroupBounds.tendsto_double_nat_atTop",
+      "SharpIntermediateSubgroupBounds.exp_neg_log_sq_nat_eq_inv_pow",
+      "SharpIntermediateSubgroupBounds.tendsto_double_add_one_nat_atTop",
+      "SharpIntermediateSubgroupBounds.exp_neg_log_nat_eq_inv_pow",
+      "SharpIntermediateSubgroupBounds.centered_power_normalization"
+    ]
+  },
+  "SharpIntermediateSubgroupBounds/GroupMain.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T23:29:51.817Z"
+  },
+  "SharpIntermediateSubgroupBounds/Manuscript.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T23:37:14.259Z"
+  },
+  "SharpIntermediateSubgroupBounds/Packing.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T23:47:21.704Z"
+  },
+  "SharpIntermediateSubgroupBounds/PrimePower.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T23:47:24.233Z"
+  },
+  "SharpIntermediateSubgroupBounds/QBinomial.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T23:50:36.709Z",
+    "collisions": [
+      "SharpIntermediateSubgroupBounds.pow_sub_one_add_mul_pow_sub_one",
+      "SharpIntermediateSubgroupBounds.span_coe_frame_eq_submodule",
+      "SharpIntermediateSubgroupBounds.pow_sub_pow_eq_mul_sub"
+    ]
+  },
+  "SharpIntermediateSubgroupBounds/Theta.lean": {
+    "checkedAt": "2026-11-17T23:51:26.804Z",
+    "collisions": [
+      "SharpIntermediateSubgroupBounds.euler_factor_eq_one_add",
+      "SharpIntermediateSubgroupBounds.eulerCorrection_nonneg",
+      "SharpIntermediateSubgroupBounds.eulerCorrection_le",
+      "SharpIntermediateSubgroupBounds.euler_partial_pos",
+      "SharpIntermediateSubgroupBounds.euler_partial_strictMono",
+      "SharpIntermediateSubgroupBounds.shifted_gaussian_fourier",
+      "SharpIntermediateSubgroupBounds.cos_two_pi_lt_one_of_not_integer"
+    ]
+  },
+  "SharpIntermediateSubgroupBounds/Tree.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T23:53:17.397Z"
+  }
+}
