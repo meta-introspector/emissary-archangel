@@ -1,0 +1,43 @@
+{
+  "key": "tiling",
+  "repo": "https://github.com/jaumededios/Tiling",
+  "commit": "00f80c7de5acfef590c40ad20384b7df250faffb",
+  "toolchain": "leanprover/lean4:v4.33.0",
+  "roots": [
+    "AxisParallelComparator",
+    "AxisParallelComputabilityComparator",
+    "Challenge",
+    "RationalSlopesComparator",
+    "Solution",
+    "Tiling",
+    "TranslationalTilings",
+    "Verification"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/tiling/repo",
+  "entries": 8923,
+  "modules": 252,
+  "exported": 252,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 8928,
+    "kept": 8923,
+    "skippedRoot": 0,
+    "skippedDup": 5,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 72,
+    "lineUnverified": 0,
+    "nameFixed": 8927,
+    "sorryOriginals": 0,
+    "emptyProofs": 1
+  },
+  "exportsBytes": 570089472,
+  "minutes": 56,
+  "finishedAt": "2026-11-17T16:25:29.380Z"
+}
