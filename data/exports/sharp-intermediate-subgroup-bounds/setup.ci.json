@@ -1,0 +1,38 @@
+{
+  "key": "sharp-intermediate-subgroup-bounds",
+  "repo": "https://github.com/sebastienpalcoux/sharp-intermediate-subgroup-bounds",
+  "commit": "c123c090302b21441673bd8664ce91b4cf416937",
+  "toolchain": "leanprover/lean4:v4.33.0",
+  "roots": [
+    "Challenge",
+    "SharpIntermediateSubgroupBounds",
+    "Solution"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/sharp-intermediate-subgroup-bounds/repo",
+  "entries": 300,
+  "modules": 11,
+  "exported": 11,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 305,
+    "kept": 300,
+    "skippedRoot": 5,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 11,
+    "lineUnverified": 0,
+    "nameFixed": 300,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 4030464,
+  "minutes": 3,
+  "finishedAt": "2026-11-17T15:40:42.757Z"
+}
