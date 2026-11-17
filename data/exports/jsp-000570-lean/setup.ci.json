@@ -1,0 +1,36 @@
+{
+  "key": "jsp-000570-lean",
+  "repo": "https://github.com/aichiwuhuarou/jsp-000570-lean",
+  "commit": "a61e78f22efb3768384d20fa3896b4f2ffef15ac",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "roots": [
+    "Erdos700"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/jsp-000570-lean/repo",
+  "entries": 169,
+  "modules": 19,
+  "exported": 19,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 169,
+    "kept": 169,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 169,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 1445888,
+  "minutes": 3,
+  "finishedAt": "2026-11-17T15:35:48.947Z"
+}
