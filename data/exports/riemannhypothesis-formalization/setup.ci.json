@@ -1,0 +1,93 @@
+{
+  "key": "riemannhypothesis-formalization",
+  "repo": "https://github.com/alejandrozu/RiemannHypothesis-Formalization",
+  "commit": "753938937e624d1c8bbe4c208517660a672d1b8e",
+  "toolchain": "leanprover/lean4:v4.31.0",
+  "roots": [
+    "RiemannHypothesis"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/riemannhypothesis-formalization/repo",
+  "entries": 3075,
+  "modules": 100,
+  "exported": 86,
+  "failed": [
+    {
+      "module": "RiemannHypothesis.CauchyKernel.Basic",
+      "why": "no closure"
+    },
+    {
+      "module": "RiemannHypothesis.CauchyKernel.FiniteCloud",
+      "why": "no closure"
+    },
+    {
+      "module": "RiemannHypothesis.Deprecated.Monolith",
+      "why": "no closure"
+    },
+    {
+      "module": "RiemannHypothesis.Deprecated.StrippingMonolith",
+      "why": "no closure"
+    },
+    {
+      "module": "RiemannHypothesis.ExplicitFormula.HighHeightRegion",
+      "why": "no closure"
+    },
+    {
+      "module": "RiemannHypothesis.ExplicitFormula.IntegrationByParts",
+      "why": "no closure"
+    },
+    {
+      "module": "RiemannHypothesis.ExplicitFormula.LowHeightRegion",
+      "why": "no closure"
+    },
+    {
+      "module": "RiemannHypothesis.ExplicitFormula.Stieltjes",
+      "why": "no closure"
+    },
+    {
+      "module": "RiemannHypothesis.Reduction.StieltjesIdentities",
+      "why": "no closure"
+    },
+    {
+      "module": "RiemannHypothesis.Xi.Energy",
+      "why": "no closure"
+    },
+    {
+      "module": "RiemannHypothesis.XiDecomposition.ErrorBounds",
+      "why": "no closure"
+    },
+    {
+      "module": "RiemannHypothesis.XiDecomposition.Model",
+      "why": "no closure"
+    },
+    {
+      "module": "RiemannHypothesis.XiDecomposition.Residual",
+      "why": "no closure"
+    },
+    {
+      "module": "RiemannHypothesis.ZeroCounting.Backlund",
+      "why": "no closure"
+    }
+  ],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 3075,
+    "kept": 3075,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 3,
+    "lineUnverified": 161,
+    "nameFixed": 3075,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 26529792,
+  "minutes": 13,
+  "finishedAt": "2026-11-17T16:08:46.525Z"
+}
