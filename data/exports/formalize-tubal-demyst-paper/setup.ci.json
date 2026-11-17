@@ -1,0 +1,36 @@
+{
+  "key": "formalize-tubal-demyst-paper",
+  "repo": "https://github.com/haimav/formalize-tubal-demyst-paper",
+  "commit": "08d013e19c2b8706408085de641758659d78f913",
+  "toolchain": "leanprover/lean4:v4.31.0-rc2",
+  "roots": [
+    "TubalTensor"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/formalize-tubal-demyst-paper/repo",
+  "entries": 481,
+  "modules": 38,
+  "exported": 38,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 464,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 481,
+    "kept": 481,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 20,
+    "lineUnverified": 0,
+    "nameFixed": 481,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 11149312,
+  "minutes": 11,
+  "finishedAt": "2026-11-17T15:54:05.963Z"
+}
