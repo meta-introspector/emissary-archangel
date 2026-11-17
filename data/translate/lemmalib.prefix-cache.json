@@ -1,0 +1,252 @@
+{
+  "LemmaLib/Algebra/BigOperators/FiniteDifference.lean": {
+    "checkedAt": "2026-11-17T12:35:14.372Z",
+    "collisions": [
+      "sum_secondDifference"
+    ]
+  },
+  "LemmaLib/Algebra/Group/Hom/Idempotent.lean": {
+    "checkedAt": "2026-11-17T12:35:14.802Z",
+    "collisions": [
+      "AddMonoidHom.map_eq_zero_of_add_eq_self"
+    ]
+  },
+  "LemmaLib/Analysis/Complex/MordellIntegral.lean": {
+    "checkedAt": "2026-11-17T12:35:15.136Z",
+    "collisions": [
+      "Complex.rsOmega"
+    ]
+  },
+  "LemmaLib/Analysis/Complex/RiemannSiegelLine.lean": {
+    "checkedAt": "2026-11-17T12:35:23.158Z",
+    "collisions": [
+      "Complex.rsOmega"
+    ]
+  },
+  "LemmaLib/GroupTheory/Perm/TwoClosure.lean": {
+    "checkedAt": "2026-11-17T12:35:23.507Z",
+    "collisions": [
+      "Subgroup.twoClosure"
+    ]
+  },
+  "LemmaLib/LinearAlgebra/Matrix/SkewSymmetric.lean": {
+    "checkedAt": "2026-11-17T12:35:26.058Z",
+    "collisions": [
+      "Matrix.dotProduct_mulVec_eq_zero_of_transpose_eq_neg"
+    ]
+  },
+  "LemmaLib/LinearAlgebra/Vandermonde/Exponential.lean": {
+    "checkedAt": "2026-11-17T12:35:27.356Z",
+    "collisions": [
+      "Matrix.exp_neg_injective",
+      "Matrix.eq_zero_of_sum_mul_exp_neg_eq_zero"
+    ]
+  },
+  "LemmaLib/Logic/Function/Idempotent.lean": {
+    "checkedAt": "2026-11-17T12:35:27.928Z",
+    "collisions": [
+      "Function.range_eq_fixedPoints_of_idempotent"
+    ]
+  },
+  "LemmaLib/NumberTheory/DeBruijnNewman/EffectiveApproximation.lean": {
+    "checkedAt": "2026-11-17T12:35:28.228Z",
+    "collisions": [
+      "DeBruijnNewman.sqrt_arg_eq",
+      "DeBruijnNewman.alpha",
+      "DeBruijnNewman.cutoff_poly_ineq",
+      "DeBruijnNewman.exp_le_of_le_small",
+      "DeBruijnNewman.two_le_rpow_add_rpow_neg",
+      "DeBruijnNewman.nine_rpow",
+      "DeBruijnNewman.one_add_u_le",
+      "DeBruijnNewman.phi"
+    ]
+  },
+  "LemmaLib/NumberTheory/DeBruijnNewman/EffectiveModel.lean": {
+    "checkedAt": "2026-11-17T12:35:39.488Z",
+    "collisions": [
+      "DeBruijnNewman.alpha",
+      "DeBruijnNewman.phi"
+    ]
+  },
+  "LemmaLib/NumberTheory/DeBruijnNewman/Heat.lean": {
+    "checkedAt": "2026-11-17T12:35:53.701Z",
+    "collisions": [
+      "DeBruijnNewman.gauss",
+      "DeBruijnNewman.phi"
+    ]
+  },
+  "LemmaLib/NumberTheory/DeBruijnNewman/RtnEstimate.lean": {
+    "checkedAt": "2026-11-17T12:35:57.106Z",
+    "collisions": [
+      "DeBruijnNewman.natCast_cpow_neg_eq_exp",
+      "EulerMaclaurin.P1",
+      "DeBruijnNewman.alpha",
+      "DeBruijnNewman.r₀",
+      "DeBruijnNewman.gauss",
+      "DeBruijnNewman.inv_sqrt_le_exp"
+    ]
+  },
+  "LemmaLib/NumberTheory/DeBruijnNewman/Tail.lean": {
+    "checkedAt": "2026-11-17T12:36:06.505Z",
+    "collisions": [
+      "DeBruijnNewman.alpha",
+      "EulerMaclaurin.P1",
+      "DeBruijnNewman.tailK",
+      "Complex.integral_add_ofReal_mul_I_eq_integral_off_countable",
+      "DeBruijnNewman.gauss",
+      "RiemannSiegel.remainder"
+    ]
+  },
+  "LemmaLib/NumberTheory/DeBruijnNewman/TailEstimate.lean": {
+    "checkedAt": "2026-11-17T12:36:25.351Z",
+    "collisions": [
+      "DeBruijnNewman.exp_le_of_le",
+      "DeBruijnNewman.alpha",
+      "DeBruijnNewman.re_logM₀_horizontal_le",
+      "RiemannSiegel.exp_quadratic_eq",
+      "DeBruijnNewman.phi"
+    ]
+  },
+  "LemmaLib/NumberTheory/DeBruijnNewman/Theta.lean": {
+    "checkedAt": "2026-11-17T12:36:33.747Z",
+    "collisions": [
+      "DeBruijnNewman.theta",
+      "DeBruijnNewman.Wterm"
+    ]
+  },
+  "LemmaLib/NumberTheory/RiemannSiegel/Bound.lean": {
+    "checkedAt": "2026-11-17T12:36:38.715Z",
+    "collisions": [
+      "RiemannSiegel.exp_quadratic_eq",
+      "RiemannSiegel.arg_le_of_re_im",
+      "Complex.rsOmega",
+      "RiemannSiegel.lineA"
+    ]
+  },
+  "LemmaLib/NumberTheory/RiemannSiegel/Formula.lean": {
+    "checkedAt": "2026-11-17T12:36:42.216Z",
+    "collisions": [
+      "Complex.rsOmega",
+      "RiemannSiegel.remainder"
+    ]
+  },
+  "LemmaLib/NumberTheory/RiemannSiegel/Integral.lean": {
+    "checkedAt": "2026-11-17T12:36:44.422Z",
+    "collisions": [
+      "Complex.rsOmega",
+      "RiemannSiegel.kernel"
+    ]
+  },
+  "LemmaLib/Topology/MetricSpace/Sequences.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T12:36:55.824Z"
+  },
+  "LemmaLib/Analysis/Asymptotics/WeightedCesaro.lean": {
+    "checkedAt": "2026-11-17T12:14:23.235Z",
+    "collisions": [
+      "Asymptotics.isLittleO_weighted_sum_range_of_tendsto_zero"
+    ]
+  },
+  "LemmaLib/Analysis/Calculus/Even.lean": {
+    "checkedAt": "2026-11-17T12:14:23.539Z",
+    "collisions": [
+      "HasDerivAt.eq_zero_of_even"
+    ]
+  },
+  "LemmaLib/Analysis/Calculus/ZeroIsolation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T12:22:23.566Z"
+  },
+  "LemmaLib/Analysis/Complex/ContourShift.lean": {
+    "checkedAt": "2026-11-17T12:22:26.527Z",
+    "collisions": [
+      "Complex.integral_add_ofReal_mul_I_eq_integral_off_countable",
+      "Complex.inv_eq_neg_I_mul_integral_exp",
+      "Complex.re_neg_sq_add_I_mul_mul",
+      "Complex.integrable_of_norm_le_gaussian",
+      "Complex.exp_neg_sub_sq_le",
+      "Complex.norm_exp_neg_sub_sq"
+    ]
+  },
+  "LemmaLib/Analysis/EulerMaclaurin.lean": {
+    "checkedAt": "2026-11-17T12:22:29.992Z",
+    "collisions": [
+      "EulerMaclaurin.P1"
+    ]
+  },
+  "LemmaLib/Analysis/SpecialFunctions/Gamma/ComplexScale.lean": {
+    "checkedAt": "2026-11-17T12:22:32.620Z",
+    "collisions": [
+      "Complex.integrableOn_rpow_mul_exp_neg_mul_Ioi",
+      "Complex.norm_cpow_mul_exp_neg_mul",
+      "Complex.continuousOn_cpow_mul_exp_neg_mul"
+    ]
+  },
+  "LemmaLib/Analysis/SpecialFunctions/Gamma/Stirling.lean": {
+    "checkedAt": "2026-11-17T12:22:34.265Z",
+    "collisions": [
+      "Complex.Stirling.hasDerivAt_add_ofReal",
+      "Complex.Stirling.add_ofReal_ne_zero",
+      "Complex.Stirling.add_ofReal_mem_slitPlane",
+      "EulerMaclaurin.P1",
+      "Complex.Stirling.logRemainder"
+    ]
+  },
+  "LemmaLib/MeasureTheory/Integral/Determinant.lean": {
+    "checkedAt": "2026-11-17T12:22:43.927Z",
+    "collisions": [
+      "MeasureTheory.integral_det_columnwise"
+    ]
+  },
+  "LemmaLib/NumberTheory/DeBruijnNewman/AlphaBounds.lean": {
+    "checkedAt": "2026-11-17T12:22:44.486Z",
+    "collisions": [
+      "DeBruijnNewman.log_axis",
+      "DeBruijnNewman.alpha",
+      "DeBruijnNewman.sq_half_add_le",
+      "DeBruijnNewman.norm_sub_le_of_hasDerivAt_segment",
+      "DeBruijnNewman.norm_taylor_two_le",
+      "DeBruijnNewman.seg_im_ge",
+      "DeBruijnNewman.prefactor_norm_h"
+    ]
+  },
+  "LemmaLib/NumberTheory/DeBruijnNewman/Kernel.lean": {
+    "checkedAt": "2026-11-17T12:22:50.016Z",
+    "collisions": [
+      "DeBruijnNewman.Wterm",
+      "DeBruijnNewman.phi"
+    ]
+  },
+  "LemmaLib/NumberTheory/DeBruijnNewman/RiemannSiegel.lean": {
+    "checkedAt": "2026-11-17T12:23:00.386Z",
+    "collisions": [
+      "DeBruijnNewman.r₀",
+      "DeBruijnNewman.alpha",
+      "DeBruijnNewman.phi"
+    ]
+  },
+  "LemmaLib/NumberTheory/DeBruijnNewman/Xi.lean": {
+    "checkedAt": "2026-11-17T12:23:06.772Z",
+    "collisions": [
+      "DeBruijnNewman.Wterm",
+      "DeBruijnNewman.norm_cos_le",
+      "DeBruijnNewman.K",
+      "DeBruijnNewman.phi"
+    ]
+  },
+  "LemmaLib/NumberTheory/RiemannSiegel/Fold.lean": {
+    "checkedAt": "2026-11-17T12:23:13.026Z",
+    "collisions": [
+      "RiemannSiegel.kernel",
+      "Complex.rsOmega",
+      "RiemannSiegel.foldIntegrand"
+    ]
+  },
+  "LemmaLib/NumberTheory/RiemannSiegel/Mellin.lean": {
+    "checkedAt": "2026-11-17T12:23:17.463Z",
+    "collisions": [
+      "Complex.rsOmega",
+      "RiemannSiegel.mul_cpow_of_arg_add_mem"
+    ]
+  }
+}
