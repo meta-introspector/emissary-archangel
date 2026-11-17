@@ -1,0 +1,57 @@
+{
+  "key": "lean-eval-platonic-classification",
+  "repo": "https://github.com/Solarys431/lean-eval-platonic-classification",
+  "commit": "3cd00dfd965e5b9639cbf1011beea553001a290a",
+  "toolchain": "leanprover/lean4:v4.32.0-rc1",
+  "roots": [
+    "Challenge",
+    "ChallengeDeps",
+    "Solution",
+    "Submission"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/lean-eval-platonic-classification/repo",
+  "entries": 2387,
+  "modules": 136,
+  "exported": 133,
+  "failed": [
+    {
+      "module": "Submission.CentoventiBandiera",
+      "why": "no closure"
+    },
+    {
+      "module": "Submission.CentoventiRegolare",
+      "why": "no closure"
+    },
+    {
+      "module": "Submission.ClassificazioneFinale",
+      "why": "no closure"
+    }
+  ],
+  "expansion": {
+    "expanded": 117,
+    "verbatim": 321,
+    "unexpanded": 0,
+    "failed": [
+      {
+        "module": "Submission.SeicentoBandiera",
+        "why": "d failed: lake env lean -M 12288 --run /home/runner/work/emissary-archangel/emissary-archangel/scripts/expand-notations.lean /home/runner/work/emissary-archangel/emissary-archangel/data/exports/lean-eval-platonic-classification Challenge,ChallengeDeps,Solution,Submission Submission.SeicentoBandiera "
+      }
+    ]
+  },
+  "seed": {
+    "records": 2389,
+    "kept": 2387,
+    "skippedRoot": 2,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 2,
+    "lineUnverified": 0,
+    "nameFixed": 1814,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 80494592,
+  "minutes": 56,
+  "finishedAt": "2026-11-17T00:11:11.403Z"
+}
