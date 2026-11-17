@@ -1,0 +1,38 @@
+{
+  "key": "scott1972",
+  "repo": "https://github.com/catskillsresearch/scott1972",
+  "commit": "a198b6e24aea07cfc858a59798d0ca78161c4387",
+  "toolchain": "leanprover/lean4:v4.33.0",
+  "roots": [
+    "Challenge",
+    "Scott1972",
+    "Solution"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/scott1972/repo",
+  "entries": 302,
+  "modules": 10,
+  "exported": 10,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 345,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 303,
+    "kept": 302,
+    "skippedRoot": 1,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 291,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 3497984,
+  "minutes": 3,
+  "finishedAt": "2026-11-17T15:29:21.867Z"
+}
