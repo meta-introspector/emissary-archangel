@@ -1,0 +1,36 @@
+{
+  "key": "dandelin",
+  "repo": "https://github.com/jpbald93/dandelin",
+  "commit": "89309188e77f1564fd31cc9a2d245dbba1b34f8c",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "roots": [
+    "Dandelin"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/dandelin/repo",
+  "entries": 220,
+  "modules": 9,
+  "exported": 9,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 220,
+    "kept": 220,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 220,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 3129344,
+  "minutes": 4,
+  "finishedAt": "2026-11-17T16:12:58.516Z"
+}
