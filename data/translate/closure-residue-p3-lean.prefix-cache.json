@@ -1,0 +1,71 @@
+{
+  "P3/Basic.lean": {
+    "checkedAt": "2026-11-17T22:31:44.196Z",
+    "collisions": [
+      "P3.A"
+    ]
+  },
+  "P3/Closure.lean": {
+    "checkedAt": "2026-11-17T22:31:50.399Z",
+    "collisions": [
+      "P3.A"
+    ]
+  },
+  "P3/Coupling.lean": {
+    "checkedAt": "2026-11-17T22:31:59.622Z",
+    "collisions": [
+      "P3.A"
+    ]
+  },
+  "P3/Examples.lean": {
+    "checkedAt": "2026-11-17T22:32:04.128Z",
+    "collisions": [
+      "P3.A",
+      "P3.Two"
+    ]
+  },
+  "P3/Filtration.lean": {
+    "checkedAt": "2026-11-17T22:32:37.730Z",
+    "collisions": [
+      "P3.A"
+    ]
+  },
+  "P3/GraphIncidence.lean": {
+    "checkedAt": "2026-11-17T22:32:55.928Z",
+    "collisions": [
+      "P3.GraphVertexSpace"
+    ]
+  },
+  "P3/QDMR.lean": {
+    "checkedAt": "2026-11-17T22:33:07.031Z",
+    "collisions": [
+      "P3.A"
+    ]
+  },
+  "P3/QuadraticReturn.lean": {
+    "checkedAt": "2026-11-17T22:33:15.685Z",
+    "collisions": [
+      "P3.A"
+    ]
+  },
+  "P3/SaturatedStabilizer.lean": {
+    "checkedAt": "2026-11-17T22:33:24.921Z",
+    "collisions": [
+      "P3.A",
+      "P3.GraphVertexSpace",
+      "P3.componentConstant"
+    ]
+  },
+  "P3/Stabilizer.lean": {
+    "checkedAt": "2026-11-17T22:33:33.765Z",
+    "collisions": [
+      "P3.A"
+    ]
+  },
+  "P3/Support.lean": {
+    "checkedAt": "2026-11-17T22:33:38.873Z",
+    "collisions": [
+      "P3.A"
+    ]
+  }
+}
