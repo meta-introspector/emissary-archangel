@@ -1,0 +1,209 @@
+{
+  "RoundedRootSums/BlockReplacement.lean": {
+    "checkedAt": "2026-11-17T12:52:59.851Z",
+    "collisions": [
+      "RoundedRootSums.sqrt_block"
+    ]
+  },
+  "RoundedRootSums/IntervalSums.lean": {
+    "checkedAt": "2026-11-17T12:53:00.479Z",
+    "collisions": [
+      "RoundedRootSums.sum_Icc_split_succ"
+    ]
+  },
+  "RoundedRootSums/MainFormula.lean": {
+    "checkedAt": "2026-11-17T12:53:00.766Z",
+    "collisions": [
+      "RoundedRootSums.sqrt_block",
+      "RoundedRootSums.fullBlocks",
+      "RoundedRootSums.le_sqrt_iff_sq_le",
+      "RoundedRootSums.rootSum"
+    ]
+  },
+  "RoundedRootSums/MainTheorem.lean": {
+    "checkedAt": "2026-11-17T12:53:02.575Z",
+    "collisions": [
+      "RoundedRootSums.rootSum"
+    ]
+  },
+  "RoundedRootSums/NearestSum.lean": {
+    "checkedAt": "2026-11-17T12:53:02.855Z",
+    "collisions": [
+      "RoundedRootSums.nearestSqrt",
+      "RoundedRootSums.rootSum"
+    ]
+  },
+  "RoundedRootSums/PowerBlocks.lean": {
+    "checkedAt": "2026-11-17T12:53:13.518Z",
+    "collisions": [
+      "RoundedRootSums.squareBlock",
+      "RoundedRootSums.sqrt_block"
+    ]
+  },
+  "RoundedRootSums/RangeArithmetic.lean": {
+    "checkedAt": "2026-11-17T12:53:14.074Z",
+    "collisions": [
+      "RoundedRootSums.sum_const",
+      "RoundedRootSums.sum_id_range",
+      "RoundedRootSums.card_range",
+      "RoundedRootSums.sum_odd_range",
+      "RoundedRootSums.sum_squares_range_succ",
+      "RoundedRootSums.six_mul_sum_squares_range_succ",
+      "RoundedRootSums.sum_squares_Icc_eq_range"
+    ]
+  },
+  "RoundedRootSums/RationalShiftInversion.lean": {
+    "checkedAt": "2026-11-17T12:53:16.591Z",
+    "collisions": [
+      "RoundedRootSums.shiftedThreshold",
+      "RoundedRootSums.shiftedRoundedValueUpTo"
+    ]
+  },
+  "RoundedRootSums/RationalShiftNearestAntiderivative.lean": {
+    "checkedAt": "2026-11-17T12:53:25.127Z",
+    "collisions": [
+      "RoundedRootSums.shiftedPowerNumerator"
+    ]
+  },
+  "RoundedRootSums/RationalShiftNearestMean.lean": {
+    "checkedAt": "2026-11-17T12:53:44.117Z",
+    "collisions": [
+      "RoundedRootSums.nearestQRootValue",
+      "RoundedRootSums.shiftedPowerNumerator",
+      "RoundedRootSums.nearestQResidueStepExponent"
+    ]
+  },
+  "RoundedRootSums/RationalShiftQuotient.lean": {
+    "checkedAt": "2026-11-17T12:54:20.701Z",
+    "collisions": [
+      "RoundedRootSums.shiftedPowerNumerator",
+      "RoundedRootSums.shiftedPowerNumeratorSum"
+    ]
+  },
+  "RoundedRootSums/RationalShiftRealInversion.lean": {
+    "checkedAt": "2026-11-17T12:54:27.587Z",
+    "collisions": [
+      "RoundedRootSums.realShiftPower"
+    ]
+  },
+  "RoundedRootSums/RationalShiftResidue.lean": {
+    "checkedAt": "2026-11-17T12:54:34.700Z",
+    "collisions": [
+      "RoundedRootSums.shiftedPowerNumerator",
+      "RoundedRootSums.shiftedThreshold"
+    ]
+  },
+  "RoundedRootSums/ReciprocalRootSum.lean": {
+    "checkedAt": "2026-11-17T12:54:42.933Z",
+    "collisions": [
+      "RoundedRootSums.card_Icc_one_sqrt",
+      "RoundedRootSums.le_sqrt_iff_sq_le",
+      "RoundedRootSums.rootSum"
+    ]
+  },
+  "RoundedRootSums/RootSum.lean": {
+    "checkedAt": "2026-11-17T12:54:44.344Z",
+    "collisions": [
+      "RoundedRootSums.rootSum"
+    ]
+  },
+  "RoundedRootSums/RootSumSplit.lean": {
+    "checkedAt": "2026-11-17T12:54:44.619Z",
+    "collisions": [
+      "RoundedRootSums.rootSum"
+    ]
+  },
+  "RoundedRootSums/BlockSum.lean": {
+    "checkedAt": "2026-11-17T12:52:48.546Z",
+    "collisions": [
+      "RoundedRootSums.sqrt_block"
+    ]
+  },
+  "RoundedRootSums/Blocks.lean": {
+    "checkedAt": "2026-11-17T12:52:48.831Z",
+    "collisions": [
+      "RoundedRootSums.sqrt_block"
+    ]
+  },
+  "RoundedRootSums/CeilingSum.lean": {
+    "checkedAt": "2026-11-17T12:52:49.688Z",
+    "collisions": [
+      "RoundedRootSums.ceilSqrtSucc",
+      "RoundedRootSums.rootSum"
+    ]
+  },
+  "RoundedRootSums/DoubleCounting.lean": {
+    "checkedAt": "2026-11-17T12:52:51.351Z",
+    "collisions": [
+      "RoundedRootSums.rootSum"
+    ]
+  },
+  "RoundedRootSums/FiberCard.lean": {
+    "checkedAt": "2026-11-17T12:52:52.499Z",
+    "collisions": [
+      "RoundedRootSums.card_filter_product_eq_sum",
+      "RoundedRootSums.card_filter_product_eq_sum_right"
+    ]
+  },
+  "RoundedRootSums/RationalExponentReciprocity.lean": {
+    "checkedAt": "2026-11-17T12:52:53.063Z",
+    "collisions": [
+      "RoundedRootSums.rationalExponent",
+      "RoundedRootSums.realShiftPower"
+    ]
+  },
+  "RoundedRootSums/RationalShift.lean": {
+    "checkedAt": "2026-11-17T12:53:03.654Z",
+    "collisions": [
+      "RoundedRootSums.shiftedThreshold"
+    ]
+  },
+  "RoundedRootSums/RationalShiftBernoulli.lean": {
+    "checkedAt": "2026-11-17T12:53:07.172Z",
+    "collisions": [
+      "RoundedRootSums.shiftedPowerNumerator",
+      "RoundedRootSums.shiftedThreshold"
+    ]
+  },
+  "RoundedRootSums/RationalShiftNearest.lean": {
+    "checkedAt": "2026-11-17T12:53:08.221Z",
+    "collisions": [
+      "RoundedRootSums.shiftedThreshold",
+      "RoundedRootSums.shiftedPowerNumerator",
+      "RoundedRootSums.nearestQRootValue"
+    ]
+  },
+  "RoundedRootSums/RationalShiftNearestFourier.lean": {
+    "checkedAt": "2026-11-17T12:53:36.653Z",
+    "collisions": [
+      "RoundedRootSums.shiftedPowerNumerator"
+    ]
+  },
+  "RoundedRootSums/RationalShiftNearestSymmetry.lean": {
+    "checkedAt": "2026-11-17T12:53:59.248Z",
+    "collisions": [
+      "RoundedRootSums.shiftedPowerNumerator"
+    ]
+  },
+  "RoundedRootSums/RationalShiftRoot.lean": {
+    "checkedAt": "2026-11-17T12:54:56.133Z",
+    "collisions": [
+      "RoundedRootSums.shiftedRealRoot",
+      "RoundedRootSums.shiftedRoundedValueUpTo",
+      "RoundedRootSums.shiftedThreshold"
+    ]
+  },
+  "RoundedRootSums/ReciprocalRoot.lean": {
+    "checkedAt": "2026-11-17T12:55:00.879Z",
+    "collisions": [
+      "RoundedRootSums.le_sqrt_iff_sq_le",
+      "RoundedRootSums.reciprocalCount"
+    ]
+  },
+  "RoundedRootSums/SumLemmas.lean": {
+    "checkedAt": "2026-11-17T12:55:01.433Z",
+    "collisions": [
+      "RoundedRootSums.sum_range_split_sub"
+    ]
+  }
+}
