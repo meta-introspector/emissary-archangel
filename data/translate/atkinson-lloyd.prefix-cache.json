@@ -1,0 +1,22 @@
+{
+  "AtkinsonLloyd/Defs.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T18:53:50.837Z"
+  },
+  "AtkinsonLloyd/Dichotomy.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T18:53:54.884Z"
+  },
+  "AtkinsonLloyd/Flanders.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T18:54:26.671Z"
+  },
+  "AtkinsonLloyd/Minors.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T18:55:00.656Z"
+  },
+  "AtkinsonLloyd/Rect.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T18:55:04.309Z"
+  }
+}
