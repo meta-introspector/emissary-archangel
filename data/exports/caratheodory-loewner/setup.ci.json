@@ -1,0 +1,38 @@
+{
+  "key": "caratheodory-loewner",
+  "repo": "https://github.com/Paul-Lez/caratheodory-loewner",
+  "commit": "7ad96921225bc6994bc9d8aea9d8ad314afe93ee",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "roots": [
+    "Challenge",
+    "Examples",
+    "Solution"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/caratheodory-loewner/repo",
+  "entries": 0,
+  "modules": 0,
+  "exported": 0,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 301,
+    "kept": 0,
+    "skippedRoot": 301,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 0,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 4096,
+  "minutes": 1,
+  "finishedAt": "2026-11-17T15:28:12.414Z"
+}
