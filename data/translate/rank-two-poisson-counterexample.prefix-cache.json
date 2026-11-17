@@ -1,0 +1,104 @@
+{
+  "RankTwoPoisson/CharacteristicZero.lean": {
+    "checkedAt": "2026-11-17T18:21:18.365Z",
+    "collisions": [
+      "RankTwoPoisson.Var"
+    ]
+  },
+  "RankTwoPoisson/Core.lean": {
+    "checkedAt": "2026-11-17T18:21:30.811Z",
+    "collisions": [
+      "RankTwoPoisson.Core.CoreVar"
+    ]
+  },
+  "RankTwoPoisson/CoreGeometry.lean": {
+    "checkedAt": "2026-11-17T18:21:46.012Z",
+    "collisions": [
+      "RankTwoPoisson.Core.CoreVar"
+    ]
+  },
+  "RankTwoPoisson/ExactFiber.lean": {
+    "checkedAt": "2026-11-17T18:25:19.214Z",
+    "collisions": [
+      "RankTwoPoisson.Fiber.rValue",
+      "RankTwoPoisson.Var"
+    ]
+  },
+  "RankTwoPoisson/HigherRank.lean": {
+    "checkedAt": "2026-11-17T18:29:20.901Z",
+    "collisions": [
+      "RankTwoPoisson.Var",
+      "RankTwoPoisson.HigherRank.Vars"
+    ]
+  },
+  "RankTwoPoisson/Poisson.lean": {
+    "checkedAt": "2026-11-17T18:33:28.487Z",
+    "collisions": [
+      "RankTwoPoisson.Var"
+    ]
+  },
+  "RankTwoPoisson/PoissonCalculus.lean": {
+    "checkedAt": "2026-11-17T18:36:40.238Z",
+    "collisions": [
+      "RankTwoPoisson.Calculus.pderiv_comm",
+      "RankTwoPoisson.Var"
+    ]
+  },
+  "RankTwoPoisson/SourceEquivalence.lean": {
+    "checkedAt": "2026-11-17T18:41:11.249Z",
+    "collisions": [
+      "RankTwoPoisson.Var"
+    ]
+  },
+  "RankTwoPoisson/Symplectic.lean": {
+    "checkedAt": "2026-11-17T18:46:23.758Z",
+    "collisions": [
+      "RankTwoPoisson.Symplectic.omega",
+      "RankTwoPoisson.Var"
+    ]
+  },
+  "RankTwoPoisson/WeylAlgebra.lean": {
+    "checkedAt": "2026-11-17T18:51:37.626Z",
+    "collisions": [
+      "RankTwoPoisson.Var"
+    ]
+  },
+  "RankTwoPoisson/Complex.lean": {
+    "checkedAt": "2026-11-17T20:02:19.850Z",
+    "collisions": [
+      "RankTwoPoisson.Var"
+    ]
+  },
+  "RankTwoPoisson/DerivativeCertificate.lean": {
+    "checkedAt": "2026-11-17T20:02:30.506Z",
+    "collisions": [
+      "RankTwoPoisson.Core.DerivativeCertificate.P1",
+      "RankTwoPoisson.Core.CoreVar"
+    ]
+  },
+  "RankTwoPoisson/InducedBracket.lean": {
+    "checkedAt": "2026-11-17T20:07:36.036Z",
+    "collisions": [
+      "RankTwoPoisson.Var",
+      "RankTwoPoisson.Core.CoreVar"
+    ]
+  },
+  "RankTwoPoisson/SourceCoordinates.lean": {
+    "checkedAt": "2026-11-17T20:48:45.737Z",
+    "collisions": [
+      "RankTwoPoisson.Var"
+    ]
+  },
+  "RankTwoPoisson/SourceForms.lean": {
+    "checkedAt": "2026-11-17T20:52:30.489Z",
+    "collisions": [
+      "RankTwoPoisson.Var"
+    ]
+  },
+  "RankTwoPoisson/WeylEndomorphism.lean": {
+    "checkedAt": "2026-11-17T21:00:53.163Z",
+    "collisions": [
+      "RankTwoPoisson.Var"
+    ]
+  }
+}
