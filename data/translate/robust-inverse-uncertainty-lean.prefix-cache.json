@@ -1,0 +1,32 @@
+{
+  "LeanFormalization/Analytic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T20:51:00.725Z"
+  },
+  "LeanFormalization/Basic.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T21:05:49.769Z"
+  },
+  "LeanFormalization/Combinatorial.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T21:07:17.261Z"
+  },
+  "LeanFormalization/Internal/Bridge.lean": {
+    "checkedAt": "2026-11-17T21:46:13.701Z",
+    "collisions": [
+      "RobustInverseUncertainty.Internal.dualCoset_eq_affineSubspacePoints_perp",
+      "RobustInverseUncertainty.Internal.normalizedCosetState_eq",
+      "RobustInverseUncertainty.Specification.HiddenCosetApproximation"
+    ]
+  },
+  "LeanFormalization/Robust.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T21:49:34.349Z"
+  },
+  "LeanFormalization/Theorem.lean": {
+    "checkedAt": "2026-11-17T21:55:46.480Z",
+    "collisions": [
+      "RobustInverseUncertainty.Specification.HiddenCosetApproximation"
+    ]
+  }
+}
