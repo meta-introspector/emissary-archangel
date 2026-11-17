@@ -1,0 +1,38 @@
+{
+  "key": "tusnady-lean",
+  "repo": "https://github.com/wzskytop/tusnady-lean",
+  "commit": "6f14d177668e79a9155f7cd60496313514ad0c9e",
+  "toolchain": "leanprover/lean4:v4.34.1",
+  "roots": [
+    "Oscillation",
+    "R56Audit",
+    "Riesz"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/tusnady-lean/repo",
+  "entries": 1067,
+  "modules": 89,
+  "exported": 89,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 1067,
+    "kept": 1067,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 1067,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 21594112,
+  "minutes": 8,
+  "finishedAt": "2026-11-17T16:06:47.932Z"
+}
