@@ -1,0 +1,38 @@
+{
+  "key": "factorial-hypergraph-auxiliary-erdos",
+  "repo": "https://github.com/GrgAakash/factorial-hypergraph-auxiliary-erdos",
+  "commit": "3ccba6ac4ae0f362ea188bdf5991734e48eebb15",
+  "toolchain": "leanprover/lean4:v4.33.0",
+  "roots": [
+    "Challenge",
+    "FactorialHypergraph",
+    "Solution"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/factorial-hypergraph-auxiliary-erdos/repo",
+  "entries": 294,
+  "modules": 28,
+  "exported": 28,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 295,
+    "kept": 294,
+    "skippedRoot": 1,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 294,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 4964352,
+  "minutes": 7,
+  "finishedAt": "2026-11-17T15:34:13.362Z"
+}
