@@ -1,0 +1,136 @@
+{
+  "TubalTensor/Defs/Basic.lean": {
+    "checkedAt": "2026-11-17T23:42:08.150Z",
+    "collisions": [
+      "TubalTensor.vecHadamard"
+    ]
+  },
+  "TubalTensor/Defs/TubalRing.lean": {
+    "checkedAt": "2026-11-17T23:42:14.651Z",
+    "collisions": [
+      "TubalTensor.TubalCarrier"
+    ]
+  },
+  "TubalTensor/MainTheorem/MainTheorem.lean": {
+    "checkedAt": "2026-11-17T23:42:25.705Z",
+    "collisions": [
+      "TubalTensor.TubalCarrier"
+    ]
+  },
+  "TubalTensor/MainTheorem/SubFields.lean": {
+    "checkedAt": "2026-11-17T23:42:29.610Z",
+    "collisions": [
+      "TubalTensor.TubalCarrier",
+      "TubalTensor.IsMatDiag"
+    ]
+  },
+  "TubalTensor/MainTheorem/SubRings.lean": {
+    "checkedAt": "2026-11-17T23:45:05.217Z",
+    "collisions": [
+      "TubalTensor.TubalCarrier"
+    ]
+  },
+  "TubalTensor/Prerequisites/Frobenius.lean": {
+    "checkedAt": "2026-11-17T23:45:38.110Z",
+    "collisions": [
+      "TubalTensor.comm_frobenius"
+    ]
+  },
+  "TubalTensor/Prerequisites/JointDiag.lean": {
+    "checkedAt": "2026-11-17T23:45:38.782Z",
+    "collisions": [
+      "TubalTensor.IsMatDiag"
+    ]
+  },
+  "TubalTensor/Prerequisites/Norms.lean": {
+    "checkedAt": "2026-11-17T23:45:50.952Z",
+    "collisions": [
+      "TubalTensor.frobNormSq"
+    ]
+  },
+  "TubalTensor/Prerequisites/SVD.lean": {
+    "checkedAt": "2026-11-17T23:45:51.528Z",
+    "collisions": [
+      "TubalTensor.IsUnitary"
+    ]
+  },
+  "TubalTensor/RingStructure/Classification/Canonical.lean": {
+    "checkedAt": "2026-11-17T23:57:41.591Z",
+    "collisions": [
+      "TubalTensor.map_ofReal_mul",
+      "TubalTensor.map_ofReal_one",
+      "TubalTensor.map_ofReal_re_of_im_zero",
+      "TubalTensor.inv_real_of_real",
+      "TubalTensor.transportAlgEquiv",
+      "TubalTensor.IsRealRow"
+    ]
+  },
+  "TubalTensor/TransformDomain/FacewiseProduct.lean": {
+    "checkedAt": "2026-11-17T23:57:58.473Z",
+    "collisions": [
+      "TubalTensor.facewise"
+    ]
+  },
+  "TubalTensor/Defs/RealPaired.lean": {
+    "checkedAt": "2026-11-17T23:36:46.482Z",
+    "collisions": [
+      "TubalTensor.IsRealRow"
+    ]
+  },
+  "TubalTensor/MainTheorem/Diagonalizable.lean": {
+    "checkedAt": "2026-11-17T23:36:52.001Z",
+    "collisions": [
+      "TubalTensor.TubalCarrier",
+      "TubalTensor.IsMatDiag"
+    ]
+  },
+  "TubalTensor/MainTheorem/RepMatrix.lean": {
+    "checkedAt": "2026-11-17T23:37:32.483Z",
+    "collisions": [
+      "TubalTensor.TubalCarrier"
+    ]
+  },
+  "TubalTensor/Modules/TensorMatrix.lean": {
+    "checkedAt": "2026-11-17T23:37:48.883Z",
+    "collisions": [
+      "TubalTensor.IsRealRow"
+    ]
+  },
+  "TubalTensor/Prerequisites/EckartYoung.lean": {
+    "checkedAt": "2026-11-17T23:37:50.203Z",
+    "collisions": [
+      "TubalTensor.weighted_sum_le_head"
+    ]
+  },
+  "TubalTensor/Prerequisites/MatDiagBridge.lean": {
+    "checkedAt": "2026-11-17T23:37:52.788Z",
+    "collisions": [
+      "TubalTensor.IsMatDiag"
+    ]
+  },
+  "TubalTensor/RingStructure/Classification/Realness.lean": {
+    "checkedAt": "2026-11-17T23:37:55.585Z",
+    "collisions": [
+      "TubalTensor.IsRealRow"
+    ]
+  },
+  "TubalTensor/RingStructure/CommRing.lean": {
+    "checkedAt": "2026-11-17T23:37:55.951Z",
+    "collisions": [
+      "TubalTensor.IsRealRow"
+    ]
+  },
+  "TubalTensor/RingStructure/WeakInverse.lean": {
+    "checkedAt": "2026-11-17T23:37:59.704Z",
+    "collisions": [
+      "TubalTensor.vecPseudoInv",
+      "TubalTensor.IsRealRow"
+    ]
+  },
+  "TubalTensor/TSVD/TubalEckartYoung.lean": {
+    "checkedAt": "2026-11-17T23:38:03.193Z",
+    "collisions": [
+      "TubalTensor.IsRealRow"
+    ]
+  }
+}
