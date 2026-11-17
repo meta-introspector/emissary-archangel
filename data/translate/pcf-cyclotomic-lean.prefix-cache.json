@@ -1,0 +1,166 @@
+{
+  "IngramMello/CasselsDecomposition.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T12:36:09.392Z",
+    "collisions": [
+      "IngramMello.IsRootOfUnityC"
+    ]
+  },
+  "IngramMello/CasselsHeight.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T12:36:55.796Z",
+    "collisions": [
+      "IngramMello.IsRootOfUnityC"
+    ]
+  },
+  "IngramMello/Escape.lean": {
+    "checkedAt": "2026-11-17T12:40:59.618Z",
+    "collisions": [
+      "IngramMello.IsRootOfUnityC",
+      "IngramMello.natDegree_monicCentred_sum_le",
+      "IngramMello.critProd",
+      "IngramMello.vbdd_add",
+      "IngramMello.vbdd_neg",
+      "IngramMello.vbdd_mul",
+      "IngramMello.vbdd_pow",
+      "IngramMello.vbdd_sum",
+      "IngramMello.le_inv_of_vbdd",
+      "IngramMello.vbdd_of_le_inv",
+      "IngramMello.val_eval_eq_pow",
+      "IngramMello.Escapes"
+    ]
+  },
+  "IngramMello/EscapeArch.lean": {
+    "checkedAt": "2026-11-17T12:42:55.185Z",
+    "collisions": [
+      "IngramMello.critProd",
+      "IngramMello.IsRootOfUnityC"
+    ]
+  },
+  "IngramMello/Hajos.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T12:46:45.101Z"
+  },
+  "IngramMello/IngramForms.lean": {
+    "checkedAt": "2026-11-17T12:47:30.454Z",
+    "collisions": [
+      "IngramMello.critProd"
+    ]
+  },
+  "IngramMello/LaurentOrder.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T12:47:48.083Z"
+  },
+  "IngramMello/LaurentProof.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T12:48:25.191Z",
+    "collisions": [
+      "IngramMello.IsRootOfUnityC"
+    ]
+  },
+  "IngramMello/LinearForm.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T12:53:58.148Z",
+    "collisions": [
+      "IngramMello.IsRootOfUnityC"
+    ]
+  },
+  "IngramMello/Projection.lean": {
+    "checkedAt": "2026-11-17T12:54:06.806Z",
+    "collisions": [
+      "IngramMello.MvLaurent.pullbackOver",
+      "IngramMello.IsRootOfUnityC"
+    ]
+  },
+  "IngramMello/Resultants.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T13:08:53.252Z",
+    "collisions": [
+      "IngramMello.IsRootOfUnityC"
+    ]
+  },
+  "IngramMello/TorsionCoeffDescent.lean": {
+    "checkedAt": "2026-11-17T13:16:11.226Z",
+    "collisions": [
+      "IngramMello.MvLaurent.mapCoeffLinear",
+      "IngramMello.IsRootOfUnityC"
+    ]
+  },
+  "IngramMello/CasselsIdentities.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T12:31:49.231Z"
+  },
+  "IngramMello/Descent.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T12:36:07.690Z",
+    "collisions": [
+      "IngramMello.IsRootOfUnityC"
+    ]
+  },
+  "IngramMello/DvornicichZannier.lean": {
+    "checkedAt": "2026-11-17T12:41:05.687Z",
+    "collisions": [
+      "IngramMello.IsRootOfUnityC",
+      "IngramMello.omegaD",
+      "IngramMello.omegaB"
+    ]
+  },
+  "IngramMello/Exceptional.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T13:37:25.582Z"
+  },
+  "IngramMello/IngramBound.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T13:37:33.840Z",
+    "collisions": [
+      "IngramMello.IsRootOfUnityC"
+    ]
+  },
+  "IngramMello/Loxton.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T13:46:22.603Z"
+  },
+  "IngramMello/Mann.lean": {
+    "checkedAt": "2026-11-17T13:46:23.513Z",
+    "collisions": [
+      "IngramMello.sum_pow_mul_primitiveRoot",
+      "IngramMello.eq_of_dvd_add_sub",
+      "IngramMello.IsRootOfUnityC"
+    ]
+  },
+  "IngramMello/Paper.lean": {
+    "checkedAt": "2026-11-17T13:54:50.210Z",
+    "collisions": [
+      "IngramMello.IsRootOfUnityC"
+    ]
+  },
+  "IngramMello/Places.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T14:36:36.798Z"
+  },
+  "IngramMello/SuperAttracting.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T14:36:57.985Z"
+  },
+  "IngramMello/SuperAttractingAlg.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T14:39:34.468Z"
+  },
+  "IngramMello/SuperAttractingProof.lean": {
+    "checkedAt": "2026-11-17T14:39:43.086Z",
+    "collisions": [
+      "IngramMello.critProd"
+    ]
+  },
+  "IngramMello/Torsion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T15:20:08.578Z"
+  },
+  "IngramMello/TorsionFiber.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T15:20:14.686Z",
+    "collisions": [
+      "IngramMello.IsRootOfUnityC"
+    ]
+  }
+}
