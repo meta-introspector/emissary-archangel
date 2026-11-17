@@ -1,0 +1,97 @@
+{
+  "JacobianTwo/AffineCoordinate.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T01:45:33.332Z"
+  },
+  "JacobianTwo/AffineInOneVariable.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T01:47:43.824Z"
+  },
+  "JacobianTwo/ConstantLeadingQuadratic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T01:47:53.604Z"
+  },
+  "JacobianTwo/Counterexample.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T01:47:58.562Z"
+  },
+  "JacobianTwo/CubicFiber.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T01:48:08.967Z"
+  },
+  "JacobianTwo/FractionRingDerivative.lean": {
+    "checkedAt": "2026-11-17T01:48:32.858Z",
+    "collisions": [
+      "JacobianTwo.FractionRingDerivative.ratFuncFractionRingEquiv"
+    ]
+  },
+  "JacobianTwo/QuadraticClearedEval.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T01:48:46.533Z"
+  },
+  "JacobianTwo/QuadraticDenominator.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T01:48:50.407Z"
+  },
+  "JacobianTwo/QuadraticDenominatorDescent.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T01:49:00.507Z"
+  },
+  "JacobianTwo/QuadraticDirectPackage.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T01:52:36.832Z"
+  },
+  "JacobianTwo/QuadraticInOneVariable.lean": {
+    "checkedAt": "2026-11-17T01:59:03.215Z",
+    "collisions": [
+      "JacobianTwo.QuadraticInOneVariable.eq_C_mul_pow_of_differential_eq"
+    ]
+  },
+  "JacobianTwo/QuadraticParityExtraction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T02:05:22.110Z"
+  },
+  "JacobianTwo/QuadraticParityJacobian.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T02:05:23.248Z"
+  },
+  "JacobianTwo/QuadraticRecurrence.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T02:05:24.708Z"
+  },
+  "JacobianTwo/QuadraticRecurrencePrimitive.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T02:05:28.843Z"
+  },
+  "JacobianTwo/QuadraticReduction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T02:05:54.923Z"
+  },
+  "JacobianTwo/QuadraticSpecialization.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T02:11:19.882Z"
+  },
+  "JacobianTwo/QuadraticTransportJacobian.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T02:11:26.261Z"
+  },
+  "JacobianTwo/QuadraticUnitConclusion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T02:16:08.753Z"
+  },
+  "JacobianTwo/RatFuncDerivative.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-17T02:16:10.539Z",
+    "collisions": [
+      "JacobianTwo.RatFuncDerivative.rationalDerivativeDerivation"
+    ]
+  },
+  "JacobianTwo/VariableLeadingQuadratic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T02:16:53.423Z"
+  },
+  "JacobianTwo/VariableLeadingQuadraticConclusion.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-17T02:17:29.771Z"
+  }
+}
