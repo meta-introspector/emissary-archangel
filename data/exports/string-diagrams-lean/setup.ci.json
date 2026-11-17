@@ -1,0 +1,36 @@
+{
+  "key": "string-diagrams-lean",
+  "repo": "https://github.com/apellis/string-diagrams-lean",
+  "commit": "8ae261b120e748db9f79fa3179028fa5617c996f",
+  "toolchain": "leanprover/lean4:v4.34.1",
+  "roots": [
+    "StringDiagrams"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/string-diagrams-lean/repo",
+  "entries": 7251,
+  "modules": 298,
+  "exported": 298,
+  "failed": [],
+  "expansion": {
+    "expanded": 9,
+    "verbatim": 8872,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 7251,
+    "kept": 7251,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 150,
+    "lineUnverified": 3,
+    "nameFixed": 7251,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 1037881344,
+  "minutes": 69,
+  "finishedAt": "2026-11-17T00:08:54.105Z"
+}
