@@ -1,0 +1,36 @@
+{
+  "key": "atkinson-lloyd",
+  "repo": "https://github.com/jarfo/atkinson-lloyd",
+  "commit": "3693118c68445a994b6caf04790e9915cdd25365",
+  "toolchain": "leanprover/lean4:v4.33.0-rc1",
+  "roots": [
+    "AtkinsonLloyd"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/atkinson-lloyd/repo",
+  "entries": 121,
+  "modules": 6,
+  "exported": 6,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 121,
+    "kept": 121,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 6,
+    "lineUnverified": 0,
+    "nameFixed": 121,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 3108864,
+  "minutes": 2,
+  "finishedAt": "2026-11-17T15:58:40.736Z"
+}
