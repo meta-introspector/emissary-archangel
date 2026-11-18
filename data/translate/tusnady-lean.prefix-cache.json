@@ -1,0 +1,571 @@
+{
+  "Oscillation/Accumulation.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-18T11:32:18.690Z",
+    "collisions": [
+      "Oscillation.finAvg"
+    ]
+  },
+  "Oscillation/BoundedDifferences.lean": {
+    "checkedAt": "2026-11-18T11:32:36.530Z",
+    "collisions": [
+      "Oscillation.finAvg"
+    ]
+  },
+  "Oscillation/CenteredFluctuations.lean": {
+    "checkedAt": "2026-11-18T11:32:38.292Z",
+    "collisions": [
+      "Oscillation.finAvg",
+      "Oscillation.endpointWeight"
+    ]
+  },
+  "Oscillation/CoordinateProduct.lean": {
+    "checkedAt": "2026-11-18T11:33:06.430Z",
+    "collisions": [
+      "Oscillation.coordinateSampleLaw"
+    ]
+  },
+  "Oscillation/DirectScale.lean": {
+    "checkedAt": "2026-11-18T11:33:14.543Z",
+    "collisions": [
+      "Oscillation.histogram",
+      "Oscillation.coordinateSampleLaw",
+      "Oscillation.endpointWeight",
+      "Oscillation.Parameters.Admissible"
+    ]
+  },
+  "Oscillation/FixedScalePrelude.lean": {
+    "checkedAt": "2026-11-18T11:34:45.906Z",
+    "collisions": [
+      "Oscillation.endpointValue_abs_le",
+      "Oscillation.lowerHalfIndex"
+    ]
+  },
+  "Oscillation/HistogramTransport.lean": {
+    "checkedAt": "2026-11-18T11:34:49.744Z",
+    "collisions": [
+      "Oscillation.histogram",
+      "Oscillation.bucketProbability"
+    ]
+  },
+  "Oscillation/Model.lean": {
+    "checkedAt": "2026-11-18T11:34:52.163Z",
+    "collisions": [
+      "Oscillation.endpointWeight"
+    ]
+  },
+  "Oscillation/RectangularBuckets.lean": {
+    "checkedAt": "2026-11-18T11:34:57.558Z",
+    "collisions": [
+      "Oscillation.finiteGridIndex_predicate_real",
+      "Oscillation.interiorSubcell",
+      "Oscillation.histogram"
+    ]
+  },
+  "Oscillation/RowComparison.lean": {
+    "checkedAt": "2026-11-18T11:35:00.797Z",
+    "collisions": [
+      "Oscillation.lowerHalfIndex",
+      "Oscillation.endpointWeight"
+    ]
+  },
+  "Oscillation/StageBasics.lean": {
+    "checkedAt": "2026-11-18T11:35:04.725Z",
+    "collisions": [
+      "Oscillation.stagePotential",
+      "Oscillation.endpointWeight",
+      "Oscillation.endpointValue_abs_le",
+      "Oscillation.lowerHalfIndex"
+    ]
+  },
+  "Oscillation/StageCrowding.lean": {
+    "checkedAt": "2026-11-18T11:35:15.732Z",
+    "collisions": [
+      "Oscillation.histogram",
+      "Oscillation.finAvg"
+    ]
+  },
+  "Oscillation/Stages.lean": {
+    "checkedAt": "2026-11-18T11:35:52.646Z",
+    "collisions": [
+      "Oscillation.endpointWeight",
+      "Oscillation.finAvg_exp_centered_le",
+      "Oscillation.finAvg"
+    ]
+  },
+  "Oscillation/UnionScale.lean": {
+    "checkedAt": "2026-11-18T11:36:15.620Z",
+    "collisions": [
+      "Oscillation.finiteGridIndex_predicate_real",
+      "Oscillation.histogram"
+    ]
+  },
+  "R56Audit/ConditionalLaw.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-18T11:37:45.316Z"
+  },
+  "R56Audit/EndpointAverage.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-18T11:37:56.536Z",
+    "collisions": [
+      "R56Audit.F"
+    ]
+  },
+  "R56Audit/LocalGain.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-18T11:38:34.138Z",
+    "collisions": [
+      "R56Audit.maxOn"
+    ]
+  },
+  "R56Audit/Parameters.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-18T11:41:34.495Z",
+    "collisions": [
+      "R56Audit.F"
+    ]
+  },
+  "R56Audit/StageFiltration.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-18T11:53:09.194Z",
+    "collisions": [
+      "R56Audit.maxOn"
+    ]
+  },
+  "R56Audit/SuccessiveConditioning.lean": {
+    "checkedAt": "2026-11-18T12:14:48.258Z",
+    "collisions": [
+      "R56Audit.stronglyMeasurable_prod_range",
+      "R56Audit.measureReal_le_exp_mul_integral_exp_neg"
+    ]
+  },
+  "Riesz/Exponential.lean": {
+    "checkedAt": "2026-11-18T12:14:54.375Z",
+    "collisions": [
+      "Riesz.hasSubgaussianMGF_centered_bounded"
+    ]
+  },
+  "Riesz/FinitePartition.lean": {
+    "checkedAt": "2026-11-18T12:14:56.655Z",
+    "collisions": [
+      "Riesz.sum_grouped_product",
+      "Riesz.card_eq_sum_fiber_card"
+    ]
+  },
+  "Riesz/GridRefinement.lean": {
+    "checkedAt": "2026-11-18T12:14:57.886Z",
+    "collisions": [
+      "Riesz.fiberMean",
+      "Riesz.PointSets.μI"
+    ]
+  },
+  "Riesz/PointSets.lean": {
+    "checkedAt": "2026-11-18T12:15:04.373Z",
+    "collisions": [
+      "Riesz.PointSets.μI"
+    ]
+  },
+  "Riesz/Target.lean": {
+    "checkedAt": "2026-11-18T12:15:12.672Z",
+    "collisions": [
+      "Riesz.PointSets.μI"
+    ]
+  },
+  "Oscillation/AveragedComparison.lean": {
+    "checkedAt": "2026-11-18T11:15:00.632Z",
+    "collisions": [
+      "Oscillation.endpointWeight"
+    ]
+  },
+  "Oscillation/DirectCounting.lean": {
+    "checkedAt": "2026-11-18T11:15:00.944Z",
+    "collisions": [
+      "Oscillation.Direct.half_sample_bound",
+      "Oscillation.histogram",
+      "Oscillation.Direct.count"
+    ]
+  },
+  "Oscillation/FiniteAverage.lean": {
+    "checkedAt": "2026-11-18T11:15:03.999Z",
+    "collisions": [
+      "Oscillation.finAvg"
+    ]
+  },
+  "Oscillation/FixedScale.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-18T11:29:33.501Z",
+    "collisions": [
+      "Oscillation.endpointWeight",
+      "Oscillation.lowerHalfIndex",
+      "Oscillation.endpointValue_abs_le"
+    ]
+  },
+  "Oscillation/Histogram.lean": {
+    "checkedAt": "2026-11-18T11:30:29.595Z",
+    "collisions": [
+      "Oscillation.histogram"
+    ]
+  },
+  "Oscillation/Parameters.lean": {
+    "checkedAt": "2026-11-18T11:30:36.031Z",
+    "collisions": [
+      "Oscillation.Parameters.Admissible"
+    ]
+  },
+  "Oscillation/R17Parameters.lean": {
+    "checkedAt": "2026-11-18T11:30:49.470Z",
+    "collisions": [
+      "Oscillation.Parameters.Admissible",
+      "Oscillation.histogram"
+    ]
+  },
+  "Oscillation/R17Scale.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-18T11:31:28.252Z",
+    "collisions": [
+      "Oscillation.coordinateSampleLaw",
+      "Oscillation.histogram"
+    ]
+  },
+  "Oscillation/Rademacher.lean": {
+    "checkedAt": "2026-11-18T11:33:16.261Z",
+    "collisions": [
+      "Oscillation.finAvg",
+      "Oscillation.boolSign"
+    ]
+  },
+  "Oscillation/RealGrid.lean": {
+    "checkedAt": "2026-11-18T11:33:18.578Z",
+    "collisions": [
+      "Oscillation.endpointWeight",
+      "Oscillation.sampleCells"
+    ]
+  },
+  "Oscillation/SequentialCrowding.lean": {
+    "checkedAt": "2026-11-18T11:33:23.842Z",
+    "collisions": [
+      "Oscillation.Direct.half_sample_bound",
+      "Oscillation.histogram"
+    ]
+  },
+  "R56Audit/AllBases.lean": {
+    "checkedAt": "2026-11-18T11:33:50.610Z",
+    "collisions": [
+      "R56Audit.maxOn",
+      "R56Audit.F"
+    ]
+  },
+  "R56Audit/ArchiveRoute.lean": {
+    "checkedAt": "2026-11-18T11:35:33.752Z",
+    "collisions": [
+      "R56Audit.F"
+    ]
+  },
+  "R56Audit/ConditionalGain.lean": {
+    "checkedAt": "2026-11-18T11:42:56.237Z",
+    "collisions": [
+      "R56Audit.F"
+    ]
+  },
+  "R56Audit/Crowding.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T11:46:22.067Z"
+  },
+  "R56Audit/Fluctuations.lean": {
+    "checkedAt": "2026-11-18T11:50:30.814Z",
+    "collisions": [
+      "R56Audit.maxOn",
+      "R56Audit.F"
+    ]
+  },
+  "R56Audit/GoodTransitions.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-18T12:20:39.596Z"
+  },
+  "R56Audit/GoodTransitionsArchive.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T12:21:43.727Z"
+  },
+  "R56Audit/GridDrift.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T12:21:47.666Z"
+  },
+  "R56Audit/Influence.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T12:22:07.571Z"
+  },
+  "R56Audit/Osc.lean": {
+    "checkedAt": "2026-11-18T12:22:08.152Z",
+    "collisions": [
+      "R56Audit.maxOn"
+    ]
+  },
+  "R56Audit/SymmetricSums.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-18T12:22:26.591Z"
+  },
+  "Riesz/Dyadic.lean": {
+    "checkedAt": "2026-11-18T12:22:49.391Z",
+    "collisions": [
+      "Riesz.profile"
+    ]
+  },
+  "Riesz/UniformGrid.lean": {
+    "checkedAt": "2026-11-18T12:24:52.204Z",
+    "collisions": [
+      "Riesz.fiberMean",
+      "Riesz.PointSets.μI",
+      "Riesz.profile"
+    ]
+  },
+  "Oscillation/DirectParameters.lean": {
+    "checkedAt": "2026-11-18T11:24:53.273Z",
+    "collisions": [
+      "Oscillation.Parameters.Admissible",
+      "Oscillation.density_laplace_coefficient",
+      "Oscillation.histogram"
+    ]
+  },
+  "Oscillation/DriftAssembly.lean": {
+    "checkedAt": "2026-11-18T11:42:06.829Z",
+    "collisions": [
+      "Oscillation.endpointWeight"
+    ]
+  },
+  "Oscillation/Exponential.lean": {
+    "checkedAt": "2026-11-18T11:42:16.263Z",
+    "collisions": [
+      "Oscillation.integrable_exp_of_bounded",
+      "Oscillation.memLp_exp_of_bounded",
+      "Oscillation.finAvg"
+    ]
+  },
+  "Oscillation/FinalReduction.lean": {
+    "checkedAt": "2026-11-18T11:42:18.242Z",
+    "collisions": [
+      "Oscillation.scaleThreshold",
+      "Oscillation.Parameters.Admissible"
+    ]
+  },
+  "Oscillation/GeometryBounds.lean": {
+    "checkedAt": "2026-11-18T11:42:18.876Z",
+    "collisions": [
+      "Oscillation.lowerHalfIndex",
+      "Oscillation.endpointWeight"
+    ]
+  },
+  "Oscillation/Influence.lean": {
+    "checkedAt": "2026-11-18T11:42:21.444Z",
+    "collisions": [
+      "Oscillation.endpointWeight",
+      "Oscillation.sum_sub_single",
+      "Oscillation.sum_fin_mul",
+      "Oscillation.sum_fin_indicator"
+    ]
+  },
+  "Oscillation/Main.lean": {
+    "checkedAt": "2026-11-18T11:43:13.883Z",
+    "collisions": [
+      "Oscillation.histogram"
+    ]
+  },
+  "Oscillation/PaperGoodTransitions.lean": {
+    "checkedAt": "2026-11-18T11:43:38.348Z",
+    "collisions": [
+      "Oscillation.histogram",
+      "Oscillation.Direct.half_sample_bound"
+    ]
+  },
+  "Oscillation/R65.lean": {
+    "checkedAt": "2026-11-18T11:46:45.290Z",
+    "collisions": [
+      "Oscillation.histogram"
+    ]
+  },
+  "R56Audit/Digits.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T12:20:57.216Z"
+  },
+  "R56Audit/Notation.lean": {
+    "checkedAt": "2026-11-18T12:20:57.807Z",
+    "collisions": [
+      "R56Audit.F"
+    ]
+  },
+  "R56Audit/Potential.lean": {
+    "checkedAt": "2026-11-18T13:41:59.014Z",
+    "collisions": [
+      "R56Audit.maxOn",
+      "R56Audit.F"
+    ]
+  },
+  "R56Audit/StageGeometry.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T13:45:59.756Z"
+  },
+  "R56Audit/SupNorm.lean": {
+    "checkedAt": "2026-11-18T13:46:00.319Z",
+    "collisions": [
+      "R56Audit.clampUnit",
+      "R56Audit.F"
+    ]
+  },
+  "R56Audit/UniformDigits.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T14:02:17.537Z"
+  },
+  "Riesz/ConditionalGridProduct.lean": {
+    "checkedAt": "2026-11-18T14:02:18.022Z",
+    "collisions": [
+      "Riesz.fiberMean",
+      "Riesz.PointSets.μI",
+      "Riesz.sampleGridIndex"
+    ]
+  },
+  "Riesz/ConditionalProduct.lean": {
+    "checkedAt": "2026-11-18T14:02:38.464Z",
+    "collisions": [
+      "Riesz.prefixProduct"
+    ]
+  },
+  "Riesz/FiniteProducts.lean": {
+    "checkedAt": "2026-11-18T14:02:44.565Z",
+    "collisions": [
+      "Riesz.Moments.productLaw",
+      "Riesz.Moments.FiniteLaw",
+      "Riesz.profile",
+      "Riesz.Moments.sampleSpaceEquiv"
+    ]
+  },
+  "Riesz/Moments.lean": {
+    "checkedAt": "2026-11-18T14:03:24.415Z",
+    "collisions": [
+      "Riesz.Moments.FiniteLaw"
+    ]
+  },
+  "Riesz/Occupancy.lean": {
+    "checkedAt": "2026-11-18T14:03:28.009Z",
+    "collisions": [
+      "Riesz.Occupancy.hitCount",
+      "Riesz.fiberMean",
+      "Riesz.PointSets.μI",
+      "Riesz.profile"
+    ]
+  },
+  "Riesz/ProfileLaw.lean": {
+    "checkedAt": "2026-11-18T14:04:22.928Z",
+    "collisions": [
+      "Riesz.profile"
+    ]
+  },
+  "Oscillation/AveragedLocal.lean": {
+    "checkedAt": "2026-11-18T10:55:57.753Z",
+    "collisions": [
+      "Oscillation.finAvg",
+      "Oscillation.sum_digit_values",
+      "Oscillation.endpointWeight"
+    ]
+  },
+  "Oscillation/BucketGeometry.lean": {
+    "checkedAt": "2026-11-18T10:56:00.269Z",
+    "collisions": [
+      "Oscillation.interior_div_mod_iff",
+      "Oscillation.finiteGridIndex_predicate_real",
+      "Oscillation.lowerHalfIndex",
+      "Oscillation.histogram"
+    ]
+  },
+  "Oscillation/DirectAccumulation.lean": {
+    "checkedAt": "2026-11-18T10:56:20.431Z",
+    "collisions": [
+      "Oscillation.finAvg",
+      "Oscillation.endpointWeight"
+    ]
+  },
+  "Oscillation/LocalDrift.lean": {
+    "checkedAt": "2026-11-18T10:56:57.788Z",
+    "collisions": [
+      "Oscillation.endpointWeight",
+      "Oscillation.finAvg"
+    ]
+  },
+  "Oscillation/MatrixAverage.lean": {
+    "checkedAt": "2026-11-18T10:56:59.542Z",
+    "collisions": [
+      "Oscillation.halfDigit",
+      "Oscillation.endpointWeight",
+      "Oscillation.finAvg"
+    ]
+  },
+  "Oscillation/R17LocalFacts.lean": {
+    "checkedAt": "2026-11-18T10:57:03.118Z",
+    "collisions": [
+      "Oscillation.midpoint_range_comparison",
+      "Oscillation.abs_mean_of_fourth_three"
+    ]
+  },
+  "Oscillation/Tail.lean": {
+    "checkedAt": "2026-11-18T10:57:03.668Z",
+    "collisions": [
+      "Oscillation.density_laplace_coefficient",
+      "Oscillation.sqrt_exp_half",
+      "Oscillation.small_event_of_laplace",
+      "Oscillation.fixed_scale_exponent"
+    ]
+  },
+  "R56Audit/ArchiveInterface.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T11:13:01.367Z"
+  },
+  "R56Audit/BoundedDifferencesGeneral.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T11:44:48.904Z"
+  },
+  "R56Audit/Measurability.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T12:00:57.995Z"
+  },
+  "R56Audit/OneRectangle.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T12:01:12.146Z"
+  },
+  "R56Audit/Simultaneous.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T12:01:17.762Z"
+  },
+  "R56Audit/StageGain.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T12:01:18.405Z"
+  },
+  "R56Audit/StepOsc.lean": {
+    "checkedAt": "2026-11-18T12:33:06.295Z",
+    "collisions": [
+      "R56Audit.maxOn"
+    ]
+  },
+  "R56Audit/SymmetricSumsGeneral.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T12:35:31.818Z"
+  },
+  "Riesz/CellAverages.lean": {
+    "checkedAt": "2026-11-18T12:35:32.192Z",
+    "collisions": [
+      "Riesz.fiberMean",
+      "Riesz.PointSets.μI"
+    ]
+  },
+  "Riesz/Colorings.lean": {
+    "checkedAt": "2026-11-18T12:35:38.964Z",
+    "collisions": [
+      "Riesz.PointSets.boolSign",
+      "Riesz.PointSets.μI"
+    ]
+  },
+  "Riesz/WeightedMoments.lean": {
+    "checkedAt": "2026-11-18T12:35:40.066Z",
+    "collisions": [
+      "Riesz.Moments.FiniteLaw",
+      "Riesz.Moments.productLaw"
+    ]
+  }
+}
