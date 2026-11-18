@@ -1,0 +1,237 @@
+{
+  "FourierJacobi/Algebra/Intertwiner.lean": {
+    "checkedAt": "2026-11-18T01:40:37.790Z",
+    "collisions": [
+      "FourierJacobi.intertwinerMatrix"
+    ]
+  },
+  "FourierJacobi/Algebra/UnitaryFinite.lean": {
+    "checkedAt": "2026-11-18T01:40:39.378Z",
+    "collisions": [
+      "FourierJacobi.Algebra.square_root_satake",
+      "FourierJacobi.Algebra.unit_ne_zero",
+      "FourierJacobi.Algebra.poincare",
+      "FourierJacobi.Algebra.one_add_inv_ne_zero"
+    ]
+  },
+  "FourierJacobi/Analysis/CoreParameters.lean": {
+    "checkedAt": "2026-11-18T01:40:42.511Z",
+    "collisions": [
+      "FourierJacobi.Algebra.unit_ne_zero",
+      "FourierJacobi.Algebra.poincare",
+      "FourierJacobi.Analysis.satakeTuple",
+      "FourierJacobi.Algebra.RegionRegular"
+    ]
+  },
+  "FourierJacobi/Analysis/HaarCellValue.lean": {
+    "checkedAt": "2026-11-18T01:43:27.997Z",
+    "collisions": [
+      "FourierJacobi.Algebra.unit_ne_zero",
+      "FourierJacobi.Analysis.LatticeIndex"
+    ]
+  },
+  "FourierJacobi/Analysis/HaarCoreAssembly.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T01:49:01.321Z"
+  },
+  "FourierJacobi/Analysis/LatticeCore.lean": {
+    "checkedAt": "2026-11-18T01:49:02.167Z",
+    "collisions": [
+      "FourierJacobi.Analysis.latticeCore",
+      "FourierJacobi.Algebra.unit_ne_zero"
+    ]
+  },
+  "FourierJacobi/Analysis/MasterSeries.lean": {
+    "checkedAt": "2026-11-18T01:49:03.070Z",
+    "collisions": [
+      "FourierJacobi.Valuations.baseMinimum",
+      "FourierJacobi.Analysis.LatticeIndex",
+      "FourierJacobi.Analysis.i0Shell"
+    ]
+  },
+  "FourierJacobi/Measure/LocalHaar.lean": {
+    "checkedAt": "2026-11-18T01:49:08.112Z",
+    "collisions": [
+      "FourierJacobi.Measure.localField_t2Space",
+      "FourierJacobi.Measure.localField_punctured_nhds"
+    ]
+  },
+  "FourierJacobi/Measure/UnitScaling.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T01:49:27.770Z"
+  },
+  "FourierJacobi/Valuations/Cartan.lean": {
+    "checkedAt": "2026-11-18T01:49:28.087Z",
+    "collisions": [
+      "FourierJacobi.Valuations.baseMinimum"
+    ]
+  },
+  "FourierJacobi/Valuations/LocalField.lean": {
+    "checkedAt": "2026-11-18T01:49:30.102Z",
+    "collisions": [
+      "FourierJacobi.Valuations.extendedNegLog"
+    ]
+  },
+  "FourierJacobi/Algebra/UnitaryParameters.lean": {
+    "checkedAt": "2026-11-18T01:55:27.939Z",
+    "collisions": [
+      "FourierJacobi.Algebra.unit_ne_zero",
+      "FourierJacobi.Algebra.one_sub_mul_ne_zero_of_norm_lt_one",
+      "FourierJacobi.Algebra.coe_norm_lt_one",
+      "FourierJacobi.Algebra.poincare",
+      "FourierJacobi.Algebra.unit_satake_real",
+      "FourierJacobi.Algebra.principal_final_denominator_normSq",
+      "FourierJacobi.Algebra.inverseSqrt"
+    ]
+  },
+  "FourierJacobi/Analysis/Damping.lean": {
+    "checkedAt": "2026-11-18T01:55:31.213Z",
+    "collisions": [
+      "FourierJacobi.Analysis.polynomial_geometric_summable",
+      "FourierJacobi.Analysis.height_damping_tendsto_integral"
+    ]
+  },
+  "FourierJacobi/Analysis/FiberIntegration.lean": {
+    "checkedAt": "2026-11-18T01:55:31.757Z",
+    "collisions": [
+      "FourierJacobi.Analysis.integrable_hasSum_of_countable_fibers"
+    ]
+  },
+  "FourierJacobi/Analysis/HaarCellMass.lean": {
+    "checkedAt": "2026-11-18T01:57:43.009Z",
+    "collisions": [
+      "FourierJacobi.Valuations.extendedNegLog",
+      "FourierJacobi.Analysis.LatticeIndex"
+    ]
+  },
+  "FourierJacobi/Analysis/HaarLatticePartition.lean": {
+    "checkedAt": "2026-11-18T02:21:03.519Z",
+    "collisions": [
+      "FourierJacobi.Valuations.extendedNegLog"
+    ]
+  },
+  "FourierJacobi/Analysis/HaarLimits.lean": {
+    "checkedAt": "2026-11-18T02:38:05.356Z",
+    "collisions": [
+      "FourierJacobi.Algebra.unit_ne_zero"
+    ]
+  },
+  "FourierJacobi/Analysis/IntertwinerDerivative.lean": {
+    "checkedAt": "2026-11-18T02:38:12.722Z",
+    "collisions": [
+      "FourierJacobi.Analysis.inducingPower",
+      "FourierJacobi.intertwinerMatrix"
+    ]
+  },
+  "FourierJacobi/Analysis/PaperDomain.lean": {
+    "checkedAt": "2026-11-18T02:38:14.601Z",
+    "collisions": [
+      "FourierJacobi.Algebra.poincare"
+    ]
+  },
+  "FourierJacobi/Analysis/ValuationSeries.lean": {
+    "checkedAt": "2026-11-18T02:38:18.947Z",
+    "collisions": [
+      "FourierJacobi.Analysis.i0Shell",
+      "FourierJacobi.Valuations.baseMinimum"
+    ]
+  },
+  "FourierJacobi/Measure/MultiplicativeHaar.lean": {
+    "checkedAt": "2026-11-18T02:38:23.889Z",
+    "collisions": [
+      "FourierJacobi.Measure.multiplicativeHaar_t2Space",
+      "FourierJacobi.Valuations.extendedNegLog"
+    ]
+  },
+  "FourierJacobi/Measure/PaperMultiplicativeHaar.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T02:38:30.657Z"
+  },
+  "FourierJacobi/Measure/ShellCollision.lean": {
+    "checkedAt": "2026-11-18T02:38:31.359Z",
+    "collisions": [
+      "FourierJacobi.Valuations.extendedNegLog"
+    ]
+  },
+  "FourierJacobi/Valuations/KernelShells.lean": {
+    "checkedAt": "2026-11-18T02:38:58.154Z",
+    "collisions": [
+      "FourierJacobi.Valuations.baseMinimum"
+    ]
+  },
+  "FourierJacobi/Algebra/EulerFactors.lean": {
+    "checkedAt": "2026-11-18T01:47:58.527Z",
+    "collisions": [
+      "FourierJacobi.Algebra.poincare"
+    ]
+  },
+  "FourierJacobi/Algebra/WeylEvaluation.lean": {
+    "checkedAt": "2026-11-18T01:48:02.011Z",
+    "collisions": [
+      "FourierJacobi.Algebra.poincare"
+    ]
+  },
+  "FourierJacobi/Analysis/ExplicitKernel.lean": {
+    "checkedAt": "2026-11-18T01:48:02.966Z",
+    "collisions": [
+      "FourierJacobi.Algebra.poincare"
+    ]
+  },
+  "FourierJacobi/Analysis/HaarKernel.lean": {
+    "checkedAt": "2026-11-18T01:48:03.404Z",
+    "collisions": [
+      "FourierJacobi.Algebra.unit_ne_zero",
+      "FourierJacobi.Valuations.extendedNegLog"
+    ]
+  },
+  "FourierJacobi/Analysis/I2Master.lean": {
+    "checkedAt": "2026-11-18T01:55:55.658Z",
+    "collisions": [
+      "FourierJacobi.Analysis.i2_inv_norm_bound"
+    ]
+  },
+  "FourierJacobi/Measure/IntegerShells.lean": {
+    "checkedAt": "2026-11-18T01:55:56.434Z",
+    "collisions": [
+      "FourierJacobi.Valuations.extendedNegLog",
+      "FourierJacobi.Measure.intValue_lt_one_iff_le_exp_neg_one",
+      "FourierJacobi.Measure.integerShells_t2Space"
+    ]
+  },
+  "FourierJacobi/Analysis/I2Convergence.lean": {
+    "checkedAt": "2026-11-18T02:07:08.217Z",
+    "collisions": [
+      "FourierJacobi.Analysis.i2_geometric_denominator_ne",
+      "FourierJacobi.Analysis.i0Shell",
+      "FourierJacobi.Analysis.i2_hasSum_one_geometric"
+    ]
+  },
+  "FourierJacobi/Analysis/MasterDamping.lean": {
+    "checkedAt": "2026-11-18T02:07:11.184Z",
+    "collisions": [
+      "FourierJacobi.Valuations.baseMinimum"
+    ]
+  },
+  "FourierJacobi/Analysis/RationalLimits.lean": {
+    "checkedAt": "2026-11-18T02:07:13.224Z",
+    "collisions": [
+      "FourierJacobi.Analysis.dampedRational"
+    ]
+  },
+  "FourierJacobi/Measure/JointCollision.lean": {
+    "checkedAt": "2026-11-18T02:07:14.770Z",
+    "collisions": [
+      "FourierJacobi.Valuations.extendedNegLog",
+      "FourierJacobi.Measure.localField_t2Space"
+    ]
+  },
+  "FourierJacobi/Measure/NullSets.lean": {
+    "checkedAt": "2026-11-18T02:37:41.008Z",
+    "collisions": [
+      "FourierJacobi.Measure.localField_punctured_nhds",
+      "FourierJacobi.Measure.measurableSet_determinant_zero",
+      "FourierJacobi.Measure.determinant_zero_section",
+      "FourierJacobi.Valuations.extendedNegLog"
+    ]
+  }
+}

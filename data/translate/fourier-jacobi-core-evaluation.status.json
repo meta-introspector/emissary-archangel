@@ -1,0 +1,17 @@
+{
+  "mechanical": {
+    "run": "44210027366",
+    "at": "2026-11-18T02:41:15.016Z",
+    "shards": 4,
+    "todo": 1045,
+    "processed": 1045,
+    "left": 0,
+    "limited": false,
+    "stalls": 0,
+    "outcomes": {
+      "untranslatable": 261,
+      "deferred-agent": 783,
+      "mechanical": 1
+    }
+  }
+}
