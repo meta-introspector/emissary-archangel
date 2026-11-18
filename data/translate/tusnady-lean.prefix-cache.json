@@ -567,5 +567,9 @@
       "Riesz.Moments.FiniteLaw",
       "Riesz.Moments.productLaw"
     ]
+  },
+  "R56Audit/CondExpGenerators.lean": {
+    "status": "clean",
+    "checkedAt": "2026-11-18T15:55:58.977Z"
   }
 }
