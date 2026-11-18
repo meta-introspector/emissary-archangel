@@ -1,0 +1,694 @@
+{
+  "LeanDescriptiveSetTheory/Borel/FiniteHierarchy.lean": {
+    "checkedAt": "2026-11-18T08:43:31.887Z",
+    "collisions": [
+      "DescriptiveSetTheory.Sigma0",
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/SemanticRank.lean": {
+    "checkedAt": "2026-11-18T08:43:48.438Z",
+    "collisions": [
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/TreeCode/Complexity.lean": {
+    "checkedAt": "2026-11-18T08:43:55.125Z",
+    "collisions": [
+      "DescriptiveSetTheory.listNatBoolCodeHomeomorph",
+      "DescriptiveSetTheory.IsCoanalytic",
+      "DescriptiveSetTheory.Tree.treeCodeSet",
+      "DescriptiveSetTheory.Tree.initialSegment",
+      "DescriptiveSetTheory.ContinuouslyReduces"
+    ]
+  },
+  "LeanDescriptiveSetTheory/EquivalenceRelations/E0.lean": {
+    "checkedAt": "2026-11-18T08:48:20.136Z",
+    "collisions": [
+      "DescriptiveSetTheory.eventualEqStage",
+      "DescriptiveSetTheory.equivalenceRelationGraph",
+      "DescriptiveSetTheory.Sigma0",
+      "DescriptiveSetTheory.cylinderBasis"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Hyperspace/Compacts.lean": {
+    "checkedAt": "2026-11-18T08:48:27.806Z",
+    "collisions": [
+      "DescriptiveSetTheory.compactsBorelMeasurableSpace"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Projective/NormalForm.lean": {
+    "checkedAt": "2026-11-18T08:48:30.999Z",
+    "collisions": [
+      "DescriptiveSetTheory.ProjectiveWitness"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Ranks/Coanalytic.lean": {
+    "checkedAt": "2026-11-18T08:48:38.270Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.treeCodeSet",
+      "DescriptiveSetTheory.listNatBoolCodeHomeomorph",
+      "DescriptiveSetTheory.IsCoanalytic",
+      "DescriptiveSetTheory.Tree.initialSegment",
+      "DescriptiveSetTheory.ContinuouslyReduces"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Reductions/AnalyticComplete.lean": {
+    "checkedAt": "2026-11-18T08:49:31.301Z",
+    "collisions": [
+      "DescriptiveSetTheory.ContinuouslyReduces",
+      "DescriptiveSetTheory.bairePairHomeomorph",
+      "DescriptiveSetTheory.IsCoanalytic",
+      "DescriptiveSetTheory.Tree.initialSegment",
+      "DescriptiveSetTheory.verticalSection"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Regularity/Baire/Suslin.lean": {
+    "checkedAt": "2026-11-18T08:49:36.697Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.initialSegment",
+      "DescriptiveSetTheory.subtreeSuslinOperation",
+      "DescriptiveSetTheory.IsRegularSuslinScheme"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Regularity/PerfectSet/Dichotomy.lean": {
+    "checkedAt": "2026-11-18T08:49:57.393Z",
+    "collisions": [
+      "DescriptiveSetTheory.not_countable_univ_cantor",
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/StandardBorel/FiniteFiberLabel.lean": {
+    "checkedAt": "2026-11-18T08:50:13.263Z",
+    "collisions": [
+      "DescriptiveSetTheory.HasFiniteFibers",
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/StandardBorel/Relations.lean": {
+    "checkedAt": "2026-11-18T08:50:15.334Z",
+    "collisions": [
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/StandardBorel/Transport.lean": {
+    "checkedAt": "2026-11-18T08:50:16.155Z",
+    "collisions": [
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Suslin/Basic.lean": {
+    "checkedAt": "2026-11-18T08:50:17.607Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Tree/Basic.lean": {
+    "checkedAt": "2026-11-18T08:50:18.211Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Tree/Boundedness.lean": {
+    "checkedAt": "2026-11-18T08:50:25.092Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.initialSegment",
+      "DescriptiveSetTheory.Tree.Child",
+      "DescriptiveSetTheory.listNatBoolCodeHomeomorph",
+      "DescriptiveSetTheory.Tree.treeCodeSet"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Uniformization/Basic.lean": {
+    "checkedAt": "2026-11-18T08:50:42.967Z",
+    "collisions": [
+      "DescriptiveSetTheory.RelationSingleValued",
+      "DescriptiveSetTheory.swapRelation"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/Analytic.lean": {
+    "checkedAt": "2026-11-18T08:50:46.310Z",
+    "collisions": [
+      "DescriptiveSetTheory.verticalSection",
+      "DescriptiveSetTheory.bairePairHomeomorph",
+      "DescriptiveSetTheory.cylinderBasis",
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/BaireParameters.lean": {
+    "checkedAt": "2026-11-18T08:50:51.045Z",
+    "collisions": [
+      "DescriptiveSetTheory.baireSpaceHomeomorphNatToBaireSpace",
+      "DescriptiveSetTheory.verticalSection"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/ProjectiveStrictness.lean": {
+    "checkedAt": "2026-11-18T08:53:12.942Z",
+    "collisions": [
+      "DescriptiveSetTheory.ProjectiveWitness",
+      "DescriptiveSetTheory.IsCoanalytic",
+      "DescriptiveSetTheory.cylinderBasis",
+      "DescriptiveSetTheory.ContinuouslyReduces"
+    ]
+  },
+  "LeanDescriptiveSetTheoryTest/AnalyticDichotomy.lean": {
+    "checkedAt": "2026-11-18T09:28:28.737Z",
+    "collisions": [
+      "DescriptiveSetTheoryTest.analyticSet_singleton_baire"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Analytic/CoanalyticReduction.lean": {
+    "checkedAt": "2026-11-18T09:00:03.712Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.treeCodeSet",
+      "DescriptiveSetTheory.IsCoanalytic",
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Analytic/Separation.lean": {
+    "checkedAt": "2026-11-18T09:01:16.188Z",
+    "collisions": [
+      "DescriptiveSetTheory.GeneratedCode",
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/Code.lean": {
+    "checkedAt": "2026-11-18T09:01:17.451Z",
+    "collisions": [
+      "DescriptiveSetTheory.openGenerator",
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/DifferenceHierarchy/Strictness.lean": {
+    "checkedAt": "2026-11-18T09:01:22.974Z",
+    "collisions": [
+      "DescriptiveSetTheory.IsCountableBorelLevel",
+      "DescriptiveSetTheory.verticalSection"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Hyperspace/Effros.lean": {
+    "checkedAt": "2026-11-18T09:01:33.973Z",
+    "collisions": [
+      "DescriptiveSetTheory.closedHit",
+      "DescriptiveSetTheory.compactsBorelMeasurableSpace"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Projective/Compatibility.lean": {
+    "checkedAt": "2026-11-18T09:01:39.250Z",
+    "collisions": [
+      "DescriptiveSetTheory.ProjectiveWitness",
+      "DescriptiveSetTheory.verticalSection",
+      "DescriptiveSetTheory.IsCoanalytic"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Projective/LevelOne.lean": {
+    "checkedAt": "2026-11-18T09:01:55.463Z",
+    "collisions": [
+      "DescriptiveSetTheory.ProjectiveWitness",
+      "DescriptiveSetTheory.IsCoanalytic"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Projective/Operations.lean": {
+    "checkedAt": "2026-11-18T09:01:57.701Z",
+    "collisions": [
+      "DescriptiveSetTheory.ProjectiveWitness",
+      "DescriptiveSetTheory.verticalSection",
+      "DescriptiveSetTheory.swapRelation"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Reductions/Continuous.lean": {
+    "checkedAt": "2026-11-18T09:02:08.176Z",
+    "collisions": [
+      "DescriptiveSetTheory.ContinuouslyReduces",
+      "DescriptiveSetTheory.verticalSection"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Regularity/Baire/Analytic.lean": {
+    "checkedAt": "2026-11-18T09:02:13.520Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Relations/Basic.lean": {
+    "checkedAt": "2026-11-18T09:02:19.948Z",
+    "collisions": [
+      "DescriptiveSetTheory.swapRelation"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Relations/Sections.lean": {
+    "checkedAt": "2026-11-18T09:02:24.533Z",
+    "collisions": [
+      "DescriptiveSetTheory.verticalSection",
+      "DescriptiveSetTheory.swapRelation"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Spaces/BairePacking.lean": {
+    "checkedAt": "2026-11-18T09:02:30.615Z",
+    "collisions": [
+      "DescriptiveSetTheory.bairePairHomeomorph"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Suslin/Normalization.lean": {
+    "checkedAt": "2026-11-18T09:02:34.021Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.initialSegment",
+      "DescriptiveSetTheory.IsRegularSuslinScheme"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Tree/Perfect.lean": {
+    "checkedAt": "2026-11-18T09:02:44.987Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Tree/RankStages.lean": {
+    "checkedAt": "2026-11-18T09:02:58.065Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.treeCodeSet",
+      "DescriptiveSetTheory.listNatBoolCodeHomeomorph",
+      "DescriptiveSetTheory.Tree.Child",
+      "DescriptiveSetTheory.Tree.initialSegment",
+      "DescriptiveSetTheory.IsCountableBorelLevel",
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Tree/WellFounded.lean": {
+    "checkedAt": "2026-11-18T09:03:15.732Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.Child",
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Uniformization/FiniteTargetDecomposition.lean": {
+    "checkedAt": "2026-11-18T09:03:17.551Z",
+    "collisions": [
+      "DescriptiveSetTheory.verticalSection",
+      "DescriptiveSetTheory.swapRelation",
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Uniformization/PartialBorel.lean": {
+    "checkedAt": "2026-11-18T09:03:22.176Z",
+    "collisions": [
+      "DescriptiveSetTheory.RelationSingleValued",
+      "DescriptiveSetTheory.verticalSection",
+      "DescriptiveSetTheory.IsBorelPartialMap",
+      "DescriptiveSetTheory.swapRelation"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/Closed.lean": {
+    "checkedAt": "2026-11-18T09:03:26.713Z",
+    "collisions": [
+      "DescriptiveSetTheory.verticalSection",
+      "DescriptiveSetTheory.IsUniversalFor",
+      "DescriptiveSetTheory.Sigma0"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/FiniteHierarchy.lean": {
+    "checkedAt": "2026-11-18T09:03:32.302Z",
+    "collisions": [
+      "DescriptiveSetTheory.IsUniversalFor",
+      "DescriptiveSetTheory.Sigma0",
+      "DescriptiveSetTheory.cylinderBasis"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/Open.lean": {
+    "checkedAt": "2026-11-18T09:03:43.344Z",
+    "collisions": [
+      "DescriptiveSetTheory.verticalSection",
+      "DescriptiveSetTheory.IsUniversalFor",
+      "DescriptiveSetTheory.Sigma0"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/OrdinalHierarchy.lean": {
+    "checkedAt": "2026-11-18T09:03:49.715Z",
+    "collisions": [
+      "DescriptiveSetTheory.IsCountableBorelLevel"
+    ]
+  },
+  "LeanDescriptiveSetTheoryTest/BorelCodeHierarchy.lean": {
+    "checkedAt": "2026-11-18T09:14:07.875Z",
+    "collisions": [
+      "DescriptiveSetTheoryTest.constructionRank_complementTower"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Analytic/BorelCharacterization.lean": {
+    "checkedAt": "2026-11-18T08:58:50.483Z",
+    "collisions": [
+      "DescriptiveSetTheory.IsCoanalytic",
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Analytic/Coanalytic.lean": {
+    "checkedAt": "2026-11-18T08:58:51.299Z",
+    "collisions": [
+      "DescriptiveSetTheory.IsCoanalytic"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Analytic/TreeNormalForm.lean": {
+    "checkedAt": "2026-11-18T08:58:53.062Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Analytic/TreeRepresentation.lean": {
+    "checkedAt": "2026-11-18T08:58:54.153Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.IsInitialSegmentOf",
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/CodeHierarchy.lean": {
+    "checkedAt": "2026-11-18T08:59:02.664Z",
+    "collisions": [
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/DifferenceHierarchy/Closure.lean": {
+    "checkedAt": "2026-11-18T08:59:04.641Z",
+    "collisions": [
+      "DescriptiveSetTheory.ordinalParity",
+      "DescriptiveSetTheory.IsCountableBorelLevel",
+      "DescriptiveSetTheory.codifference",
+      "DescriptiveSetTheory.Sigma0"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/DifferenceHierarchy/Universal.lean": {
+    "checkedAt": "2026-11-18T08:59:32.893Z",
+    "collisions": [
+      "DescriptiveSetTheory.IsCountableBorelLevel",
+      "DescriptiveSetTheory.baireSpaceHomeomorphNatToBaireSpace",
+      "DescriptiveSetTheory.IsUniversalFor",
+      "DescriptiveSetTheory.verticalSection"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/GeneratedCode.lean": {
+    "checkedAt": "2026-11-18T08:59:55.637Z",
+    "collisions": [
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/PointclassRank.lean": {
+    "checkedAt": "2026-11-18T09:00:01.486Z",
+    "collisions": [
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/TreeCode/Basic.lean": {
+    "checkedAt": "2026-11-18T09:00:37.825Z",
+    "collisions": [
+      "DescriptiveSetTheory.BorelTreeCode.NodeKind",
+      "DescriptiveSetTheory.Tree.treeCodeSet"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/TreeCode/Decode.lean": {
+    "checkedAt": "2026-11-18T09:00:42.578Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.treeCodeSet",
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/TreeCode/Evaluation.lean": {
+    "checkedAt": "2026-11-18T09:01:41.451Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.treeCodeSet",
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/TreeCode/Rank.lean": {
+    "checkedAt": "2026-11-18T09:02:47.819Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.treeCodeSet"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/TreeCode/Validity.lean": {
+    "checkedAt": "2026-11-18T09:02:52.751Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.treeCodeSet"
+    ]
+  },
+  "LeanDescriptiveSetTheory/EquivalenceRelations/CountableBorel.lean": {
+    "checkedAt": "2026-11-18T09:02:57.369Z",
+    "collisions": [
+      "DescriptiveSetTheory.verticalSection",
+      "DescriptiveSetTheory.equivalenceRelationGraph"
+    ]
+  },
+  "LeanDescriptiveSetTheory/EquivalenceRelations/Reducibility.lean": {
+    "checkedAt": "2026-11-18T09:03:03.665Z",
+    "collisions": [
+      "DescriptiveSetTheory.IsBorelReduction",
+      "DescriptiveSetTheory.equivalenceRelationGraph"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Projective/Closure.lean": {
+    "checkedAt": "2026-11-18T09:03:11.327Z",
+    "collisions": [
+      "DescriptiveSetTheory.ProjectiveWitness"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Ranks/CoanalyticNorm.lean": {
+    "checkedAt": "2026-11-18T09:03:38.160Z",
+    "collisions": [
+      "DescriptiveSetTheory.IsCoanalytic",
+      "DescriptiveSetTheory.CoanalyticRank"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Spaces/Cylinders.lean": {
+    "checkedAt": "2026-11-18T09:03:40.594Z",
+    "collisions": [
+      "DescriptiveSetTheory.cylinderBasis"
+    ]
+  },
+  "LeanDescriptiveSetTheory/StandardBorel/Code.lean": {
+    "checkedAt": "2026-11-18T09:03:42.857Z",
+    "collisions": [
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Suslin/AnalyticScheme.lean": {
+    "checkedAt": "2026-11-18T09:03:45.545Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Suslin/Regular.lean": {
+    "checkedAt": "2026-11-18T09:03:50.239Z",
+    "collisions": [
+      "DescriptiveSetTheory.IsRegularSuslinScheme",
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Suslin/Tree.lean": {
+    "checkedAt": "2026-11-18T09:03:53.472Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Tree/Completeness.lean": {
+    "checkedAt": "2026-11-18T09:03:56.143Z",
+    "collisions": [
+      "DescriptiveSetTheory.ContinuouslyReduces",
+      "DescriptiveSetTheory.Tree.initialSegment",
+      "DescriptiveSetTheory.listNatBoolCodeHomeomorph"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Tree/Complexity.lean": {
+    "checkedAt": "2026-11-18T09:04:03.584Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.treeCodeSet"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Tree/Splitting.lean": {
+    "checkedAt": "2026-11-18T09:04:04.548Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.AreIncompatible",
+      "DescriptiveSetTheory.IsViablePrefix"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Uniformization/AnalyticFinite.lean": {
+    "checkedAt": "2026-11-18T09:04:12.507Z",
+    "collisions": [
+      "DescriptiveSetTheory.swapRelation",
+      "DescriptiveSetTheory.verticalSection"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Uniformization/ClosedCompactProjection.lean": {
+    "checkedAt": "2026-11-18T09:04:29.403Z",
+    "collisions": [
+      "DescriptiveSetTheory.swapRelation",
+      "DescriptiveSetTheory.GeneratedCode",
+      "DescriptiveSetTheory.sectionHit"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/AnalyticStrictness.lean": {
+    "checkedAt": "2026-11-18T09:04:33.845Z",
+    "collisions": [
+      "DescriptiveSetTheory.bairePairHomeomorph",
+      "DescriptiveSetTheory.IsCoanalytic",
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/Coanalytic.lean": {
+    "checkedAt": "2026-11-18T09:04:38.866Z",
+    "collisions": [
+      "DescriptiveSetTheory.IsCoanalytic",
+      "DescriptiveSetTheory.bairePairHomeomorph",
+      "DescriptiveSetTheory.Tree.initialSegment",
+      "DescriptiveSetTheory.IsUniversalCoanalytic"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/OrdinalOperations.lean": {
+    "checkedAt": "2026-11-18T09:04:44.927Z",
+    "collisions": [
+      "DescriptiveSetTheory.IsCountableBorelLevel",
+      "DescriptiveSetTheory.verticalSection",
+      "DescriptiveSetTheory.baireSpaceHomeomorphNatToBaireSpace"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/OrdinalStrictness.lean": {
+    "checkedAt": "2026-11-18T09:04:48.120Z",
+    "collisions": [
+      "DescriptiveSetTheory.baireDiagonal",
+      "DescriptiveSetTheory.IsCountableBorelLevel"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/Projective.lean": {
+    "checkedAt": "2026-11-18T09:04:56.502Z",
+    "collisions": [
+      "DescriptiveSetTheory.ProjectiveWitness",
+      "DescriptiveSetTheory.bairePairHomeomorph"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/ConstructionRank.lean": {
+    "checkedAt": "2026-11-18T08:49:12.355Z",
+    "collisions": [
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/CountableBasis.lean": {
+    "checkedAt": "2026-11-18T08:49:15.102Z",
+    "collisions": [
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/DifferenceHierarchy/Basic.lean": {
+    "checkedAt": "2026-11-18T08:49:15.815Z",
+    "collisions": [
+      "DescriptiveSetTheory.ordinalParity",
+      "DescriptiveSetTheory.IsCountableBorelLevel"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/DifferenceHierarchy/Exhaustion.lean": {
+    "checkedAt": "2026-11-18T08:49:22.638Z",
+    "collisions": [
+      "DescriptiveSetTheory.hausdorffDerivative",
+      "DescriptiveSetTheory.IsCountableBorelLevel",
+      "DescriptiveSetTheory.Sigma0",
+      "DescriptiveSetTheory.ordinalParity"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/Hierarchy.lean": {
+    "checkedAt": "2026-11-18T08:49:41.224Z",
+    "collisions": [
+      "DescriptiveSetTheory.IsCountableBorelLevel",
+      "DescriptiveSetTheory.Sigma0",
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Borel/TreeCode/Universal.lean": {
+    "checkedAt": "2026-11-18T08:49:58.903Z",
+    "collisions": [
+      "DescriptiveSetTheory.GeneratedCode",
+      "DescriptiveSetTheory.Tree.treeCodeSet",
+      "DescriptiveSetTheory.listNatBoolCodeHomeomorph"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Projective/Basic.lean": {
+    "checkedAt": "2026-11-18T08:53:40.529Z",
+    "collisions": [
+      "DescriptiveSetTheory.ProjectiveWitness"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Ranks/Boundedness.lean": {
+    "checkedAt": "2026-11-18T08:53:51.569Z",
+    "collisions": [
+      "DescriptiveSetTheory.IsCoanalytic",
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Regularity/PerfectSet/Analytic.lean": {
+    "checkedAt": "2026-11-18T08:54:00.747Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Spaces/ListCoding.lean": {
+    "checkedAt": "2026-11-18T08:54:59.948Z",
+    "collisions": [
+      "DescriptiveSetTheory.listNatBoolCodeHomeomorph"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Suslin/ClosedScheme.lean": {
+    "checkedAt": "2026-11-18T08:55:01.701Z",
+    "collisions": [
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Tree/RankComparison.lean": {
+    "checkedAt": "2026-11-18T08:55:05.419Z",
+    "collisions": [
+      "DescriptiveSetTheory.listNatBoolCodeHomeomorph",
+      "DescriptiveSetTheory.Tree.initialSegment"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Uniformization/CountableSections.lean": {
+    "checkedAt": "2026-11-18T08:56:19.590Z",
+    "collisions": [
+      "DescriptiveSetTheory.verticalSection",
+      "DescriptiveSetTheory.HasCountableVerticalSections",
+      "DescriptiveSetTheory.RelationSingleValued",
+      "DescriptiveSetTheory.swapRelation",
+      "DescriptiveSetTheory.graphFamilyDomain",
+      "DescriptiveSetTheory.GeneratedCode"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Uniformization/ExplicitDecomposition.lean": {
+    "checkedAt": "2026-11-18T08:56:27.090Z",
+    "collisions": [
+      "DescriptiveSetTheory.graphFamilyDomain",
+      "DescriptiveSetTheory.swapRelation",
+      "DescriptiveSetTheory.measurableSet_graphOn",
+      "DescriptiveSetTheory.RelationSingleValued"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Uniformization/FiniteSelection.lean": {
+    "checkedAt": "2026-11-18T08:56:32.845Z",
+    "collisions": [
+      "DescriptiveSetTheory.finiteSection",
+      "DescriptiveSetTheory.swapRelation"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/Operations.lean": {
+    "checkedAt": "2026-11-18T08:56:35.630Z",
+    "collisions": [
+      "DescriptiveSetTheory.cantorUnpack",
+      "DescriptiveSetTheory.verticalSection",
+      "DescriptiveSetTheory.Sigma0"
+    ]
+  },
+  "LeanDescriptiveSetTheory/Universal/Strictness.lean": {
+    "checkedAt": "2026-11-18T08:56:39.314Z",
+    "collisions": [
+      "DescriptiveSetTheory.cantorDiagonal",
+      "DescriptiveSetTheory.Sigma0"
+    ]
+  },
+  "LeanDescriptiveSetTheoryTest/AnalyticPerfectSet.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T08:56:45.750Z"
+  },
+  "LeanDescriptiveSetTheoryTest/PointclassRank.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-18T08:56:46.210Z"
+  }
+}
