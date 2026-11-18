@@ -1,0 +1,386 @@
+{
+  "MobiusCPT/Analysis/MultilinearBound.lean": {
+    "checkedAt": "2026-11-18T00:35:25.236Z",
+    "collisions": [
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/Analysis/Strip.lean": {
+    "checkedAt": "2026-11-18T00:35:25.516Z",
+    "collisions": [
+      "MobiusCPT.strip"
+    ]
+  },
+  "MobiusCPT/Analysis/StripMaxPrinciple.lean": {
+    "checkedAt": "2026-11-18T00:36:04.375Z",
+    "collisions": [
+      "MobiusCPT.strip"
+    ]
+  },
+  "MobiusCPT/Analysis/TestFnCurve.lean": {
+    "checkedAt": "2026-11-18T00:36:18.262Z",
+    "collisions": [
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/Mobius/BoostAngle.lean": {
+    "checkedAt": "2026-11-18T00:36:20.206Z",
+    "collisions": [
+      "MobiusCPT.sq_add_one_eq_two_mul_re",
+      "MobiusCPT.boostPz",
+      "MobiusCPT.Oexterior",
+      "MobiusCPT.SU11"
+    ]
+  },
+  "MobiusCPT/Mobius/ComplexBetaDef.lean": {
+    "checkedAt": "2026-11-18T00:36:32.595Z",
+    "collisions": [
+      "MobiusCPT.strip",
+      "MobiusCPT.cnum",
+      "MobiusCPT.stepRight",
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/Mobius/ComplexBetaDerivFn.lean": {
+    "checkedAt": "2026-11-18T00:40:03.394Z",
+    "collisions": [
+      "MobiusCPT.sliceDeriv",
+      "MobiusCPT.TestFn",
+      "MobiusCPT.stepRight"
+    ]
+  },
+  "MobiusCPT/Mobius/ComplexBetaFlat.lean": {
+    "checkedAt": "2026-11-18T00:44:46.661Z",
+    "collisions": [
+      "MobiusCPT.sliceDeriv",
+      "MobiusCPT.discNear",
+      "MobiusCPT.Oexterior"
+    ]
+  },
+  "MobiusCPT/Mobius/ComplexBetaHoloSlice.lean": {
+    "checkedAt": "2026-11-18T00:45:11.185Z",
+    "collisions": [
+      "MobiusCPT.cnum",
+      "MobiusCPT.strip"
+    ]
+  },
+  "MobiusCPT/Mobius/ComplexBetaLaws.lean": {
+    "checkedAt": "2026-11-18T00:46:17.313Z",
+    "collisions": [
+      "MobiusCPT.stepRight",
+      "MobiusCPT.SU11"
+    ]
+  },
+  "MobiusCPT/Mobius/RotationPi.lean": {
+    "checkedAt": "2026-11-18T00:47:54.395Z",
+    "collisions": [
+      "MobiusCPT.TestFn",
+      "MobiusCPT.SU11"
+    ]
+  },
+  "MobiusCPT/TestFunctions/AnalyticApprox.lean": {
+    "checkedAt": "2026-11-18T00:48:23.801Z",
+    "collisions": [
+      "MobiusCPT.cayley",
+      "MobiusCPT.gaussKernel",
+      "MobiusCPT.stripApprox",
+      "MobiusCPT.Oexterior"
+    ]
+  },
+  "MobiusCPT/TestFunctions/AnalyticFlatEquiv.lean": {
+    "checkedAt": "2026-11-18T00:49:42.776Z",
+    "collisions": [
+      "MobiusCPT.Oexterior"
+    ]
+  },
+  "MobiusCPT/TestFunctions/CNorm.lean": {
+    "checkedAt": "2026-11-18T00:49:44.943Z",
+    "collisions": [
+      "MobiusCPT.exists_norm_le_of_periodic",
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/TestFunctions/Complete.lean": {
+    "checkedAt": "2026-11-18T00:49:51.490Z",
+    "collisions": [
+      "MobiusCPT.TestFn",
+      "MobiusCPT.contDiff_of_tendstoUniformly_iteratedDeriv"
+    ]
+  },
+  "MobiusCPT/TestFunctions/FourierCauchy.lean": {
+    "checkedAt": "2026-11-18T00:49:53.378Z",
+    "collisions": [
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/Wightman/Basic.lean": {
+    "checkedAt": "2026-11-18T00:50:31.250Z",
+    "collisions": [
+      "MobiusCPT.TestFunctions"
+    ]
+  },
+  "MobiusCPT/Wightman/BoostCurve.lean": {
+    "checkedAt": "2026-11-18T00:51:05.923Z",
+    "collisions": [
+      "MobiusCPT.TestFn",
+      "MobiusCPT.TestFunctions"
+    ]
+  },
+  "MobiusCPT/Wightman/Compat.lean": {
+    "checkedAt": "2026-11-18T00:52:39.821Z",
+    "collisions": [
+      "MobiusCPT.TestFunctions"
+    ]
+  },
+  "MobiusCPT/Wightman/Lemma37.lean": {
+    "checkedAt": "2026-11-18T00:54:03.855Z",
+    "collisions": [
+      "MobiusCPT.stepRight"
+    ]
+  },
+  "MobiusCPT/Wightman/Lemma39Boundary.lean": {
+    "checkedAt": "2026-11-18T00:55:32.692Z",
+    "collisions": [
+      "MobiusCPT.stepRight"
+    ]
+  },
+  "MobiusCPT/Wightman/Modes.lean": {
+    "checkedAt": "2026-11-18T00:59:31.944Z",
+    "collisions": [
+      "MobiusCPT.TestFunctions"
+    ]
+  },
+  "MobiusCPT/Wightman/Thm310Limit.lean": {
+    "checkedAt": "2026-11-18T00:59:57.636Z",
+    "collisions": [
+      "MobiusCPT.TestFn",
+      "MobiusCPT.stepRight"
+    ]
+  },
+  "MobiusCPT/Wightman/Vtilde.lean": {
+    "checkedAt": "2026-11-18T01:23:37.342Z",
+    "collisions": [
+      "MobiusCPT.TestFunctions"
+    ]
+  },
+  "MobiusCPT/Wightman/VtildeMirror.lean": {
+    "checkedAt": "2026-11-18T01:24:23.761Z",
+    "collisions": [
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/Wightman/W3Bridge.lean": {
+    "checkedAt": "2026-11-18T01:24:53.006Z",
+    "collisions": [
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/Analysis/BoostChart.lean": {
+    "checkedAt": "2026-11-18T00:38:53.899Z",
+    "collisions": [
+      "MobiusCPT.cnum",
+      "MobiusCPT.cayley"
+    ]
+  },
+  "MobiusCPT/Analysis/BoostDictionary.lean": {
+    "checkedAt": "2026-11-18T00:39:37.564Z",
+    "collisions": [
+      "MobiusCPT.upperArc"
+    ]
+  },
+  "MobiusCPT/Analysis/BoostWeights.lean": {
+    "checkedAt": "2026-11-18T00:40:57.555Z",
+    "collisions": [
+      "MobiusCPT.cayley"
+    ]
+  },
+  "MobiusCPT/Analysis/DiscArcVanishing.lean": {
+    "checkedAt": "2026-11-18T00:41:14.565Z",
+    "collisions": [
+      "MobiusCPT.IsDiscBoundaryClass"
+    ]
+  },
+  "MobiusCPT/Analysis/FlatCalculus.lean": {
+    "checkedAt": "2026-11-18T00:41:16.904Z",
+    "collisions": [
+      "MobiusCPT.exists_norm_le_pow_of_iteratedDeriv_eq_zero",
+      "MobiusCPT.contDiff_of_flat_at_zero",
+      "MobiusCPT.flatSeries"
+    ]
+  },
+  "MobiusCPT/Analysis/FlatGluing.lean": {
+    "checkedAt": "2026-11-18T00:42:18.996Z",
+    "collisions": [
+      "MobiusCPT.stepRight"
+    ]
+  },
+  "MobiusCPT/Mobius/Basic.lean": {
+    "checkedAt": "2026-11-18T00:42:29.148Z",
+    "collisions": [
+      "MobiusCPT.SU11",
+      "MobiusCPT.upperArc"
+    ]
+  },
+  "MobiusCPT/Mobius/BoostContinuity.lean": {
+    "checkedAt": "2026-11-18T00:43:00.475Z",
+    "collisions": [
+      "MobiusCPT.TestFn",
+      "MobiusCPT.SU11"
+    ]
+  },
+  "MobiusCPT/Mobius/BoostPBounds.lean": {
+    "checkedAt": "2026-11-18T00:43:19.619Z",
+    "collisions": [
+      "MobiusCPT.iteratedDeriv_cos_eq",
+      "MobiusCPT.sq_add_one_eq_two_mul_re",
+      "MobiusCPT.abs_sinh_le_exp_abs",
+      "MobiusCPT.iteratedDeriv_inv_eq",
+      "MobiusCPT.Oexterior"
+    ]
+  },
+  "MobiusCPT/Mobius/ComplexBeta.lean": {
+    "checkedAt": "2026-11-18T00:43:23.536Z",
+    "collisions": [
+      "MobiusCPT.betaBoostVal",
+      "MobiusCPT.cnum"
+    ]
+  },
+  "MobiusCPT/Mobius/ComplexBetaCont.lean": {
+    "checkedAt": "2026-11-18T00:43:36.123Z",
+    "collisions": [
+      "MobiusCPT.sliceDeriv",
+      "MobiusCPT.TestFn",
+      "MobiusCPT.betaBoostSlice"
+    ]
+  },
+  "MobiusCPT/Mobius/ComplexBetaCore.lean": {
+    "checkedAt": "2026-11-18T00:45:15.710Z",
+    "collisions": [
+      "MobiusCPT.cnum",
+      "MobiusCPT.Oexterior"
+    ]
+  },
+  "MobiusCPT/Mobius/ComplexBetaDeriv.lean": {
+    "checkedAt": "2026-11-18T00:45:29.241Z",
+    "collisions": [
+      "MobiusCPT.sliceDeriv",
+      "MobiusCPT.strip"
+    ]
+  },
+  "MobiusCPT/Mobius/ComplexBetaLawsCore.lean": {
+    "checkedAt": "2026-11-18T00:46:29.744Z",
+    "collisions": [
+      "MobiusCPT.cosh_add_re_mul_sinh_pos",
+      "MobiusCPT.cnum",
+      "MobiusCPT.SU11",
+      "MobiusCPT.cosh_add_re_mul_sinh_ofReal",
+      "MobiusCPT.strip",
+      "MobiusCPT.cosh_I_mul_pi",
+      "MobiusCPT.sinh_I_mul_pi",
+      "MobiusCPT.neg_one_zpow_sub_one"
+    ]
+  },
+  "MobiusCPT/Mobius/ComplexBoost.lean": {
+    "checkedAt": "2026-11-18T00:46:55.984Z",
+    "collisions": [
+      "MobiusCPT.cnum",
+      "MobiusCPT.upperArc"
+    ]
+  },
+  "MobiusCPT/Mobius/Factor.lean": {
+    "checkedAt": "2026-11-18T00:47:11.723Z",
+    "collisions": [
+      "MobiusCPT.SU11",
+      "MobiusCPT.cnum"
+    ]
+  },
+  "MobiusCPT/TestFunctions/Analytic.lean": {
+    "checkedAt": "2026-11-18T00:47:16.968Z",
+    "collisions": [
+      "MobiusCPT.Oexterior",
+      "MobiusCPT.TestFn",
+      "MobiusCPT.cnum"
+    ]
+  },
+  "MobiusCPT/TestFunctions/Basic.lean": {
+    "checkedAt": "2026-11-18T00:47:46.749Z",
+    "collisions": [
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/TestFunctions/EndpointCutoff.lean": {
+    "checkedAt": "2026-11-18T00:48:03.595Z",
+    "collisions": [
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/TestFunctions/Fourier.lean": {
+    "checkedAt": "2026-11-18T00:48:59.382Z",
+    "collisions": [
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/TestFunctions/Monomial.lean": {
+    "checkedAt": "2026-11-18T00:49:23.032Z",
+    "collisions": [
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/TestFunctions/Split.lean": {
+    "checkedAt": "2026-11-18T00:49:35.377Z",
+    "collisions": [
+      "MobiusCPT.TestFn",
+      "MobiusCPT.stepRight"
+    ]
+  },
+  "MobiusCPT/Wightman/Continuity.lean": {
+    "checkedAt": "2026-11-18T00:50:43.944Z",
+    "collisions": [
+      "MobiusCPT.TestFunctions",
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/Wightman/Lemma39.lean": {
+    "checkedAt": "2026-11-18T00:55:00.747Z",
+    "collisions": [
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/Wightman/Lemma39Interior.lean": {
+    "checkedAt": "2026-11-18T00:57:46.381Z",
+    "collisions": [
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/Wightman/LocalityLimit.lean": {
+    "checkedAt": "2026-11-18T01:01:03.733Z",
+    "collisions": [
+      "MobiusCPT.TestFunctions"
+    ]
+  },
+  "MobiusCPT/Wightman/Mobius.lean": {
+    "checkedAt": "2026-11-18T01:01:07.415Z",
+    "collisions": [
+      "MobiusCPT.TestFunctions"
+    ]
+  },
+  "MobiusCPT/Wightman/ReehSchlieder.lean": {
+    "checkedAt": "2026-11-18T01:02:10.328Z",
+    "collisions": [
+      "MobiusCPT.stepRight"
+    ]
+  },
+  "MobiusCPT/Wightman/SignReversal.lean": {
+    "checkedAt": "2026-11-18T01:03:24.130Z",
+    "collisions": [
+      "MobiusCPT.TestFn"
+    ]
+  },
+  "MobiusCPT/Wightman/VtildeLinear.lean": {
+    "checkedAt": "2026-11-18T01:06:46.401Z",
+    "collisions": [
+      "MobiusCPT.TestFunctions",
+      "MobiusCPT.strip"
+    ]
+  }
+}
