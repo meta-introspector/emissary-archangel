@@ -1,0 +1,557 @@
+{
+  "GroupUndecidability/AdianRabin/Gordon/RightNormalForm.lean": {
+    "checkedAt": "2026-11-18T19:11:14.078Z",
+    "collisions": [
+      "Undecidability.Gordon.RightFactor",
+      "Undecidability.Gordon.TorsionData"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/MillerTancer/Amalgam.lean": {
+    "checkedAt": "2026-11-18T19:12:29.134Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/MillerTancer/Family.lean": {
+    "checkedAt": "2026-11-18T19:12:56.331Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/MillerTancer/LeftInjective.lean": {
+    "checkedAt": "2026-11-18T19:12:57.454Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.MillerTancer.LeftInjective.q",
+      "Undecidability.MillerTancer.LeftNormalForm.FreeGroup.lift_injective_of_coprodI_neWord"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/MillerTancer/LeftNormalForm.lean": {
+    "checkedAt": "2026-11-18T19:15:26.397Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.MillerTancer.LeftNormalForm.LeftIndex"
+    ]
+  },
+  "GroupUndecidability/Borisov/Assertions/AssertionV.lean": {
+    "checkedAt": "2026-11-18T19:15:46.118Z",
+    "collisions": [
+      "Undecidability.BorisovHNNModel.Base",
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.BorisovAssertionV.swapHNN",
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Borisov/Mod5/BaseWords.lean": {
+    "checkedAt": "2026-11-18T19:21:55.038Z",
+    "collisions": [
+      "Undecidability.BorisovModFiveQuotient.C5",
+      "Undecidability.BorisovCStage.RuleBasis"
+    ]
+  },
+  "GroupUndecidability/Borisov/Model/ContextNormalForm.lean": {
+    "checkedAt": "2026-11-18T19:22:18.585Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/Borisov/Model/ConverseCore.lean": {
+    "checkedAt": "2026-11-18T19:24:29.203Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.HNNLemmas.equivRangeOfInjective"
+    ]
+  },
+  "GroupUndecidability/Borisov/Model/G0NormalForm.lean": {
+    "checkedAt": "2026-11-18T19:25:17.614Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.Thue.etaLetter"
+    ]
+  },
+  "GroupUndecidability/GroupTheory/MultipleHNN/Flat.lean": {
+    "checkedAt": "2026-11-18T19:27:44.537Z",
+    "collisions": [
+      "Undecidability.MultipleHNN.StageOne"
+    ]
+  },
+  "GroupUndecidability/Host/Presentation.lean": {
+    "checkedAt": "2026-11-18T19:28:18.915Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Host/ZStage.lean": {
+    "checkedAt": "2026-11-18T19:29:33.497Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/Gordon/Family.lean": {
+    "checkedAt": "2026-11-18T19:12:39.955Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/MillerTancer/LeftSplit.lean": {
+    "checkedAt": "2026-11-18T19:13:00.801Z",
+    "collisions": [
+      "Undecidability.MillerTancer.LeftNormalForm.FreeGroup.lift_injective_of_coprodI_neWord",
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.MillerTancer.LeftSplit.SplitIndex"
+    ]
+  },
+  "GroupUndecidability/Borisov/Assertions/CoefficientShapes.lean": {
+    "checkedAt": "2026-11-18T19:13:07.614Z",
+    "collisions": [
+      "Undecidability.BorisovCStage.RuleBasis",
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/Borisov/Assertions/CoefficientSigns.lean": {
+    "checkedAt": "2026-11-18T19:13:54.968Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.BorisovCStage.RuleBasis",
+      "Undecidability.BorisovHNNModel.Base"
+    ]
+  },
+  "GroupUndecidability/Borisov/Construction.lean": {
+    "checkedAt": "2026-11-18T19:15:54.110Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Borisov/Mod5/Quotient.lean": {
+    "checkedAt": "2026-11-18T19:19:10.403Z",
+    "collisions": [
+      "Undecidability.BorisovModFiveQuotient.C5",
+      "Undecidability.BorisovHNNModel.Base",
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/Borisov/Model/HNNModel.lean": {
+    "checkedAt": "2026-11-18T19:19:24.270Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/Host/CompressionInjective.lean": {
+    "checkedAt": "2026-11-18T19:21:37.989Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Host/KcModel.lean": {
+    "checkedAt": "2026-11-18T19:59:21.988Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/Host/ThetaCT.lean": {
+    "checkedAt": "2026-11-18T20:11:34.382Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/Host/ZBaseIntersections.lean": {
+    "checkedAt": "2026-11-18T20:15:41.108Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.HostZBaseIntersections.FreeInput"
+    ]
+  },
+  "GroupUndecidability/Presentation.lean": {
+    "checkedAt": "2026-11-18T20:20:11.189Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Thue/Core.lean": {
+    "checkedAt": "2026-11-18T20:20:19.218Z",
+    "collisions": [
+      "Undecidability.ThueSystem"
+    ]
+  },
+  "GroupUndecidability/Thue/Matiyasevich/Padding.lean": {
+    "checkedAt": "2026-11-18T20:20:20.399Z",
+    "collisions": [
+      "Undecidability.Thue.Matiyasevich1993.Padding.pad",
+      "Undecidability.ThueSystem"
+    ]
+  },
+  "GroupUndecidability/Thue/Matiyasevich/PriorityForward.lean": {
+    "checkedAt": "2026-11-18T20:21:25.402Z",
+    "collisions": [
+      "Undecidability.ThueSystem",
+      "Undecidability.Thue.Matiyasevich1993.Priority.A₂",
+      "Undecidability.Thue.Matiyasevich1993.A₂"
+    ]
+  },
+  "GroupUndecidability/Thue/Matiyasevich/PriorityReflection.lean": {
+    "checkedAt": "2026-11-18T20:22:55.393Z",
+    "collisions": [
+      "Undecidability.Thue.Matiyasevich1993.Priority.A₂",
+      "Undecidability.ThueSystem"
+    ]
+  },
+  "GroupUndecidability/Thue/StandingDatum.lean": {
+    "checkedAt": "2026-11-18T20:26:56.653Z",
+    "collisions": [
+      "Undecidability.fixedUniversalEval",
+      "Undecidability.Thue.etaLetter",
+      "Undecidability.wordOfNat",
+      "Undecidability.ThueSystem"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/Gordon/Condition.lean": {
+    "checkedAt": "2026-11-18T18:43:48.835Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/Gordon/Embedding.lean": {
+    "checkedAt": "2026-11-18T18:43:56.484Z",
+    "collisions": [
+      "Undecidability.SignedGenerator",
+      "Undecidability.Gordon.TorsionData"
+    ]
+  },
+  "GroupUndecidability/Borisov/Assertions/Lemma4Pinch.lean": {
+    "checkedAt": "2026-11-18T18:44:59.728Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/Borisov/Model/Intersections.lean": {
+    "checkedAt": "2026-11-18T18:46:33.019Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/GroupTheory/MultipleHNN.lean": {
+    "checkedAt": "2026-11-18T18:47:03.535Z",
+    "collisions": [
+      "Undecidability.MultipleHNN.StageOne"
+    ]
+  },
+  "GroupUndecidability/Host/Compression.lean": {
+    "checkedAt": "2026-11-18T18:47:10.296Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Host/Existence.lean": {
+    "checkedAt": "2026-11-18T18:50:30.089Z",
+    "collisions": [
+      "Undecidability.fixedUniversalEval"
+    ]
+  },
+  "GroupUndecidability/Machine/ThueBridge.lean": {
+    "checkedAt": "2026-11-18T18:50:30.620Z",
+    "collisions": [
+      "Undecidability.MachineThue.iterate",
+      "Undecidability.ThueSystem"
+    ]
+  },
+  "GroupUndecidability/Thue/FiniteReindex.lean": {
+    "checkedAt": "2026-11-18T18:50:33.035Z",
+    "collisions": [
+      "Undecidability.ThueSystem",
+      "Undecidability.wordOfNat",
+      "Undecidability.Thue.Matiyasevich1993.FiniteReindex.ruleCount"
+    ]
+  },
+  "GroupUndecidability/Thue/Matiyasevich/RowSelection.lean": {
+    "checkedAt": "2026-11-18T18:50:36.886Z",
+    "collisions": [
+      "Undecidability.Thue.Matiyasevich1993.Priority.RowSelection.selectOdd",
+      "Undecidability.Thue.Matiyasevich1993.Priority.A₂"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/MillerTancer/Construction.lean": {
+    "checkedAt": "2026-11-18T18:43:35.947Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/MillerTancer/RightNormalForm.lean": {
+    "checkedAt": "2026-11-18T18:43:40.040Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.MillerTancer.RightFactor"
+    ]
+  },
+  "GroupUndecidability/Borisov/Assertions/AssertionIV.lean": {
+    "checkedAt": "2026-11-18T18:44:02.477Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.BorisovAssertionIV.FlatSyllable",
+      "Undecidability.BorisovIntersections.G0Word",
+      "Undecidability.BorisovHNNModel.Base",
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Borisov/Model/FinalModel.lean": {
+    "checkedAt": "2026-11-18T18:52:13.907Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/Borisov/Model/G0HNN.lean": {
+    "checkedAt": "2026-11-18T18:58:31.949Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Computability.lean": {
+    "checkedAt": "2026-11-18T19:00:26.264Z",
+    "collisions": [
+      "Undecidability.SignedGenerator",
+      "Undecidability.wordOfNat"
+    ]
+  },
+  "GroupUndecidability/Host/YStage.lean": {
+    "checkedAt": "2026-11-18T19:00:59.372Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/Machine/SupportedTM1Thue.lean": {
+    "checkedAt": "2026-11-18T19:58:09.629Z",
+    "collisions": [
+      "Undecidability.ThueSystem",
+      "Undecidability.PostMachine.Direction"
+    ]
+  },
+  "GroupUndecidability/Thue/FixedSeed.lean": {
+    "checkedAt": "2026-11-18T19:58:37.866Z",
+    "collisions": [
+      "Undecidability.ThueSystem",
+      "Undecidability.fixedUniversalEval",
+      "Undecidability.wordOfNat"
+    ]
+  },
+  "GroupUndecidability/Thue/Matiyasevich/ContextualSelection.lean": {
+    "checkedAt": "2026-11-18T19:59:05.898Z",
+    "collisions": [
+      "Undecidability.Thue.Matiyasevich1993.Priority.A₂",
+      "Undecidability.Thue.Matiyasevich1993.Priority.ContextualSelection.lowerBit"
+    ]
+  },
+  "GroupUndecidability/Thue/Matiyasevich/Reduction.lean": {
+    "checkedAt": "2026-11-18T19:59:17.059Z",
+    "collisions": [
+      "Undecidability.wordOfNat"
+    ]
+  },
+  "GroupUndecidability/AdianRabin.lean": {
+    "checkedAt": "2026-11-18T18:38:10.448Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/Gordon/Construction.lean": {
+    "checkedAt": "2026-11-18T18:38:20.967Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Borisov/Assertions/InputsBridge.lean": {
+    "checkedAt": "2026-11-18T18:38:37.810Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Borisov/Mod5/WordLength.lean": {
+    "checkedAt": "2026-11-18T18:42:58.721Z",
+    "collisions": [
+      "Undecidability.BorisovCStage.RuleBasis",
+      "Undecidability.CoprodIWordLength.normalForm_length_mul_of_of_le_two",
+      "Undecidability.BorisovModFiveQuotient.C5"
+    ]
+  },
+  "GroupUndecidability/Borisov/Model/FinalModelInjective.lean": {
+    "checkedAt": "2026-11-18T18:43:36.107Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/GroupTheory/MultipleHNN/FlatUniqueness.lean": {
+    "checkedAt": "2026-11-18T18:58:10.814Z",
+    "collisions": [
+      "Undecidability.MultipleHNNFlatUniqueness.InnerWord",
+      "Undecidability.MultipleHNN.StageOne"
+    ]
+  },
+  "GroupUndecidability/Host/Abelianization.lean": {
+    "checkedAt": "2026-11-18T18:58:29.739Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Host/ZIntersections.lean": {
+    "checkedAt": "2026-11-18T18:59:15.313Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/Machine/PostMachineThue.lean": {
+    "checkedAt": "2026-11-18T19:09:23.178Z",
+    "collisions": [
+      "Undecidability.ThueSystem",
+      "Undecidability.PostMachine.Direction"
+    ]
+  },
+  "GroupUndecidability/Thue/Matiyasevich/Compression.lean": {
+    "checkedAt": "2026-11-18T19:10:44.541Z",
+    "collisions": [
+      "Undecidability.Thue.Matiyasevich1993.Priority.A₂",
+      "Undecidability.ThueSystem",
+      "Undecidability.Thue.Matiyasevich1993.PowerPadding.includeIndex",
+      "Undecidability.Thue.Matiyasevich1993.Padding.pad",
+      "Undecidability.Thue.Matiyasevich1993.Binary.rho₁Letter",
+      "Undecidability.Thue.Matiyasevich1993.A₂"
+    ]
+  },
+  "GroupUndecidability/Thue/Matiyasevich/FinalStage.lean": {
+    "checkedAt": "2026-11-18T19:13:26.784Z",
+    "collisions": [
+      "Undecidability.Thue.Matiyasevich1993.A₂",
+      "Undecidability.ThueSystem"
+    ]
+  },
+  "GroupUndecidability/Thue/Matiyasevich/PriorityStage.lean": {
+    "checkedAt": "2026-11-18T19:13:41.589Z",
+    "collisions": [
+      "Undecidability.Thue.Matiyasevich1993.Priority.A₂",
+      "Undecidability.ThueSystem",
+      "Undecidability.Thue.Matiyasevich1993.A₂"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/Gordon/Amalgam.lean": {
+    "checkedAt": "2026-11-18T19:13:25.476Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/Gordon/LeftNormalForm.lean": {
+    "checkedAt": "2026-11-18T19:13:54.011Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.MillerTancer.LeftNormalForm.FreeGroup.lift_injective_of_coprodI_neWord",
+      "Undecidability.Gordon.TorsionData"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/MillerTancer/Compressed.lean": {
+    "checkedAt": "2026-11-18T19:16:03.711Z",
+    "collisions": [
+      "Undecidability.SignedGenerator",
+      "Undecidability.MillerTancer.Compressed.finalOldSlot"
+    ]
+  },
+  "GroupUndecidability/AdianRabin/MillerTancer/Embedding.lean": {
+    "checkedAt": "2026-11-18T19:20:10.795Z",
+    "collisions": [
+      "Undecidability.SignedGenerator",
+      "Undecidability.MillerTancer.RightFactor",
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/Borisov/Assertions/AssertionIVBoundary.lean": {
+    "checkedAt": "2026-11-18T19:20:58.507Z",
+    "collisions": [
+      "Undecidability.BorisovHNNModel.Base",
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.BorisovPowerArithmetic.dExponent"
+    ]
+  },
+  "GroupUndecidability/Borisov/Assertions/ConditionalConverse.lean": {
+    "checkedAt": "2026-11-18T19:22:25.129Z",
+    "collisions": [
+      "Undecidability.SignedGenerator",
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/Borisov/Assertions/PinchCoefficientClassification.lean": {
+    "checkedAt": "2026-11-18T19:25:35.663Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.BorisovCStage.RuleBasis"
+    ]
+  },
+  "GroupUndecidability/Borisov/Criterion.lean": {
+    "checkedAt": "2026-11-18T19:29:56.030Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Borisov/Mod5/Sparsity.lean": {
+    "checkedAt": "2026-11-18T19:30:27.152Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.BorisovCStage.RuleBasis",
+      "Undecidability.BorisovModFiveQuotient.C5",
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Borisov/Model/CStage.lean": {
+    "checkedAt": "2026-11-18T19:33:16.881Z",
+    "collisions": [
+      "Monoid.CoprodI.familyMap",
+      "Undecidability.Thue.etaLetter",
+      "Undecidability.BorisovCStage.RuleBasis",
+      "Undecidability.ThueSystem"
+    ]
+  },
+  "GroupUndecidability/GroupTheory/CoprodILemmas.lean": {
+    "checkedAt": "2026-11-18T19:47:11.001Z",
+    "collisions": [
+      "Monoid.CoprodI.letterMap_injective",
+      "Monoid.CoprodI.wordMap_injective",
+      "Monoid.CoprodI.familyMap"
+    ]
+  },
+  "GroupUndecidability/GroupTheory/HNNLemmas.lean": {
+    "checkedAt": "2026-11-18T19:47:21.205Z",
+    "collisions": [
+      "Undecidability.HNNLemmas.equivRangeOfInjective"
+    ]
+  },
+  "GroupUndecidability/Host/Tower.lean": {
+    "checkedAt": "2026-11-18T19:51:23.757Z",
+    "collisions": [
+      "Undecidability.SignedGenerator"
+    ]
+  },
+  "GroupUndecidability/Machine/FixedTuringMachine.lean": {
+    "checkedAt": "2026-11-18T19:55:09.930Z",
+    "collisions": [
+      "Undecidability.fixedUniversalEval"
+    ]
+  },
+  "GroupUndecidability/Machine/TM0PostAdapter.lean": {
+    "checkedAt": "2026-11-18T19:55:28.512Z",
+    "collisions": [
+      "Undecidability.ThueSystem",
+      "Undecidability.PostMachine.Direction",
+      "Undecidability.MachineThue.iterate"
+    ]
+  },
+  "GroupUndecidability/Machine/TM1BinaryAdapter.lean": {
+    "checkedAt": "2026-11-18T19:56:16.443Z",
+    "collisions": [
+      "Undecidability.TM0FiniteRestriction.supportedInhabited"
+    ]
+  },
+  "GroupUndecidability/Thue/Matiyasevich/BinaryStage.lean": {
+    "checkedAt": "2026-11-18T19:56:20.885Z",
+    "collisions": [
+      "Undecidability.Thue.Matiyasevich1993.Binary.rho₁Letter",
+      "Undecidability.ThueSystem"
+    ]
+  }
+}
