@@ -443,5 +443,86 @@
       "LeanEval.Geometry.PlatonicClassification.aureo",
       "LeanEval.Geometry.PlatonicClassification.sqrt_five_bounds"
     ]
+  },
+  "Submission/TetraedroStadio2.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-19T06:25:19.452Z"
+  },
+  "Submission/Diamante.lean": {
+    "checkedAt": "2026-11-19T05:34:54.462Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.espositore_di_faccia",
+      "LeanEval.Geometry.PlatonicClassification.finrank_direction_retta",
+      "LeanEval.Geometry.PlatonicClassification.face_eq_hull_vertices",
+      "LeanEval.Geometry.PlatonicClassification.segno_opposto"
+    ]
+  },
+  "Submission/Diamante2D.lean": {
+    "checkedAt": "2026-11-19T05:34:57.751Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.faccia_ha_secondo_punto",
+      "LeanEval.Geometry.PlatonicClassification.finrank_pos_di_due",
+      "LeanEval.Geometry.PlatonicClassification.face_eq_hull_vertices"
+    ]
+  },
+  "Submission/DimStretta.lean": {
+    "checkedAt": "2026-11-19T05:34:59.091Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.face_eq_hull_vertices"
+    ]
+  },
+  "Submission/FaccetteConnesse.lean": {
+    "checkedAt": "2026-11-19T05:34:59.398Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.linearImagePolytope",
+      "LeanEval.Geometry.PlatonicClassification.face_eq_hull_vertices",
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/FiguraAlVertice.lean": {
+    "checkedAt": "2026-11-19T05:35:23.837Z",
+    "collisions": [
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/Generazione.lean": {
+    "checkedAt": "2026-11-19T05:36:49.456Z",
+    "collisions": [
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/Gram.lean": {
+    "checkedAt": "2026-11-19T05:38:11.164Z",
+    "collisions": [
+      "PlatoniciL3.faccia_argmax",
+      "LeanEval.Geometry.PlatonicClassification.gram_diagonale"
+    ]
+  },
+  "Submission/GramBlocchiContigui.lean": {
+    "checkedAt": "2026-11-19T05:55:34.417Z",
+    "collisions": [
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/Iperpiano.lean": {
+    "checkedAt": "2026-11-19T05:56:04.769Z",
+    "collisions": [
+      "PlatoniciL3.faccia_argmax",
+      "LeanEval.Geometry.PlatonicClassification.centroidiBandieraCorpo",
+      "LeanEval.Geometry.PlatonicClassification.face_eq_hull_vertices"
+    ]
+  },
+  "Submission/IstanzeBenchmark.lean": {
+    "checkedAt": "2026-11-19T06:06:12.491Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.tetraedroBM",
+      "LeanEval.Geometry.PlatonicClassification.extremePoints_image_affineEquiv"
+    ]
+  },
+  "Submission/Simplesso.lean": {
+    "checkedAt": "2026-11-19T08:02:35.580Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.simplexOne"
+    ]
   }
 }
