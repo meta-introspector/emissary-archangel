@@ -3337,6 +3337,169 @@
         "BurningPathTokenGraphsTests"
       ],
       "licence": "Apache-2.0"
+    },
+    "jsp-000936-unit-circle-lean": {
+      "label": "jsp-000936-unit-circle-lean",
+      "repo": "https://github.com/Wang060919/jsp-000936-unit-circle-lean",
+      "commit": "3da865ad51c5d1f8d9a210a6eec87580fa28e4a8",
+      "toolchain": "leanprover/lean4:v4.33.0",
+      "roots": [
+        "UnitCircleInterpolation"
+      ],
+      "licence": "MIT"
+    },
+    "observer-equivariance-lean": {
+      "label": "observer-equivariance-lean",
+      "repo": "https://github.com/gustafGitHub/observer-equivariance-lean",
+      "commit": "783cc19a12556f5be8f7579decd4f2e4a5fd4292",
+      "toolchain": "leanprover/lean4:v4.31.0-rc1",
+      "roots": [
+        "ObserverEquivariance"
+      ],
+      "licence": "Apache-2.0"
+    },
+    "lean-graph-proofs": {
+      "label": "lean-graph-proofs",
+      "repo": "https://github.com/VictorLiwentao/lean-graph-proofs",
+      "commit": "979c01c2ad70ba67e1a2f50346322576ec04ad4a",
+      "toolchain": "leanprover/lean4:v4.34.0-rc2",
+      "roots": [
+        "LeanGraphProofs"
+      ],
+      "licence": "Apache-2.0"
+    },
+    "jsp000958-lean": {
+      "label": "jsp000958-lean",
+      "repo": "https://github.com/randyxian08/jsp000958-lean",
+      "commit": "15d93105219e944a29b6c5c0759d3ab90e7db7d9",
+      "toolchain": "leanprover/lean4:v4.33.0",
+      "roots": [
+        "Randy1153"
+      ],
+      "licence": "MIT"
+    },
+    "the-iwasawa-tower-law-for-ramanujan-s-third-order-mock-theta-function": {
+      "label": "the-iwasawa-tower-law-for-ramanujan-s-third-order-mock-theta-function",
+      "repo": "https://github.com/Ghostintheshell-iuseArchbtw/The-Iwasawa-Tower-Law-for-Ramanujan-s-Third-Order-Mock-Theta-Function",
+      "commit": "a77289c0458dddb3307e0571e40c3059b2f66ed5",
+      "toolchain": "leanprover/lean4:v4.31.0",
+      "roots": [
+        "IwasawaTower"
+      ],
+      "licence": "MIT"
+    },
+    "lmlf": {
+      "label": "lmlf",
+      "repo": "https://github.com/jaumededios/LMLF",
+      "commit": "00f4ab46c750d006319066f44115a218c1cc4c62",
+      "toolchain": "leanprover/lean4:v4.33.1",
+      "roots": [
+        "LMLF",
+        "LMLFTest"
+      ],
+      "licence": "MIT"
+    },
+    "lean-mathematical-commons": {
+      "label": "lean-mathematical-commons",
+      "repo": "https://github.com/KokunoYumeto/lean-mathematical-commons",
+      "commit": "85084ee73972862cd20dabab2cd7f7a4619c1c3b",
+      "toolchain": "leanprover/lean4:v4.31.0",
+      "roots": [
+        "MathematicalCommons"
+      ],
+      "licence": "Apache-2.0"
+    },
+    "erdos-815-lean": {
+      "label": "erdos-815-lean",
+      "repo": "https://github.com/noahbenjamin1994/erdos-815-lean",
+      "commit": "bce29bcdc1185acc497c33a35a67e8474dffab80",
+      "toolchain": "leanprover/lean4:v4.34.0",
+      "roots": [
+        "Erdos815"
+      ],
+      "licence": "Apache-2.0"
+    },
+    "jsp940-erdos1133-formalization": {
+      "label": "jsp940-erdos1133-formalization",
+      "repo": "https://github.com/peilinliu66-dev/jsp940-erdos1133-formalization",
+      "commit": "83ab7d38a4abbdfc1c9509cfbb7b49514cca217e",
+      "toolchain": "leanprover/lean4:v4.33.0",
+      "roots": [
+        "Erdos1133",
+        "Erdos1152"
+      ],
+      "licence": "Apache-2.0"
+    },
+    "cayley-bacharach": {
+      "label": "cayley-bacharach",
+      "repo": "https://github.com/jpbald93/cayley-bacharach",
+      "commit": "d9c674c68c0a1b475a284f9bd33ec5f7e6d52689",
+      "toolchain": "leanprover/lean4:v4.33.1",
+      "roots": [
+        "CayleyBacharach"
+      ],
+      "licence": "Apache-2.0"
+    },
+    "record-compositions": {
+      "label": "record-compositions",
+      "repo": "https://github.com/AxiomMath/record-compositions",
+      "commit": "b1067cc48c378499be944d693c1665e5e9abd18e",
+      "toolchain": "leanprover/lean4:v4.31.0",
+      "roots": [
+        "RecordCompositions"
+      ],
+      "licence": "MIT"
+    },
+    "negative-power-means": {
+      "label": "negative-power-means",
+      "repo": "https://github.com/marcotom/Negative-Power-Means",
+      "commit": "8d9452844a62864ff6fc54ee6f11473fde6d98cd",
+      "toolchain": "leanprover/lean4:v4.32.2",
+      "roots": [
+        "BoundaryProofs",
+        "HiaiLimPowerMeans"
+      ],
+      "licence": "MIT"
+    },
+    "forcing": {
+      "label": "forcing",
+      "repo": "https://github.com/cameronfreer/forcing",
+      "commit": "5d77761d21459022f052bb92e1ba3c92bbbe2342",
+      "toolchain": "leanprover/lean4:v4.32.2",
+      "roots": [
+        "Forcing"
+      ],
+      "licence": "Apache-2.0"
+    },
+    "qharm": {
+      "label": "qharm",
+      "repo": "https://github.com/BrandonMYates/qharm",
+      "commit": "27f42bc146a647a47ce040e2d8be434d1faef856",
+      "toolchain": "leanprover/lean4:v4.32.0",
+      "roots": [
+        "QHarm"
+      ],
+      "licence": "Apache-2.0"
+    },
+    "moran-lean": {
+      "label": "moran-lean",
+      "repo": "https://github.com/123yhxie-a11y/moran-lean",
+      "commit": "666de78ca109bf9e5de6db41c17ccb9e93afb8fc",
+      "toolchain": "leanprover/lean4:v4.32.1",
+      "roots": [
+        "Moran"
+      ],
+      "licence": "Apache-2.0"
+    },
+    "shearertrianglefreeind": {
+      "label": "shearertrianglefreeind",
+      "repo": "https://github.com/Pjotr5/ShearerTriangleFreeInd",
+      "commit": "e23808a95cd600a39f252007b60582588317d65c",
+      "toolchain": "leanprover/lean4:v4.34.1",
+      "roots": [
+        "ShearerTriangleFreeInd"
+      ],
+      "licence": "Apache-2.0"
     }
   }
 }
