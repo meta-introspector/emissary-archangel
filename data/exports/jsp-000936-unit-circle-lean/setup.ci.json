@@ -1,0 +1,36 @@
+{
+  "key": "jsp-000936-unit-circle-lean",
+  "repo": "https://github.com/Wang060919/jsp-000936-unit-circle-lean",
+  "commit": "3da865ad51c5d1f8d9a210a6eec87580fa28e4a8",
+  "toolchain": "leanprover/lean4:v4.33.0",
+  "roots": [
+    "UnitCircleInterpolation"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/jsp-000936-unit-circle-lean/repo",
+  "entries": 803,
+  "modules": 76,
+  "exported": 76,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 803,
+    "kept": 803,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 6,
+    "lineUnverified": 0,
+    "nameFixed": 803,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 28344320,
+  "minutes": 5,
+  "finishedAt": "2026-11-20T18:58:04.791Z"
+}
