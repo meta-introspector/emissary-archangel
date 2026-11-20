@@ -1,0 +1,36 @@
+{
+  "key": "erdos-815-lean",
+  "repo": "https://github.com/noahbenjamin1994/erdos-815-lean",
+  "commit": "bce29bcdc1185acc497c33a35a67e8474dffab80",
+  "toolchain": "leanprover/lean4:v4.34.0",
+  "roots": [
+    "Erdos815"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/erdos-815-lean/repo",
+  "entries": 150,
+  "modules": 11,
+  "exported": 11,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 150,
+    "kept": 150,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 150,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 2347008,
+  "minutes": 2,
+  "finishedAt": "2026-11-20T18:58:44.046Z"
+}
