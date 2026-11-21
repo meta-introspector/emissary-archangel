@@ -1,0 +1,36 @@
+{
+  "key": "jsp-000290-lean",
+  "repo": "https://github.com/ljhfafa/jsp-000290-lean",
+  "commit": "a65923973350f2a1e5dbc4ec7f7c40432a37e0b6",
+  "toolchain": "leanprover/lean4:v4.32.0",
+  "roots": [
+    "Jsp290"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/jsp-000290-lean/repo",
+  "entries": 112,
+  "modules": 11,
+  "exported": 11,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 112,
+    "kept": 112,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 112,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 1679360,
+  "minutes": 4,
+  "finishedAt": "2026-11-21T00:28:40.220Z"
+}
