@@ -1,0 +1,78 @@
+{
+  "GraphContainer/Algorithm.lean": {
+    "checkedAt": "2026-11-21T08:17:09.442Z",
+    "collisions": [
+      "SimpleGraph.Container.firstIn",
+      "SimpleGraph.Container.inducedEdgeCount"
+    ]
+  },
+  "GraphContainer/Basic.lean": {
+    "checkedAt": "2026-11-21T08:17:26.098Z",
+    "collisions": [
+      "SimpleGraph.Container.inducedEdgeCount"
+    ]
+  },
+  "GraphContainer/Counting.lean": {
+    "checkedAt": "2026-11-21T08:17:28.670Z",
+    "collisions": [
+      "SimpleGraph.Container.inducedEdgeCount"
+    ]
+  },
+  "GraphContainer/Family.lean": {
+    "checkedAt": "2026-11-21T08:17:41.760Z",
+    "collisions": [
+      "SimpleGraph.Container.inducedEdgeCount"
+    ]
+  },
+  "GraphContainer/Intersecting/Asymptotics.lean": {
+    "checkedAt": "2026-11-21T08:18:15.771Z",
+    "collisions": [
+      "SimpleGraph.Container.inducedEdgeCount",
+      "SimpleGraph.KneserCounting.Vertex"
+    ]
+  },
+  "GraphContainer/Intersecting/Basic.lean": {
+    "checkedAt": "2026-11-21T08:43:14.000Z",
+    "collisions": [
+      "SimpleGraph.KneserCounting.Vertex"
+    ]
+  },
+  "GraphContainer/Intersecting/Container.lean": {
+    "checkedAt": "2026-11-21T08:43:35.906Z",
+    "collisions": [
+      "SimpleGraph.KneserCounting.Vertex",
+      "SimpleGraph.Container.inducedEdgeCount"
+    ]
+  },
+  "GraphContainer/Intersecting/Spectrum.lean": {
+    "checkedAt": "2026-11-21T08:44:02.760Z",
+    "collisions": [
+      "SimpleGraph.KneserCounting.Vertex"
+    ]
+  },
+  "GraphContainer/Intersecting/Supersaturation.lean": {
+    "checkedAt": "2026-11-21T08:45:49.212Z",
+    "collisions": [
+      "SimpleGraph.KneserCounting.Vertex"
+    ]
+  },
+  "GraphContainer/Intersecting/Theorem.lean": {
+    "checkedAt": "2026-11-21T08:47:07.734Z",
+    "collisions": [
+      "SimpleGraph.KneserCounting.Vertex"
+    ]
+  },
+  "GraphContainer/MaxDegreeOrder.lean": {
+    "checkedAt": "2026-11-21T08:47:08.136Z",
+    "collisions": [
+      "SimpleGraph.Container.degreeWithin"
+    ]
+  },
+  "GraphContainer/Shrink.lean": {
+    "checkedAt": "2026-11-21T08:47:12.743Z",
+    "collisions": [
+      "SimpleGraph.Container.inducedEdgeCount",
+      "SimpleGraph.Container.one_sub_pow_le_exp_neg_mul"
+    ]
+  }
+}
