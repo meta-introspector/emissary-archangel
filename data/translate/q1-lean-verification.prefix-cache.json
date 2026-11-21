@@ -1,0 +1,237 @@
+{
+  "Q1/Action.lean": {
+    "checkedAt": "2026-11-21T12:44:47.883Z",
+    "collisions": [
+      "Q1.LengthBall"
+    ]
+  },
+  "Q1/Coefficients.lean": {
+    "checkedAt": "2026-11-21T12:44:54.450Z",
+    "collisions": [
+      "Q1.LengthBall"
+    ]
+  },
+  "Q1/ConjugacyGrowth.lean": {
+    "checkedAt": "2026-11-21T12:44:59.068Z",
+    "collisions": [
+      "Q1.LengthBall",
+      "Q1.conjugacyGrowthRate",
+      "Q1.conjugacyBall"
+    ]
+  },
+  "Q1/ConjugacyPackingObstruction.lean": {
+    "checkedAt": "2026-11-21T12:45:02.845Z",
+    "collisions": [
+      "Q1.LengthBall"
+    ]
+  },
+  "Q1/ConjugacyTuples.lean": {
+    "checkedAt": "2026-11-21T12:45:12.806Z",
+    "collisions": [
+      "Q1.conjugate_eq_iff_relative_commutes",
+      "Q1.wordBall",
+      "Q1.LengthBall",
+      "Q1.centerConjugacyTuple"
+    ]
+  },
+  "Q1/FiniteNormBounds.lean": {
+    "checkedAt": "2026-11-21T12:45:19.967Z",
+    "collisions": [
+      "Q1.sum_norm_le_sqrt_card_mul_sqrt_sum",
+      "Q1.ratio_le_sqrt_card_of_norm_bound"
+    ]
+  },
+  "Q1/FoelnerExtension.lean": {
+    "checkedAt": "2026-11-21T12:45:20.593Z",
+    "collisions": [
+      "Q1.leftTranslate",
+      "Q1.extensionPair"
+    ]
+  },
+  "Q1/FoelnerGrowth.lean": {
+    "checkedAt": "2026-11-21T12:45:24.532Z",
+    "collisions": [
+      "Q1.leftTranslate",
+      "Q1.LengthBall",
+      "Q1.wordBall"
+    ]
+  },
+  "Q1/FoelnerLocal.lean": {
+    "checkedAt": "2026-11-21T12:45:29.638Z",
+    "collisions": [
+      "Q1.leftTranslate",
+      "Q1.exists_finset_of_mem_closure"
+    ]
+  },
+  "Q1/FoelnerMean.lean": {
+    "checkedAt": "2026-11-21T12:45:33.609Z",
+    "collisions": [
+      "Q1.leftTranslate"
+    ]
+  },
+  "Q1/FullSimplicity.lean": {
+    "checkedAt": "2026-11-21T12:45:47.498Z",
+    "collisions": [
+      "Q1.CStarSimple",
+      "Q1.GroupL2"
+    ]
+  },
+  "Q1/GrowthPacking.lean": {
+    "checkedAt": "2026-11-21T12:46:47.157Z",
+    "collisions": [
+      "Q1.packingEnvelope",
+      "Q1.LengthBall"
+    ]
+  },
+  "Q1/MeanFoelner.lean": {
+    "checkedAt": "2026-11-21T12:47:01.565Z",
+    "collisions": [
+      "Q1.mean_image_eq_of_piecewise_leftTranslate",
+      "Q1.HasInvariantMean",
+      "Q1.exists_doubling_map_of_finset_expansion",
+      "Q1.leftTranslate"
+    ]
+  },
+  "Q1/PackedAveraging.lean": {
+    "checkedAt": "2026-11-21T12:47:03.965Z",
+    "collisions": [
+      "Q1.conjugationLengthBall",
+      "Q1.packedConjugateSet",
+      "Q1.LengthBall",
+      "Q1.CStarSimple",
+      "Q1.GroupL2"
+    ]
+  },
+  "Q1/ReducedAlgebra.lean": {
+    "checkedAt": "2026-11-21T12:47:37.925Z",
+    "collisions": [
+      "Q1.GroupL2"
+    ]
+  },
+  "Q1/ReducedNorm.lean": {
+    "checkedAt": "2026-11-21T12:47:59.843Z",
+    "collisions": [
+      "Q1.sum_norm_le_sqrt_card_mul_sqrt_sum",
+      "Q1.GroupL2",
+      "Q1.LengthBall"
+    ]
+  },
+  "Q1/RegularFaithfulness.lean": {
+    "checkedAt": "2026-11-21T12:48:13.385Z",
+    "collisions": [
+      "Q1.GroupL2"
+    ]
+  },
+  "Q1/WordLength.lean": {
+    "checkedAt": "2026-11-21T12:48:24.335Z",
+    "collisions": [
+      "Q1.wordBall",
+      "Q1.LengthBall"
+    ]
+  },
+  "Q1/Asymptotic.lean": {
+    "checkedAt": "2026-11-21T12:37:02.822Z",
+    "collisions": [
+      "Q1.OrdinarySRD"
+    ]
+  },
+  "Q1/AveragingSimplicity.lean": {
+    "checkedAt": "2026-11-21T12:37:05.126Z",
+    "collisions": [
+      "Q1.CStarSimple"
+    ]
+  },
+  "Q1/ConjugacyGrowthNumeric.lean": {
+    "checkedAt": "2026-11-21T12:37:09.618Z",
+    "collisions": [
+      "Q1.conjugacyGrowthRate"
+    ]
+  },
+  "Q1/Conjugation.lean": {
+    "checkedAt": "2026-11-21T12:37:10.814Z",
+    "collisions": [
+      "Q1.LengthBall"
+    ]
+  },
+  "Q1/Displacement.lean": {
+    "checkedAt": "2026-11-21T12:37:12.627Z",
+    "collisions": [
+      "Q1.LengthBall",
+      "Q1.RepresentedWithin"
+    ]
+  },
+  "Q1/FoelnerCommutative.lean": {
+    "checkedAt": "2026-11-21T12:37:20.485Z",
+    "collisions": [
+      "Q1.wordBall"
+    ]
+  },
+  "Q1/FoelnerOperator.lean": {
+    "checkedAt": "2026-11-21T12:37:22.292Z",
+    "collisions": [
+      "Q1.GroupL2",
+      "Q1.leftTranslate"
+    ]
+  },
+  "Q1/LogSRD.lean": {
+    "checkedAt": "2026-11-21T12:37:25.985Z",
+    "collisions": [
+      "Q1.OrdinarySRD"
+    ]
+  },
+  "Q1/NormalClosureWitness.lean": {
+    "checkedAt": "2026-11-21T12:37:26.552Z",
+    "collisions": [
+      "Q1.finsetClosureTuple",
+      "Q1.leftTranslate"
+    ]
+  },
+  "Q1/PackingObstruction.lean": {
+    "checkedAt": "2026-11-21T12:37:27.536Z",
+    "collisions": [
+      "Q1.LengthBall",
+      "Q1.subgroupBall"
+    ]
+  },
+  "Q1/RadicalCover.lean": {
+    "checkedAt": "2026-11-21T12:37:32.163Z",
+    "collisions": [
+      "Q1.HasInvariantMean",
+      "Q1.leftTranslate"
+    ]
+  },
+  "Q1/RadicalGrowth.lean": {
+    "checkedAt": "2026-11-21T12:37:33.491Z",
+    "collisions": [
+      "Q1.wordBall",
+      "Q1.LengthBall",
+      "Q1.leftTranslate"
+    ]
+  },
+  "Q1/RegularRepresentation.lean": {
+    "checkedAt": "2026-11-21T12:37:44.225Z",
+    "collisions": [
+      "Q1.GroupL2"
+    ]
+  },
+  "Q1/RhoMaximum.lean": {
+    "checkedAt": "2026-11-21T12:37:52.729Z",
+    "collisions": [
+      "Q1.ballCoefficient",
+      "Q1.GroupL2"
+    ]
+  },
+  "Q1/SubgroupVolume.lean": {
+    "checkedAt": "2026-11-21T12:37:59.502Z",
+    "collisions": [
+      "Q1.indicatorCoefficient",
+      "Q1.GroupL2"
+    ]
+  },
+  "Q1/Sunflower.lean": {
+    "checkedAt": "2026-11-21T12:38:18.961Z",
+    "collisions": [
+      "Q1.IsSunflower"
+    ]
+  }
+}
