@@ -1,0 +1,36 @@
+{
+  "key": "oeis-lean",
+  "repo": "https://github.com/jewoo-suh/oeis-lean",
+  "commit": "1b2f715df2642944650976bdbfbf7a9adf76e290",
+  "toolchain": "leanprover/lean4:v4.33.0",
+  "roots": [
+    "OeisLean"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/oeis-lean/repo",
+  "entries": 268,
+  "modules": 22,
+  "exported": 22,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 268,
+    "kept": 268,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 268,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 2580480,
+  "minutes": 3,
+  "finishedAt": "2026-11-21T00:27:54.440Z"
+}
