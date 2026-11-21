@@ -1,0 +1,36 @@
+{
+  "key": "leancondensed",
+  "repo": "https://github.com/dagurtomas/LeanCondensed",
+  "commit": "339ecc99fdc4bdb68ef248c16da0148dce61a639",
+  "toolchain": "leanprover/lean4:v4.34.0-rc2",
+  "roots": [
+    "LeanCondensed"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/leancondensed/repo",
+  "entries": 772,
+  "modules": 33,
+  "exported": 33,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 33,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 772,
+    "kept": 772,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 198,
+    "lineUnverified": 0,
+    "nameFixed": 770,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 43737088,
+  "minutes": 10,
+  "finishedAt": "2026-11-21T00:40:51.913Z"
+}
