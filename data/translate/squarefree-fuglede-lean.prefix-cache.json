@@ -1,0 +1,259 @@
+{
+  "FugledeAudit/ActualClasswiseZeros.lean": {
+    "checkedAt": "2026-11-21T09:27:04.217Z",
+    "collisions": [
+      "FugledeAudit.cyclicFourierEntry",
+      "FugledeAudit.coprime_cyclotomic_minpoly"
+    ]
+  },
+  "FugledeAudit/ActualCommutation.lean": {
+    "checkedAt": "2026-11-21T09:30:06.328Z",
+    "collisions": [
+      "FugledeAudit.localEigenSpace",
+      "FugledeAudit.reducing_map_commutes_projection",
+      "FugledeAudit.averagedPowers"
+    ]
+  },
+  "FugledeAudit/ActualFourierZeros.lean": {
+    "checkedAt": "2026-11-21T09:32:53.329Z",
+    "collisions": [
+      "FugledeAudit.standard_character_nonzero_primitive",
+      "FugledeAudit.standard_character_mul_power",
+      "FugledeAudit.standard_character_scaled",
+      "FugledeAudit.cyclicFourierEntry"
+    ]
+  },
+  "FugledeAudit/ActualIntegralGram.lean": {
+    "checkedAt": "2026-11-21T09:32:55.002Z",
+    "collisions": [
+      "FugledeAudit.coordinateLevel",
+      "FugledeAudit.coordinateMaskMatrix",
+      "FugledeAudit.integral_of_root_of_unity",
+      "FugledeAudit.cyclicFourierEntry",
+      "FugledeAudit.coprime_cyclotomic_minpoly"
+    ]
+  },
+  "FugledeAudit/ActualResidualChain.lean": {
+    "checkedAt": "2026-11-21T09:41:06.136Z",
+    "collisions": [
+      "FugledeAudit.localEigenSpace"
+    ]
+  },
+  "FugledeAudit/ActualSparsePowers.lean": {
+    "checkedAt": "2026-11-21T09:41:06.675Z",
+    "collisions": [
+      "FugledeAudit.cyclicFourierEntry"
+    ]
+  },
+  "FugledeAudit/ActualSpectralDescent.lean": {
+    "checkedAt": "2026-11-21T09:43:58.879Z",
+    "collisions": [
+      "FugledeAudit.cyclicFourierEntry"
+    ]
+  },
+  "FugledeAudit/ActualSpectralProjectors.lean": {
+    "checkedAt": "2026-11-21T09:44:15.066Z",
+    "collisions": [
+      "FugledeAudit.standard_character_nonzero_primitive",
+      "FugledeAudit.averagedPowers",
+      "FugledeAudit.std_character_star",
+      "FugledeAudit.cyclicFourierEntry",
+      "FugledeAudit.localEigenSpace"
+    ]
+  },
+  "FugledeAudit/ActualTilingLift.lean": {
+    "checkedAt": "2026-11-21T09:44:20.390Z",
+    "collisions": [
+      "FugledeAudit.cyclicFourierEntry",
+      "FugledeAudit.coprime_cyclotomic_minpoly"
+    ]
+  },
+  "FugledeAudit/BlockAlgebra.lean": {
+    "checkedAt": "2026-11-21T09:47:09.934Z",
+    "collisions": [
+      "FugledeAudit.shift_block_square_zero",
+      "FugledeAudit.norm_eq_of_contraction_left_inverse",
+      "FugledeAudit.ambient_eigenvector_of_invariant_compression"
+    ]
+  },
+  "FugledeAudit/CRTPairing.lean": {
+    "checkedAt": "2026-11-21T09:47:10.827Z",
+    "collisions": [
+      "FugledeAudit.standard_character_scaled",
+      "FugledeAudit.crt_bezout",
+      "FugledeAudit.cyclicFourierEntry",
+      "FugledeAudit.physicalCRT"
+    ]
+  },
+  "FugledeAudit/CompressionFirewall.lean": {
+    "checkedAt": "2026-11-21T09:49:53.993Z",
+    "collisions": [
+      "FugledeAudit.integral_of_root_of_unity",
+      "FugledeAudit.firewallProjection"
+    ]
+  },
+  "FugledeAudit/CoordinateLevels.lean": {
+    "checkedAt": "2026-11-21T09:49:54.653Z",
+    "collisions": [
+      "FugledeAudit.coordinateLevel"
+    ]
+  },
+  "FugledeAudit/CoprimeCyclotomic.lean": {
+    "checkedAt": "2026-11-21T09:49:57.181Z",
+    "collisions": [
+      "FugledeAudit.coprime_cyclotomic_minpoly"
+    ]
+  },
+  "FugledeAudit/CubicBlocks.lean": {
+    "checkedAt": "2026-11-21T09:49:57.782Z",
+    "collisions": [
+      "FugledeAudit.cyclicThreeBlock"
+    ]
+  },
+  "FugledeAudit/CyclicDimensions.lean": {
+    "checkedAt": "2026-11-21T09:49:58.934Z",
+    "collisions": [
+      "FugledeAudit.permutation_dimensions_equal_of_injective",
+      "FugledeAudit.zmod_function_constant_of_successor_eq"
+    ]
+  },
+  "FugledeAudit/CyclotomicFourierTransfer.lean": {
+    "checkedAt": "2026-11-21T09:50:00.080Z",
+    "collisions": [
+      "FugledeAudit.standard_character_in_cyclotomic_field",
+      "FugledeAudit.coprime_cyclotomic_minpoly"
+    ]
+  },
+  "FugledeAudit/CyclotomicUnitTransfer.lean": {
+    "checkedAt": "2026-11-21T09:50:00.662Z",
+    "collisions": [
+      "FugledeAudit.primitive_root_power_sum_transfer",
+      "FugledeAudit.standard_character_unit",
+      "FugledeAudit.standard_character_scaled"
+    ]
+  },
+  "FugledeAudit/FiniteFourierBasics.lean": {
+    "checkedAt": "2026-11-21T09:50:01.922Z",
+    "collisions": [
+      "FugledeAudit.std_character_star",
+      "FugledeAudit.cyclicFourierEntry"
+    ]
+  },
+  "FugledeAudit/FourierUnitary.lean": {
+    "checkedAt": "2026-11-21T09:50:04.306Z",
+    "collisions": [
+      "FugledeAudit.cyclicFourierEntry"
+    ]
+  },
+  "FugledeAudit/GraphTiling.lean": {
+    "checkedAt": "2026-11-21T09:50:06.266Z",
+    "collisions": [
+      "FugledeAudit.cyclicFourierEntry"
+    ]
+  },
+  "FugledeAudit/HadamardConsequences.lean": {
+    "checkedAt": "2026-11-21T09:50:06.906Z",
+    "collisions": [
+      "FugledeAudit.cyclicFourierEntry"
+    ]
+  },
+  "FugledeAudit/Integrality.lean": {
+    "checkedAt": "2026-11-21T09:52:58.557Z",
+    "collisions": [
+      "FugledeAudit.integral_of_root_of_unity",
+      "FugledeAudit.integral_gram_entries",
+      "FugledeAudit.dvd_of_integral_quotient",
+      "FugledeAudit.integral_of_matrix_eigenvector"
+    ]
+  },
+  "FugledeAudit/PhaseUnitary.lean": {
+    "checkedAt": "2026-11-21T10:01:33.491Z",
+    "collisions": [
+      "FugledeAudit.std_character_star",
+      "FugledeAudit.phaseMap"
+    ]
+  },
+  "FugledeAudit/PrimeCollision.lean": {
+    "checkedAt": "2026-11-21T10:01:37.500Z",
+    "collisions": [
+      "FugledeAudit.standard_character_unit",
+      "FugledeAudit.coprime_cyclotomic_minpoly",
+      "FugledeAudit.cyclicFourierEntry"
+    ]
+  },
+  "FugledeAudit/ProjectionBlocks.lean": {
+    "checkedAt": "2026-11-21T10:01:38.852Z",
+    "collisions": [
+      "FugledeAudit.projectionBlocks",
+      "FugledeAudit.cyclicBand"
+    ]
+  },
+  "FugledeAudit/ReducingSpaces.lean": {
+    "checkedAt": "2026-11-21T10:01:41.626Z",
+    "collisions": [
+      "FugledeAudit.globalEigenSpace",
+      "FugledeAudit.localEigenSpace"
+    ]
+  },
+  "FugledeAudit/ResidualBlockChain.lean": {
+    "checkedAt": "2026-11-21T10:01:48.259Z",
+    "collisions": [
+      "FugledeAudit.localEigenSpace"
+    ]
+  },
+  "FugledeAudit/ResidualCompression.lean": {
+    "checkedAt": "2026-11-21T10:01:49.440Z",
+    "collisions": [
+      "FugledeAudit.localEigenSpace"
+    ]
+  },
+  "FugledeAudit/ResidualEigenvalue.lean": {
+    "checkedAt": "2026-11-21T10:01:53.467Z",
+    "collisions": [
+      "FugledeAudit.localEigenSpace"
+    ]
+  },
+  "FugledeAudit/ResidualRestrictions.lean": {
+    "checkedAt": "2026-11-21T10:01:55.114Z",
+    "collisions": [
+      "FugledeAudit.localEigenSpace",
+      "FugledeAudit.crossCompression"
+    ]
+  },
+  "FugledeAudit/SparseBlockPowers.lean": {
+    "checkedAt": "2026-11-21T10:01:58.849Z",
+    "collisions": [
+      "FugledeAudit.cyclicBand"
+    ]
+  },
+  "FugledeAudit/SparseProjectionRelations.lean": {
+    "checkedAt": "2026-11-21T10:02:02.897Z",
+    "collisions": [
+      "FugledeAudit.cyclic_next_ne_later",
+      "FugledeAudit.cyclicBand"
+    ]
+  },
+  "FugledeAudit/SpectralResidualChain.lean": {
+    "checkedAt": "2026-11-21T10:02:04.740Z",
+    "collisions": [
+      "FugledeAudit.cyclicFourierEntry",
+      "FugledeAudit.standard_character_scaled",
+      "FugledeAudit.coprime_cyclotomic_minpoly"
+    ]
+  },
+  "FugledeAudit/SquarefreeClosure.lean": {
+    "checkedAt": "2026-11-21T10:02:09.764Z",
+    "collisions": [
+      "FugledeAudit.cyclicFourierEntry",
+      "FugledeAudit.squarefree_dvd_twice_of_odd_primes_dvd",
+      "FugledeAudit.size_eq_order_or_half",
+      "FugledeAudit.coprime_cyclotomic_minpoly"
+    ]
+  },
+  "FugledeAudit/UnitInvariance.lean": {
+    "checkedAt": "2026-11-21T10:05:41.015Z",
+    "collisions": [
+      "FugledeAudit.cyclicFourierEntry"
+    ]
+  }
+}
