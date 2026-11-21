@@ -1,0 +1,71 @@
+{
+  "Jsp290/Basic.lean": {
+    "checkedAt": "2026-11-21T08:29:24.566Z",
+    "collisions": [
+      "Jsp290.Sequence"
+    ]
+  },
+  "Jsp290/BoundedDeletion.lean": {
+    "checkedAt": "2026-11-21T08:29:31.098Z",
+    "collisions": [
+      "Jsp290.Sequence"
+    ]
+  },
+  "Jsp290/Central.lean": {
+    "checkedAt": "2026-11-21T08:29:32.070Z",
+    "collisions": [
+      "Jsp290.Sequence",
+      "Jsp290.Central.State"
+    ]
+  },
+  "Jsp290/CentralBounded.lean": {
+    "checkedAt": "2026-11-21T08:29:40.401Z",
+    "collisions": [
+      "Jsp290.Sequence"
+    ]
+  },
+  "Jsp290/Deletion.lean": {
+    "checkedAt": "2026-11-21T08:29:42.319Z",
+    "collisions": [
+      "Jsp290.Sequence"
+    ]
+  },
+  "Jsp290/Examples.lean": {
+    "checkedAt": "2026-11-21T08:29:43.646Z",
+    "collisions": [
+      "Jsp290.Sequence",
+      "Jsp290.binarySequence"
+    ]
+  },
+  "Jsp290/IntegerReduction.lean": {
+    "checkedAt": "2026-11-21T08:29:51.511Z",
+    "collisions": [
+      "Jsp290.Sequence"
+    ]
+  },
+  "Jsp290/Main.lean": {
+    "checkedAt": "2026-11-21T08:29:54.531Z",
+    "collisions": [
+      "Jsp290.Sequence"
+    ]
+  },
+  "Jsp290/Positive.lean": {
+    "checkedAt": "2026-11-21T08:29:55.435Z",
+    "collisions": [
+      "Jsp290.Sequence"
+    ]
+  },
+  "Jsp290/Reindex.lean": {
+    "checkedAt": "2026-11-21T08:29:57.027Z",
+    "collisions": [
+      "Jsp290.survivor",
+      "Jsp290.Sequence"
+    ]
+  },
+  "Jsp290/Slack.lean": {
+    "checkedAt": "2026-11-21T08:30:01.057Z",
+    "collisions": [
+      "Jsp290.Sequence"
+    ]
+  }
+}
