@@ -1,0 +1,114 @@
+{
+  "OeisLean/A048248/Count.lean": {
+    "checkedAt": "2026-11-21T14:54:06.556Z",
+    "collisions": [
+      "A048248.Count.comps",
+      "A048248.edgeCount"
+    ]
+  },
+  "OeisLean/A048248/Fwd.lean": {
+    "checkedAt": "2026-11-21T14:54:14.718Z",
+    "collisions": [
+      "A048248.Fwd.endPos",
+      "A048248.edgeCount"
+    ]
+  },
+  "OeisLean/A307917/Base.lean": {
+    "checkedAt": "2026-11-21T14:54:16.781Z",
+    "collisions": [
+      "A307917.Base.S",
+      "A307917.V"
+    ]
+  },
+  "OeisLean/A307917/Closed.lean": {
+    "checkedAt": "2026-11-21T14:54:19.144Z",
+    "collisions": [
+      "A307917.Closed.M",
+      "A307917.V"
+    ]
+  },
+  "OeisLean/A307917/Paths.lean": {
+    "checkedAt": "2026-11-21T14:54:22.024Z",
+    "collisions": [
+      "A307917.V",
+      "A307917.Paths.Φ"
+    ]
+  },
+  "OeisLean/A307917/Step.lean": {
+    "checkedAt": "2026-11-21T14:54:23.943Z",
+    "collisions": [
+      "A307917.Step.skip",
+      "A307917.V"
+    ]
+  },
+  "OeisLean/A347722.lean": {
+    "checkedAt": "2026-11-21T14:54:27.737Z",
+    "collisions": [
+      "A347722.verts"
+    ]
+  },
+  "OeisLean/A347722/Base.lean": {
+    "checkedAt": "2026-11-21T14:54:29.057Z",
+    "collisions": [
+      "A347722.verts"
+    ]
+  },
+  "OeisLean/A347722/Bridge1.lean": {
+    "checkedAt": "2026-11-21T14:54:30.684Z",
+    "collisions": [
+      "A347722.verts"
+    ]
+  },
+  "OeisLean/A347722/Bridge2.lean": {
+    "checkedAt": "2026-11-21T14:54:35.289Z",
+    "collisions": [
+      "A347722.verts"
+    ]
+  },
+  "OeisLean/A347722/Char.lean": {
+    "checkedAt": "2026-11-21T14:54:39.185Z",
+    "collisions": [
+      "A347722.verts"
+    ]
+  },
+  "OeisLean/A347722/Closed.lean": {
+    "checkedAt": "2026-11-21T14:54:41.521Z",
+    "collisions": [
+      "A347722.Closed.mu",
+      "A347722.verts"
+    ]
+  },
+  "OeisLean/A347722/Matchings.lean": {
+    "checkedAt": "2026-11-21T14:54:44.494Z",
+    "collisions": [
+      "A347722.verts",
+      "A347722.Matchings.exists_pair"
+    ]
+  },
+  "OeisLean/A347722/StepD.lean": {
+    "checkedAt": "2026-11-21T14:54:48.902Z",
+    "collisions": [
+      "A347722.StepD.emb",
+      "A347722.verts"
+    ]
+  },
+  "OeisLean/A347722/StepF.lean": {
+    "checkedAt": "2026-11-21T14:54:58.689Z",
+    "collisions": [
+      "A347722.StepF.emb",
+      "A347722.verts"
+    ]
+  },
+  "OeisLean/A361622.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-21T14:55:11.128Z"
+  },
+  "OeisLean/A367400.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-21T16:33:11.569Z"
+  },
+  "OeisLean/A367400Rec.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-21T16:33:11.977Z"
+  }
+}
