@@ -1,0 +1,72 @@
+{
+  "Erdos815/Defs.lean": {
+    "checkedAt": "2026-11-21T08:28:52.189Z",
+    "collisions": [
+      "Erdos815.IsOddEvenSeq"
+    ]
+  },
+  "Erdos815/GTreeCritical.lean": {
+    "checkedAt": "2026-11-21T08:28:55.777Z",
+    "collisions": [
+      "Erdos815.IsOddEvenSeq",
+      "Erdos815.leafFinset"
+    ]
+  },
+  "Erdos815/GTreeCycles.lean": {
+    "checkedAt": "2026-11-21T08:29:01.035Z",
+    "collisions": [
+      "Erdos815.IsOddEvenSeq"
+    ]
+  },
+  "Erdos815/Main.lean": {
+    "checkedAt": "2026-11-21T08:29:08.456Z",
+    "collisions": [
+      "Erdos815.IsOddEvenSeq",
+      "Erdos815.TParams"
+    ]
+  },
+  "Erdos815/Sequence.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-21T09:03:13.278Z"
+  },
+  "Erdos815/Transport.lean": {
+    "checkedAt": "2026-11-21T09:03:13.962Z",
+    "collisions": [
+      "Erdos815.IsOddEvenSeq",
+      "Erdos815.induce_degree_eq_of_iso",
+      "Erdos815.finGraph"
+    ]
+  },
+  "Erdos815/TreeBasic.lean": {
+    "checkedAt": "2026-11-21T09:03:16.512Z",
+    "collisions": [
+      "Erdos815.IsOddEvenSeq",
+      "Erdos815.TParams"
+    ]
+  },
+  "Erdos815/TreeConstruct.lean": {
+    "checkedAt": "2026-11-21T09:03:40.330Z",
+    "collisions": [
+      "Erdos815.IsOddEvenSeq"
+    ]
+  },
+  "Erdos815/TreePaths.lean": {
+    "checkedAt": "2026-11-21T09:53:27.370Z",
+    "collisions": [
+      "Erdos815.IsOddEvenSeq"
+    ]
+  },
+  "Erdos815/TreeStruct.lean": {
+    "checkedAt": "2026-11-21T09:54:25.049Z",
+    "collisions": [
+      "Erdos815.IsOddEvenSeq",
+      "Erdos815.cons_eq_of_suffix_cons"
+    ]
+  },
+  "Erdos815/TreeWalks.lean": {
+    "checkedAt": "2026-11-21T09:54:52.342Z",
+    "collisions": [
+      "Erdos815.IsOddEvenSeq"
+    ]
+  }
+}
