@@ -1,0 +1,56 @@
+{
+  "IwasawaTower/BaseCases.lean": {
+    "checkedAt": "2026-11-21T10:55:00.252Z",
+    "collisions": [
+      "IwasawaTower.Series.𝔽₃"
+    ]
+  },
+  "IwasawaTower/Basic.lean": {
+    "checkedAt": "2026-11-21T11:02:10.933Z",
+    "collisions": [
+      "IwasawaTower.pochhammer"
+    ]
+  },
+  "IwasawaTower/BlockExpansions.lean": {
+    "checkedAt": "2026-11-21T11:02:13.340Z",
+    "collisions": [
+      "IwasawaTower.Series.𝔽₃"
+    ]
+  },
+  "IwasawaTower/CharacteristicThree.lean": {
+    "checkedAt": "2026-11-21T11:12:36.497Z",
+    "collisions": [
+      "IwasawaTower.Series.𝔽₃"
+    ]
+  },
+  "IwasawaTower/DenominatorReversal.lean": {
+    "checkedAt": "2026-11-21T11:40:37.176Z",
+    "collisions": [
+      "IwasawaTower.pochhammer"
+    ]
+  },
+  "IwasawaTower/FiniteCongruence.lean": {
+    "checkedAt": "2026-11-21T11:43:00.284Z",
+    "collisions": [
+      "IwasawaTower.pochhammer"
+    ]
+  },
+  "IwasawaTower/Series.lean": {
+    "checkedAt": "2026-11-21T11:47:15.664Z",
+    "collisions": [
+      "IwasawaTower.Series.𝔽₃"
+    ]
+  },
+  "IwasawaTower/StrongAuxiliary.lean": {
+    "checkedAt": "2026-11-21T11:49:36.288Z",
+    "collisions": [
+      "IwasawaTower.Series.𝔽₃"
+    ]
+  },
+  "IwasawaTower/TowerLaw.lean": {
+    "checkedAt": "2026-11-21T11:58:00.616Z",
+    "collisions": [
+      "IwasawaTower.pochhammer"
+    ]
+  }
+}
