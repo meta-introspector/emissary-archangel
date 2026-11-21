@@ -1,0 +1,36 @@
+{
+  "key": "scale-space-lean",
+  "repo": "https://github.com/danielfagerstrom/scale-space-lean",
+  "commit": "8ac4b5a8b4cca58278e58a988a603a3456c6d514",
+  "toolchain": "leanprover/lean4:v4.31.0",
+  "roots": [
+    "ScaleSpaceCore"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/scale-space-lean/repo",
+  "entries": 772,
+  "modules": 61,
+  "exported": 61,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 772,
+    "kept": 772,
+    "skippedRoot": 0,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 4,
+    "lineUnverified": 0,
+    "nameFixed": 772,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 10313728,
+  "minutes": 5,
+  "finishedAt": "2026-11-21T00:30:44.495Z"
+}
