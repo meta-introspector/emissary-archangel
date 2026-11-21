@@ -1,0 +1,73 @@
+{
+  "LMLF/Audit/Definitions.lean": {
+    "checkedAt": "2026-11-21T13:07:47.726Z",
+    "collisions": [
+      "QuantitativeAnalysis.ErrorOn",
+      "LMLF.Definitions.gamma_eulerIntegrable",
+      "LMLFTest.Definitions.Gamma.conjugation"
+    ]
+  },
+  "LMLF/Definitions/Gamma.lean": {
+    "checkedAt": "2026-11-21T13:07:50.643Z",
+    "collisions": [
+      "LMLF.Definitions.gamma_eulerIntegrable",
+      "LMLF.Definitions.gamma_eq_eulerIntegral",
+      "LMLF.Definitions.gamma_ofReal",
+      "LMLF.Definitions.gamma_neg_nat_eq_zero"
+    ]
+  },
+  "LMLF/Definitions/Hypergeometric.lean": {
+    "checkedAt": "2026-11-21T13:07:51.828Z",
+    "collisions": [
+      "LMLF.Definitions.gaussHypergeometricSeriesSum"
+    ]
+  },
+  "LMLF/Integral/Improper/Abel.lean": {
+    "checkedAt": "2026-11-21T13:08:29.848Z",
+    "collisions": [
+      "LMLF.Integral.HasImproperIntegralAtTopExcept"
+    ]
+  },
+  "LMLF/Integral/Improper/Basic.lean": {
+    "checkedAt": "2026-11-21T13:10:59.743Z",
+    "collisions": [
+      "LMLF.Integral.HasImproperIntegralAtTopExcept"
+    ]
+  },
+  "LMLF/ODE/FundamentalPair.lean": {
+    "checkedAt": "2026-11-21T13:18:40.550Z",
+    "collisions": [
+      "LMLF.ODE.SpansSecondOrderLinearSolutionsOn",
+      "LMLF.ODE.hasDerivAt_const_mul_exp_neg_integral",
+      "LMLF.ODE.exists_unique_complexLinearIVP",
+      "LMLF.ODE.wronskian"
+    ]
+  },
+  "LMLF/ODE/HolomorphicLinear.lean": {
+    "checkedAt": "2026-11-21T13:27:57.089Z",
+    "collisions": [
+      "LMLF.ODE.exists_unique_holomorphicLinearIVP_ball"
+    ]
+  },
+  "LMLF/ODE/HolomorphicLinear/Local.lean": {
+    "checkedAt": "2026-11-21T17:01:08.010Z",
+    "collisions": [
+      "LMLF.ODE.exists_unique_holomorphicLinearIVP_ball"
+    ]
+  },
+  "LMLF/ODE/Hypergeometric.lean": {
+    "checkedAt": "2026-11-21T17:01:08.991Z",
+    "collisions": [
+      "LMLF.Definitions.gaussHypergeometricSeriesSum"
+    ]
+  },
+  "LMLF/ODE/LinearFirstOrder.lean": {
+    "checkedAt": "2026-11-21T17:17:38.062Z",
+    "collisions": [
+      "LMLF.ODE.hasDerivAt_const_mul_exp_neg_integral",
+      "LMLF.ODE.eqOn_const_mul_exp_neg_integral_of_hasDerivAt",
+      "LMLF.ODE.hasDerivAt_const_mul_cexp_neg_integral",
+      "LMLF.ODE.eqOn_const_mul_cexp_neg_integral_of_hasDerivAt"
+    ]
+  }
+}
