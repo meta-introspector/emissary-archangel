@@ -1,0 +1,133 @@
+{
+  "InverseGenerator/AnalyticIneq.lean": {
+    "checkedAt": "2026-11-21T10:48:46.924Z",
+    "collisions": [
+      "InverseGenerator.exp_neg_le_inv_one_add",
+      "InverseGenerator.exp_le_inv_one_sub",
+      "InverseGenerator.log_one_add_le_trapezoid",
+      "InverseGenerator.log_one_sub_le",
+      "InverseGenerator.exp_three_le",
+      "InverseGenerator.two_le_exp_pi",
+      "InverseGenerator.exp_one_le_four_mul_log_two"
+    ]
+  },
+  "InverseGenerator/BVMultiplier.lean": {
+    "checkedAt": "2026-11-21T10:48:49.462Z",
+    "collisions": [
+      "InverseGenerator.norm_sum_smul_le"
+    ]
+  },
+  "InverseGenerator/Blocks.lean": {
+    "checkedAt": "2026-11-21T10:48:49.748Z",
+    "collisions": [
+      "InverseGenerator.zIndex",
+      "InverseGenerator.tower",
+      "InverseGenerator.binomCoeff"
+    ]
+  },
+  "InverseGenerator/CoeffBounds.lean": {
+    "checkedAt": "2026-11-21T10:48:53.552Z",
+    "collisions": [
+      "InverseGenerator.coeffProd",
+      "InverseGenerator.binomCoeff",
+      "InverseGenerator.harmonicSum",
+      "InverseGenerator.exp_neg_le_inv_one_add",
+      "InverseGenerator.rpow_telescope_lt_one"
+    ]
+  },
+  "InverseGenerator/Coefficients.lean": {
+    "checkedAt": "2026-11-21T10:49:00.436Z",
+    "collisions": [
+      "InverseGenerator.binomCoeff"
+    ]
+  },
+  "InverseGenerator/FlowVariation.lean": {
+    "checkedAt": "2026-11-21T10:49:04.433Z",
+    "collisions": [
+      "InverseGenerator.tower",
+      "InverseGenerator.exp_neg_le_one_div",
+      "InverseGenerator.norm_cexp_sub_cexp_le",
+      "InverseGenerator.exp_neg_le_inv_one_add"
+    ]
+  },
+  "InverseGenerator/HarmonicBounds.lean": {
+    "checkedAt": "2026-11-21T10:49:06.946Z",
+    "collisions": [
+      "InverseGenerator.harmonicSum",
+      "InverseGenerator.exp_neg_le_inv_one_add"
+    ]
+  },
+  "InverseGenerator/Lacunary.lean": {
+    "checkedAt": "2026-11-21T10:49:08.098Z",
+    "collisions": [
+      "InverseGenerator.tower"
+    ]
+  },
+  "InverseGenerator/NormGrowth.lean": {
+    "checkedAt": "2026-11-21T10:49:11.850Z",
+    "collisions": [
+      "InverseGenerator.binomCoeff"
+    ]
+  },
+  "InverseGenerator/PrefixBound.lean": {
+    "checkedAt": "2026-11-21T10:49:16.184Z",
+    "collisions": [
+      "InverseGenerator.binomCoeff",
+      "InverseGenerator.cast_add_ne_zero"
+    ]
+  },
+  "InverseGenerator/PrefixNorm.lean": {
+    "checkedAt": "2026-11-21T10:49:19.205Z",
+    "collisions": [
+      "InverseGenerator.binomCoeff"
+    ]
+  },
+  "InverseGenerator/RotatedPrefix.lean": {
+    "checkedAt": "2026-11-21T10:49:24.085Z",
+    "collisions": [
+      "InverseGenerator.binomCoeff",
+      "InverseGenerator.schur_sum_sq",
+      "InverseGenerator.prefixZ",
+      "InverseGenerator.rot2",
+      "InverseGenerator.schurKernel_ofReal"
+    ]
+  },
+  "InverseGenerator/Rotation.lean": {
+    "checkedAt": "2026-11-21T10:49:33.073Z",
+    "collisions": [
+      "InverseGenerator.binomCoeff",
+      "InverseGenerator.rot2"
+    ]
+  },
+  "InverseGenerator/RpowSums.lean": {
+    "checkedAt": "2026-11-21T10:49:35.710Z",
+    "collisions": [
+      "InverseGenerator.rpow_telescope_lt_one",
+      "InverseGenerator.rpow_telescope_gt_one",
+      "InverseGenerator.sum_range_add_one_eq_sum_Icc",
+      "InverseGenerator.sum_Ico_add_one_eq_sum_Ioc",
+      "InverseGenerator.rpow_telescope_lower"
+    ]
+  },
+  "InverseGenerator/SchurTest.lean": {
+    "checkedAt": "2026-11-21T10:49:39.640Z",
+    "collisions": [
+      "InverseGenerator.schur_sum_sq",
+      "InverseGenerator.l2_opNorm_le_of_mulVec",
+      "InverseGenerator.sqrt_sum_sq_mulVec_le"
+    ]
+  },
+  "InverseGenerator/TheoremFinite.lean": {
+    "checkedAt": "2026-11-21T10:49:41.176Z",
+    "collisions": [
+      "InverseGenerator.tower",
+      "InverseGenerator.exp_neg_le_inv_one_add"
+    ]
+  },
+  "InverseGenerator/Toeplitz.lean": {
+    "checkedAt": "2026-11-21T10:49:49.660Z",
+    "collisions": [
+      "InverseGenerator.binomCoeff"
+    ]
+  }
+}
