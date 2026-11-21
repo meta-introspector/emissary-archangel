@@ -1,0 +1,86 @@
+{
+  "ExactSemiprimes/Completion/ComplementOfU.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T19:15:42.466Z"
+  },
+  "ExactSemiprimes/Completion/FiniteSliceInsertedCauchy.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T19:15:51.483Z"
+  },
+  "ExactSemiprimes/Completion/PerronCumulativeBounds.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T19:32:06.081Z"
+  },
+  "ExactSemiprimes/Completion/TypeIClosure.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T21:07:42.364Z"
+  },
+  "ExactSemiprimes/Completion/TypeIOverIIClosure.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T22:36:01.858Z"
+  },
+  "ExactSemiprimes/Completion/TypeIOverIICompositeMeanValue.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T22:52:49.272Z"
+  },
+  "ExactSemiprimes/Final/Assembly.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T22:53:42.649Z"
+  },
+  "ExactSemiprimes/Completion/ComponentIntegralAssembly.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T22:15:54.411Z"
+  },
+  "ExactSemiprimes/Completion/DyadicGlobalization.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T23:04:50.551Z"
+  },
+  "ExactSemiprimes/Completion/DyadicPrimeBlocks.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T23:37:25.138Z"
+  },
+  "ExactSemiprimes/Completion/GeneralPerronReduction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T23:43:38.525Z"
+  },
+  "ExactSemiprimes/Completion/ParameterizedReduction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T19:35:19.864Z"
+  },
+  "ExactSemiprimes/Completion/PerronKernelBounds.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T20:07:37.150Z"
+  },
+  "ExactSemiprimes/Completion/StructuredPrimeFactors.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T21:41:22.861Z"
+  },
+  "ExactSemiprimes/Completion/StructuredVKDecay.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T21:42:43.462Z"
+  },
+  "ExactSemiprimes/Hybrid/DiscreteToMeasure.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-21T00:27:09.449Z"
+  },
+  "ExactSemiprimes/Hybrid/HybridDensity.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-21T00:27:23.371Z"
+  },
+  "ExactSemiprimes/Completion/ChebyshevPassage.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T20:15:38.341Z"
+  },
+  "ExactSemiprimes/Completion/HarmanDyadicEventual.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T20:16:08.057Z"
+  },
+  "ExactSemiprimes/Completion/LongIntervalMinorant.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T21:26:14.100Z"
+  },
+  "ExactSemiprimes/Completion/PerronFiniteSupportBounds.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-20T21:26:26.172Z"
+  }
+}
