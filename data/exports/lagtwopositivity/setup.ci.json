@@ -1,0 +1,36 @@
+{
+  "key": "lagtwopositivity",
+  "repo": "https://github.com/miosync-masa/LagTwoPositivity",
+  "commit": "c5a3e3f951210e2e8738020ec60f69bb87191cbf",
+  "toolchain": "leanprover/lean4:v4.33.0",
+  "roots": [
+    "LagTwoPositivity"
+  ],
+  "corpusRoot": "/home/runner/work/emissary-archangel/emissary-archangel/infra/lagtwopositivity/repo",
+  "entries": 0,
+  "modules": 0,
+  "exported": 0,
+  "failed": [],
+  "expansion": {
+    "expanded": 0,
+    "verbatim": 0,
+    "unexpanded": 0,
+    "failed": []
+  },
+  "seed": {
+    "records": 146,
+    "kept": 0,
+    "skippedRoot": 146,
+    "skippedDup": 0,
+    "skippedNoFile": 0,
+    "skippedCommented": 0,
+    "lineFixed": 0,
+    "lineUnverified": 0,
+    "nameFixed": 0,
+    "sorryOriginals": 0,
+    "emptyProofs": 0
+  },
+  "exportsBytes": 4096,
+  "minutes": 0,
+  "finishedAt": "2026-11-21T00:30:20.728Z"
+}
