@@ -159,3 +159,6 @@
 {"id":32,"name":"Erdos815.le_xMax","sourcePath":"Erdos815/TreePaths.lean","outcome":"gate2-unavailable","at":"2026-11-21T13:31:23.319Z","reason":"timeout","detail":"GATE2_FAIL reason=timeout","run":"44906411828"}
 {"id":33,"name":"Erdos815.path_length_le_walk","sourcePath":"Erdos815/TreePaths.lean","outcome":"gate2-unavailable","at":"2026-11-21T13:47:20.140Z","reason":"timeout","detail":"GATE2_FAIL reason=timeout","run":"44906411828"}
 {"id":34,"name":"Erdos815.path_length_eq","sourcePath":"Erdos815/TreePaths.lean","outcome":"gate2-unavailable","at":"2026-11-21T14:03:16.895Z","reason":"timeout","detail":"GATE2_FAIL reason=timeout","run":"44906411828"}
+{"id":32,"name":"Erdos815.le_xMax","sourcePath":"Erdos815/TreePaths.lean","outcome":"gate2-unavailable","at":"2026-11-21T16:11:28.243Z","reason":"timeout","detail":"GATE2_FAIL reason=timeout","run":"44919981924"}
+{"id":33,"name":"Erdos815.path_length_le_walk","sourcePath":"Erdos815/TreePaths.lean","outcome":"gate2-unavailable","at":"2026-11-21T16:27:33.401Z","reason":"timeout","detail":"GATE2_FAIL reason=timeout","run":"44919981924"}
+{"id":34,"name":"Erdos815.path_length_eq","sourcePath":"Erdos815/TreePaths.lean","outcome":"gate2-unavailable","at":"2026-11-21T16:43:39.045Z","reason":"timeout","detail":"GATE2_FAIL reason=timeout","run":"44919981924"}

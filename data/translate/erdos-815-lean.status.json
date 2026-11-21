@@ -1,13 +1,13 @@
 {
   "mechanical": {
-    "run": "44906411828",
-    "at": "2026-11-21T14:03:35.532Z",
+    "run": "44919981924",
+    "at": "2026-11-21T16:43:55.820Z",
     "shards": 1,
     "todo": 3,
     "processed": 3,
     "left": 3,
     "limited": false,
-    "stalls": 2,
+    "stalls": 3,
     "outcomes": {
       "gate2-unavailable": 3
     }
