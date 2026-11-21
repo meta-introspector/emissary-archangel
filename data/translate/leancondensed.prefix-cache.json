@@ -1,0 +1,123 @@
+{
+  "LeanCondensed/Projects/FreeCondensed/ComparisonIso.lean": {
+    "checkedAt": "2026-11-21T17:49:40.343Z",
+    "collisions": [
+      "LightCondensed.topModulePresheaf",
+      "Sequential.colimitCoconeOfTop"
+    ]
+  },
+  "LeanCondensed/Projects/FreeCondensed/FiniteQuotients.lean": {
+    "checkedAt": "2026-11-21T17:50:05.954Z",
+    "collisions": [
+      "LightProfinite.eq_of_forall_proj_eq",
+      "LightProfinite.proj_comp_ne_of_le"
+    ]
+  },
+  "LeanCondensed/Projects/FreeCondensed/LocalInjectivity.lean": {
+    "checkedAt": "2026-11-21T17:50:07.649Z",
+    "collisions": [
+      "LightCondAb.freePresheaf_equalizerSieve_mem_of_effectiveEpi",
+      "LightCondAb.closedSubLightProfinite",
+      "LightCondensed.topModulePresheaf"
+    ]
+  },
+  "LeanCondensed/Projects/FreeCondensed/LocalSurjectivity.lean": {
+    "checkedAt": "2026-11-21T17:50:13.881Z",
+    "collisions": [
+      "LightCondensed.topModulePresheaf",
+      "LightProfinite.eq_of_forall_proj_eq",
+      "LightCondAb.topologicalFreeMap",
+      "Sequential.colimitCoconeOfTop"
+    ]
+  },
+  "LeanCondensed/Projects/FreeCondensed/TopologicalFree.lean": {
+    "checkedAt": "2026-11-21T17:50:51.836Z",
+    "collisions": [
+      "LightCondensed.topModulePresheaf"
+    ]
+  },
+  "LeanCondensed/Projects/LightSolidInt.lean": {
+    "checkedAt": "2026-11-21T17:50:52.846Z",
+    "collisions": [
+      "LightCondensed.Solid.IntProof.Zdisc",
+      "LightCondensed.ι"
+    ]
+  },
+  "LeanCondensed/Projects/SolidProjectiveGenerator/BoundedIso.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-21T17:51:10.956Z"
+  },
+  "LeanCondensed/Projects/SolidProjectiveGenerator/RealSequences.lean": {
+    "checkedAt": "2026-11-21T21:52:16.822Z",
+    "collisions": [
+      "LightCondensed.topModulePresheaf"
+    ]
+  },
+  "LeanCondensed/Mathlib/Algebra/Homology/DerivedCategory/TwoVariable.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-21T17:37:05.037Z"
+  },
+  "LeanCondensed/Mathlib/CategoryTheory/Limits/Constructions/Filtered.lean": {
+    "checkedAt": "2026-11-21T17:37:05.419Z",
+    "collisions": [
+      "CategoryTheory.Limits.CoproductsFromFiniteFiltered.liftToFinsetObjCompIso"
+    ]
+  },
+  "LeanCondensed/Projects/FreeCondensed/SequentialModel.lean": {
+    "checkedAt": "2026-11-21T17:37:05.719Z",
+    "collisions": [
+      "Sequential.colimitCoconeOfTop"
+    ]
+  },
+  "LeanCondensed/Projects/LightSolid.lean": {
+    "checkedAt": "2026-11-21T17:37:45.633Z",
+    "collisions": [
+      "LightCondensed.ι"
+    ]
+  },
+  "LeanCondensed/Projects/MonoidalLinear.lean": {
+    "checkedAt": "2026-11-21T17:37:48.498Z",
+    "collisions": [
+      "CategoryTheory.Functor.Monoidal.map_whiskerRight'"
+    ]
+  },
+  "LeanCondensed/Projects/Sequence.lean": {
+    "checkedAt": "2026-11-21T17:37:48.848Z",
+    "collisions": [
+      "LightCondensed.ι"
+    ]
+  },
+  "LeanCondensed/Projects/SolidProjectiveGenerator/BoundedRetract.lean": {
+    "checkedAt": "2026-11-21T17:43:18.358Z",
+    "collisions": [
+      "Sequential.colimitCoconeOfTop",
+      "LightCondensed.topModulePresheaf"
+    ]
+  },
+  "LeanCondensed/Projects/SolidProjectiveGenerator/BoundedSequences.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-21T20:04:21.569Z"
+  },
+  "LeanCondensed/Projects/ClassicalSolid.lean": {
+    "checkedAt": "2026-11-21T17:41:18.115Z",
+    "collisions": [
+      "LightCondensed.Solid.IntProof.Zdisc"
+    ]
+  },
+  "LeanCondensed/Projects/LightSolidFilteredScaffold.lean": {
+    "checkedAt": "2026-11-21T19:27:20.805Z",
+    "collisions": [
+      "CategoryTheory.Sheaf.createsColimitsOfShapeOfIsSheaf"
+    ]
+  },
+  "LeanCondensed/Projects/SolidProjectiveGenerator/InfiniteDifference.lean": {
+    "checkedAt": "2026-11-21T19:27:22.840Z",
+    "collisions": [
+      "LightCondensed.ι"
+    ]
+  },
+  "LeanCondensed/Projects/SolidProjectiveGenerator/PBasics.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-21T21:52:03.533Z"
+  }
+}
