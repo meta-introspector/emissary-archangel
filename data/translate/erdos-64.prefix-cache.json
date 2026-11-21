@@ -1,0 +1,1014 @@
+{
+  "Erdos64/AdjacentPortDoubleSuppression.lean": {
+    "checkedAt": "2026-11-21T17:03:12.214Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/AdjacentTwoPortFourCycle.lean": {
+    "checkedAt": "2026-11-21T17:03:14.038Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/AdjacentTwoPortThirdNeighbors.lean": {
+    "checkedAt": "2026-11-21T17:03:14.556Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/BalancedRootDeletedPartition.lean": {
+    "checkedAt": "2026-11-21T17:03:14.846Z",
+    "collisions": [
+      "Erdos64.rootDeletedComponentCarrier"
+    ]
+  },
+  "Erdos64/BoundaryRootCyclePath.lean": {
+    "checkedAt": "2026-11-21T17:03:15.684Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/BridgeStrictClosedSide.lean": {
+    "checkedAt": "2026-11-21T17:03:16.198Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/ClosedSideEdgeCount.lean": {
+    "checkedAt": "2026-11-21T17:03:16.477Z",
+    "collisions": [
+      "Erdos64.closed_sides_edge_count"
+    ]
+  },
+  "Erdos64/ComponentAttachmentLowerBound.lean": {
+    "checkedAt": "2026-11-21T17:03:17.015Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/ComponentAttachments.lean": {
+    "checkedAt": "2026-11-21T17:03:17.299Z",
+    "collisions": [
+      "Erdos64.ExternalReachable",
+      "Erdos64.external_carrier_two_attachments_or_unique_root"
+    ]
+  },
+  "Erdos64/ComponentBoundaryCarrier.lean": {
+    "checkedAt": "2026-11-21T17:03:20.139Z",
+    "collisions": [
+      "Erdos64.cutComponent_to_leafBlockCarrier"
+    ]
+  },
+  "Erdos64/CrossDefectCycle.lean": {
+    "checkedAt": "2026-11-21T17:03:20.421Z",
+    "collisions": [
+      "Erdos64.SimpleGraph.Walk.isCycle_append_cross_defect_paths"
+    ]
+  },
+  "Erdos64/CubicTriangleInsertion.lean": {
+    "checkedAt": "2026-11-21T17:03:20.939Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/CubicTwoPortThirdAttachment.lean": {
+    "checkedAt": "2026-11-21T17:03:22.756Z",
+    "collisions": [
+      "Erdos64.exists_three_distinct_boundary_attachments"
+    ]
+  },
+  "Erdos64/CutPortOddCycles.lean": {
+    "checkedAt": "2026-11-21T17:03:23.504Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/CutSideDyadicEar.lean": {
+    "checkedAt": "2026-11-21T17:03:24.704Z",
+    "collisions": [
+      "Erdos64.offPathComponentCarrier",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/CutSideDyadicEarAvoidance.lean": {
+    "checkedAt": "2026-11-21T17:03:28.160Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/CutSideEarCoverage.lean": {
+    "checkedAt": "2026-11-21T17:03:29.405Z",
+    "collisions": [
+      "Erdos64.path_first_hit_set",
+      "Erdos64.first_hit_path_support_in_carrier",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/CutSidePathParity.lean": {
+    "checkedAt": "2026-11-21T17:03:31.136Z",
+    "collisions": [
+      "Erdos64.even_card_of_two_even_degree_vertices",
+      "Erdos64.HasPowerOfTwoCycle",
+      "Erdos64.exists_vertex_outside_even_path_of_even_card"
+    ]
+  },
+  "Erdos64/CutVertexComponentBoundary.lean": {
+    "checkedAt": "2026-11-21T17:03:35.917Z",
+    "collisions": [
+      "Erdos64.rootDeletedComponentCarrier",
+      "Erdos64.ExternalReachable"
+    ]
+  },
+  "Erdos64/DegreeTwoSuppression.lean": {
+    "checkedAt": "2026-11-21T17:03:36.783Z",
+    "collisions": [
+      "Erdos64.degreeTwoSuppressionGraph",
+      "Erdos64.degree_sup_edge_of_not_adj"
+    ]
+  },
+  "Erdos64/DyadicPathEar.lean": {
+    "checkedAt": "2026-11-21T17:03:37.940Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle",
+      "Erdos64.terminal_path_reroute_of_fresh_ear"
+    ]
+  },
+  "Erdos64/EdgeDyadicSuccessor.lean": {
+    "checkedAt": "2026-11-21T17:03:44.512Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/EqualCutRootBalancedExcess.lean": {
+    "checkedAt": "2026-11-21T17:03:56.684Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/EvenPortPathMixedAvoidance.lean": {
+    "checkedAt": "2026-11-21T17:03:59.150Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/ExactTwoPortResidual.lean": {
+    "checkedAt": "2026-11-21T17:03:59.436Z",
+    "collisions": [
+      "Erdos64.walk_support_in_side_of_avoiding_ports",
+      "Erdos64.HasPowerOfTwoCycle",
+      "Erdos64.rootDeletedComponentCarrier"
+    ]
+  },
+  "Erdos64/ExternalComponentBridge.lean": {
+    "checkedAt": "2026-11-21T17:04:10.833Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/FinalDichotomyInterface.lean": {
+    "checkedAt": "2026-11-21T17:04:11.539Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/GlobalEdgeMinimalCounterexample.lean": {
+    "checkedAt": "2026-11-21T17:04:12.052Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/HighDegreeAuxiliaryReduction.lean": {
+    "checkedAt": "2026-11-21T17:04:14.042Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/HighDegreePortDescent.lean": {
+    "checkedAt": "2026-11-21T17:04:25.160Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/HighDegreeTerminalQuotient.lean": {
+    "checkedAt": "2026-11-21T17:04:30.135Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/LeafBlockArticulationDefect.lean": {
+    "checkedAt": "2026-11-21T17:04:33.288Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/MinimalCounterexampleBalancedSides.lean": {
+    "checkedAt": "2026-11-21T17:04:33.995Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/MinimalCounterexampleBridgeless.lean": {
+    "checkedAt": "2026-11-21T17:04:35.441Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle",
+      "Erdos64.isBridge_of_onePort_unique_neighbor"
+    ]
+  },
+  "Erdos64/MinimalTwoPortCubicDefect.lean": {
+    "checkedAt": "2026-11-21T17:04:37.113Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/MinimumDegreeConnectorExistence.lean": {
+    "checkedAt": "2026-11-21T17:04:37.449Z",
+    "collisions": [
+      "Erdos64.PentagramEarHull"
+    ]
+  },
+  "Erdos64/OddCarrierBoundaryAvoidance.lean": {
+    "checkedAt": "2026-11-21T17:04:39.285Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/OddCarrierBoundaryFork.lean": {
+    "checkedAt": "2026-11-21T17:04:41.048Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/OneBoundaryOffPathFan.lean": {
+    "checkedAt": "2026-11-21T17:04:44.984Z",
+    "collisions": [
+      "Erdos64.residual_path_root_internal_split",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/OneDefectDyadicForcing.lean": {
+    "checkedAt": "2026-11-21T17:04:47.334Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/OnePortCycleIsolation.lean": {
+    "checkedAt": "2026-11-21T17:04:47.847Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/OnePortLeafCarrierDegree.lean": {
+    "checkedAt": "2026-11-21T17:04:49.107Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/PathIntersections.lean": {
+    "checkedAt": "2026-11-21T17:04:51.218Z",
+    "collisions": [
+      "Erdos64.SimpleGraph.Walk.IsPath.cycle_of_first_reunion"
+    ]
+  },
+  "Erdos64/PathSpecificEar.lean": {
+    "checkedAt": "2026-11-21T17:04:51.495Z",
+    "collisions": [
+      "Erdos64.terminal_path_reroute_of_ear"
+    ]
+  },
+  "Erdos64/PentagramEarHull01Remaining.lean": {
+    "checkedAt": "2026-11-21T17:04:51.858Z",
+    "collisions": [
+      "Erdos64.SimpleGraph.Walk.IsPath.cycle_of_first_reunion"
+    ]
+  },
+  "Erdos64/PentagramEarHull03LengthThree.lean": {
+    "checkedAt": "2026-11-21T17:05:16.507Z",
+    "collisions": [
+      "Erdos64.PentagramEarHull",
+      "Erdos64.SimpleGraph.Walk.IsPath.cycle_of_first_reunion"
+    ]
+  },
+  "Erdos64/PentagramEarHull03Remaining.lean": {
+    "checkedAt": "2026-11-21T17:05:18.407Z",
+    "collisions": [
+      "Erdos64.PentagramEarHull",
+      "Erdos64.SimpleGraph.Walk.IsPath.cycle_of_first_reunion"
+    ]
+  },
+  "Erdos64/PentagramEarHullIncidenceBridge.lean": {
+    "checkedAt": "2026-11-21T17:05:21.502Z",
+    "collisions": [
+      "Erdos64.SimpleGraph.Walk.IsPath.cycle_of_first_reunion"
+    ]
+  },
+  "Erdos64/PentagramEarHullNormalization.lean": {
+    "checkedAt": "2026-11-21T17:05:25.192Z",
+    "collisions": [
+      "Erdos64.PentagramEarHull.rotate5"
+    ]
+  },
+  "Erdos64/PentagramEarHullOneCaseHullReturn.lean": {
+    "checkedAt": "2026-11-21T17:05:26.694Z",
+    "collisions": [
+      "Erdos64.SimpleGraph.Walk.IsPath.cycle_of_first_reunion"
+    ]
+  },
+  "Erdos64/PentagramEarHullRotationTransport.lean": {
+    "checkedAt": "2026-11-21T17:05:28.972Z",
+    "collisions": [
+      "Erdos64.PentagramEarHull"
+    ]
+  },
+  "Erdos64/PortPathExternalNeighbor.lean": {
+    "checkedAt": "2026-11-21T17:05:34.237Z",
+    "collisions": [
+      "Erdos64.internal_path_vertex_two_neighbors",
+      "Erdos64.cubic_vertex_external_neighbors_eq",
+      "Erdos64.rootDeletedComponentCarrier"
+    ]
+  },
+  "Erdos64/PortSuppressionOddCycle.lean": {
+    "checkedAt": "2026-11-21T17:05:35.646Z",
+    "collisions": [
+      "Erdos64.cycle_based_at_fresh_vertex",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/ResidualPathSpectrum.lean": {
+    "checkedAt": "2026-11-21T17:05:36.531Z",
+    "collisions": [
+      "Erdos64.cross_residual_path_to_dyadic_port_path"
+    ]
+  },
+  "Erdos64/RootDeletedAttachmentSum.lean": {
+    "checkedAt": "2026-11-21T17:05:36.825Z",
+    "collisions": [
+      "Erdos64.rootDeletedComponentCarrier"
+    ]
+  },
+  "Erdos64/RootDeletedBalancedSides.lean": {
+    "checkedAt": "2026-11-21T17:05:37.586Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/RootDeletedMarkedPathLifting.lean": {
+    "checkedAt": "2026-11-21T17:05:40.402Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle",
+      "Erdos64.SimpleGraph.Walk.MarkedRootPath"
+    ]
+  },
+  "Erdos64/RootDeletedNoDyadicTransfer.lean": {
+    "checkedAt": "2026-11-21T17:05:41.201Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/RootDeletedTwoPortExtraction.lean": {
+    "checkedAt": "2026-11-21T17:05:42.517Z",
+    "collisions": [
+      "Erdos64.rootDeletedComponentCarrier"
+    ]
+  },
+  "Erdos64/RootDeletedTwoPortNonadjacent.lean": {
+    "checkedAt": "2026-11-21T17:05:42.796Z",
+    "collisions": [
+      "Erdos64.one_lt_length_of_ne_of_not_adj",
+      "Erdos64.rootDeletedComponentCarrier"
+    ]
+  },
+  "Erdos64/RootDeletedTwoPortPath.lean": {
+    "checkedAt": "2026-11-21T17:05:43.384Z",
+    "collisions": [
+      "Erdos64.rootDeletedComponentCarrier"
+    ]
+  },
+  "Erdos64/RootedBranches.lean": {
+    "checkedAt": "2026-11-21T17:05:43.897Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle",
+      "Erdos64.RootedBranchCarrier"
+    ]
+  },
+  "Erdos64/RootedDoubleCycleCharacterization.lean": {
+    "checkedAt": "2026-11-21T17:05:50.193Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/RootedDoubleCycleLocalization.lean": {
+    "checkedAt": "2026-11-21T17:05:50.501Z",
+    "collisions": [
+      "Erdos64.RootedDoubleVertex"
+    ]
+  },
+  "Erdos64/RootedDoubleNeighbors.lean": {
+    "checkedAt": "2026-11-21T17:05:51.122Z",
+    "collisions": [
+      "Erdos64.RootedDoubleVertex"
+    ]
+  },
+  "Erdos64/RootedDoubleNonroot.lean": {
+    "checkedAt": "2026-11-21T17:05:51.429Z",
+    "collisions": [
+      "Erdos64.RootedDoubleVertex"
+    ]
+  },
+  "Erdos64/RootedDoubleProjection.lean": {
+    "checkedAt": "2026-11-21T17:05:51.736Z",
+    "collisions": [
+      "Erdos64.RootedDoubleVertex"
+    ]
+  },
+  "Erdos64/RootedDoubleTagLocalization.lean": {
+    "checkedAt": "2026-11-21T17:05:52.353Z",
+    "collisions": [
+      "Erdos64.RootedDoubleVertex"
+    ]
+  },
+  "Erdos64/SeparatedThirdNeighborComponentSplit.lean": {
+    "checkedAt": "2026-11-21T17:05:52.632Z",
+    "collisions": [
+      "Erdos64.separatedThirdNeighborComponentCarrier",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/SeparatedThirdNeighborPath.lean": {
+    "checkedAt": "2026-11-21T17:05:53.437Z",
+    "collisions": [
+      "Erdos64.separated_third_neighbor_path"
+    ]
+  },
+  "Erdos64/SharedRootQuotientResidual.lean": {
+    "checkedAt": "2026-11-21T17:05:53.951Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/SmallCarrierBoundary.lean": {
+    "checkedAt": "2026-11-21T17:05:59.340Z",
+    "collisions": [
+      "Erdos64.carrierBoundaryVertices",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/SmallCarrierDyadicEar.lean": {
+    "checkedAt": "2026-11-21T17:06:01.298Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/SmallDyadicPathFan.lean": {
+    "checkedAt": "2026-11-21T17:06:03.761Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/SmallerTwoStepReduction.lean": {
+    "checkedAt": "2026-11-21T17:06:19.942Z",
+    "collisions": [
+      "Erdos64.TwoStepEmbedding",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/StrictSizeDisjointRemainder.lean": {
+    "checkedAt": "2026-11-21T17:06:26.080Z",
+    "collisions": [
+      "Erdos64.strict_size_of_disjoint_remainder"
+    ]
+  },
+  "Erdos64/SubcubicCycleExchange.lean": {
+    "checkedAt": "2026-11-21T17:06:26.705Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle",
+      "Erdos64.subcubic_isCycles_symmDiff",
+      "Erdos64.isCycles_sdiff_cycle"
+    ]
+  },
+  "Erdos64/TwoBoundaryEarSpectrum.lean": {
+    "checkedAt": "2026-11-21T17:06:31.258Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoDegenerateEdgeBound.lean": {
+    "checkedAt": "2026-11-21T17:06:35.731Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoDisjointEarExchange.lean": {
+    "checkedAt": "2026-11-21T17:06:43.550Z",
+    "collisions": [
+      "Erdos64.terminal_path_reroute_of_fresh_ear"
+    ]
+  },
+  "Erdos64/TwoPoleCubicParity.lean": {
+    "checkedAt": "2026-11-21T17:06:44.913Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoPortBalanced.lean": {
+    "checkedAt": "2026-11-21T17:06:45.584Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoPortCycleComposition.lean": {
+    "checkedAt": "2026-11-21T17:06:47.188Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle",
+      "Erdos64.three_terminal_paths_cycle_spectrum",
+      "Erdos64.terminal_path_edge_cycle"
+    ]
+  },
+  "Erdos64/TwoPortDistinctRoutes.lean": {
+    "checkedAt": "2026-11-21T17:06:52.007Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoPortObstruction.lean": {
+    "checkedAt": "2026-11-21T17:07:06.469Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle",
+      "Erdos64.four_le_pow_two"
+    ]
+  },
+  "Erdos64/TwoPortRouteParity.lean": {
+    "checkedAt": "2026-11-21T17:07:08.094Z",
+    "collisions": [
+      "Erdos64.not_isBipartite_of_opposite_parity_routes"
+    ]
+  },
+  "Erdos64/TwoPortSafeSideDichotomy.lean": {
+    "checkedAt": "2026-11-21T17:07:09.034Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoPortSidesBalanced.lean": {
+    "checkedAt": "2026-11-21T17:07:09.748Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoStepCycleLift.lean": {
+    "checkedAt": "2026-11-21T17:07:10.047Z",
+    "collisions": [
+      "Erdos64.TwoStepEmbedding",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoTerminalGadgetInterface.lean": {
+    "checkedAt": "2026-11-21T17:07:12.582Z",
+    "collisions": [
+      "Erdos64.CubicTwoTerminalCompletion"
+    ]
+  },
+  "Erdos64/UnequalCutRootedDouble.lean": {
+    "checkedAt": "2026-11-21T17:07:14.324Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/AddedEdgeCyclePath.lean": {
+    "checkedAt": "2026-11-21T17:10:47.534Z",
+    "collisions": [
+      "Erdos64.cycle_path_of_mem_edge",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/AdjacentCubicTwoPortPath.lean": {
+    "checkedAt": "2026-11-21T17:10:48.995Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/AdjacentCutPortSpectrum.lean": {
+    "checkedAt": "2026-11-21T17:10:53.134Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/AdjacentTwoPortNonbipartite.lean": {
+    "checkedAt": "2026-11-21T17:11:00.232Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/Arithmetic.lean": {
+    "checkedAt": "2026-11-21T17:11:23.201Z",
+    "collisions": [
+      "Erdos64.four_le_pow_two",
+      "Erdos64.exists_pow_two_le_and_lt_succ_pow_two",
+      "Erdos64.SevenLengthArithmetic",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/BalancedTwoPoleOrder.lean": {
+    "checkedAt": "2026-11-21T17:11:26.376Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/Basic.lean": {
+    "checkedAt": "2026-11-21T17:11:26.666Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/BoundaryRootAvoidance.lean": {
+    "checkedAt": "2026-11-21T17:11:47.858Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/BoundaryRootForcing.lean": {
+    "checkedAt": "2026-11-21T17:11:50.132Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/BoundaryRootGraph.lean": {
+    "checkedAt": "2026-11-21T17:11:50.420Z",
+    "collisions": [
+      "Erdos64.boundaryRootGraph"
+    ]
+  },
+  "Erdos64/CubicDensityFromConnectors.lean": {
+    "checkedAt": "2026-11-21T17:11:52.663Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/CubicPortSpanningMatching.lean": {
+    "checkedAt": "2026-11-21T17:11:55.469Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/CutRootDegreeFour.lean": {
+    "checkedAt": "2026-11-21T17:11:57.026Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/DyadicEarExtremality.lean": {
+    "checkedAt": "2026-11-21T17:11:58.503Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/ExactTwoPortCaseSplit.lean": {
+    "checkedAt": "2026-11-21T17:12:00.504Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/ExactTwoRootDeletedComponentsTwoPorts.lean": {
+    "checkedAt": "2026-11-21T17:12:14.569Z",
+    "collisions": [
+      "Erdos64.rootDeletedComponentCarrier"
+    ]
+  },
+  "Erdos64/ExchangeTriangleDefect.lean": {
+    "checkedAt": "2026-11-21T17:12:16.169Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle",
+      "Erdos64.cycle_exchange_alternates_at_common_support"
+    ]
+  },
+  "Erdos64/ExternalComponentBridgeCertificate.lean": {
+    "checkedAt": "2026-11-21T17:12:20.930Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/ExternalComponentCarrier.lean": {
+    "checkedAt": "2026-11-21T17:12:21.389Z",
+    "collisions": [
+      "Erdos64.degree_induce_coeFinset_eq_internalDegree"
+    ]
+  },
+  "Erdos64/ExternalComponentDichotomy.lean": {
+    "checkedAt": "2026-11-21T17:12:22.100Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/ExternalComponentPaths.lean": {
+    "checkedAt": "2026-11-21T17:12:22.407Z",
+    "collisions": [
+      "Erdos64.ExternalReachable"
+    ]
+  },
+  "Erdos64/GeneralBoundaryAvoidance.lean": {
+    "checkedAt": "2026-11-21T17:12:24.245Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/GlobalCutEdgeBalance.lean": {
+    "checkedAt": "2026-11-21T17:12:24.982Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/HighDegreeAuxiliary.lean": {
+    "checkedAt": "2026-11-21T17:12:26.931Z",
+    "collisions": [
+      "Erdos64.HighDegreeVertex",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/HighDegreePrivateNeighbors.lean": {
+    "checkedAt": "2026-11-21T17:12:34.271Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/LeafBlocks.lean": {
+    "checkedAt": "2026-11-21T17:12:35.657Z",
+    "collisions": [
+      "Erdos64.external_carrier_two_attachments_or_unique_root",
+      "Erdos64.LeafBlock.neighbor_mem_of_mem_of_ne_root"
+    ]
+  },
+  "Erdos64/MarkedRootPathInterface.lean": {
+    "checkedAt": "2026-11-21T17:12:36.221Z",
+    "collisions": [
+      "Erdos64.exists_simple_marked_root_path"
+    ]
+  },
+  "Erdos64/MarkedRootTriangle.lean": {
+    "checkedAt": "2026-11-21T17:12:36.508Z",
+    "collisions": [
+      "Erdos64.SimpleGraph.Walk.exists_triangle_of_marked_root_adjacencies"
+    ]
+  },
+  "Erdos64/MinimalCounterexampleUniqueCut.lean": {
+    "checkedAt": "2026-11-21T17:12:37.948Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/OddOffPathComponent.lean": {
+    "checkedAt": "2026-11-21T17:12:40.866Z",
+    "collisions": [
+      "Erdos64.offPathComponentCarrier",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/PathThirdIncidence.lean": {
+    "checkedAt": "2026-11-21T17:12:42.532Z",
+    "collisions": [
+      "Erdos64.path_incident_neighbors_card_le"
+    ]
+  },
+  "Erdos64/PentagramEarHull.lean": {
+    "checkedAt": "2026-11-21T17:12:43.404Z",
+    "collisions": [
+      "Erdos64.PentagramEarHull",
+      "Erdos64.SimpleGraph.Walk.IsPath.cycle_of_first_reunion"
+    ]
+  },
+  "Erdos64/PentagramEarHull02LengthThree.lean": {
+    "checkedAt": "2026-11-21T17:12:44.945Z",
+    "collisions": [
+      "Erdos64.PentagramEarHull",
+      "Erdos64.SimpleGraph.Walk.IsPath.cycle_of_first_reunion"
+    ]
+  },
+  "Erdos64/PentagramEarHull02Remaining.lean": {
+    "checkedAt": "2026-11-21T17:12:46.916Z",
+    "collisions": [
+      "Erdos64.SimpleGraph.Walk.IsPath.cycle_of_first_reunion"
+    ]
+  },
+  "Erdos64/PentagramEarHull04Length123.lean": {
+    "checkedAt": "2026-11-21T17:13:06.706Z",
+    "collisions": [
+      "Erdos64.PentagramEarHull",
+      "Erdos64.SimpleGraph.Walk.IsPath.cycle_of_first_reunion"
+    ]
+  },
+  "Erdos64/PentagramEarHullExteriorComponents.lean": {
+    "checkedAt": "2026-11-21T17:13:27.404Z",
+    "collisions": [
+      "Erdos64.PentagramEarHull"
+    ]
+  },
+  "Erdos64/PentagramEarHullForcing.lean": {
+    "checkedAt": "2026-11-21T17:13:29.826Z",
+    "collisions": [
+      "Erdos64.SimpleGraph.Walk.IsPath.cycle_of_first_reunion"
+    ]
+  },
+  "Erdos64/PentagramEarHullOneCaseProof.lean": {
+    "checkedAt": "2026-11-21T17:13:30.158Z",
+    "collisions": [
+      "Erdos64.PentagramEarHull"
+    ]
+  },
+  "Erdos64/PentagramEarHullPremises.lean": {
+    "checkedAt": "2026-11-21T17:13:31.058Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/PentagramEarHullPrivateAttachment.lean": {
+    "checkedAt": "2026-11-21T17:13:31.779Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/PentagramEarHullPrivateAttachmentFamily.lean": {
+    "checkedAt": "2026-11-21T17:13:33.974Z",
+    "collisions": [
+      "Erdos64.PentagramEarHull",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/PentagramEarHullRawIncidence.lean": {
+    "checkedAt": "2026-11-21T17:13:37.795Z",
+    "collisions": [
+      "Erdos64.SimpleGraph.Walk.IsPath.cycle_of_first_reunion"
+    ]
+  },
+  "Erdos64/PentagramEarHullRawIncidenceOffsets.lean": {
+    "checkedAt": "2026-11-21T17:14:04.148Z",
+    "collisions": [
+      "Erdos64.PentagramEarHull"
+    ]
+  },
+  "Erdos64/PentagramEarHullReflectionTransport.lean": {
+    "checkedAt": "2026-11-21T17:16:28.567Z",
+    "collisions": [
+      "Erdos64.PentagramEarHull"
+    ]
+  },
+  "Erdos64/PositiveMarkedRootPathCycle.lean": {
+    "checkedAt": "2026-11-21T17:16:37.833Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/QuotientCycleLift.lean": {
+    "checkedAt": "2026-11-21T17:16:42.409Z",
+    "collisions": [
+      "Erdos64.Internal",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/ResidualArchitecture.lean": {
+    "checkedAt": "2026-11-21T17:16:58.777Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle",
+      "Erdos64.residual_path_root_internal_split"
+    ]
+  },
+  "Erdos64/ResidualPathRootSplit.lean": {
+    "checkedAt": "2026-11-21T17:16:59.366Z",
+    "collisions": [
+      "Erdos64.residual_path_root_internal_split",
+      "Erdos64.SimpleGraph.Walk.IsPath.support_subset_of_boundary_avoiding_root"
+    ]
+  },
+  "Erdos64/ResidualRootExcursions.lean": {
+    "checkedAt": "2026-11-21T17:17:00.514Z",
+    "collisions": [
+      "Erdos64.endpoint_fan_cycle_certificate_of_pos",
+      "Erdos64.residual_path_root_internal_split",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/RootDeletedAttachmentBound.lean": {
+    "checkedAt": "2026-11-21T17:17:01.664Z",
+    "collisions": [
+      "Erdos64.ExternalReachable",
+      "Erdos64.rootDeletedComponentCarrier"
+    ]
+  },
+  "Erdos64/RootDeletedCriticality.lean": {
+    "checkedAt": "2026-11-21T17:17:02.523Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/RootDeletedNestedCarrier.lean": {
+    "checkedAt": "2026-11-21T17:17:03.077Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/RootDeletedTwoPortBalance.lean": {
+    "checkedAt": "2026-11-21T17:17:03.633Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/RootDeletedTwoPortPathSpectrum.lean": {
+    "checkedAt": "2026-11-21T17:17:04.771Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/RootedDouble.lean": {
+    "checkedAt": "2026-11-21T17:17:05.642Z",
+    "collisions": [
+      "Erdos64.RootedDoubleVertex"
+    ]
+  },
+  "Erdos64/RootedDoubleDegreeOrder.lean": {
+    "checkedAt": "2026-11-21T17:17:08.417Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/RootedDoubleEdgeCount.lean": {
+    "checkedAt": "2026-11-21T17:17:08.737Z",
+    "collisions": [
+      "Erdos64.RootedDoubleVertex",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/SeparatedThirdNeighborCycle.lean": {
+    "checkedAt": "2026-11-21T17:17:10.056Z",
+    "collisions": [
+      "Erdos64.separated_third_neighbor_cycle"
+    ]
+  },
+  "Erdos64/SpanningPathMatching.lean": {
+    "checkedAt": "2026-11-21T17:17:10.335Z",
+    "collisions": [
+      "Erdos64.path_spanningCoe_degree_of_mem_support"
+    ]
+  },
+  "Erdos64/StrictRootedDoubleClosedSide.lean": {
+    "checkedAt": "2026-11-21T17:17:12.480Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TerminalSpectrumNoDyadic.lean": {
+    "checkedAt": "2026-11-21T17:17:13.006Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/ThreeBoundaryAvoidance.lean": {
+    "checkedAt": "2026-11-21T17:17:13.315Z",
+    "collisions": [
+      "Erdos64.boundaryRootGraph",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoPortDefect.lean": {
+    "checkedAt": "2026-11-21T17:17:16.990Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoPortDefectBookkeeping.lean": {
+    "checkedAt": "2026-11-21T17:17:18.179Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoPortEdgeCompletion.lean": {
+    "checkedAt": "2026-11-21T17:17:18.984Z",
+    "collisions": [
+      "Erdos64.degree_sup_edge_of_not_adj",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoPortQuotient.lean": {
+    "checkedAt": "2026-11-21T17:17:20.652Z",
+    "collisions": [
+      "Erdos64.Internal",
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoPortSideCardBound.lean": {
+    "checkedAt": "2026-11-21T17:17:42.225Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  },
+  "Erdos64/TwoRootDeletedComponentPartition.lean": {
+    "checkedAt": "2026-11-21T17:17:42.509Z",
+    "collisions": [
+      "Erdos64.twoRootDeletedComponents_partition"
+    ]
+  },
+  "Erdos64/UnequalCutRootSide.lean": {
+    "checkedAt": "2026-11-21T17:17:43.035Z",
+    "collisions": [
+      "Erdos64.HasPowerOfTwoCycle"
+    ]
+  }
+}
