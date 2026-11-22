@@ -1,0 +1,401 @@
+{
+  "ScaleSpaceCore/BochnerConvolution.lean": {
+    "checkedAt": "2026-11-22T00:51:07.196Z",
+    "collisions": [
+      "ScaleSpace.subCM",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/BoostBracketConcrete.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T00:51:21.509Z"
+  },
+  "ScaleSpaceCore/CausalData.lean": {
+    "checkedAt": "2026-11-22T00:51:22.040Z",
+    "collisions": [
+      "ScaleSpace.lintegral_Ioi_split",
+      "ScaleSpace.CausalAdmissible.driftDatum"
+    ]
+  },
+  "ScaleSpaceCore/Cin.lean": {
+    "checkedAt": "2026-11-22T00:51:28.579Z",
+    "collisions": [
+      "ScaleSpace.cinIntegrand"
+    ]
+  },
+  "ScaleSpaceCore/CinRays.lean": {
+    "checkedAt": "2026-11-22T00:51:42.533Z",
+    "collisions": [
+      "ScaleSpace.cinIntegrand",
+      "ScaleSpace.IsFolded"
+    ]
+  },
+  "ScaleSpaceCore/Covariance.lean": {
+    "checkedAt": "2026-11-22T00:51:49.239Z",
+    "collisions": [
+      "ScaleSpace.X",
+      "ScaleSpace.IsSymmetric"
+    ]
+  },
+  "ScaleSpaceCore/ExpIntegral.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T00:52:05.624Z"
+  },
+  "ScaleSpaceCore/Gauge.lean": {
+    "checkedAt": "2026-11-22T00:52:08.812Z",
+    "collisions": [
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/GaussianKernel.lean": {
+    "checkedAt": "2026-11-22T00:52:13.862Z",
+    "collisions": [
+      "ScaleSpace.sqrt_smul_one_eq"
+    ]
+  },
+  "ScaleSpaceCore/L1Operators.lean": {
+    "checkedAt": "2026-11-22T00:52:14.717Z",
+    "collisions": [
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/L1OperatorsEuclidean.lean": {
+    "checkedAt": "2026-11-22T00:52:25.923Z",
+    "collisions": [
+      "ScaleSpace.matEquiv",
+      "ScaleSpace.IsNonnegE"
+    ]
+  },
+  "ScaleSpaceCore/LaplaceUniqueness.lean": {
+    "checkedAt": "2026-11-22T00:52:46.426Z",
+    "collisions": [
+      "ScaleSpace.expNeg",
+      "ScaleSpace.IsSymmetric",
+      "ScaleSpace.IsFolded"
+    ]
+  },
+  "ScaleSpaceCore/SelfDecomposable.lean": {
+    "checkedAt": "2026-11-22T00:52:51.686Z",
+    "collisions": [
+      "ScaleSpace.IsSelfDecomposable"
+    ]
+  },
+  "ScaleSpaceCore/StudentTransform.lean": {
+    "checkedAt": "2026-11-22T00:52:55.824Z",
+    "collisions": [
+      "ScaleSpace.besselK",
+      "ScaleSpace.fourierCos_gaussianReal",
+      "ScaleSpace.expMap_image"
+    ]
+  },
+  "ScaleSpaceCore/Tightness.lean": {
+    "checkedAt": "2026-11-22T00:53:31.455Z",
+    "collisions": [
+      "ScaleSpace.integrable_sinc_mul",
+      "ScaleSpace.IsSymmetric",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/Transform.lean": {
+    "checkedAt": "2026-11-22T00:53:37.122Z",
+    "collisions": [
+      "ScaleSpace.IsSymmetric"
+    ]
+  },
+  "ScaleSpaceCore/TransformBridge.lean": {
+    "checkedAt": "2026-11-22T00:53:40.036Z",
+    "collisions": [
+      "ScaleSpace.integrable_sin_mul",
+      "ScaleSpace.IsSymmetric",
+      "ScaleSpace.charFun_map_const_mul"
+    ]
+  },
+  "ScaleSpaceCore/TransformUniqueness.lean": {
+    "checkedAt": "2026-11-22T00:53:41.631Z",
+    "collisions": [
+      "ScaleSpace.fourier_uniqueness"
+    ]
+  },
+  "ScaleSpaceCore/Transport.lean": {
+    "checkedAt": "2026-11-22T00:53:42.322Z",
+    "collisions": [
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/BochnerConvolutionSpace.lean": {
+    "checkedAt": "2026-11-22T00:51:09.637Z",
+    "collisions": [
+      "ScaleSpace.subCME",
+      "ScaleSpace.IsNonnegE",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/BrownianDensity.lean": {
+    "checkedAt": "2026-11-22T00:51:46.581Z",
+    "collisions": [
+      "ScaleSpace.IsSymmetric",
+      "ScaleSpace.brownianLaw"
+    ]
+  },
+  "ScaleSpaceCore/Cascade.lean": {
+    "checkedAt": "2026-11-22T00:51:56.173Z",
+    "collisions": [
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/CausalCone.lean": {
+    "checkedAt": "2026-11-22T00:52:09.372Z",
+    "collisions": [
+      "ScaleSpace.lintegral_Ioi_split",
+      "ScaleSpace.map_mul_restrict_Ioi",
+      "ScaleSpace.lintegral_ofReal_ne_top_of_integrableOn",
+      "ScaleSpace.CausalAdmissible"
+    ]
+  },
+  "ScaleSpaceCore/ConvPow.lean": {
+    "checkedAt": "2026-11-22T00:52:24.748Z",
+    "collisions": [
+      "ScaleSpace.convPow"
+    ]
+  },
+  "ScaleSpaceCore/DilationAtom.lean": {
+    "checkedAt": "2026-11-22T00:52:25.572Z",
+    "collisions": [
+      "ScaleSpace.dilation_atom"
+    ]
+  },
+  "ScaleSpaceCore/DilationInvariance.lean": {
+    "checkedAt": "2026-11-22T00:52:25.844Z",
+    "collisions": [
+      "ScaleSpace.dilation_invariance"
+    ]
+  },
+  "ScaleSpaceCore/Family.lean": {
+    "checkedAt": "2026-11-22T00:52:26.320Z",
+    "collisions": [
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/FourierPairingSpace.lean": {
+    "checkedAt": "2026-11-22T00:52:27.166Z",
+    "collisions": [
+      "ScaleSpace.integrable_char_mulE",
+      "ScaleSpace.IsNonnegE"
+    ]
+  },
+  "ScaleSpaceCore/L1Continuity.lean": {
+    "checkedAt": "2026-11-22T00:52:33.799Z",
+    "collisions": [
+      "ScaleSpace.levy_continuity",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/L1ContinuitySpace.lean": {
+    "checkedAt": "2026-11-22T00:52:43.308Z",
+    "collisions": [
+      "ScaleSpace.IsNonnegE",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/Nonvanishing.lean": {
+    "checkedAt": "2026-11-22T00:53:11.948Z",
+    "collisions": [
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/NullArray.lean": {
+    "checkedAt": "2026-11-22T00:53:22.495Z",
+    "collisions": [
+      "ScaleSpace.part",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/PolyaFrequencyClass.lean": {
+    "checkedAt": "2026-11-22T00:53:36.401Z",
+    "collisions": [
+      "ScaleSpace.bilateralLaplace"
+    ]
+  },
+  "ScaleSpaceCore/PosSemidefSum.lean": {
+    "checkedAt": "2026-11-22T00:53:53.695Z",
+    "collisions": [
+      "ScaleSpace.star_dotProduct_mulVec_eq_sum",
+      "ScaleSpace.sum_sum_mul"
+    ]
+  },
+  "ScaleSpaceCore/Representation.lean": {
+    "checkedAt": "2026-11-22T00:53:54.835Z",
+    "collisions": [
+      "ScaleSpace.approxId",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/Rigidity.lean": {
+    "checkedAt": "2026-11-22T00:54:22.722Z",
+    "collisions": [
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/SDProfile.lean": {
+    "checkedAt": "2026-11-22T00:54:32.283Z",
+    "collisions": [
+      "ScaleSpace.IsFolded"
+    ]
+  },
+  "ScaleSpaceCore/TailInverse.lean": {
+    "checkedAt": "2026-11-22T00:54:34.844Z",
+    "collisions": [
+      "ScaleSpace.tailInv"
+    ]
+  },
+  "ScaleSpaceCore/Additivity.lean": {
+    "checkedAt": "2026-11-22T00:53:41.293Z",
+    "collisions": [
+      "ScaleSpace.IsSymmetric",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/AnalysisDirection.lean": {
+    "checkedAt": "2026-11-22T00:54:01.521Z",
+    "collisions": [
+      "ScaleSpace.IsFolded"
+    ]
+  },
+  "ScaleSpaceCore/AntitoneDensity.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T03:05:35.177Z"
+  },
+  "ScaleSpaceCore/BoostBracket.lean": {
+    "checkedAt": "2026-11-22T03:05:35.576Z",
+    "collisions": [
+      "ScaleSpace.BoostBracket.Lop"
+    ]
+  },
+  "ScaleSpaceCore/BridgeExponents.lean": {
+    "checkedAt": "2026-11-22T03:05:36.423Z",
+    "collisions": [
+      "ScaleSpace.mixWeight",
+      "ScaleSpace.fourierCos_gaussianReal",
+      "ScaleSpace.lintegral_Ioi_split"
+    ]
+  },
+  "ScaleSpaceCore/Construction.lean": {
+    "checkedAt": "2026-11-22T03:06:46.012Z",
+    "collisions": [
+      "ScaleSpace.IsSymmetric",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/DilationDecrease.lean": {
+    "checkedAt": "2026-11-22T03:06:59.254Z",
+    "collisions": [
+      "ScaleSpace.IsFolded"
+    ]
+  },
+  "ScaleSpaceCore/GammaMeasure.lean": {
+    "checkedAt": "2026-11-22T03:07:02.917Z",
+    "collisions": [
+      "ScaleSpace.lintegral_gammaMeasure",
+      "ScaleSpace.gammaMeasure_Iio_zero",
+      "ScaleSpace.ae_pos_gammaMeasure"
+    ]
+  },
+  "ScaleSpaceCore/Increments.lean": {
+    "checkedAt": "2026-11-22T03:07:05.141Z",
+    "collisions": [
+      "ScaleSpace.limitLevyMeasure",
+      "ScaleSpace.IsFolded",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/InverseGamma.lean": {
+    "checkedAt": "2026-11-22T03:10:19.817Z",
+    "collisions": [
+      "ScaleSpace.expMap_image",
+      "ScaleSpace.expMap_monotone",
+      "ScaleSpace.expMap_hasDeriv",
+      "ScaleSpace.exp_rpow",
+      "ScaleSpace.inverseGammaDensity"
+    ]
+  },
+  "ScaleSpaceCore/L1OperatorsSpace.lean": {
+    "checkedAt": "2026-11-22T03:10:23.057Z",
+    "collisions": [
+      "ScaleSpace.IsNonnegE",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/LaplaceLaw.lean": {
+    "checkedAt": "2026-11-22T03:45:03.678Z",
+    "collisions": [
+      "ScaleSpace.laplaceDensity"
+    ]
+  },
+  "ScaleSpaceCore/LevyExtraction.lean": {
+    "checkedAt": "2026-11-22T03:45:08.533Z",
+    "collisions": [
+      "ScaleSpace.levyTest",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/MainAnalysis.lean": {
+    "checkedAt": "2026-11-22T03:58:35.048Z",
+    "collisions": [
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/MainConstruction.lean": {
+    "checkedAt": "2026-11-22T03:58:37.906Z",
+    "collisions": [
+      "ScaleSpace.IsFolded"
+    ]
+  },
+  "ScaleSpaceCore/Pairing.lean": {
+    "checkedAt": "2026-11-22T03:58:48.213Z",
+    "collisions": [
+      "ScaleSpace.fourierSin",
+      "ScaleSpace.IsSymmetric",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/PowerSumSymmetry.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T05:23:13.503Z"
+  },
+  "ScaleSpaceCore/ReceptiveField.lean": {
+    "checkedAt": "2026-11-22T05:23:13.825Z",
+    "collisions": [
+      "ScaleSpace.ReceptiveField.hasDerivAt_clm_comp"
+    ]
+  },
+  "ScaleSpaceCore/SDExponents.lean": {
+    "checkedAt": "2026-11-22T05:23:15.365Z",
+    "collisions": [
+      "ScaleSpace.IsFolded",
+      "ScaleSpace.incrementProfile",
+      "ScaleSpace.lintegral_Ioi_split"
+    ]
+  },
+  "ScaleSpaceCore/SDProfileCone.lean": {
+    "checkedAt": "2026-11-22T05:23:19.735Z",
+    "collisions": [
+      "ScaleSpace.IsFolded",
+      "ScaleSpace.SDProfile.add"
+    ]
+  },
+  "ScaleSpaceCore/Transmittance.lean": {
+    "checkedAt": "2026-11-22T05:23:25.369Z",
+    "collisions": [
+      "ScaleSpace.fourierSin",
+      "ScaleSpace.IsSymmetric",
+      "ScaleSpace.X"
+    ]
+  },
+  "ScaleSpaceCore/Truncation.lean": {
+    "checkedAt": "2026-11-22T05:23:34.329Z",
+    "collisions": [
+      "ScaleSpace.one_sub_exp_neg_le",
+      "ScaleSpace.sub_sin_eq_intervalIntegral"
+    ]
+  }
+}
