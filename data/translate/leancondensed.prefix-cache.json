@@ -119,5 +119,21 @@
   "LeanCondensed/Projects/SolidProjectiveGenerator/PBasics.lean": {
     "status": "broken",
     "checkedAt": "2026-11-21T21:52:03.533Z"
+  },
+  "LeanCondensed/Projects/SolidProjectiveGenerator/SolidFreeRetracts.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T00:47:10.477Z"
+  },
+  "LeanCondensed/Projects/SolidProjectiveGenerator/ZdiscSeparation.lean": {
+    "checkedAt": "2026-11-22T01:40:51.511Z",
+    "collisions": [
+      "Sequential.colimitCoconeOfTop"
+    ]
+  },
+  "LeanCondensed/Projects/SolidProjectiveGenerator/RealVanishing.lean": {
+    "checkedAt": "2026-11-22T01:48:20.757Z",
+    "collisions": [
+      "LightCondensed.ι"
+    ]
   }
 }
