@@ -1,0 +1,542 @@
+{
+  "UnitCircleInterpolation/ActualCyclicKernel.lean": {
+    "checkedAt": "2026-11-22T04:35:34.597Z",
+    "collisions": [
+      "UnitCircleInterpolation.circle_exp_two_mul_eq_of_tan_eq",
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/AngularDomainTopology.lean": {
+    "checkedAt": "2026-11-22T04:36:51.160Z",
+    "collisions": [
+      "UnitCircleInterpolation.angularParameterAngles"
+    ]
+  },
+  "UnitCircleInterpolation/AngularGlobalInverse.lean": {
+    "checkedAt": "2026-11-22T04:37:15.093Z",
+    "collisions": [
+      "UnitCircleInterpolation.NodeFamily",
+      "UnitCircleInterpolation.finiteHeightDifferences"
+    ]
+  },
+  "UnitCircleInterpolation/AngularParameters.lean": {
+    "checkedAt": "2026-11-22T04:38:17.551Z",
+    "collisions": [
+      "UnitCircleInterpolation.angularParameterAngles",
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/AngularProperness.lean": {
+    "checkedAt": "2026-11-22T04:38:23.799Z",
+    "collisions": [
+      "UnitCircleInterpolation.gapPredecessor",
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/CardinalComparison.lean": {
+    "checkedAt": "2026-11-22T04:38:54.601Z",
+    "collisions": [
+      "UnitCircleInterpolation.NodeFamily",
+      "UnitCircleInterpolation.cardinalNormNumerator",
+      "UnitCircleInterpolation.sin_sym_interval_lower_bound"
+    ]
+  },
+  "UnitCircleInterpolation/CayleyPolynomial.lean": {
+    "checkedAt": "2026-11-22T04:38:58.479Z",
+    "collisions": [
+      "UnitCircleInterpolation.cayleyOperator"
+    ]
+  },
+  "UnitCircleInterpolation/CircleChordBounds.lean": {
+    "checkedAt": "2026-11-22T04:39:00.095Z",
+    "collisions": [
+      "UnitCircleInterpolation.sin_sym_interval_lower_bound",
+      "UnitCircleInterpolation.sin_quarter_gap_pos",
+      "UnitCircleInterpolation.phaseNodes",
+      "UnitCircleInterpolation.sin_quarter_le_of_gap_width",
+      "UnitCircleInterpolation.norm_circle_sub_le_two"
+    ]
+  },
+  "UnitCircleInterpolation/CrossGapCoefficients.lean": {
+    "checkedAt": "2026-11-22T04:39:07.450Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.gapPredecessor",
+      "UnitCircleInterpolation.crossGapPhase",
+      "UnitCircleInterpolation.phaseNodes"
+    ]
+  },
+  "UnitCircleInterpolation/CrossWronskian.lean": {
+    "checkedAt": "2026-11-22T04:39:52.969Z",
+    "collisions": [
+      "UnitCircleInterpolation.phaseNodes"
+    ]
+  },
+  "UnitCircleInterpolation/FinalClassification.lean": {
+    "checkedAt": "2026-11-22T04:40:24.133Z",
+    "collisions": [
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/GapZeros.lean": {
+    "checkedAt": "2026-11-22T04:43:22.921Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/HeightDifferenceBoundary.lean": {
+    "checkedAt": "2026-11-22T04:43:47.299Z",
+    "collisions": [
+      "UnitCircleInterpolation.sin_sym_interval_lower_bound",
+      "UnitCircleInterpolation.finiteHeightDifferences",
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/InterpolantParameters.lean": {
+    "checkedAt": "2026-11-22T04:45:00.769Z",
+    "collisions": [
+      "UnitCircleInterpolation.phaseNodes",
+      "UnitCircleInterpolation.contDiff_sine_denominator"
+    ]
+  },
+  "UnitCircleInterpolation/MinimumEquioscillation.lean": {
+    "checkedAt": "2026-11-22T04:45:08.928Z",
+    "collisions": [
+      "UnitCircleInterpolation.eventually_lt_at_zero_of_hasDerivAt_neg",
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/OneNode.lean": {
+    "checkedAt": "2026-11-22T04:46:20.662Z",
+    "collisions": [
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/RegularHeights.lean": {
+    "checkedAt": "2026-11-22T04:46:23.265Z",
+    "collisions": [
+      "UnitCircleInterpolation.NodeFamily",
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/SaturatedRoots.lean": {
+    "checkedAt": "2026-11-22T04:47:32.676Z",
+    "collisions": [
+      "UnitCircleInterpolation.polynomial_roots_eq_of_saturated_roots",
+      "UnitCircleInterpolation.circle_exp_two_mul_eq_of_tan_eq"
+    ]
+  },
+  "UnitCircleInterpolation/Symmetry.lean": {
+    "checkedAt": "2026-11-22T04:47:33.924Z",
+    "collisions": [
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/CayleyCircleChart.lean": {
+    "checkedAt": "2026-11-22T04:38:59.719Z",
+    "collisions": [
+      "UnitCircleInterpolation.circle_exp_two_mul_eq_of_tan_eq",
+      "UnitCircleInterpolation.cos_half_eq_zero_iff_of_mem_Ico"
+    ]
+  },
+  "UnitCircleInterpolation/CrossInterlacing.lean": {
+    "checkedAt": "2026-11-22T04:39:00.881Z",
+    "collisions": [
+      "UnitCircleInterpolation.erasedNodeIndex_val",
+      "UnitCircleInterpolation.crossDifferenceRootLocation",
+      "UnitCircleInterpolation.crossSumRootLocation",
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.interlacing_root_index_of_mem_adjacent_closed"
+    ]
+  },
+  "UnitCircleInterpolation/CyclicGapCover.lean": {
+    "checkedAt": "2026-11-22T04:39:17.826Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/CyclicMarkov.lean": {
+    "checkedAt": "2026-11-22T04:39:18.121Z",
+    "collisions": [
+      "UnitCircleInterpolation.finiteRootProduct",
+      "UnitCircleInterpolation.polynomialWronskian",
+      "UnitCircleInterpolation.phaseNodes"
+    ]
+  },
+  "UnitCircleInterpolation/CyclicMinors.lean": {
+    "checkedAt": "2026-11-22T04:39:22.668Z",
+    "collisions": [
+      "UnitCircleInterpolation.HasCyclicRootBound",
+      "UnitCircleInterpolation.cyclicDeletedEvaluationMatrix",
+      "UnitCircleInterpolation.homogeneousTrig"
+    ]
+  },
+  "UnitCircleInterpolation/CyclicRootCount.lean": {
+    "checkedAt": "2026-11-22T04:39:29.593Z",
+    "collisions": [
+      "UnitCircleInterpolation.polynomial_distinct_root_count",
+      "UnitCircleInterpolation.circle_exp_two_mul_eq_of_tan_eq",
+      "UnitCircleInterpolation.phaseNodes"
+    ]
+  },
+  "UnitCircleInterpolation/GapChordBounds.lean": {
+    "checkedAt": "2026-11-22T04:39:32.399Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.gapPredecessor"
+    ]
+  },
+  "UnitCircleInterpolation/GapCritical.lean": {
+    "checkedAt": "2026-11-22T04:39:43.332Z",
+    "collisions": [
+      "UnitCircleInterpolation.phaseNodes",
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/GapPeaks.lean": {
+    "checkedAt": "2026-11-22T04:39:49.671Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/GapSigns.lean": {
+    "checkedAt": "2026-11-22T04:40:57.989Z",
+    "collisions": [
+      "UnitCircleInterpolation.gapPredecessor",
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/GapWidths.lean": {
+    "checkedAt": "2026-11-22T04:41:22.693Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.gapPredecessor"
+    ]
+  },
+  "UnitCircleInterpolation/GenericGlobalInverse.lean": {
+    "checkedAt": "2026-11-22T04:41:32.968Z",
+    "collisions": [
+      "UnitCircleInterpolation.isCoveringMap_of_localHomeomorph_of_proper",
+      "UnitCircleInterpolation.isHomeomorph_of_surjective_covering"
+    ]
+  },
+  "UnitCircleInterpolation/HomogeneousLinear.lean": {
+    "checkedAt": "2026-11-22T04:41:34.126Z",
+    "collisions": [
+      "UnitCircleInterpolation.homogeneousTrig",
+      "UnitCircleInterpolation.homogeneousTrig_natDegree_linear_combination_le"
+    ]
+  },
+  "UnitCircleInterpolation/InterpolantCalculus.lean": {
+    "checkedAt": "2026-11-22T04:41:42.008Z",
+    "collisions": [
+      "UnitCircleInterpolation.phaseNodes",
+      "UnitCircleInterpolation.sineCardinalDerivative"
+    ]
+  },
+  "UnitCircleInterpolation/InterpolantShift.lean": {
+    "checkedAt": "2026-11-22T04:41:46.413Z",
+    "collisions": [
+      "UnitCircleInterpolation.phaseNodes",
+      "UnitCircleInterpolation.homogeneousTrig",
+      "UnitCircleInterpolation.shiftedAngles",
+      "UnitCircleInterpolation.circle_exp_two_mul_eq_of_tan_eq"
+    ]
+  },
+  "UnitCircleInterpolation/NodeSensitivity.lean": {
+    "checkedAt": "2026-11-22T04:41:53.448Z",
+    "collisions": [
+      "UnitCircleInterpolation.sineFactor",
+      "UnitCircleInterpolation.phaseNodes"
+    ]
+  },
+  "UnitCircleInterpolation/OrdinaryPeaks.lean": {
+    "checkedAt": "2026-11-22T04:42:13.179Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/PeakHeightDerivative.lean": {
+    "checkedAt": "2026-11-22T04:42:36.432Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/PeakImplicit.lean": {
+    "checkedAt": "2026-11-22T04:44:20.383Z",
+    "collisions": [
+      "UnitCircleInterpolation.fderiv_comp_inr_eq_smul_of_hasDeriv",
+      "UnitCircleInterpolation.isInvertible_smulRight_of_ne_zero",
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.angularParameterAngles"
+    ]
+  },
+  "UnitCircleInterpolation/PeakLocalInverse.lean": {
+    "checkedAt": "2026-11-22T04:46:31.710Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/PeakQuotients.lean": {
+    "checkedAt": "2026-11-22T04:47:56.640Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.cayleyOperator"
+    ]
+  },
+  "UnitCircleInterpolation/PeakSigns.lean": {
+    "checkedAt": "2026-11-22T04:49:06.323Z",
+    "collisions": [
+      "UnitCircleInterpolation.phaseNodes",
+      "UnitCircleInterpolation.gapCoefficient_consecutive_cuts",
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/PeakUniqueness.lean": {
+    "checkedAt": "2026-11-22T04:49:28.369Z",
+    "collisions": [
+      "UnitCircleInterpolation.StrictIntervalPeak",
+      "UnitCircleInterpolation.cyclicRolleNext"
+    ]
+  },
+  "UnitCircleInterpolation/PhaseBridge.lean": {
+    "checkedAt": "2026-11-22T04:49:29.874Z",
+    "collisions": [
+      "UnitCircleInterpolation.phaseNodes",
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/RectangularDifferences.lean": {
+    "checkedAt": "2026-11-22T04:49:37.493Z",
+    "collisions": [
+      "UnitCircleInterpolation.rectangularCofactor"
+    ]
+  },
+  "UnitCircleInterpolation/RootSigns.lean": {
+    "checkedAt": "2026-11-22T04:49:39.298Z",
+    "collisions": [
+      "UnitCircleInterpolation.positive_on_right_of_zero_free",
+      "UnitCircleInterpolation.finite_chain_positive_of_adjacent_iff",
+      "UnitCircleInterpolation.phaseNodes"
+    ]
+  },
+  "UnitCircleInterpolation/WrapPeaks.lean": {
+    "checkedAt": "2026-11-22T04:49:49.256Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/WronskianBridge.lean": {
+    "checkedAt": "2026-11-22T04:49:49.635Z",
+    "collisions": [
+      "UnitCircleInterpolation.cayleyOperator",
+      "UnitCircleInterpolation.polynomialWronskian",
+      "UnitCircleInterpolation.phaseNodes"
+    ]
+  },
+  "UnitCircleInterpolation/AngularCalculus.lean": {
+    "checkedAt": "2026-11-22T04:45:27.958Z",
+    "collisions": [
+      "UnitCircleInterpolation.angularParameterAngles",
+      "UnitCircleInterpolation.phaseNodes",
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/AngularCompactSets.lean": {
+    "checkedAt": "2026-11-22T04:45:38.842Z",
+    "collisions": [
+      "UnitCircleInterpolation.gapPredecessor",
+      "UnitCircleInterpolation.angularParameterAngles",
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/AngularMinimum.lean": {
+    "checkedAt": "2026-11-22T04:46:09.221Z",
+    "collisions": [
+      "UnitCircleInterpolation.NodeFamily",
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/Basic.lean": {
+    "checkedAt": "2026-11-22T04:47:39.312Z",
+    "collisions": [
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/CayleyCardinal.lean": {
+    "checkedAt": "2026-11-22T04:47:44.437Z",
+    "collisions": [
+      "UnitCircleInterpolation.sineFactor",
+      "UnitCircleInterpolation.phaseNodes",
+      "UnitCircleInterpolation.cayleyOperator"
+    ]
+  },
+  "UnitCircleInterpolation/CircularSimpleRoots.lean": {
+    "checkedAt": "2026-11-22T04:47:55.433Z",
+    "collisions": [
+      "UnitCircleInterpolation.homogeneousTrig",
+      "UnitCircleInterpolation.cayleyOperator",
+      "UnitCircleInterpolation.sineFactor",
+      "UnitCircleInterpolation.phaseNodes",
+      "UnitCircleInterpolation.cyclicRolleNext"
+    ]
+  },
+  "UnitCircleInterpolation/ComplexNodes.lean": {
+    "checkedAt": "2026-11-22T04:48:22.301Z",
+    "collisions": [
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/CrossGapRoots.lean": {
+    "checkedAt": "2026-11-22T04:48:31.515Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.crossDifferenceRootLocation"
+    ]
+  },
+  "UnitCircleInterpolation/CrossResidueAnchor.lean": {
+    "checkedAt": "2026-11-22T04:49:00.961Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.gapPredecessor"
+    ]
+  },
+  "UnitCircleInterpolation/CrossSumRoots.lean": {
+    "checkedAt": "2026-11-22T04:49:46.828Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.crossSumRootLocation"
+    ]
+  },
+  "UnitCircleInterpolation/CyclicAngles.lean": {
+    "checkedAt": "2026-11-22T04:50:23.331Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/CyclicRelations.lean": {
+    "checkedAt": "2026-11-22T04:50:31.377Z",
+    "collisions": [
+      "UnitCircleInterpolation.circle_exp_two_mul_eq_of_tan_eq",
+      "UnitCircleInterpolation.HasCyclicRootBound",
+      "UnitCircleInterpolation.homogeneousTrig"
+    ]
+  },
+  "UnitCircleInterpolation/CyclicRolle.lean": {
+    "checkedAt": "2026-11-22T04:50:51.065Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicRolleNext"
+    ]
+  },
+  "UnitCircleInterpolation/FiniteHeightDifferences.lean": {
+    "checkedAt": "2026-11-22T04:50:54.960Z",
+    "collisions": [
+      "UnitCircleInterpolation.finiteHeightDifferences"
+    ]
+  },
+  "UnitCircleInterpolation/GapCriticalUniqueness.lean": {
+    "checkedAt": "2026-11-22T04:51:03.383Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/GapHeightComparison.lean": {
+    "checkedAt": "2026-11-22T04:51:47.028Z",
+    "collisions": [
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/GapHeightMaximum.lean": {
+    "checkedAt": "2026-11-22T04:52:06.303Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase",
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/GapWronskian.lean": {
+    "checkedAt": "2026-11-22T04:52:50.348Z",
+    "collisions": [
+      "UnitCircleInterpolation.gapPhaseSign",
+      "UnitCircleInterpolation.gapPredecessor",
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/HomogeneousFactor.lean": {
+    "checkedAt": "2026-11-22T04:54:05.485Z",
+    "collisions": [
+      "UnitCircleInterpolation.homogeneousTrig",
+      "UnitCircleInterpolation.sineFactor",
+      "UnitCircleInterpolation.natDegree_le_pred_of_coeff_top_eq_zero",
+      "UnitCircleInterpolation.cayleyOperator"
+    ]
+  },
+  "UnitCircleInterpolation/HomogeneousTrig.lean": {
+    "checkedAt": "2026-11-22T04:54:23.261Z",
+    "collisions": [
+      "UnitCircleInterpolation.homogeneousTrig",
+      "UnitCircleInterpolation.cayleyOperator"
+    ]
+  },
+  "UnitCircleInterpolation/MarkovKernel.lean": {
+    "checkedAt": "2026-11-22T04:54:37.669Z",
+    "collisions": [
+      "UnitCircleInterpolation.finiteRootProduct"
+    ]
+  },
+  "UnitCircleInterpolation/NodeTransport.lean": {
+    "checkedAt": "2026-11-22T04:54:41.551Z",
+    "collisions": [
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/PeakOrder.lean": {
+    "checkedAt": "2026-11-22T04:55:00.029Z",
+    "collisions": [
+      "UnitCircleInterpolation.physicalGapCut",
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/PeakSensitivityDifferences.lean": {
+    "checkedAt": "2026-11-22T04:56:15.059Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/PeakSensitivityKernel.lean": {
+    "checkedAt": "2026-11-22T04:56:46.188Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/PeakSensitivityMatrix.lean": {
+    "checkedAt": "2026-11-22T04:57:54.897Z",
+    "collisions": [
+      "UnitCircleInterpolation.cyclicPhase"
+    ]
+  },
+  "UnitCircleInterpolation/RegularNodes.lean": {
+    "checkedAt": "2026-11-22T04:58:58.719Z",
+    "collisions": [
+      "UnitCircleInterpolation.regular_angle_mem_Ico",
+      "UnitCircleInterpolation.NodeFamily"
+    ]
+  },
+  "UnitCircleInterpolation/SineDerivative.lean": {
+    "checkedAt": "2026-11-22T04:58:59.942Z",
+    "collisions": [
+      "UnitCircleInterpolation.sineCardinalDerivative",
+      "UnitCircleInterpolation.phaseNodes"
+    ]
+  },
+  "UnitCircleInterpolation/TrigPolynomial.lean": {
+    "checkedAt": "2026-11-22T04:59:02.507Z",
+    "collisions": [
+      "UnitCircleInterpolation.sineFactor",
+      "UnitCircleInterpolation.cayleyOperator"
+    ]
+  }
+}
