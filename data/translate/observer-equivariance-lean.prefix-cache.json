@@ -1,0 +1,123 @@
+{
+  "ObserverEquivariance/Core.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T08:56:30.957Z"
+  },
+  "ObserverEquivariance/Examples/Holonomy.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T08:57:00.476Z"
+  },
+  "ObserverEquivariance/Examples/Twist.lean": {
+    "checkedAt": "2026-11-22T08:57:01.749Z",
+    "collisions": [
+      "TwistExample.c2Hom",
+      "ProductModel.productHom_ext"
+    ]
+  },
+  "ObserverEquivariance/LocalLifts.lean": {
+    "checkedAt": "2026-11-22T09:03:47.881Z",
+    "collisions": [
+      "LocalLifts.p_act_base",
+      "LocalLifts.coord_base_one",
+      "LocalLifts.covers_obj",
+      "LocalLifts.actFunctor_comp_p",
+      "LocalLifts.functor_ext_of_comp_p",
+      "NormalForm.prodPairHom_ext"
+    ]
+  },
+  "ObserverEquivariance/MinSpecCorrespondence.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T09:18:10.253Z"
+  },
+  "ObserverEquivariance/Residual.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T09:18:28.270Z"
+  },
+  "ObserverEquivariance/ResidualCategory.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T09:18:37.023Z"
+  },
+  "ObserverEquivariance/Comparisons.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T08:49:07.018Z"
+  },
+  "ObserverEquivariance/Components.lean": {
+    "checkedAt": "2026-11-22T08:49:07.792Z",
+    "collisions": [
+      "Components.compMk",
+      "LocalLifts.p_act_base"
+    ]
+  },
+  "ObserverEquivariance/Descent.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T11:09:57.937Z"
+  },
+  "ObserverEquivariance/Examples/ComplexObstruction.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T11:11:17.214Z"
+  },
+  "ObserverEquivariance/Examples/NonFaithful.lean": {
+    "checkedAt": "2026-11-22T11:11:19.539Z",
+    "collisions": [
+      "NonFaithful.obj_eq",
+      "NonFaithful.eqToHom_eq_one"
+    ]
+  },
+  "ObserverEquivariance/Examples/RecordsCalibration.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T11:39:52.256Z"
+  },
+  "ObserverEquivariance/ProductModel.lean": {
+    "checkedAt": "2026-11-22T11:40:55.156Z",
+    "collisions": [
+      "ProductModel.productHom_ext",
+      "ProductModel.eqToHom_fst"
+    ]
+  },
+  "ObserverEquivariance/BaseChange.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T08:42:06.885Z"
+  },
+  "ObserverEquivariance/BaseChangeCocycle.lean": {
+    "checkedAt": "2026-11-22T08:42:10.398Z",
+    "collisions": [
+      "OECocycle.coboundary"
+    ]
+  },
+  "ObserverEquivariance/Cocycles.lean": {
+    "checkedAt": "2026-11-22T08:50:41.589Z",
+    "collisions": [
+      "OECocycle.coboundary"
+    ]
+  },
+  "ObserverEquivariance/Examples/RecordsRecovery.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T09:00:14.990Z"
+  },
+  "ObserverEquivariance/Examples/TwoObject.lean": {
+    "checkedAt": "2026-11-22T09:00:15.464Z",
+    "collisions": [
+      "TwoObjectExample.arrow01"
+    ]
+  },
+  "ObserverEquivariance/Implementations.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T09:36:48.091Z"
+  },
+  "ObserverEquivariance/MinSpec.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T09:53:10.647Z"
+  },
+  "ObserverEquivariance/NormalForm.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T10:09:25.873Z"
+  },
+  "ObserverEquivariance/Calibration.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T08:44:36.530Z"
+  },
+  "ObserverEquivariance/Examples/Records.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T09:17:19.136Z"
+  }
+}
