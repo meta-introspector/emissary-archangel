@@ -1,0 +1,36 @@
+{
+  "S3xS3/Geometry/MatrixLieAlgebra.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T08:20:01.736Z"
+  },
+  "S3xS3/Naturality.lean": {
+    "checkedAt": "2026-11-22T08:20:10.289Z",
+    "collisions": [
+      "S3xS3.I3"
+    ]
+  },
+  "S3xS3/Trivial/FactorSwap.lean": {
+    "checkedAt": "2026-11-22T12:24:23.790Z",
+    "collisions": [
+      "S3xS3.I3"
+    ]
+  },
+  "S3xS3/Trivial/FactorSwapFormulas.lean": {
+    "checkedAt": "2026-11-22T12:33:09.827Z",
+    "collisions": [
+      "S3xS3.I3"
+    ]
+  },
+  "S3xS3/Trivial/Graph.lean": {
+    "checkedAt": "2026-11-22T12:58:07.312Z",
+    "collisions": [
+      "S3xS3.I3"
+    ]
+  },
+  "S3xS3/Trivial/SwapNaturality.lean": {
+    "checkedAt": "2026-11-22T13:04:45.181Z",
+    "collisions": [
+      "S3xS3.I3"
+    ]
+  }
+}
