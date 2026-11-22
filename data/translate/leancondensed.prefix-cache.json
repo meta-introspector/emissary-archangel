@@ -135,5 +135,9 @@
     "collisions": [
       "LightCondensed.ι"
     ]
+  },
+  "LeanCondensed/Projects/SolidProjectiveGenerator/TensorDescent.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-22T08:44:23.927Z"
   }
 }
