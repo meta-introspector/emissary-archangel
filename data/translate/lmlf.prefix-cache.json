@@ -69,5 +69,70 @@
       "LMLF.ODE.hasDerivAt_const_mul_cexp_neg_integral",
       "LMLF.ODE.eqOn_const_mul_cexp_neg_integral_of_hasDerivAt"
     ]
+  },
+  "LMLF/Integral/Improper/Bochner.lean": {
+    "checkedAt": "2026-11-21T21:10:47.939Z",
+    "collisions": [
+      "LMLF.Integral.HasImproperIntegralAtTopExcept"
+    ]
+  },
+  "LMLF/ODE/HolomorphicSecondOrder.lean": {
+    "checkedAt": "2026-11-21T21:11:08.193Z",
+    "collisions": [
+      "LMLF.ODE.exists_unique_holomorphicLinearIVP_ball"
+    ]
+  },
+  "LMLF/ODE/Hypergeometric/Principal.lean": {
+    "checkedAt": "2026-11-21T21:11:13.002Z",
+    "collisions": [
+      "LMLF.Definitions.gaussHypergeometricDomain",
+      "LMLF.Definitions.gaussHypergeometricSeriesSum"
+    ]
+  },
+  "LMLF/ODE/Wronskian.lean": {
+    "checkedAt": "2026-11-21T21:22:04.158Z",
+    "collisions": [
+      "LMLF.ODE.wronskian",
+      "LMLF.ODE.hasDerivAt_const_mul_exp_neg_integral"
+    ]
+  },
+  "LMLFTest/Integral/Improper/IMP001GammaEndpoint.lean": {
+    "checkedAt": "2026-11-21T22:10:26.737Z",
+    "collisions": [
+      "LMLFTest.Integral.Improper.initialEndpoint_integrable_example"
+    ]
+  },
+  "LMLFTest/Integral/Improper/IMP001PublicUse.lean": {
+    "checkedAt": "2026-11-21T22:10:27.045Z",
+    "collisions": [
+      "LMLFTest.Integral.Improper.IMP001PublicUse.r20_arbitrary_S_from_bounded_primitive",
+      "LMLFTest.Integral.Improper.IMP001PublicUse.flat_bound_of_continuousOn_Ici_of_tendsto",
+      "LMLFTest.Integral.Improper.IMP001PublicUse.r07_initial_point_value_irrelevant",
+      "LMLFTest.Integral.Improper.IMP001PublicUse.r03_cross_codomain_literal_union",
+      "LMLFTest.Integral.Improper.gJ"
+    ]
+  },
+  "LMLFTest/Integral/Improper/IMP001Regressions.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-21T22:27:13.043Z"
+  },
+  "LMLFTest/ODE/HolomorphicSecondOrder.lean": {
+    "checkedAt": "2026-11-21T22:27:13.920Z",
+    "collisions": [
+      "LMLFTest.ODE.regularizedGauss_reuses_holomorphicSecondOrderLinearIVP"
+    ]
+  },
+  "LMLFTest/ODE/Hypergeometric/Principal.lean": {
+    "checkedAt": "2026-11-21T22:27:17.403Z",
+    "collisions": [
+      "LMLFTest.ODE.Hypergeometric.Principal.terminatingRegularizedGaussSeries_zero_zero_one"
+    ]
+  },
+  "LMLFTest/ODE/Wronskian.lean": {
+    "checkedAt": "2026-11-21T22:59:38.561Z",
+    "collisions": [
+      "LMLFTest.ODE.hypergeometric_wronskian",
+      "LMLFTest.ODE.associatedLegendre_wronskian"
+    ]
   }
 }
