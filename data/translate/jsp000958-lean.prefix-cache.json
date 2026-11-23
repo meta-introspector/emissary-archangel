@@ -1,0 +1,452 @@
+{
+  "Randy1153/Basic.lean": {
+    "checkedAt": "2026-11-22T23:13:32.398Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/ClassicalBound/ChebyshevDCT.lean": {
+    "checkedAt": "2026-11-22T23:13:36.935Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.BoundedChebyshevExpansion"
+    ]
+  },
+  "Randy1153/ClassicalBound/ChebyshevDerivative.lean": {
+    "checkedAt": "2026-11-22T23:14:20.207Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.abs_sin_nat_mul_le"
+    ]
+  },
+  "Randy1153/ClassicalBound/Clock.lean": {
+    "checkedAt": "2026-11-22T23:14:21.783Z",
+    "collisions": [
+      "Randy1153.NodeFamily",
+      "Randy1153.ClassicalBound.clockLeftIndex"
+    ]
+  },
+  "Randy1153/ClassicalBound/EnergyBins.lean": {
+    "checkedAt": "2026-11-22T23:14:32.659Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.interpolationSign",
+      "Randy1153.ClassicalBound.truncatedSpacingKernel",
+      "Randy1153.ClassicalBound.stepLeftIndex"
+    ]
+  },
+  "Randy1153/ClassicalBound/EnergyLowerFinite.lean": {
+    "checkedAt": "2026-11-22T23:14:42.599Z",
+    "collisions": [
+      "Randy1153.NodeFamily",
+      "Randy1153.ClassicalBound.denseArcsineLabels",
+      "Randy1153.ClassicalBound.interpolationSign",
+      "Randy1153.ClassicalBound.cubicChebyshevFloor"
+    ]
+  },
+  "Randy1153/ClassicalBound/EnergyPartition.lean": {
+    "checkedAt": "2026-11-22T23:15:33.753Z",
+    "collisions": [
+      "Randy1153.NodeFamily",
+      "Randy1153.ClassicalBound.cubicChebyshevFloor"
+    ]
+  },
+  "Randy1153/ClassicalBound/EquioscillatingHeight.lean": {
+    "checkedAt": "2026-11-22T23:17:09.681Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/ClassicalBound/RieszWeights.lean": {
+    "checkedAt": "2026-11-23T00:22:40.825Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.sum_riesz_midpoint_weights"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/Package.lean": {
+    "checkedAt": "2026-11-23T00:23:49.580Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/SignBridge.lean": {
+    "checkedAt": "2026-11-23T00:26:41.297Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/Density/ConsecutiveBlock.lean": {
+    "checkedAt": "2026-11-23T00:27:24.543Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/GapPolynomial.lean": {
+    "checkedAt": "2026-11-23T00:27:47.318Z",
+    "collisions": [
+      "Randy1153.gapLeftIndex",
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/Interpolation.lean": {
+    "checkedAt": "2026-11-23T00:28:22.584Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/OrderedStatement.lean": {
+    "checkedAt": "2026-11-23T00:28:25.251Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/ClassicalBound/ArcsineBinCount.lean": {
+    "checkedAt": "2026-11-22T23:07:03.483Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.cubicChebyshevFloor"
+    ]
+  },
+  "Randy1153/ClassicalBound/ArcsinePartition.lean": {
+    "checkedAt": "2026-11-22T23:07:28.040Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.cubicChebyshevFloor",
+      "Randy1153.ClassicalBound.geometricScaleLevel",
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/ClassicalBound/EnergyEmbedding.lean": {
+    "checkedAt": "2026-11-22T23:09:02.709Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.strictIndexPairs",
+      "Randy1153.NodeFamily",
+      "Randy1153.ClassicalBound.stepLeftIndex"
+    ]
+  },
+  "Randy1153/ClassicalBound/Mesoscopic.lean": {
+    "checkedAt": "2026-11-22T23:09:36.150Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.interpolationSign",
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/ClassicalBound/RieszInterpolation.lean": {
+    "checkedAt": "2026-11-22T23:09:44.083Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.sum_riesz_midpoint_weights",
+      "Randy1153.ClassicalBound.rieszAngle"
+    ]
+  },
+  "Randy1153/ClassicalBound/Statement.lean": {
+    "checkedAt": "2026-11-22T23:13:48.811Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/Collapse/Block.lean": {
+    "checkedAt": "2026-11-22T23:13:58.993Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/Collapse/ClusterLimit.lean": {
+    "checkedAt": "2026-11-22T23:15:42.032Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/Collapse/Definition.lean": {
+    "checkedAt": "2026-11-22T23:16:37.789Z",
+    "collisions": [
+      "Randy1153.Collapse.ConsecutiveBlock",
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/Collapse/ExteriorGrowth.lean": {
+    "checkedAt": "2026-11-22T23:17:08.384Z",
+    "collisions": [
+      "Randy1153.NodeFamily",
+      "Randy1153.Collapse.Spec.clusterDenominator"
+    ]
+  },
+  "Randy1153/CompactMax.lean": {
+    "checkedAt": "2026-11-22T23:19:35.292Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/TopologyPackage.lean": {
+    "checkedAt": "2026-11-22T23:20:32.131Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/Density/Damping.lean": {
+    "checkedAt": "2026-11-22T23:22:20.780Z",
+    "collisions": [
+      "Randy1153.Density.j0Left",
+      "Randy1153.NodeFamily",
+      "Randy1153.Density.equiNode"
+    ]
+  },
+  "Randy1153/Density/Dichotomy.lean": {
+    "checkedAt": "2026-11-22T23:22:33.991Z",
+    "collisions": [
+      "Randy1153.NodeFamily",
+      "Randy1153.Density.equiNode"
+    ]
+  },
+  "Randy1153/Main.lean": {
+    "checkedAt": "2026-11-22T23:24:39.371Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/Statement.lean": {
+    "checkedAt": "2026-11-22T23:25:34.998Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/ClassicalBound/BinCombinatorics.lean": {
+    "checkedAt": "2026-11-22T23:14:33.385Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.card_finset_fin_le",
+      "Randy1153.ClassicalBound.sum_count_cast_eq",
+      "Randy1153.ClassicalBound.sq_sum_div_sum_div_le_sum_mul_sq_div"
+    ]
+  },
+  "Randy1153/ClassicalBound/ChebyshevExpansion.lean": {
+    "checkedAt": "2026-11-22T23:14:36.513Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.BoundedChebyshevExpansion",
+      "Randy1153.ClassicalBound.abs_sin_nat_mul_le",
+      "Randy1153.ClassicalBound.cubicChebyshevFloor"
+    ]
+  },
+  "Randy1153/ClassicalBound/EnergyAsymptoticTools.lean": {
+    "checkedAt": "2026-11-22T23:14:47.406Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.cubicChebyshevFloor",
+      "Randy1153.ClassicalBound.arcsineTotalBinCount",
+      "Randy1153.ClassicalBound.interpolationSign"
+    ]
+  },
+  "Randy1153/ClassicalBound/EnergyGeometry.lean": {
+    "checkedAt": "2026-11-22T23:15:07.487Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.stepLeftIndex"
+    ]
+  },
+  "Randy1153/ClassicalBound/EnergyLowerAsymptotic.lean": {
+    "checkedAt": "2026-11-22T23:15:17.599Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.cubicChebyshevFloor",
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/ClassicalBound/EnergyParameters.lean": {
+    "checkedAt": "2026-11-22T23:15:28.614Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.exists_energy_parameters"
+    ]
+  },
+  "Randy1153/ClassicalBound/Final.lean": {
+    "checkedAt": "2026-11-22T23:15:28.903Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.tendsto_log_nat_atTop",
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/ClassicalBound/FullIntervalEnergy.lean": {
+    "checkedAt": "2026-11-22T23:16:03.234Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/ClassicalBound/PairEnergy.lean": {
+    "checkedAt": "2026-11-22T23:16:34.290Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.cubicChebyshevFloor",
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/ClassicalBound/Sharp.lean": {
+    "checkedAt": "2026-11-22T23:16:50.162Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/Collapse/BlockAdapter.lean": {
+    "checkedAt": "2026-11-23T00:26:12.297Z",
+    "collisions": [
+      "Randy1153.Collapse.ConsecutiveBlock",
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/Boundary.lean": {
+    "checkedAt": "2026-11-23T00:28:30.819Z",
+    "collisions": [
+      "Randy1153.NodeFamily",
+      "Randy1153.gapLeftIndex",
+      "Randy1153.DeBoorPinkus.AdjacentCardinalAmplification"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/CrossInterlacing.lean": {
+    "checkedAt": "2026-11-23T00:30:02.311Z",
+    "collisions": [
+      "Randy1153.DeBoorPinkus.gapPairParity",
+      "Randy1153.gapLeftIndex",
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/Interlacing.lean": {
+    "checkedAt": "2026-11-23T00:33:06.363Z",
+    "collisions": [
+      "Randy1153.NodeFamily",
+      "Randy1153.DeBoorPinkus.OtherGapIndex"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/Minors.lean": {
+    "checkedAt": "2026-11-23T00:34:15.119Z",
+    "collisions": [
+      "Randy1153.NodeFamily",
+      "Randy1153.DeBoorPinkus.heightMinorFactorParity"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/NodeSpace.lean": {
+    "checkedAt": "2026-11-23T00:44:59.751Z",
+    "collisions": [
+      "Randy1153.DeBoorPinkus.AdmissibleInterval",
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/Orientation.lean": {
+    "checkedAt": "2026-11-23T00:45:15.950Z",
+    "collisions": [
+      "Randy1153.NodeFamily",
+      "Randy1153.DeBoorPinkus.heightZeroCramerCoefficient"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/Simplex.lean": {
+    "checkedAt": "2026-11-23T00:46:01.503Z",
+    "collisions": [
+      "Randy1153.DeBoorPinkus.AdmissibleInterval",
+      "Randy1153.NodeFamily",
+      "Randy1153.DeBoorPinkus.endpointPoint"
+    ]
+  },
+  "Randy1153/Density/Asymptotic.lean": {
+    "checkedAt": "2026-11-23T00:46:26.993Z",
+    "collisions": [
+      "Randy1153.Density.densityDenominator",
+      "Randy1153.NodeFamily",
+      "Randy1153.Density.j0Left"
+    ]
+  },
+  "Randy1153/Density/DenseAsymptoticTools.lean": {
+    "checkedAt": "2026-11-23T00:46:31.625Z",
+    "collisions": [
+      "Randy1153.Density.densityDenominator",
+      "Randy1153.Density.eventually_const_lt_pos_mul_log_nat"
+    ]
+  },
+  "Randy1153/Density/DenseBlockAsymptotic.lean": {
+    "checkedAt": "2026-11-23T00:47:45.747Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/Density/DenseBlockWitness.lean": {
+    "checkedAt": "2026-11-23T00:47:46.337Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/Density/FixedInterval.lean": {
+    "checkedAt": "2026-11-23T00:48:56.968Z",
+    "collisions": [
+      "Randy1153.Density.equiNode"
+    ]
+  },
+  "Randy1153/NodeOrder.lean": {
+    "checkedAt": "2026-11-23T00:49:04.917Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/ClassicalBound/ArcsineBins.lean": {
+    "checkedAt": "2026-11-22T23:14:21.062Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.cubicChebyshevFloor",
+      "Randy1153.ClassicalBound.cos_sub_cos_le_sin_mul_sub",
+      "Randy1153.ClassicalBound.angleBinLeft"
+    ]
+  },
+  "Randy1153/ClassicalBound/EnergyToLebesgue.lean": {
+    "checkedAt": "2026-11-22T23:15:11.070Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/ClassicalBound/PolynomialControl.lean": {
+    "checkedAt": "2026-11-22T23:15:51.227Z",
+    "collisions": [
+      "Randy1153.ClassicalBound.cubicChebyshevFloor",
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/Comparison.lean": {
+    "checkedAt": "2026-11-22T23:16:34.777Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/DerivativeInterlacing.lean": {
+    "checkedAt": "2026-11-22T23:16:46.537Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/GapCritical.lean": {
+    "checkedAt": "2026-11-22T23:27:58.683Z",
+    "collisions": [
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/GlobalHomeomorph.lean": {
+    "checkedAt": "2026-11-22T23:29:32.838Z",
+    "collisions": [
+      "Randy1153.DeBoorPinkus.isCoveringMap_of_isLocalHomeomorph_of_isProperMap",
+      "Randy1153.DeBoorPinkus.IsCoveringMap.isHomeomorph_of_surjective",
+      "Randy1153.DeBoorPinkus.fin_zero_isHomeomorph_of_isLocalHomeomorph",
+      "Randy1153.NodeFamily"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/Jacobian.lean": {
+    "checkedAt": "2026-11-22T23:29:44.054Z",
+    "collisions": [
+      "Randy1153.NodeFamily",
+      "Randy1153.DeBoorPinkus.AdmissibleInterval",
+      "Randy1153.gapLeftIndex",
+      "Randy1153.DeBoorPinkus.coordinateLagrangePolynomial"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/LocalHomeomorph.lean": {
+    "checkedAt": "2026-11-22T23:34:11.442Z",
+    "collisions": [
+      "Randy1153.NodeFamily",
+      "Randy1153.gapLeftIndex"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/OrientedCharts.lean": {
+    "checkedAt": "2026-11-22T23:36:47.127Z",
+    "collisions": [
+      "Randy1153.NodeFamily",
+      "Randy1153.DeBoorPinkus.coordinateLagrangePolynomial"
+    ]
+  },
+  "Randy1153/DeBoorPinkus/Properness.lean": {
+    "checkedAt": "2026-11-22T23:42:26.710Z",
+    "collisions": [
+      "Randy1153.DeBoorPinkus.exists_norm_bound_of_isCompact",
+      "Randy1153.NodeFamily"
+    ]
+  }
+}
