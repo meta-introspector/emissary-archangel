@@ -158,5 +158,9 @@
   "ExactSemiprimes/TypeII/OpenClosedDyadicSlices.lean": {
     "status": "broken",
     "checkedAt": "2026-11-24T11:09:15.151Z"
+  },
+  "ExactSemiprimes/Final/DirichletTarget.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T16:46:15.205Z"
   }
 }
