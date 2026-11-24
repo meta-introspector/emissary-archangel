@@ -82,5 +82,65 @@
   "ExactSemiprimes/Completion/PerronFiniteSupportBounds.lean": {
     "status": "broken",
     "checkedAt": "2026-11-20T21:26:26.172Z"
+  },
+  "ExactSemiprimes/Final/SparseUniform.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T01:58:06.354Z"
+  },
+  "ExactSemiprimes/Final/TypeIIDensityBins.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T02:30:50.746Z"
+  },
+  "ExactSemiprimes/Completion/TypeIComponentClosure.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T04:01:12.376Z"
+  },
+  "ExactSemiprimes/Completion/TypeIFiniteSliceClosure.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T04:11:38.366Z"
+  },
+  "ExactSemiprimes/Completion/TypeIIClosure.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T04:12:57.204Z"
+  },
+  "ExactSemiprimes/Hybrid/LowerRangeExponents.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T01:39:31.475Z"
+  },
+  "ExactSemiprimes/Sparse/PropagationMoving.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T04:15:28.766Z"
+  },
+  "ExactSemiprimes/Hybrid/NormalizeCoefficients.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T00:04:52.084Z"
+  },
+  "ExactSemiprimes/Hybrid/RefinedDensity.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T00:05:35.044Z"
+  },
+  "ExactSemiprimes/Results/CleanTheorem.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T00:37:43.907Z"
+  },
+  "ExactSemiprimes/Results/ExplicitExponentArithmetic.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T01:25:48.195Z"
+  },
+  "ExactSemiprimes/Sparse/ComplexCoefficientSplit.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T03:02:06.851Z"
+  },
+  "ExactSemiprimes/Sparse/EndpointAlgebra.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T03:34:11.189Z"
+  },
+  "ExactSemiprimes/Sparse/SupportGeometry.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T03:34:14.282Z"
+  },
+  "ExactSemiprimes/TypeII/FullTypeIIEstimate.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-24T03:52:13.754Z"
   }
 }
