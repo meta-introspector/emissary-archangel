@@ -630,5 +630,149 @@
       "LeanEval.Geometry.PlatonicClassification.massimo_consecutivo_value",
       "LeanEval.Geometry.PlatonicClassification.massimo_consecutivo_index_endpoints"
     ]
+  },
+  "Submission/Cardinalita.lean": {
+    "checkedAt": "2026-11-24T04:35:58.636Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.due_mul_lt_two_pow"
+    ]
+  },
+  "Submission/CellVentiquattro.lean": {
+    "checkedAt": "2026-11-24T04:35:59.509Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.CoppiaVentiquattro",
+      "LeanEval.Geometry.PlatonicClassification.vertOrto"
+    ]
+  },
+  "Submission/ClassDim4.lean": {
+    "checkedAt": "2026-11-24T04:36:14.126Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.minoreGram"
+    ]
+  },
+  "Submission/ConiugazioneRiflessioni.lean": {
+    "checkedAt": "2026-11-24T05:30:40.642Z",
+    "collisions": [
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/Connettivita.lean": {
+    "checkedAt": "2026-11-24T05:30:42.620Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.flag_ext",
+      "LeanEval.Geometry.PlatonicClassification.AgreeAbove",
+      "LeanEval.Geometry.PlatonicClassification.FlagAdjacentAt"
+    ]
+  },
+  "Submission/ConnettivitaGlobale.lean": {
+    "checkedAt": "2026-11-24T05:30:45.280Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.AgreeAbove",
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/FlagAdiacente.lean": {
+    "checkedAt": "2026-11-24T05:37:22.005Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.FlagAdjacentAt"
+    ]
+  },
+  "Submission/GruppoFinito.lean": {
+    "checkedAt": "2026-11-24T05:37:25.475Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.face_eq_hull_vertices",
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/MaggioranteAlta.lean": {
+    "checkedAt": "2026-11-24T05:38:34.104Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.coniugioScala",
+      "LeanEval.Geometry.PlatonicClassification.extremePoints_image_affineEquiv"
+    ]
+  },
+  "Submission/PoligonoRegolare.lean": {
+    "checkedAt": "2026-11-24T05:38:38.984Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.E2",
+      "LeanEval.Geometry.PlatonicClassification.E3"
+    ]
+  },
+  "Submission/QuadrupleAmmesse.lean": {
+    "checkedAt": "2026-11-24T05:38:45.795Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.minoreGram"
+    ]
+  },
+  "Submission/RegistrazioneNormali.lean": {
+    "checkedAt": "2026-11-24T05:38:53.125Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.relazioni_trasportate_da_gram_dim",
+      "LeanEval.Geometry.PlatonicClassification.inner_somme_da_gram_dim"
+    ]
+  },
+  "Submission/RegolariBenchmark.lean": {
+    "checkedAt": "2026-11-24T05:38:54.371Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.E3",
+      "LeanEval.Geometry.PlatonicClassification.face_eq_hull_vertices"
+    ]
+  },
+  "Submission/OrdineAdiacente.lean": {
+    "checkedAt": "2026-11-24T04:37:12.832Z",
+    "collisions": [
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/PerturbazioneFinita.lean": {
+    "checkedAt": "2026-11-24T04:37:13.368Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.face_eq_hull_vertices",
+      "LeanEval.Geometry.PlatonicClassification.le_su_toSet",
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/PoligonoConnesso.lean": {
+    "checkedAt": "2026-11-24T04:37:14.286Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.toSet_isFace",
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/PonteMosse.lean": {
+    "checkedAt": "2026-11-24T04:39:12.361Z",
+    "collisions": [
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/ResiduoGeometrico.lean": {
+    "checkedAt": "2026-11-24T04:39:16.597Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.face_eq_hull_vertices",
+      "PlatoniciL3.faccia_argmax",
+      "LeanEval.Geometry.PlatonicClassification.proiettati_in_V",
+      "LeanEval.Geometry.PlatonicClassification.finrank_span_normali"
+    ]
+  },
+  "Submission/SecondoIntermedio.lean": {
+    "checkedAt": "2026-11-24T04:40:27.810Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.normale_relativa",
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/SottoPolitopo.lean": {
+    "checkedAt": "2026-11-24T04:40:28.523Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.face_eq_hull_vertices",
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/TripleAmmesse.lean": {
+    "checkedAt": "2026-11-24T04:40:30.827Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.minoreGram",
+      "PlatoniciL3.faccia_argmax"
+    ]
   }
 }
