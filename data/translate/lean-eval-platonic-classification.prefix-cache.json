@@ -774,5 +774,40 @@
       "LeanEval.Geometry.PlatonicClassification.minoreGram",
       "PlatoniciL3.faccia_argmax"
     ]
+  },
+  "Submission/ScalaBandiere.lean": {
+    "checkedAt": "2026-11-24T11:05:13.872Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.toSet_isFace",
+      "LeanEval.Geometry.PlatonicClassification.face_subset_toSet",
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/SecondaFaccetta.lean": {
+    "checkedAt": "2026-11-24T11:05:36.945Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.face_eq_hull_vertices"
+    ]
+  },
+  "Submission/SecondoSpigolo.lean": {
+    "checkedAt": "2026-11-24T11:05:37.288Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.esiste_ortogonale_nello_span",
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/Trasportatore.lean": {
+    "checkedAt": "2026-11-24T11:06:29.015Z",
+    "collisions": [
+      "LeanEval.Geometry.PlatonicClassification.flag_ext",
+      "LeanEval.Geometry.PlatonicClassification.transporter",
+      "PlatoniciL3.faccia_argmax"
+    ]
+  },
+  "Submission/VerticeSeme.lean": {
+    "checkedAt": "2026-11-24T11:10:04.483Z",
+    "collisions": [
+      "PlatoniciL3.faccia_argmax"
+    ]
   }
 }
