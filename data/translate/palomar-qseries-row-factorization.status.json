@@ -1,16 +1,16 @@
 {
   "mechanical": {
-    "run": "45415944191",
-    "at": "2026-11-24T20:09:06.618Z",
+    "run": "45477941125",
+    "at": "2026-11-25T01:45:23.473Z",
     "shards": 6,
-    "todo": 1084,
-    "processed": 26,
-    "left": 1068,
+    "todo": 1068,
+    "processed": 31,
+    "left": 1054,
     "limited": false,
     "stalls": 0,
     "outcomes": {
-      "export-unavailable": 16,
-      "failed": 10
+      "export-unavailable": 14,
+      "failed": 17
     }
   }
 }
