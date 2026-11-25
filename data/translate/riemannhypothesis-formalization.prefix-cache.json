@@ -1,0 +1,536 @@
+{
+  "RiemannHypothesis/ArgumentPrinciple/Rectangles.lean": {
+    "checkedAt": "2026-11-25T16:45:23.117Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction",
+      "OverflowResidueRH.ZetaRectangle",
+      "OverflowResidueRH.IsMathlibNontrivialZetaZero"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/EvenAnalyticOrder.lean": {
+    "checkedAt": "2026-11-25T16:45:28.988Z",
+    "collisions": [
+      "OverflowResidueRH.analyticOrderNatAt_zero_even_of_even"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/LogDerivative.lean": {
+    "checkedAt": "2026-11-25T16:45:29.559Z",
+    "collisions": [
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/GammaCancellation/CompletedZeta.lean": {
+    "checkedAt": "2026-11-25T18:36:36.832Z",
+    "collisions": [
+      "OverflowResidueRH.gammaPoleSet",
+      "OverflowResidueRH.CompletedRiemannZetaRawOffPoleFormula",
+      "OverflowResidueRH.completedXiFunction"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/CanonicalProductGrowth.lean": {
+    "checkedAt": "2026-11-25T18:36:39.219Z",
+    "collisions": [
+      "OverflowResidueRH.hadamardGenus1Factor",
+      "OverflowResidueRH.norm_tprod_le_exp_tsum",
+      "OverflowResidueRH.HasSubquadraticUpperRealGrowth"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/CanonicalProductMultiplicity.lean": {
+    "checkedAt": "2026-11-25T18:36:52.013Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction",
+      "OverflowResidueRH.hadamardGenus1Factor",
+      "OverflowResidueRH.entireXiPullbackZeroOccurrenceLocFiberEquiv"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/OriginMultiplicityCriterion.lean": {
+    "checkedAt": "2026-11-25T18:37:04.239Z",
+    "collisions": [
+      "OverflowResidueRH.hadamardGenus1Factor",
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/StrictRealZeroCriterion.lean": {
+    "checkedAt": "2026-11-25T18:38:18.805Z",
+    "collisions": [
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/Reduction/BacklundCanonicalDivisor.lean": {
+    "checkedAt": "2026-11-25T18:38:53.094Z",
+    "collisions": [
+      "OverflowResidueRH.ZeroCountingDensityTailModel",
+      "OverflowResidueRH.HadamardLogDerivLimitData",
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.completedXiFunction"
+    ]
+  },
+  "RiemannHypothesis/Xi/BacklundTuringBridge.lean": {
+    "checkedAt": "2026-11-25T18:40:32.783Z",
+    "collisions": [
+      "OverflowResidueRH.HadamardLogDerivLimitData",
+      "OverflowResidueRH.completedXiFunction",
+      "OverflowResidueRH.logDerivativeResponse"
+    ]
+  },
+  "RiemannHypothesis/Xi/CanonicalDivisor.lean": {
+    "checkedAt": "2026-11-25T18:40:48.711Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction"
+    ]
+  },
+  "RiemannHypothesis/Xi/CanonicalProductOrderOneGrowth.lean": {
+    "checkedAt": "2026-11-25T18:41:49.073Z",
+    "collisions": [
+      "OverflowResidueRH.logDerivativeResponse"
+    ]
+  },
+  "RiemannHypothesis/Xi/CanonicalQuotientCriterion.lean": {
+    "checkedAt": "2026-11-25T18:41:53.178Z",
+    "collisions": [
+      "OverflowResidueRH.entireQuotientCompletion",
+      "OverflowResidueRH.HasSublinearNormGrowth",
+      "OverflowResidueRH.hadamardGenus1Factor",
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/Xi/HadamardLogDerivativeCriterion.lean": {
+    "checkedAt": "2026-11-25T18:46:59.121Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction",
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/Xi/ZetaBacklundTuringCriterion.lean": {
+    "checkedAt": "2026-11-25T19:19:18.753Z",
+    "collisions": [
+      "OverflowResidueRH.HasSublinearNormGrowth",
+      "OverflowResidueRH.twoPiI"
+    ]
+  },
+  "RiemannHypothesis/Xi/ZetaMultiplicityBridge.lean": {
+    "checkedAt": "2026-11-25T19:20:07.617Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/DerivativeCompanionHermiteBiehler.lean": {
+    "checkedAt": "2026-11-25T16:40:15.462Z",
+    "collisions": [
+      "OverflowResidueRH.DerivativeCompanionHermiteBiehlerAt",
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/PoleProbe.lean": {
+    "checkedAt": "2026-11-25T16:40:27.573Z",
+    "collisions": [
+      "OverflowResidueRH.escape_exceeds_bounded_background",
+      "OverflowResidueRH.complex_probe_subtraction",
+      "OverflowResidueRH.im_principalPart_at_lowerProbe",
+      "OverflowResidueRH.AntiHerglotzUHP",
+      "OverflowResidueRH.LocalLogDerivPoleDecomposition"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/ProximityGrowth.lean": {
+    "checkedAt": "2026-11-25T16:40:33.274Z",
+    "collisions": [
+      "OverflowResidueRH.HasSubquadraticUpperRealGrowth",
+      "OverflowResidueRH.HasSubquadraticProximityGrowthAtInfinity"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/RealPartGrowth.lean": {
+    "checkedAt": "2026-11-25T16:40:35.436Z",
+    "collisions": [
+      "OverflowResidueRH.HasSubquadraticUpperRealGrowth",
+      "OverflowResidueRH.HasSublinearNormGrowth"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/PairedGenusOne.lean": {
+    "checkedAt": "2026-11-25T16:40:39.137Z",
+    "collisions": [
+      "OverflowResidueRH.hadamardGenus1Factor"
+    ]
+  },
+  "RiemannHypothesis/Xi/CanonicalProductSymmetry.lean": {
+    "checkedAt": "2026-11-25T16:40:41.662Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction",
+      "OverflowResidueRH.hadamardGenus1Factor",
+      "OverflowResidueRH.entireQuotientCompletion"
+    ]
+  },
+  "RiemannHypothesis/Xi/EntireXiLogNormGrowth.lean": {
+    "checkedAt": "2026-11-25T16:41:29.323Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction",
+      "OverflowResidueRH.HasSubquadraticUpperRealGrowth"
+    ]
+  },
+  "RiemannHypothesis/Xi/RiemannHypothesisBridge.lean": {
+    "checkedAt": "2026-11-25T16:41:57.891Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction",
+      "OverflowResidueRH.IsMathlibNontrivialZetaZero",
+      "OverflowResidueRH.gammaPoleSet",
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/Xi/SignTargets.lean": {
+    "checkedAt": "2026-11-25T16:42:26.236Z",
+    "collisions": [
+      "OverflowResidueRH.AntiHerglotzUHP",
+      "OverflowResidueRH.completedXiFunction",
+      "OverflowResidueRH.eventually_nhds_implies_probe_eventually"
+    ]
+  },
+  "RiemannHypothesis/ArgumentPrinciple/ZetaCounts.lean": {
+    "checkedAt": "2026-11-25T16:46:10.338Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction",
+      "OverflowResidueRH.twoPiI",
+      "OverflowResidueRH.IsMathlibNontrivialZetaZero",
+      "OverflowResidueRH.ZeroCountingDensityTailModel"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/AntiHerglotz.lean": {
+    "checkedAt": "2026-11-25T16:46:42.885Z",
+    "collisions": [
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/DeBrangesSpace.lean": {
+    "checkedAt": "2026-11-25T16:46:45.174Z",
+    "collisions": [
+      "OverflowResidueRH.hermiteBiehlerSharp"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/SymmetryGrowthObstruction.lean": {
+    "checkedAt": "2026-11-25T18:07:21.815Z",
+    "collisions": [
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.AntiHerglotzUHP",
+      "OverflowResidueRH.HasSubquadraticUpperRealGrowth"
+    ]
+  },
+  "RiemannHypothesis/ArgumentPrinciple/BoundaryIntegrals.lean": {
+    "checkedAt": "2026-11-25T16:40:10.572Z",
+    "collisions": [
+      "OverflowResidueRH.zetaLogDeriv",
+      "OverflowResidueRH.ZetaRectangle"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/GrowthRigidity.lean": {
+    "checkedAt": "2026-11-25T18:15:11.768Z",
+    "collisions": [
+      "OverflowResidueRH.HasSublinearNormGrowth"
+    ]
+  },
+  "RiemannHypothesis/GammaCancellation/PoleSet.lean": {
+    "checkedAt": "2026-11-25T18:15:14.669Z",
+    "collisions": [
+      "OverflowResidueRH.gammaPoleSet"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/CanonicalProductDivisor.lean": {
+    "checkedAt": "2026-11-25T18:15:17.475Z",
+    "collisions": [
+      "OverflowResidueRH.hadamardGenus1Factor",
+      "OverflowResidueRH.HadamardLogDerivLimitData",
+      "OverflowResidueRH.logDerivativeResponse"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/CompletedLFunction.lean": {
+    "checkedAt": "2026-11-25T18:15:44.241Z",
+    "collisions": [
+      "OverflowResidueRH.hadamardGenus1Factor",
+      "OverflowResidueRH.canonicalProductWithOrigin",
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/CompletedLFunctionProducts.lean": {
+    "checkedAt": "2026-11-25T18:16:55.685Z",
+    "collisions": [
+      "OverflowResidueRH.HadamardLogDerivLimitData",
+      "OverflowResidueRH.finiteHadamardProduct"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/DyadicZeroCount.lean": {
+    "checkedAt": "2026-11-25T18:23:11.110Z",
+    "collisions": [
+      "OverflowResidueRH.hadamardZeroDyadicBin",
+      "OverflowResidueRH.HadamardLogDerivLimitData",
+      "OverflowResidueRH.logDerivativeResponse"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/LogDerivative.lean": {
+    "checkedAt": "2026-11-25T18:23:50.601Z",
+    "collisions": [
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.hadamardGenus1Factor",
+      "OverflowResidueRH.HadamardLogDerivLimitData",
+      "OverflowResidueRH.finiteHadamardProduct"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/PairedCanonicalProductGrowth.lean": {
+    "checkedAt": "2026-11-25T18:24:39.952Z",
+    "collisions": [
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.hadamardGenus1Factor",
+      "OverflowResidueRH.HadamardLogDerivLimitData",
+      "OverflowResidueRH.hadamardZeroDyadicBin",
+      "OverflowResidueRH.involutionHalf"
+    ]
+  },
+  "RiemannHypothesis/RealZeros/JensenPolynomial.lean": {
+    "checkedAt": "2026-11-25T18:27:31.432Z",
+    "collisions": [
+      "OverflowResidueRH.realJensenPolynomial",
+      "OverflowResidueRH.StrictlyInterlaces",
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/Reduction/ArgumentPrincipleBacklund.lean": {
+    "checkedAt": "2026-11-25T18:27:52.934Z",
+    "collisions": [
+      "OverflowResidueRH.HadamardLogDerivLimitData",
+      "OverflowResidueRH.twoPiI",
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.completedXiFunction"
+    ]
+  },
+  "RiemannHypothesis/Xi/CanonicalProductCharacteristicGrowth.lean": {
+    "checkedAt": "2026-11-25T18:30:20.507Z",
+    "collisions": [
+      "OverflowResidueRH.hadamardGenus1Factor",
+      "OverflowResidueRH.HasSubquadraticUpperRealGrowth"
+    ]
+  },
+  "RiemannHypothesis/Xi/CanonicalQuotientCharacteristicGrowth.lean": {
+    "checkedAt": "2026-11-25T18:31:06.146Z",
+    "collisions": [
+      "OverflowResidueRH.AntiHerglotzUHP",
+      "OverflowResidueRH.entireQuotientCompletion",
+      "OverflowResidueRH.hadamardGenus1Factor",
+      "OverflowResidueRH.HasSublinearNormGrowth"
+    ]
+  },
+  "RiemannHypothesis/Xi/CanonicalQuotientThetaCharacteristicGrowth.lean": {
+    "checkedAt": "2026-11-25T18:35:29.580Z",
+    "collisions": [
+      "OverflowResidueRH.AntiHerglotzUHP",
+      "OverflowResidueRH.logDerivativeResponse"
+    ]
+  },
+  "RiemannHypothesis/Xi/EntireXiOrderOneGrowth.lean": {
+    "checkedAt": "2026-11-25T18:37:56.462Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction"
+    ]
+  },
+  "RiemannHypothesis/Xi/JensenDyadicCountBridge.lean": {
+    "checkedAt": "2026-11-25T18:38:02.065Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction",
+      "OverflowResidueRH.HadamardLogDerivLimitData",
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.HasSublinearNormGrowth"
+    ]
+  },
+  "RiemannHypothesis/Xi/UnconditionalLagariasEquivalence.lean": {
+    "checkedAt": "2026-11-25T18:43:52.832Z",
+    "collisions": [
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.HasSublinearNormGrowth",
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/Xi/ZetaSquareCompletedLFunctionInstance.lean": {
+    "checkedAt": "2026-11-25T18:48:28.160Z",
+    "collisions": [
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/ArgumentPrinciple/Residues.lean": {
+    "checkedAt": "2026-11-25T16:42:33.848Z",
+    "collisions": [
+      "OverflowResidueRH.twoPiI"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/HermiteBiehler.lean": {
+    "checkedAt": "2026-11-25T16:43:17.150Z",
+    "collisions": [
+      "OverflowResidueRH.hermiteBiehlerSharp",
+      "OverflowResidueRH.DerivativeCompanionHermiteBiehlerAt",
+      "OverflowResidueRH.AntiHerglotzUHP",
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.StrictlyInterlaces"
+    ]
+  },
+  "RiemannHypothesis/GammaCancellation/EntireXiBridge.lean": {
+    "checkedAt": "2026-11-25T17:38:12.004Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction",
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.gammaPoleSet"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/IndexedRealZeroSign.lean": {
+    "checkedAt": "2026-11-25T17:38:49.477Z",
+    "collisions": [
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/RealZeros/Interlacing.lean": {
+    "checkedAt": "2026-11-25T17:38:58.675Z",
+    "collisions": [
+      "OverflowResidueRH.StrictlyInterlaces"
+    ]
+  },
+  "RiemannHypothesis/Xi/CompletedLFunctionInstance.lean": {
+    "checkedAt": "2026-11-25T17:39:56.392Z",
+    "collisions": [
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/Xi/DyadicZeroCountBridge.lean": {
+    "checkedAt": "2026-11-25T17:40:04.957Z",
+    "collisions": [
+      "OverflowResidueRH.logDerivativeResponse"
+    ]
+  },
+  "RiemannHypothesis/CauchyKernel/SmoothTail.lean": {
+    "checkedAt": "2026-11-25T17:57:58.858Z",
+    "collisions": [
+      "OverflowResidueRH.positiveSmoothKernel",
+      "OverflowResidueRH.ZeroCountingDensityTailModel",
+      "OverflowResidueRH.logDerivativeResponse"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/EntireQuotient.lean": {
+    "checkedAt": "2026-11-25T17:58:44.995Z",
+    "collisions": [
+      "OverflowResidueRH.HasSublinearNormGrowth",
+      "OverflowResidueRH.entireQuotientCompletion"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/FactorialDyadicGrowth.lean": {
+    "checkedAt": "2026-11-25T17:58:48.204Z",
+    "collisions": [
+      "OverflowResidueRH.nonneg_pow_le_exp_mul_nat",
+      "OverflowResidueRH.affineDyadicIndex_le_pureDyadic",
+      "OverflowResidueRH.le_exp_dyadic_self",
+      "OverflowResidueRH.factorialDyadicGrowthRate",
+      "OverflowResidueRH.integrableOn_Ioi_one_rpow_mul_exp_neg_mul_of_le_nat"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/MellinGrowth.lean": {
+    "checkedAt": "2026-11-25T17:58:51.862Z",
+    "collisions": [
+      "OverflowResidueRH.integrableOn_Ioi_one_rpow_mul_exp_neg_mul_of_le_nat",
+      "OverflowResidueRH.integral_Ioi_zero_inv_rpow_mul_exp_neg_mul_eq_factorial",
+      "OverflowResidueRH.integrableOn_Ioi_zero_inv_rpow_mul_exp_neg_mul"
+    ]
+  },
+  "RiemannHypothesis/ComplexAnalysis/RealSymmetry.lean": {
+    "checkedAt": "2026-11-25T17:58:53.256Z",
+    "collisions": [
+      "OverflowResidueRH.complex_star_im"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/ExponentialPrefactor.lean": {
+    "checkedAt": "2026-11-25T17:58:58.050Z",
+    "collisions": [
+      "OverflowResidueRH.logDerivativeResponse",
+      "OverflowResidueRH.finiteHadamardProduct"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/NatZeroData.lean": {
+    "checkedAt": "2026-11-25T17:59:00.797Z",
+    "collisions": [
+      "OverflowResidueRH.NatHadamardZeroInvSqData",
+      "OverflowResidueRH.HadamardLogDerivLimitData"
+    ]
+  },
+  "RiemannHypothesis/HadamardProduct/RealZeroSign.lean": {
+    "checkedAt": "2026-11-25T17:59:10.642Z",
+    "collisions": [
+      "OverflowResidueRH.AntiHerglotzUHP",
+      "OverflowResidueRH.logDerivativeResponse"
+    ]
+  },
+  "RiemannHypothesis/RealZeros/LaguerrePolyaApproximation.lean": {
+    "checkedAt": "2026-11-25T17:59:48.205Z",
+    "collisions": [
+      "OverflowResidueRH.LaguerrePolyaApproximationData",
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/RealZeros/SymmetricQuartetProbe.lean": {
+    "checkedAt": "2026-11-25T18:00:03.145Z",
+    "collisions": [
+      "OverflowResidueRH.escape_exceeds_bounded_background",
+      "OverflowResidueRH.symmetricZeroQuartetPolynomial",
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/Xi/CanonicalProductPairedGrowth.lean": {
+    "checkedAt": "2026-11-25T18:01:18.607Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction",
+      "OverflowResidueRH.logDerivativeResponse"
+    ]
+  },
+  "RiemannHypothesis/Xi/DerivativeCompanionHermiteBiehlerCriterion.lean": {
+    "checkedAt": "2026-11-25T18:06:39.315Z",
+    "collisions": [
+      "OverflowResidueRH.AntiHerglotzUHP"
+    ]
+  },
+  "RiemannHypothesis/Xi/EntireXiIndicatorUpper.lean": {
+    "checkedAt": "2026-11-25T18:06:46.912Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction"
+    ]
+  },
+  "RiemannHypothesis/Xi/FunctionalEquation.lean": {
+    "checkedAt": "2026-11-25T18:07:10.297Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction",
+      "OverflowResidueRH.mellin_star_ofReal",
+      "OverflowResidueRH.hurwitzEvenFEPair_zero_f_modif_ofReal_target"
+    ]
+  },
+  "RiemannHypothesis/Xi/JensenHermiteBiehlerCriterion.lean": {
+    "checkedAt": "2026-11-25T18:07:20.741Z",
+    "collisions": [
+      "OverflowResidueRH.AntiHerglotzUHP",
+      "OverflowResidueRH.completedXiFunction"
+    ]
+  },
+  "RiemannHypothesis/Xi/ThetaKernelMellinGrowth.lean": {
+    "checkedAt": "2026-11-25T18:09:03.382Z",
+    "collisions": [
+      "OverflowResidueRH.hurwitzThetaMellinKernel",
+      "OverflowResidueRH.integrableOn_Ioi_one_rpow_mul_exp_neg_mul_of_le_nat"
+    ]
+  },
+  "RiemannHypothesis/ZeroCounting/SmoothMainTerm.lean": {
+    "checkedAt": "2026-11-25T18:09:07.701Z",
+    "collisions": [
+      "OverflowResidueRH.ZeroCountingDensityTailModel",
+      "OverflowResidueRH.logDerivativeResponse"
+    ]
+  },
+  "RiemannHypothesis/ZeroCounting/ZetaZeros.lean": {
+    "checkedAt": "2026-11-25T18:09:18.220Z",
+    "collisions": [
+      "OverflowResidueRH.completedXiFunction"
+    ]
+  }
+}
