@@ -5585,5 +5585,89 @@
     "collisions": [
       "Yamaguchi26AbfaithfulGalois.finiteExtension_embedding_over_subfield"
     ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FormalHilbert90/Equivalence.lean": {
+    "checkedAt": "2026-11-26T10:42:31.101Z",
+    "collisions": [
+      "ContinuousCohomology.degreeTwo_cocycle_equation"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FormalHilbert90/FixedInclusion.lean": {
+    "checkedAt": "2026-11-26T10:43:11.970Z",
+    "collisions": [
+      "ProCGroups.GroupClass"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FormalHilbert90/TrivialOrientationCriterion.lean": {
+    "checkedAt": "2026-11-26T10:44:15.611Z",
+    "collisions": [
+      "ProCGroups.GroupClass",
+      "ProCGroups.MonoidHom.continuous_of_isOpen_ker_to_discrete"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/GroupTheory/EquivariantActions.lean": {
+    "checkedAt": "2026-11-26T10:45:26.618Z",
+    "collisions": [
+      "Yamaguchi26AbfaithfulGalois.equivariant_action_kernels"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/GroupTheory/FaithfulKernel.lean": {
+    "checkedAt": "2026-11-26T10:45:26.912Z",
+    "collisions": [
+      "ProCGroups.FiniteStepSolvableQuotients.abelianKernel_le_ker_conjNormal"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/GroupTheory/PrimePowerCharacterDetection.lean": {
+    "checkedAt": "2026-11-26T10:45:31.908Z",
+    "collisions": [
+      "ProCGroups.MonoidHom.continuous_of_isOpen_ker_to_discrete"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/Concrete/RootsDownstairs.lean": {
+    "checkedAt": "2026-11-26T11:12:07.281Z",
+    "collisions": [
+      "KummerTheory.div_pow_eq_one_of_pow_eq_pow"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/Concrete/RootsDownstairsAction.lean": {
+    "checkedAt": "2026-11-26T11:12:29.349Z",
+    "collisions": [
+      "KummerTheory.div_pow_eq_one_of_pow_eq_pow",
+      "KummerTheory.exists_single_radical_generator_of_cyclic_galois_exponent"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Theorem1Dot2PrimeOrderTest.lean": {
+    "checkedAt": "2026-11-26T11:16:40.431Z",
+    "collisions": [
+      "ProCGroups.MonoidHom.continuous_of_isOpen_ker_to_discrete"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Theorem1Dot3SigmaProperties.lean": {
+    "checkedAt": "2026-11-26T11:17:15.284Z",
+    "collisions": [
+      "ProCGroups.GroupClass"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Theorem5Dot1FaithfulAbelianExtension.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-26T11:33:33.509Z"
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Theorem5Dot2AbelianSplitSolvableSlim.lean": {
+    "checkedAt": "2026-11-26T11:34:20.641Z",
+    "collisions": [
+      "ProCGroups.QuotientGroup.comap_eq_of_map_eq_of_ker_le"
+    ]
+  },
+  "Nyll/Yamaguchi26SolvableCoverings/Geometry/BoundaryStrictLocalModel.lean": {
+    "checkedAt": "2026-11-26T11:38:59.527Z",
+    "collisions": [
+      "AlgebraicGeometry.Scheme.IsRegularAt"
+    ]
+  },
+  "Nyll/Yamaguchi26SolvableCoverings/Theorem2Dot3SmoothBoundary.lean": {
+    "checkedAt": "2026-11-26T11:40:45.101Z",
+    "collisions": [
+      "AlgebraicGeometry.Scheme.IsRegularAt"
+    ]
   }
 }
