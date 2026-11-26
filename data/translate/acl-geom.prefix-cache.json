@@ -1,0 +1,206 @@
+{
+  "AclGeom/Closure/ClosedLattice.lean": {
+    "checkedAt": "2026-11-26T04:41:39.117Z",
+    "collisions": [
+      "AclGeom.IsRAC",
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/ChunkCurveSelectedWholeFace.lean": {
+    "checkedAt": "2026-11-26T05:59:49.951Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Closure/CrossBase.lean": {
+    "checkedAt": "2026-11-26T04:42:20.752Z",
+    "collisions": [
+      "AclGeom.CrossBase.Compatible",
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Closure/RationalFunctions.lean": {
+    "checkedAt": "2026-11-26T04:42:38.998Z",
+    "collisions": [
+      "AclGeom.mvPolynomial_eq_C_of_isIntegral",
+      "AclGeom.not_isSquare_algebraMap_C_mul_X",
+      "AclGeom.algebraicIndependent_algebraMap_X"
+    ]
+  },
+  "AclGeom/Config/AffineGridNormalization.lean": {
+    "checkedAt": "2026-11-26T04:45:52.626Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/AtomClause.lean": {
+    "checkedAt": "2026-11-26T05:41:59.775Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/ChunkCurveRelocation.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-26T05:58:58.275Z"
+  },
+  "AclGeom/Config/AffineGridInfinite.lean": {
+    "checkedAt": "2026-11-26T04:46:36.003Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/CanonicalBaseInput.lean": {
+    "checkedAt": "2026-11-26T04:46:48.597Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/ChunkCurveFourArrow.lean": {
+    "checkedAt": "2026-11-26T04:47:55.620Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/ChunkGermCoordinates.lean": {
+    "checkedAt": "2026-11-26T05:18:13.900Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/JCoordinates.lean": {
+    "checkedAt": "2026-11-26T06:45:10.430Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/RemainingAffineMeets.lean": {
+    "checkedAt": "2026-11-26T06:45:48.766Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/UniversalConfigurationInput.lean": {
+    "checkedAt": "2026-11-26T06:47:36.683Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/AffineLocusCommutation.lean": {
+    "checkedAt": "2026-11-26T08:09:16.992Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/AffineRelocation.lean": {
+    "checkedAt": "2026-11-26T08:11:37.095Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/Binomial.lean": {
+    "checkedAt": "2026-11-26T08:12:25.958Z",
+    "collisions": [
+      "AclGeom.compScale"
+    ]
+  },
+  "AclGeom/Correspondence/ComponentGeometry.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-26T08:12:58.425Z"
+  },
+  "AclGeom/Correspondence/CurveCompletion/AtlasGeometry.lean": {
+    "checkedAt": "2026-11-26T08:17:21.566Z",
+    "collisions": [
+      "AclGeom.WeilGluing.commonOverlapGlueData'"
+    ]
+  },
+  "AclGeom/Correspondence/CurveCompletion/InverseTower.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-26T08:18:46.272Z"
+  },
+  "AclGeom/Correspondence/DifferenceCocycle.lean": {
+    "checkedAt": "2026-11-26T08:41:26.024Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/FamilyNormalization.lean": {
+    "checkedAt": "2026-11-26T08:42:18.605Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/FiniteActionIrreducible.lean": {
+    "checkedAt": "2026-11-26T09:01:04.220Z",
+    "collisions": [
+      "AclGeom.FiniteAction.fixed_of_finite_locallyClosed_fibers"
+    ]
+  },
+  "AclGeom/Correspondence/FiniteCompositionTriangle.lean": {
+    "checkedAt": "2026-11-26T09:01:43.951Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Closure/FreshExtension.lean": {
+    "checkedAt": "2026-11-26T04:42:35.143Z",
+    "collisions": [
+      "AclGeom.FreshAmbient"
+    ]
+  },
+  "AclGeom/Config/ChunkProjection.lean": {
+    "checkedAt": "2026-11-26T08:09:29.758Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/PsiLattice.lean": {
+    "checkedAt": "2026-11-26T08:38:53.192Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/PsiNonfaithful.lean": {
+    "checkedAt": "2026-11-26T09:03:32.207Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/Quadrangle.lean": {
+    "checkedAt": "2026-11-26T09:06:51.515Z",
+    "collisions": [
+      "AclGeom.racl",
+      "AclGeom.qQuad"
+    ]
+  },
+  "AclGeom/Config/Semantic.lean": {
+    "checkedAt": "2026-11-26T09:08:40.228Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/ShiftedAffineMeets.lean": {
+    "checkedAt": "2026-11-26T09:09:10.098Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/ActionFunctionField.lean": {
+    "checkedAt": "2026-11-26T09:10:31.067Z",
+    "collisions": [
+      "AlgebraicGeometry.Scheme.map_genericPoint_of_isDominant"
+    ]
+  },
+  "AclGeom/Correspondence/Additive.lean": {
+    "checkedAt": "2026-11-26T09:46:47.773Z",
+    "collisions": [
+      "AclGeom.racl",
+      "AclGeom.AddCorrSetup"
+    ]
+  },
+  "AclGeom/Correspondence/AdditiveThreePair.lean": {
+    "checkedAt": "2026-11-26T10:02:10.870Z",
+    "collisions": [
+      "AclGeom.eq_pow_of_forall_dvd_choose"
+    ]
+  }
+}
