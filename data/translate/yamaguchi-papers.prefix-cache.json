@@ -5669,5 +5669,340 @@
     "collisions": [
       "AlgebraicGeometry.Scheme.IsRegularAt"
     ]
+  },
+  "Nyll/EtaleFundamentalGroups/Completions/Adic/MappedIdeal.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-26T13:21:32.223Z"
+  },
+  "Nyll/EtaleFundamentalGroups/Completions/Chosen/DVRProductCoordinate.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-26T13:21:37.365Z"
+  },
+  "Nyll/EtaleFundamentalGroups/Completions/Tensor/Ramification.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-26T13:21:40.206Z"
+  },
+  "Nyll/EtaleFundamentalGroups/FiniteEtale/BaseChange/GenericFiber.lean": {
+    "checkedAt": "2026-11-26T13:21:40.499Z",
+    "collisions": [
+      "EtaleFundamentalGroups.baseChangeGenericFiberEquiv",
+      "EtaleFundamentalGroups.artinianSelectedComponentIdempotent"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/FiniteEtale/Boundary/ArithmeticAllBranchCharacteristicZero.lean": {
+    "checkedAt": "2026-11-26T13:22:33.532Z",
+    "collisions": [
+      "AlgebraicGeometry.Scheme.IsRegularAt"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/FiniteEtale/GenericFiber/ArithmeticGenericFiber.lean": {
+    "checkedAt": "2026-11-26T13:22:34.220Z",
+    "collisions": [
+      "EtaleFundamentalGroups.specMap_int_field_eq_genericPoint"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/FiniteEtale/GenericFiber/SmoothConnectedCovers.lean": {
+    "checkedAt": "2026-11-26T13:23:10.536Z",
+    "collisions": [
+      "AlgebraicCurves.Foundations.CommutativeAlgebra.Proofs.Algebra_Etale_isDomain_and_isIntegrallyClosed_of_isLocalization_atPrime.EtaleLocNormalAux.isIntegral_of_isIdempotentElem"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/FiniteEtale/GenericFiber/SmoothFiniteCoverConstants.lean": {
+    "checkedAt": "2026-11-26T13:23:12.527Z",
+    "collisions": [
+      "Module.FaithfullyFlat.pi_of_dedekind_spectrum_cover"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/FiniteEtale/HenselianAscent.lean": {
+    "checkedAt": "2026-11-26T13:23:14.392Z",
+    "collisions": [
+      "ValuationTheory.DiscreteValuationField.isAdicComplete_of_linearEquiv"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/FiniteEtale/RegularSystem.lean": {
+    "checkedAt": "2026-11-26T13:23:14.688Z",
+    "collisions": [
+      "EtaleFundamentalGroups.regularSystem_map_of_etale_local",
+      "EtaleFundamentalGroups.Kummer.isDomain_of_prime_isSMulRegular"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/GaloisCategories/ConnectedActions.lean": {
+    "checkedAt": "2026-11-26T13:23:15.279Z",
+    "collisions": [
+      "CategoryTheory.PreGaloisCategory.FiberFunctor.isConnected_of_isPretransitive"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/GaloisCategories/FiberIsoKernel.lean": {
+    "checkedAt": "2026-11-26T13:23:16.108Z",
+    "collisions": [
+      "CategoryTheory.PreGaloisCategory.continuous_mapAut_whiskeringLeft"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/GaloisCategories/GaloisObjectFixedFiber.lean": {
+    "checkedAt": "2026-11-26T13:23:16.825Z",
+    "collisions": [
+      "CategoryTheory.PreGaloisCategory.galoisObjectQuotientMonoidHom"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/GaloisCategories/Injectivity.lean": {
+    "checkedAt": "2026-11-26T13:23:31.714Z",
+    "collisions": [
+      "CategoryTheory.ContAction.isClosedUnderLimitsOfShape_isContinuous"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/GaloisCovers/FunctionFieldResidueNaturality.lean": {
+    "checkedAt": "2026-11-26T13:24:18.136Z",
+    "collisions": [
+      "AlgebraicGeometry.Scheme.Hom.residueFieldMap_bijective_of_isClosedImmersion"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/GaloisCovers/OpenNormalExtendedQuotientKernel.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-26T13:24:31.536Z"
+  },
+  "Nyll/EtaleFundamentalGroups/GaloisCovers/OpenNormalUniverse.lean": {
+    "checkedAt": "2026-11-26T13:24:35.499Z",
+    "collisions": [
+      "CategoryTheory.PreGaloisCategory.FiberFunctor.isConnected_of_isPretransitive"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Inertia/NormalizationStalkLocalization.lean": {
+    "checkedAt": "2026-11-26T13:50:37.814Z",
+    "collisions": [
+      "AlgebraicGeometry.isIso_stalkMap_SpecMap_of_isLocalization"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Inertia/Residue/Coprimality.lean": {
+    "checkedAt": "2026-11-26T13:51:15.534Z",
+    "collisions": [
+      "EtaleFundamentalGroups.natCoprime_of_isUnit_natCast_of_charP"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Kummer/NormalCrossings/HeightTwo/GaloisFullRootCoverActualRoot.lean": {
+    "checkedAt": "2026-11-26T15:12:48.996Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Kummer.isDomain_of_prime_isSMulRegular"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Kummer/NormalCrossings/SelectedBranch/OtherPrefixEtale.lean": {
+    "checkedAt": "2026-11-26T15:13:32.458Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Kummer.adjoinRoot_root_pow",
+      "AlgebraicGeometry.Scheme.IsRegularAt"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Kummer/NormalCrossings/SelectedBranch/RamificationIndexExact.lean": {
+    "checkedAt": "2026-11-26T15:21:18.892Z",
+    "collisions": [
+      "EtaleFundamentalGroups.integralClosure_isFractionRing_of_fractionField_algebraic"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Kummer/Obstructions/EtaleDerivative.lean": {
+    "checkedAt": "2026-11-26T15:21:19.595Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Kummer.isUnit_aeval_derivative_of_formallyUnramified"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Kummer/PureRadical/HenselianClassification.lean": {
+    "checkedAt": "2026-11-26T15:21:19.962Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Kummer.rootOfUnity_mem_fractionBase_of_henselian_of_residue_bijective",
+      "EtaleFundamentalGroups.Kummer.intermediateField_eq_adjoin_pow_finrank_of_pureRadical"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Kummer/PureRadical/IntegralClosure.lean": {
+    "checkedAt": "2026-11-26T15:21:20.619Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Kummer.pureRadicalAdjoinRootToField"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Kummer/PureRadical/IntermediateField.lean": {
+    "checkedAt": "2026-11-26T15:21:21.495Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Kummer.intermediateField_eq_adjoin_pow_finrank_of_pureRadical"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Kummer/Radicals/Relative.lean": {
+    "checkedAt": "2026-11-26T15:21:22.554Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Kummer.adjoinRoot_root_pow"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Kummer/RootCovers/Local/IteratedRegularSystem.lean": {
+    "checkedAt": "2026-11-26T15:21:57.035Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Kummer.adjoinRoot_root_pow",
+      "EtaleFundamentalGroups.Kummer.iteratedRadical",
+      "EtaleFundamentalGroups.Kummer.isDomain_of_prime_isSMulRegular"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Kummer/RootCovers/SelectedDivisor/ConditionalRootCover.lean": {
+    "checkedAt": "2026-11-26T15:27:18.552Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Kummer.adjoinRoot_root_pow",
+      "EtaleFundamentalGroups.Kummer.iteratedRadical"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Kummer/RootCovers/SelectedDivisor/RootCover.lean": {
+    "checkedAt": "2026-11-26T15:28:13.802Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Kummer.regular_quotient_parameter_of_regular_pair",
+      "EtaleFundamentalGroups.Kummer.adjoinRoot_root_pow"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Kummer/SelectedRoot/Prime/NormalizationEtale.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-26T15:29:26.791Z"
+  },
+  "Nyll/EtaleFundamentalGroups/Kummer/UnitAbsorption/HigherRadicalActualFactor.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-26T15:29:30.830Z"
+  },
+  "Nyll/EtaleFundamentalGroups/LocalGeometry/DVR/FiniteToStandardDVF.lean": {
+    "checkedAt": "2026-11-26T15:29:32.369Z",
+    "collisions": [
+      "EtaleFundamentalGroups.ramificationIdx_map_eq_of_isLocalization",
+      "EtaleFundamentalGroups.finiteGenericFiberAlgEquiv",
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/LocalGeometry/HeightOne/GenericFiberResidue.lean": {
+    "checkedAt": "2026-11-26T15:29:54.468Z",
+    "collisions": [
+      "AlgebraicGeometry.GeometricallyIntegral.specMap_transport_ringEquiv",
+      "AlgebraicGeometry.Scheme.Hom.residueFieldMap_bijective_of_surjectiveOnStalks"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Normalization/IntegralClosure/BoundaryAwayFieldEquiv.lean": {
+    "checkedAt": "2026-11-26T15:30:07.607Z",
+    "collisions": [
+      "EtaleFundamentalGroups.localization_awayMap_etale_of_isPushout"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Normalization/Localization/Basic.lean": {
+    "checkedAt": "2026-11-26T15:30:08.375Z",
+    "collisions": [
+      "EtaleFundamentalGroups.integralClosure_isFractionRing_of_fractionField_algebraic"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Normalization/Primes/AtLargerPrime.lean": {
+    "checkedAt": "2026-11-26T15:30:09.218Z",
+    "collisions": [
+      "EtaleFundamentalGroups.ramificationIdx_map_eq_of_isLocalization",
+      "EtaleFundamentalGroups.integralClosure_isFractionRing_of_fractionField_algebraic"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Normalization/Primes/GoingUp.lean": {
+    "checkedAt": "2026-11-26T15:30:14.650Z",
+    "collisions": [
+      "EtaleFundamentalGroups.exists_normalizationPrime_over_largerPrime"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/CechLocalizationComplex.lean": {
+    "checkedAt": "2026-11-26T15:44:38.136Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Purity.principalLocalizationComplex"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/CompletionFormalComparison.lean": {
+    "checkedAt": "2026-11-26T15:44:43.646Z",
+    "collisions": [
+      "Algebra.FormallyEtale.comp_bijective_of_isAdicComplete"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/DerivedExtLegacyComparison.lean": {
+    "checkedAt": "2026-11-26T15:44:44.085Z",
+    "collisions": [
+      "EtaleFundamentalGroups.legacyExt_isZero_of_subsingleton_derivedExt_zero",
+      "EtaleFundamentalGroups.legacyExt_isZero_of_subsingleton_derivedExt_succ"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/DerivedLocalCohomologyDegreeZeroCoefficients.lean": {
+    "checkedAt": "2026-11-26T15:44:51.531Z",
+    "collisions": [
+      "EtaleFundamentalGroups.derivedExtContravariantMap"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/DerivedLocalCohomologyModuleCoefficients.lean": {
+    "checkedAt": "2026-11-26T15:44:54.514Z",
+    "collisions": [
+      "EtaleFundamentalGroups.derivedExtContravariantMap"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/DerivedLocalCohomologyPrincipalPowerQuotient.lean": {
+    "checkedAt": "2026-11-26T15:45:00.340Z",
+    "collisions": [
+      "EtaleFundamentalGroups.principalIdealPower_submodule_eq_smulTop",
+      "EtaleFundamentalGroups.principalPowerQuotientLinearEquiv"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/FiniteEtaleQuotientBaseChange.lean": {
+    "checkedAt": "2026-11-26T15:46:39.042Z",
+    "collisions": [
+      "ValuationTheory.DiscreteValuationField.idempotentPolynomial_monic"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/FiniteEtaleQuotientLift.lean": {
+    "checkedAt": "2026-11-26T15:46:39.727Z",
+    "collisions": [
+      "EtaleFundamentalGroups.exists_finiteEtale_product_lift",
+      "ValuationTheory.DiscreteValuationField.idempotentPolynomial_monic"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/IdealPowerTorsionQuotientLifting.lean": {
+    "checkedAt": "2026-11-26T15:48:09.416Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Purity.idealPowerTorsionFunctor"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/IdealQuotientMayerVietorisExt.lean": {
+    "checkedAt": "2026-11-26T15:48:09.770Z",
+    "collisions": [
+      "EtaleFundamentalGroups.idealQuotientMapOfLE"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/Local/FiniteEtaleQuotientLift.lean": {
+    "checkedAt": "2026-11-26T15:48:11.963Z",
+    "collisions": [
+      "EtaleFundamentalGroups.residueField_map_bijective_of_surjective",
+      "ValuationTheory.DiscreteValuationField.isAdicComplete_of_linearEquiv"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/MaximalIdealPowerQuotientLength.lean": {
+    "checkedAt": "2026-11-26T15:48:29.541Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Purity.isFiniteLength_quotient_maximalIdeal_pow"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/PrincipalLocalizationHomotopy.lean": {
+    "checkedAt": "2026-11-26T15:48:31.265Z",
+    "collisions": [
+      "EtaleFundamentalGroups.Purity.IsEssentialSubmodule",
+      "EtaleFundamentalGroups.Purity.localizedModule_mkLinearMap_surjective_of_injective"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/PrincipalNormalizationSpreading.lean": {
+    "checkedAt": "2026-11-26T15:49:09.193Z",
+    "collisions": [
+      "SchemeTheory.exists_finset_span_eq_top_of_isLocalizedModule"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/PuncturedSpectrumConnectedLefschetzAlgebra.lean": {
+    "checkedAt": "2026-11-26T15:49:17.125Z",
+    "collisions": [
+      "Algebra.FiniteEtale"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/PuncturedSpectrumConnectedNormalizationFiberComparison.lean": {
+    "checkedAt": "2026-11-26T16:05:56.631Z",
+    "collisions": [
+      "AlgebraicGeometry.Scheme.puncturedSpectrumOpen"
+    ]
+  },
+  "Nyll/EtaleFundamentalGroups/Purity/PuncturedSpectrumHypersurfaceDisconnectedReduction.lean": {
+    "checkedAt": "2026-11-26T16:29:06.705Z",
+    "collisions": [
+      "AlgebraicGeometry.Scheme.puncturedSpectrumOpen"
+    ]
   }
 }
