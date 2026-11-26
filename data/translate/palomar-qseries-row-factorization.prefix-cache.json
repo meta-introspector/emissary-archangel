@@ -210,5 +210,15 @@
     "collisions": [
       "QseriesFormalization.Ch10.paper2ThetaResidue"
     ]
+  },
+  "QseriesFormalization/Pending/Chapter10_HM.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-25T22:51:21.679Z"
+  },
+  "QseriesFormalization/Pending/JacobiCubeAnalyticToFormal.lean": {
+    "checkedAt": "2026-11-25T22:57:58.878Z",
+    "collisions": [
+      "QseriesFormalization.IsPartition"
+    ]
   }
 }
