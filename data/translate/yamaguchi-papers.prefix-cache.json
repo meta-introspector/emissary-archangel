@@ -5187,5 +5187,164 @@
     "collisions": [
       "KummerTheory.primitiveRootCoordinate"
     ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/Concrete/ResidueZeroInertiaDetection.lean": {
+    "checkedAt": "2026-11-25T21:15:17.076Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/Concrete/RootsDownstairsFixedSubgroup.lean": {
+    "checkedAt": "2026-11-25T21:16:28.874Z",
+    "collisions": [
+      "KummerTheory.fixingSubgroupEquiv_apply"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/Concrete/RootsDownstairsOpenSubgroup.lean": {
+    "checkedAt": "2026-11-25T21:16:55.032Z",
+    "collisions": [
+      "KummerTheory.fixingSubgroupEquiv_apply"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Theorem6Dot2IntegralInvariants.lean": {
+    "checkedAt": "2026-11-25T22:01:36.162Z",
+    "collisions": [
+      "ProCGroups.MonoidHom.continuous_of_isOpen_ker_to_discrete"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Theorem6Dot7FieldSlimExamples.lean": {
+    "checkedAt": "2026-11-25T22:01:38.042Z",
+    "collisions": [
+      "KummerTheory.exists_primitiveRoot_prime_pow_of_infinite_primary",
+      "ProCGroups.InverseSystems.InverseSystem"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FormalHilbert90/CocycleLifting.lean": {
+    "checkedAt": "2026-11-25T21:01:52.381Z",
+    "collisions": [
+      "ZMod.mulPow"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FormalHilbert90/FiniteCohomology.lean": {
+    "checkedAt": "2026-11-25T21:01:59.200Z",
+    "collisions": [
+      "PadicInt.continuous_toZModPow"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FormalHilbert90/OrientedInvariants.lean": {
+    "checkedAt": "2026-11-25T21:02:53.636Z",
+    "collisions": [
+      "ProCGroups.GroupClass"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FormalHilbert90/PadicCharacters.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-25T21:02:57.280Z"
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/GroupTheory/SigmaEquivalence.lean": {
+    "checkedAt": "2026-11-25T21:06:49.243Z",
+    "collisions": [
+      "ProCGroups.GroupClass"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/GroupTheory/SlimFieldExtensions.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-25T21:07:15.043Z"
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/HigherLocalField/Properties.lean": {
+    "checkedAt": "2026-11-25T21:07:27.803Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/Concrete/SeparableRootsDownstairs.lean": {
+    "checkedAt": "2026-11-25T21:19:59.044Z",
+    "collisions": [
+      "KummerTheory.primitiveRoot_primePowerClass_ne_one"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/ModPrimeCohomologyDetection.lean": {
+    "checkedAt": "2026-11-25T21:28:41.851Z",
+    "collisions": [
+      "ProCGroups.MonoidHom.continuous_of_isOpen_ker_to_discrete"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/WeakApproximationForCharacters.lean": {
+    "checkedAt": "2026-11-25T21:46:20.874Z",
+    "collisions": [
+      "WithVal.uniformContinuousConstSMul"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Theorem3Dot3FiniteOrderModP.lean": {
+    "checkedAt": "2026-11-25T22:00:33.923Z",
+    "collisions": [
+      "LocalFieldTheory.DiscreteValuationField.primeOrder_action_sub_divisible"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/TrivialAction.lean": {
+    "checkedAt": "2026-11-25T21:03:39.578Z",
+    "collisions": [
+      "KummerTheory.div_pow_eq_one_of_pow_eq_pow"
+    ]
+  },
+  "Nyll/Yamaguchi26SolvableCoverings/Theorem2Dot4FiniteEtaleStability.lean": {
+    "checkedAt": "2026-11-25T21:09:06.418Z",
+    "collisions": [
+      "AlgebraicGeometry.Scheme.IsRegularAt"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FormalHilbert90/FieldSlim.lean": {
+    "checkedAt": "2026-11-25T21:08:07.705Z",
+    "collisions": [
+      "ProCGroups.GroupClass"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FormalHilbert90/FiniteCocycleOperations.lean": {
+    "checkedAt": "2026-11-25T21:08:11.685Z",
+    "collisions": [
+      "ZMod.mulPow"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FormalHilbert90/PrimaryTransfer.lean": {
+    "checkedAt": "2026-11-25T21:08:32.185Z",
+    "collisions": [
+      "ProCGroups.MonoidHom.continuous_of_isOpen_ker_to_discrete"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FormalHilbert90/SigmaCentralizers.lean": {
+    "checkedAt": "2026-11-25T21:08:50.111Z",
+    "collisions": [
+      "ProCGroups.GroupClass"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FormalHilbert90/TwoCocycleLifting.lean": {
+    "checkedAt": "2026-11-25T21:09:14.608Z",
+    "collisions": [
+      "PadicInt.continuous_toZModPow"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/GroupTheory/PrimeOrderTest.lean": {
+    "checkedAt": "2026-11-25T21:26:13.398Z",
+    "collisions": [
+      "ProCGroups.FiniteStepSolvableQuotients.injective_iff_ne_one_of_prime_card"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/GroupTheory/SigmaProPNormal.lean": {
+    "checkedAt": "2026-11-25T21:26:43.920Z",
+    "collisions": [
+      "ProCGroups.GroupClass"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/Concrete/ResidueZeroPrimeIndex.lean": {
+    "checkedAt": "2026-11-25T21:47:01.837Z",
+    "collisions": [
+      "RamificationTheory.HilbertRamification.ValuationSubring.decompositionGroup"
+    ]
+  },
+  "Nyll/Yamaguchi26SolvableCoverings/GroupTheory/PerfectKernel.lean": {
+    "checkedAt": "2026-11-25T22:49:17.005Z",
+    "collisions": [
+      "ProCGroups.QuotientGroup.comap_eq_of_map_eq_of_ker_le"
+    ]
   }
 }
