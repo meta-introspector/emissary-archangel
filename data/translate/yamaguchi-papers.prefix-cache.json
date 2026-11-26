@@ -5346,5 +5346,244 @@
     "collisions": [
       "ProCGroups.QuotientGroup.comap_eq_of_map_eq_of_ker_le"
     ]
+  },
+  "Nyll/SchemeTheory/RingTheory/RegularLocal/RegularLocalTrace.lean": {
+    "checkedAt": "2026-11-26T03:54:29.068Z",
+    "collisions": [
+      "Algebra.TopologicallyFG"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/LocalField/Analytic/LogExpAdditivity.lean": {
+    "checkedAt": "2026-11-26T03:57:47.943Z",
+    "collisions": [
+      "LocalFieldTheory.DiscreteValuationField.MultiplicativeIntegerValuation.formalLogOnePlusProductArgument"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/LocalField/Analytic/LogExpSeries/AutomorphismEquivariance.lean": {
+    "checkedAt": "2026-11-26T04:08:40.633Z",
+    "collisions": [
+      "ValuationTheory.DiscreteValuationField.Valuation.continuous_ringEquiv_of_preserves"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/LocalField/Analytic/PrimeOrderDivisibility.lean": {
+    "checkedAt": "2026-11-26T07:06:49.860Z",
+    "collisions": [
+      "LocalFieldTheory.DiscreteValuationField.primeOrder_action_sub_divisible"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/LocalField/DiscreteValuationField/Norm/Quotients.lean": {
+    "checkedAt": "2026-11-26T07:07:07.166Z",
+    "collisions": [
+      "LocalFieldTheory.DiscreteValuationField.integerMultipleSubgroup"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/LocalField/GroupTheory/PowerIndex.lean": {
+    "checkedAt": "2026-11-26T07:25:56.354Z",
+    "collisions": [
+      "LocalFieldTheory.nthPowerKernelEquivOfMulEquiv"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Ramification/HilbertRamification/DecompositionGroup.lean": {
+    "checkedAt": "2026-11-26T07:26:02.212Z",
+    "collisions": [
+      "RamificationTheory.HilbertRamification.ValuationSubring.decompositionGroup"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Ramification/HilbertRamification/FiniteInertiaDetection.lean": {
+    "checkedAt": "2026-11-26T07:26:11.982Z",
+    "collisions": [
+      "RamificationTheory.HilbertRamification.ValuationSubring.decompositionGroup"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Ramification/HilbertRamification/HenselianDecomposition.lean": {
+    "checkedAt": "2026-11-26T07:27:01.363Z",
+    "collisions": [
+      "RamificationTheory.HilbertRamification.ValuationSubring.decompositionGroup"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Ramification/HilbertRamification/KummerFiniteInertia.lean": {
+    "checkedAt": "2026-11-26T07:28:49.759Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/AbsoluteValue/Theory/AbsoluteValues.lean": {
+    "checkedAt": "2026-11-26T07:28:50.483Z",
+    "collisions": [
+      "LubinTate.Valuations.absoluteValueDist"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/DVFEmbedding.lean": {
+    "checkedAt": "2026-11-26T07:28:55.900Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/DVFFiniteSeparableGenerator.lean": {
+    "checkedAt": "2026-11-26T07:29:07.732Z",
+    "collisions": [
+      "WithVal.uniformContinuousConstSMul"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/DVFSeparableClosedGeneration.lean": {
+    "checkedAt": "2026-11-26T07:29:12.171Z",
+    "collisions": [
+      "ValuationTheory.Completion.exists_monic_root_with_adjoin_containment"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/DenseTensorProduct.lean": {
+    "checkedAt": "2026-11-26T07:29:12.610Z",
+    "collisions": [
+      "ValuationTheory.Completion.tensorProduct_lift_surjective_of_denseRange"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/FiniteSeparableGenerator.lean": {
+    "checkedAt": "2026-11-26T07:29:15.065Z",
+    "collisions": [
+      "ValuationTheory.Completion.exists_monic_root_with_adjoin_containment"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/HenselianAbsoluteGalois.lean": {
+    "checkedAt": "2026-11-26T07:30:18.315Z",
+    "collisions": [
+      "ValuationTheory.Completion.exists_monic_root_with_adjoin_containment"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/HenselianSeparableAutContinuous.lean": {
+    "checkedAt": "2026-11-26T07:30:47.659Z",
+    "collisions": [
+      "ValuationTheory.Completion.exists_monic_root_with_adjoin_containment"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/HenselianSeparableClosedTensor.lean": {
+    "checkedAt": "2026-11-26T07:31:39.965Z",
+    "collisions": [
+      "WithVal.uniformContinuousConstSMul"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/HenselianSeparableClosure.lean": {
+    "checkedAt": "2026-11-26T07:32:58.620Z",
+    "collisions": [
+      "ValuationTheory.Henselian.exists_standardEtale_lift"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/SeparableClosureAutTopology.lean": {
+    "checkedAt": "2026-11-26T07:34:02.297Z",
+    "collisions": [
+      "ValuationTheory.Completion.separableClosureAutEquiv"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/CyclotomicAutToPowRestriction.lean": {
+    "checkedAt": "2026-11-26T07:50:51.222Z",
+    "collisions": [
+      "ValuationTheory.DiscreteValuationField.autToPow_restrictRestrictAlgEquivMapHom"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/CyclotomicIntermediateField.lean": {
+    "checkedAt": "2026-11-26T07:50:51.764Z",
+    "collisions": [
+      "ValuationTheory.DiscreteValuationField.exists_cyclotomic_intermediateField"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/FiniteExtension/DVRLocalExtension.lean": {
+    "checkedAt": "2026-11-26T07:50:52.113Z",
+    "collisions": [
+      "ValuationTheory.DiscreteValuationField.hasExtension_of_local_valuationSubring_map",
+      "ValuationTheory.DiscreteValuationField.dvr_equivValuationSubring_coe",
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/FiniteExtension/LocalizationLocalMap.lean": {
+    "checkedAt": "2026-11-26T07:50:59.507Z",
+    "collisions": [
+      "ValuationTheory.DiscreteValuationField.localizationAtPrime_algebraMap_isLocalHom"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/FiniteNormCompleteExtension.lean": {
+    "checkedAt": "2026-11-26T07:51:13.816Z",
+    "collisions": [
+      "ValuationTheory.DiscreteValuationField.Valuation.IsCompleteDiscrete",
+      "AbsoluteValue.spectralExtension"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/IntCastValuation.lean": {
+    "checkedAt": "2026-11-26T07:51:45.210Z",
+    "collisions": [
+      "Valuation.natCast_eq_pow_padicValNat"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/PolynomialImageInfinite.lean": {
+    "checkedAt": "2026-11-26T07:51:52.028Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/TorsionReductionPrimary.lean": {
+    "checkedAt": "2026-11-26T07:52:23.410Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/ValuationExtensionContinuous.lean": {
+    "checkedAt": "2026-11-26T07:52:28.512Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/WeakApproximation.lean": {
+    "checkedAt": "2026-11-26T07:52:30.368Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/WithZeroCompleteSpace.lean": {
+    "checkedAt": "2026-11-26T07:52:53.019Z",
+    "collisions": [
+      "ValuationTheory.DiscreteValuationField.Valuation.IsCompleteDiscrete"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DyadicNormObstruction.lean": {
+    "checkedAt": "2026-11-26T07:52:55.066Z",
+    "collisions": [
+      "ValuationTheory.exists_sq_eq_of_valuation_sub_one_lt_two_sq",
+      "ValuationTheory.not_isSquare_of_valuation_eq_exp_odd"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DyadicSquareRoots.lean": {
+    "checkedAt": "2026-11-26T07:52:58.579Z",
+    "collisions": [
+      "ValuationTheory.exists_sq_eq_of_valuation_sub_one_lt_two_sq",
+      "ValuationTheory.not_isSquare_of_valuation_sub_one_eq_exp_neg_one"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Henselian/AlgebraicExtensionHenselian.lean": {
+    "checkedAt": "2026-11-26T07:53:33.856Z",
+    "collisions": [
+      "ValuationTheory.DiscreteValuationField.Valuation.HasSomeExtensionTo"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/PowerSubImage.lean": {
+    "checkedAt": "2026-11-26T07:53:34.489Z",
+    "collisions": [
+      "Valuation.pow_sub_ne_of_one_lt_of_not_pow"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/PrincipalUnitTorsion.lean": {
+    "checkedAt": "2026-11-26T07:53:35.979Z",
+    "collisions": [
+      "ValuationSubring.principalUnit_eq_one_of_pow_eq_one_of_residue_natCast_ne_zero"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FieldExamples/FiniteTypeValuationModel.lean": {
+    "checkedAt": "2026-11-26T08:25:40.509Z",
+    "collisions": [
+      "Yamaguchi26AbfaithfulGalois.finiteType_model_in_valuation"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/FieldExamples/SubfieldRoots.lean": {
+    "checkedAt": "2026-11-26T08:40:47.161Z",
+    "collisions": [
+      "Yamaguchi26AbfaithfulGalois.finiteExtension_embedding_over_subfield"
+    ]
   }
 }
