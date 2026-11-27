@@ -6554,5 +6554,119 @@
     "collisions": [
       "EtaleFundamentalGroups.ramificationIdx_eq_of_formallyUnramified_flat_square"
     ]
+  },
+  "Nyll/ValuedFieldTheory/Ramification/HilbertRamification/HenselianResidueAction.lean": {
+    "checkedAt": "2026-11-27T13:32:23.237Z",
+    "collisions": [
+      "RamificationTheory.HilbertRamification.ValuationSubring.decompositionGroup",
+      "ValuationTheory.Henselian.exists_standardEtale_lift",
+      "ValuationSubring.isAlgClosed_residueField"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Ramification/HilbertRamification/HenselianResidueRestriction.lean": {
+    "checkedAt": "2026-11-27T13:34:12.576Z",
+    "collisions": [
+      "RamificationTheory.HilbertRamification.ValuationSubring.decompositionGroup"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Ramification/HilbertRamification/ResidueLift.lean": {
+    "checkedAt": "2026-11-27T13:34:16.389Z",
+    "collisions": [
+      "RamificationTheory.HilbertRamification.ValuationSubring.decompositionGroup"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/BoundedCyclotomicExponent.lean": {
+    "checkedAt": "2026-11-27T13:34:16.667Z",
+    "collisions": [
+      "ValuationTheory.one_sub_natCast_ne_zero_and_padicValInt_lt"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/ArtinSchreierClasses.lean": {
+    "checkedAt": "2026-11-27T13:34:31.177Z",
+    "collisions": [
+      "WithVal.uniformContinuousConstSMul"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/DVFTensorMap.lean": {
+    "checkedAt": "2026-11-27T13:34:33.470Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/DiscreteRingEquiv.lean": {
+    "checkedAt": "2026-11-27T13:35:44.656Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP",
+      "WithVal.uniformContinuousConstSMul"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/EquivariantMap.lean": {
+    "checkedAt": "2026-11-27T13:35:48.671Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/HenselianDVF.lean": {
+    "checkedAt": "2026-11-27T13:36:11.534Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/HenselianSeparableTensorField.lean": {
+    "checkedAt": "2026-11-27T13:36:31.215Z",
+    "collisions": [
+      "WithVal.uniformContinuousConstSMul"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/SeparableClosedAutRestriction.lean": {
+    "checkedAt": "2026-11-27T13:36:31.614Z",
+    "collisions": [
+      "ValuationTheory.Completion.mem_fieldRange_of_isSeparable_of_isSepClosed"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/Completion/WeakApproximation.lean": {
+    "checkedAt": "2026-11-27T13:36:35.143Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP",
+      "WithVal.uniformContinuousConstSMul"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/ArtinSchreierPrimeToDegree.lean": {
+    "checkedAt": "2026-11-27T13:36:55.678Z",
+    "collisions": [
+      "AbsoluteValue.spectralExtension"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/FinitelyGeneratedValuationDetection.lean": {
+    "checkedAt": "2026-11-27T13:43:25.811Z",
+    "collisions": [
+      "FieldTheory.exists_finiteType_int_model_le_valuationSubring",
+      "AlgebraicCurves.Foundations.CommutativeAlgebra.Proofs.Subalgebra_isNoetherianRing_and_dimensionLEOne_of_isFractionRing_of_finite.KrullAkizukiLa.smulRange",
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/MixedCharCompleteExtension.lean": {
+    "checkedAt": "2026-11-27T13:45:51.543Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/PrimePowerRoots.lean": {
+    "checkedAt": "2026-11-27T13:45:52.268Z",
+    "collisions": [
+      "ValuationTheory.DiscreteValuationField.addVal_prime_eq_totient_nsmul"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/DiscreteValuationField/ValuationPreservingContinuous.lean": {
+    "checkedAt": "2026-11-27T13:45:52.874Z",
+    "collisions": [
+      "ValuationTheory.DiscreteValuationField.Valuation.continuous_ringEquiv_of_preserves"
+    ]
+  },
+  "Nyll/ValuedFieldTheory/Valuation/ResidueAlgebraicClosedness.lean": {
+    "checkedAt": "2026-11-27T13:45:53.157Z",
+    "collisions": [
+      "ValuationSubring.isAlgClosed_residueField"
+    ]
   }
 }
