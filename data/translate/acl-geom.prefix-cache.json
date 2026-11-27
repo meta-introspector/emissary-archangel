@@ -348,5 +348,107 @@
     "collisions": [
       "AclGeom.racl"
     ]
+  },
+  "AclGeom/Correspondence/ReducedSubscheme.lean": {
+    "checkedAt": "2026-11-27T07:43:56.609Z",
+    "collisions": [
+      "AclGeom.ker_eq_vanishingIdeal_of_isReduced",
+      "AclGeom.isReduced_subscheme_vanishingIdeal"
+    ]
+  },
+  "AclGeom/Correspondence/SmoothCurveStalkBase.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-27T08:53:37.609Z"
+  },
+  "AclGeom/Counterexamples/BlueprintTransport.lean": {
+    "checkedAt": "2026-11-27T09:01:01.554Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/CompositionIdentity.lean": {
+    "checkedAt": "2026-11-27T04:34:08.002Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/ConfigurationInput.lean": {
+    "checkedAt": "2026-11-27T05:16:46.582Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/JAssembly.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-27T06:25:35.695Z"
+  },
+  "AclGeom/Config/Language.lean": {
+    "checkedAt": "2026-11-27T06:25:40.804Z",
+    "collisions": [
+      "AclGeom.racl",
+      "AclGeom.MemCl"
+    ]
+  },
+  "AclGeom/Config/PsiNonfaithfulObstruction.lean": {
+    "checkedAt": "2026-11-27T06:26:41.745Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/AdditiveGroupScheme.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-27T06:28:09.990Z"
+  },
+  "AclGeom/Correspondence/AdditiveSubgroupConnected.lean": {
+    "checkedAt": "2026-11-27T06:30:13.684Z",
+    "collisions": [
+      "AclGeom.isPrime_vanishingIdeal_of_connected"
+    ]
+  },
+  "AclGeom/Correspondence/AffinePurelyInseparable.lean": {
+    "checkedAt": "2026-11-27T07:09:39.437Z",
+    "collisions": [
+      "AclGeom.FiniteGaCover.isPurelyInseparable_of_universallyInjective"
+    ]
+  },
+  "AclGeom/Correspondence/BirationalMorphism.lean": {
+    "checkedAt": "2026-11-27T07:09:48.186Z",
+    "collisions": [
+      "AlgebraicGeometry.Scheme.map_genericPoint_of_isDominant",
+      "AclGeom.BirationalGluing.dense_iInf_opens"
+    ]
+  },
+  "AclGeom/Correspondence/CompositionAssociativity.lean": {
+    "checkedAt": "2026-11-27T07:14:45.617Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/CurveBoundaryTopology.lean": {
+    "checkedAt": "2026-11-27T07:15:49.011Z",
+    "collisions": [
+      "AclGeom.CurvePointsPlaces.isClosed_singleton_iff_isMin",
+      "AclGeom.CurveBoundary.constant_of_finite_closed_range"
+    ]
+  },
+  "AclGeom/Correspondence/Family.lean": {
+    "checkedAt": "2026-11-27T07:51:15.262Z",
+    "collisions": [
+      "AclGeom.idealOf",
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/FiniteExtensionChart.lean": {
+    "checkedAt": "2026-11-27T08:03:16.172Z",
+    "collisions": [
+      "AclGeom.FiniteExtensionChart.generators"
+    ]
+  },
+  "AclGeom/Correspondence/FiniteExtensionCompositum.lean": {
+    "checkedAt": "2026-11-27T09:40:17.356Z",
+    "collisions": [
+      "AclGeom.FiniteCover.ExtensionEquiv",
+      "AclGeom.racl"
+    ]
   }
 }
