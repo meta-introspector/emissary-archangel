@@ -450,5 +450,45 @@
       "AclGeom.FiniteCover.ExtensionEquiv",
       "AclGeom.racl"
     ]
+  },
+  "AclGeom/Correspondence/Moebius.lean": {
+    "checkedAt": "2026-11-27T18:55:08.595Z",
+    "collisions": [
+      "AclGeom.finsupp_fin_two_eq",
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/Multiplicative.lean": {
+    "checkedAt": "2026-11-27T18:57:31.370Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/MultiplierCurve.lean": {
+    "checkedAt": "2026-11-27T19:01:45.051Z",
+    "collisions": [
+      "AclGeom.idealOf",
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/NormalCurveStalks.lean": {
+    "checkedAt": "2026-11-27T19:02:04.350Z",
+    "collisions": [
+      "AclGeom.ProperCurve.stalk_valuationRing"
+    ]
+  },
+  "AclGeom/Correspondence/PointwiseFaithfulness.lean": {
+    "checkedAt": "2026-11-27T19:02:04.763Z",
+    "collisions": [
+      "AclGeom.isNilpotent_of_forall_algHom_eq_zero",
+      "AclGeom.transcendental_one_tmul"
+    ]
+  },
+  "AclGeom/Correspondence/Regular.lean": {
+    "checkedAt": "2026-11-27T19:02:06.379Z",
+    "collisions": [
+      "AclGeom.tensorProduct_map_val_injective",
+      "AclGeom.RegularAux.algebraMap_eq"
+    ]
   }
 }
