@@ -202,5 +202,151 @@
     "collisions": [
       "AclGeom.eq_pow_of_forall_dvd_choose"
     ]
+  },
+  "AclGeom/Config/Correctness.lean": {
+    "checkedAt": "2026-11-26T23:21:20.099Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Config/ParameterField.lean": {
+    "checkedAt": "2026-11-26T23:34:56.635Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/AddPolynomial.lean": {
+    "checkedAt": "2026-11-26T23:37:32.237Z",
+    "collisions": [
+      "AclGeom.eq_pow_of_forall_dvd_choose",
+      "AclGeom.IsAdditive"
+    ]
+  },
+  "AclGeom/Correspondence/AdditiveOrbitCover.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-26T23:40:44.167Z"
+  },
+  "AclGeom/Correspondence/AdditiveSubgroup.lean": {
+    "checkedAt": "2026-11-26T23:40:51.784Z",
+    "collisions": [
+      "AclGeom.idealOf_ne_bot_of_mem_racl",
+      "AclGeom.adjoinTranscendentalAlgHom"
+    ]
+  },
+  "AclGeom/Correspondence/AffineAction.lean": {
+    "checkedAt": "2026-11-26T23:45:00.958Z",
+    "collisions": [
+      "AclGeom.AffineTransformation"
+    ]
+  },
+  "AclGeom/Correspondence/AffineGroupScheme.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-27T00:01:07.926Z"
+  },
+  "AclGeom/Correspondence/BaseChange.lean": {
+    "checkedAt": "2026-11-27T00:01:08.332Z",
+    "collisions": [
+      "AclGeom.exists_map_eq_of_eval₂_eq_zero",
+      "AclGeom.mem_range_algebraMap_of_isAlgebraic",
+      "AclGeom.coordPoly",
+      "AclGeom.idealOf",
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/ClosedCurveDimension.lean": {
+    "checkedAt": "2026-11-27T00:01:27.089Z",
+    "collisions": [
+      "AclGeom.surjective_of_isClosedEmbedding_of_finite_topologicalKrullDim"
+    ]
+  },
+  "AclGeom/Correspondence/CompositionTriangleExtension.lean": {
+    "checkedAt": "2026-11-27T00:15:58.310Z",
+    "collisions": [
+      "AclGeom.FieldEquiv.conjugate"
+    ]
+  },
+  "AclGeom/Correspondence/CurveCompletion/IntegralLift.lean": {
+    "checkedAt": "2026-11-27T00:22:15.309Z",
+    "collisions": [
+      "AclGeom.CurveCompletion.existsUnique_integral_lift"
+    ]
+  },
+  "AclGeom/Correspondence/CurveCompletion/InverseOverlap.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-27T00:23:23.440Z"
+  },
+  "AclGeom/Correspondence/CurveCompletion/ValuativeUniqueness.lean": {
+    "checkedAt": "2026-11-27T00:35:16.173Z",
+    "collisions": [
+      "AclGeom.WeilGluing.commonOverlapGlueData'"
+    ]
+  },
+  "AclGeom/Correspondence/CurveEquation.lean": {
+    "checkedAt": "2026-11-27T01:17:50.593Z",
+    "collisions": [
+      "AclGeom.racl",
+      "AclGeom.FiniteCorrespondencePair.curveEquation"
+    ]
+  },
+  "AclGeom/Correspondence/CurveFunctionFieldAlgebra.lean": {
+    "checkedAt": "2026-11-27T01:21:27.468Z",
+    "collisions": [
+      "AclGeom.valuation_algebraMap_eq_one"
+    ]
+  },
+  "AclGeom/Correspondence/FamilyCover.lean": {
+    "checkedAt": "2026-11-27T01:38:40.832Z",
+    "collisions": [
+      "AclGeom.idealOf",
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/FieldEquivDiagram.lean": {
+    "checkedAt": "2026-11-27T02:03:16.485Z",
+    "collisions": [
+      "AclGeom.FieldEquiv.conjugate"
+    ]
+  },
+  "AclGeom/Correspondence/FiniteCurveLoci.lean": {
+    "checkedAt": "2026-11-27T02:03:40.796Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/FiniteNormalTransport.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-27T02:52:54.902Z"
+  },
+  "AclGeom/Correspondence/JRigidity.lean": {
+    "checkedAt": "2026-11-27T03:25:37.031Z",
+    "collisions": [
+      "AclGeom.idealOf",
+      "AclGeom.racl",
+      "AclGeom.eq_pow_of_forall_dvd_choose"
+    ]
+  },
+  "AclGeom/Correspondence/LocusEndDominance.lean": {
+    "checkedAt": "2026-11-27T03:34:57.907Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/LocusIncomparability.lean": {
+    "checkedAt": "2026-11-27T03:36:02.129Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/MultiplicativeQuotient.lean": {
+    "checkedAt": "2026-11-27T03:36:11.224Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Correspondence/PartialQuadrangle.lean": {
+    "checkedAt": "2026-11-27T03:42:48.494Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
   }
 }
