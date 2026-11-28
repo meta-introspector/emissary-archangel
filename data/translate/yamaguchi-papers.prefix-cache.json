@@ -6668,5 +6668,37 @@
     "collisions": [
       "ValuationSubring.isAlgClosed_residueField"
     ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/Concrete/ResidueZeroUnramifiedFaithfulness.lean": {
+    "checkedAt": "2026-11-28T02:17:35.817Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/RelativeAbelianModPowerAction.lean": {
+    "checkedAt": "2026-11-28T02:22:49.517Z",
+    "collisions": [
+      "KummerTheory.semilinear_symm_algebraMap",
+      "ProCGroups.QuotientGroup.comap_eq_of_map_eq_of_ker_le"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/ResidueZeroFaithfulness.lean": {
+    "checkedAt": "2026-11-28T02:25:45.866Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Kummer/ResidueZeroFiniteRoots.lean": {
+    "checkedAt": "2026-11-28T02:29:31.875Z",
+    "collisions": [
+      "ValuationTheory.ValuationSubring.charP",
+      "ProCGroups.openSubgroup_isOpen"
+    ]
+  },
+  "Nyll/Yamaguchi26AbfaithfulGalois/Theorem6Dot6AbsoluteCenter.lean": {
+    "checkedAt": "2026-11-28T02:52:05.916Z",
+    "collisions": [
+      "ProCGroups.GroupClass"
+    ]
   }
 }
