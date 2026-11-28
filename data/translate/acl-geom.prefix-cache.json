@@ -490,5 +490,113 @@
       "AclGeom.tensorProduct_map_val_injective",
       "AclGeom.RegularAux.algebraMap_eq"
     ]
+  },
+  "AclGeom/Curves/CoefficientConnection.lean": {
+    "checkedAt": "2026-11-28T06:01:14.483Z",
+    "collisions": [
+      "Derivation.extendOfFormallyEtale"
+    ]
+  },
+  "AclGeom/Curves/Divisors.lean": {
+    "checkedAt": "2026-11-28T06:01:17.721Z",
+    "collisions": [
+      "AclGeom.valuation_algebraMap_eq_one",
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Curves/GenusZeroOfDerivations.lean": {
+    "checkedAt": "2026-11-28T06:07:00.072Z",
+    "collisions": [
+      "AclGeom.valuation_algebraMap_eq_one",
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Curves/InfinitesimalAutomorphisms.lean": {
+    "checkedAt": "2026-11-28T06:17:25.978Z",
+    "collisions": [
+      "AclGeom.InfinitesimalAutomorphism",
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Functorial/FrobeniusQuotient.lean": {
+    "checkedAt": "2026-11-28T06:20:42.848Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Geometry/FiniteRank.lean": {
+    "checkedAt": "2026-11-28T06:28:31.896Z",
+    "collisions": [
+      "AclGeom.racl",
+      "AclGeom.PointIndep"
+    ]
+  },
+  "AclGeom/Geometry/Points.lean": {
+    "checkedAt": "2026-11-28T06:29:19.996Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Interpretation/FrobClass.lean": {
+    "checkedAt": "2026-11-28T06:29:40.747Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Interpretation/JArithTransport.lean": {
+    "checkedAt": "2026-11-28T06:44:33.291Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Interpretation/TotalTransport.lean": {
+    "checkedAt": "2026-11-28T06:45:55.711Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "AclGeom/Tate/FinitePotent.lean": {
+    "checkedAt": "2026-11-28T06:46:37.980Z",
+    "collisions": [
+      "AclGeom.IsFinitePotent"
+    ]
+  },
+  "AclGeom/Transfer/JRigidityStatement.lean": {
+    "checkedAt": "2026-11-28T06:49:26.128Z",
+    "collisions": [
+      "AclGeom.racl"
+    ]
+  },
+  "GroupConfig/Automorphisms.lean": {
+    "checkedAt": "2026-11-28T06:51:28.622Z",
+    "collisions": [
+      "GroupConfig.rkMatroid"
+    ]
+  },
+  "GroupConfig/CanonicalBaseCapture.lean": {
+    "checkedAt": "2026-11-28T06:51:49.931Z",
+    "collisions": [
+      "GroupConfig.rkMatroid"
+    ]
+  },
+  "GroupConfig/Constructible/Admissible.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-28T06:55:10.290Z"
+  },
+  "GroupConfig/Constructible/SLAffineMultiplier.lean": {
+    "checkedAt": "2026-11-28T08:25:21.018Z",
+    "collisions": [
+      "GroupConfig.rkMatroid"
+    ]
+  },
+  "GroupConfig/Germ/BaseChange.lean": {
+    "status": "broken",
+    "checkedAt": "2026-11-28T08:55:50.057Z"
+  },
+  "GroupConfig/Germ/BaseChangeArbitrary.lean": {
+    "checkedAt": "2026-11-28T08:56:44.831Z",
+    "collisions": [
+      "GroupConfig.rkMatroid"
+    ]
   }
 }
